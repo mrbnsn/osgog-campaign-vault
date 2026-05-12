@@ -21,8 +21,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Link vault to Quartz content
-        run: ln -s $GITHUB_WORKSPACE/vault $GITHUB_WORKSPACE/quartz/content
+      - name: Copy vault to Quartz content
+        run: cp -r $GITHUB_WORKSPACE/vault $GITHUB_WORKSPACE/quartz/content
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -51,4 +51,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
