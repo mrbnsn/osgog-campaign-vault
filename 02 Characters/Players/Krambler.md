@@ -1,0 +1,40 @@
+---
+title: "Krambler"
+type: character
+tags:
+  - "character"
+  - "player-character"
+  - "party/krambler"
+aliases:
+  - "Krambler"
+last_edited: 2024-05-24
+contributors:
+  - "SilasWoodhenge18"
+---
+
+1. Early life and connection to [[The Abbot|the Abbott]] and his daughter
+Krambler grew up as a child on his parents' valley farm.  His father was a capable blacksmith, who moved from [[Monsoth]] after his apprenticeship ended because has always wanted land and a farm of his own.  He mostly farmed, but had a forge and worked iron for the village of [[Kel]] when people needed him to.  Krambler's was a hard life with lots of chores.  He loved his family, but would sneak away when able, and walk up through the forest, climbing cliffs and mountains.  While he got into trouble for this, he found it worth it, and his parents grudgingly tolerated it.  He had a younger sister who often wanted to go, but he did not let her.
+
+One day when he was, say twelve-ish, he was hiking/climbing, and came upon an old man, walking with a younger woman with black hair.  You fell in love with her at first sight.  The old man asked Krambler his name, and wanted to know what he was up to.  After that, Krambler got his parents to let him run errands into Kel as often as possible, and he would find ways of going to the monastery, and meet with the Abbott, while trying to catch a glimpse of his daughter.  [[The Abbot|Bryok]] seemed to take to Krambler - so far as he can remember - and often showed him things, and made him move slowly, and feel and sense his surroundings.  He taught Krambler to feel the natural world flow through his body.
+
+Krambler's father had every intention of Krambler taking over the farm and his work.  He began teaching Krambler the use of blacksmithing tools, and the young man is passable at shoeing horses, and making simple iron elements.  He's made basic blades, and farm implements.  But his father's increased attention meant that Krambler couldn't spend time in the mountains or at the monastery, and after a few years, Krambler ran away (say, age sixteen).  When he arrived at the Monastery, the Abbott said that he could certainly stay, but that he could not lie to Krambler's parents if they asked if he were there.  The next morning Krambler was gone, having left for Monsoth.
+
+   1. City life and conflict with the priests of [[Mons]]
+When you arrived in the city, the sheer size of it filled you with awe.  You had never known that so many people could exist.  After a few nights sleeping wherever you could, you found your way to a temple to Mons, and were given food and shelter.  At first the priests talked about how you were touched by Mons in your ability to make and create.  You chose to stay and help them in exchange for food and shelter.  Soon, though, their teachings began to contradict what the Abbott had taught you: they felt that the world needed to be controlled through the work of humans, while you had been taught to embrace the chaotic elements of nature as a mirror to parts of yourself. 
+
+   1. Life at sea and crew initiation
+As the life of the temple became more and more strict and proscribed, you left, signing on as a deckhand on a schooner that traded up and down the coastline.  One of your fellow deck-hands had been part of Monsoth's militia, and taught you how to fight so that if you were attacked by pirates - which was rare, but not unheard of - you could be of help.
+
+Given your experience climbing rocks and mountains - as well as your fearlessness around heights - you were a whizz in the rigging, and your captain highly valued you as a shipmate.  After two years working up and down the coasts, the crew told you that it was time for your initiation, and they sailed out to the volcanic islands off the coast.  There, you were told to summit the peak of Loskvenydh - the tallest peak in the islands.  They told you that you must leave at sunset, and summit by sunrise, and that you had to go alone.  They gave you a small, heavy parcel with food in it, which they said was your breakfast.
+
+You climbed through the night, and arrived as the sky began lightening in the east.  You waited at the highest point of the caldera's rim, and when the sun rose, you opened your breakfast only to find that inside the parcel was a stone from the beach which has been rounded and smoothed by the waves from the storms on the sea.  You watched sunrise, and decided to head down, taking the stone - which you’ve kept as a talisman of the memory of this journey - with you.  You arrive back at the shore at sunset, having not eaten anything for a full twenty four hours, but your shipmates have created a large fire, and are roasting a boar which they caught (they are not scarce on the island).  You eat and drink and celebrate together, though as the night wears on, you find their eyes watching you, and you suddenly realize that - more than drunk - you think you may have been drugged with some sort of hallucinogen.  You are suddenly aware that they are leading you down a path in the woods, where there is a hut of some sort, and an old woman is standing outside in the torchlight.  They bring you inside, and strip off your shirt, laying you down on a cot.  You're turned face down, and the woman begins tattooing your back, while singing in a strange voice words that you do not understand.  At some point, you fall sleep.
+
+When you awake, the woman is sitting silently in a corner of the hut, drowsing, and it's light outside.  She says to you "you were a difficult one, but I see things moving within you, and I think I've made the right choice."  You stumble down to the beach, and your shipmates greet you again.  They all look a little bit the worse for wear.  Your back and shoulders and upper arms are sore from the tattooing process, which has created a series of naturalistic whorls that you can choose to conceal beneath a shirt if you so choose.  You realize that you've passed your initiation process, and that you now know where the rest of these sailors got their tattoos.  Still, your's is coherent in a way that many of theirs aren't, and as the scars heal you - and those you choose to show them to - see in the tattoos moving currents of earth, air, fire, and water as your skin moves over your muscles.
+
+   1. Return to Kel
+You continue with the crew for a few more years, but on a stop in Monsoth, you hear about minor trouble in the valley of Kel, and decide it's time to return.  You figure you'll go, say hello, and come back to the ship.  You are reunited with your family, who don't know quite what to do with you (you've been gone for five years, or so).  You go to [[Tawesek]], and find out that the Abbott's daughter has married.  On impulse, you give the stone you've carried with you since the initiation ceremony to the Abbott.  (When you find the smith's hammer in the Abbott's alcove in the cliff, you realize that the head of the hammer is in fact this stone, with a handle made from a tree that has grasped the stone in its roots.)
+
+The Abbott asks you to go back to Monsoth, and listen for any news of anyone from across the sea searching for the black stream.  He says that - given your contacts in the maritime community - this is a good task for you, and an easy favor.  When you make it to the Inn, and hear about [[Balthazar]] and [[Storr]], you are intrigued, wondering if perhaps they are whom the Abbott meant.
+
+   1. Dream from Tawesek
+So you dream that the smith sends you on a mission in your sleep - you are aware that you are dreaming - and you walk for miles across the high plateau in blinding star and moonlight.  You come upon a small cold lake, surrounded by stones, where you collect reflected star and moonlight.  On your way back, you capture the sound of the wind in your cloak, all of which you bring back to the smith, and - using your hammer - he pounds them into Mannix' helm.

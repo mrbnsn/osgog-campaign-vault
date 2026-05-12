@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "e2a9fef8df3ccaeb",
+    "type": "split",
+    "children": [
+      {
+        "id": "990413b1bf81887b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3772b34346b91e47",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b0218c8c7ec3e909",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a0776aa6c1ae7c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9edce9f7649102d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0b71c246a10d8ae7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "85d1ab611145226e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "96f80647bd5f2237",
+    "type": "split",
+    "children": [
+      {
+        "id": "f32418bbb12c7b82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a121735491339ee6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "4902c67a2a9d147a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "8d951bbe60ec433e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "948129494ac2dc4f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "360b4f0a6c2b0883",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "3772b34346b91e47",
+  "lastOpenFiles": [
+    "New Text Document.txt",
+    "02 Characters/NPCs/Mog.md",
+    "02 Characters/NPCs/Gorgomog.md",
+    "04 Lore/The Black Water.md",
+    "Carantock.md",
+    "02 Characters/NPCs/The Oracle.md",
+    "01 Sessions/2023/2023-11-30 The one where we follow the badger and meet the oracle.md",
+    "02 Characters/Players/Balthazar.md",
+    "02 Characters/NPCs/Doldhelan.md",
+    "08 Campaign Meta/Big Overarching Questions.md",
+    "08 Campaign Meta/Fellowship Rating.md",
+    "08 Campaign Meta/Journeying.md",
+    "08 Campaign Meta/Patrons.md",
+    "08 Campaign Meta/New Skills.md",
+    "00 Hub/Tags.md.tmp.13604.ce57efc4135c",
+    "00 Hub/Tags.md.tmp.13604.c66e8cfdee5e",
+    "00 Hub/Tags.md.tmp.13604.b3480ffb1da2",
+    "02 Characters/NPCs/Myrthn.md",
+    "07 Stories & Writing/Songs.md",
+    "05 Battles/The Fire Knights (Battle).md",
+    "05 Battles/Battles.md",
+    "02 Characters/NPCs/Broggy.md",
+    "Song.md",
+    "01 Sessions/2024/2024-11-14 The One Where We Encounter Two Distinct and Diametric Sets of Voices.md",
+    "2023-09-04 The One Where There Weren't Enough of Us to Make a Decision.md",
+    "Untitled.canvas",
+    "05 Battles/Mons and the God of Death.md",
+    "04 Lore/God of Death.md",
+    "Waterfall City.md",
+    "03 Locations/The Trilithon.md",
+    "00 Hub/Player Characters.md.tmp.13604.77d011712815",
+    "_attachments/River path to the lake.png",
+    "_attachments/Tewlder's Drawing 1.png",
+    "01 Sessions/2025/2025-12-11 The One Where We Get Our Questions Answered.md.tmp.13604.e14c39ad9a21",
+    "_attachments/What are YOU doing here.jpg",
+    "_attachments/Waterfall City.png",
+    "_attachments/Under the Waterfall.jpg",
+    "_attachments/The_Fortress_Taymar_with_the_party_in_the_greenspace_of_Lord_Black_Willem_and_Lady_Fiona..png",
+    "_attachments/The stones and the notes each resonate.png",
+    "_attachments/The purple elements aligned.png",
+    "_attachments/The party journeys south from Trevas.png",
+    "_attachments/The lagoon.png",
+    "10/9",
+    "10",
+    "12/19",
+    "12"
+  ]
+}
