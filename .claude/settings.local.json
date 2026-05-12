@@ -53,7 +53,8 @@
       "Bash(python scan_yaml.py)",
       "Bash(python fix_frontmatter.py --dry-run)",
       "Bash(python fix_frontmatter.py)",
-      "Bash(python fix_alias_quotes.py)"
+      "Bash(python fix_alias_quotes.py)",
+      "Bash(powershell -Command \"Get-Item d:/osgog/quartz/content | Select-Object -ExpandProperty LinkType; \\(Get-Item d:/osgog/quartz/content\\).Target\")"
     ]
   }
 }
