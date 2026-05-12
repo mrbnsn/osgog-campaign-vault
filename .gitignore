@@ -1,7 +1,35 @@
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/plugins/
-.obsidian/app.json
-.obsidian/appearance.json
-_attachments/Thumbs.db
+# ======================
+# Obsidian / Vault
+# ======================
+vault/.obsidian/workspace.json
+vault/.obsidian/workspace-mobile.json
+vault/.obsidian/app.json
+vault/.obsidian/appearance.json
+vault/.obsidian/plugins/*
+vault/.obsidian/*
+!vault/.obsidian/*.json
+
+# Temporary / OS files
 *.tmp
+Thumbs.db
+.DS_Store
+*.log
+
+# ======================
+# Quartz Build Output
+# ======================
+quartz/public/
+quartz/.quartz-cache/
+
+# Quartz internal docs (these cause massive slowdowns and recursion)
+quartz/quartz/docs/
+content/quartz/docs/
+
+# Node modules
+quartz/node_modules/
+
+# ======================
+# General
+# ======================
+*.bak
+*.backup

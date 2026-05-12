@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "e2a9fef8df3ccaeb",
+    "type": "split",
+    "children": [
+      {
+        "id": "990413b1bf81887b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3772b34346b91e47",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b0218c8c7ec3e909",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a0776aa6c1ae7c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9edce9f7649102d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0b71c246a10d8ae7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "85d1ab611145226e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "96f80647bd5f2237",
+    "type": "split",
+    "children": [
+      {
+        "id": "f32418bbb12c7b82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a121735491339ee6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "4902c67a2a9d147a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "8d951bbe60ec433e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "948129494ac2dc4f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "360b4f0a6c2b0883",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "3772b34346b91e47",
+  "lastOpenFiles": [
+    "02 Characters/Players/Balthazar.md",
+    "quartz/tsconfig.json",
+    "quartz/quartz/static/giscus/light.css",
+    "quartz/quartz/static/giscus/dark.css",
+    "quartz/quartz/plugins/transformers/toc.ts",
+    "quartz/quartz/plugins/transformers/syntax.ts",
+    "quartz/quartz/plugins/transformers/roam.ts",
+    "quartz/quartz/plugins/transformers/oxhugofm.ts",
+    "quartz/quartz/plugins/transformers/ofm.ts",
+    "quartz/quartz/plugins/transformers/links.ts",
+    "quartz/quartz/plugins/transformers/linebreaks.ts",
+    "quartz/quartz/static/og-image.png",
+    "quartz/quartz/static/icon.png",
+    "quartz/docs/tags/plugin.md",
+    "quartz/docs/tags/component.md",
+    "quartz/docs/plugins/TagPage.md",
+    "quartz/docs/plugins/TableOfContents.md",
+    "quartz/docs/plugins/SyntaxHighlighting.md",
+    "quartz/docs/plugins/Static.md",
+    "quartz/docs/plugins/RoamFlavoredMarkdown.md",
+    "quartz/docs/plugins/RemoveDrafts.md",
+    "quartz/docs/plugins/OxHugoFlavoredMarkdown.md",
+    "quartz/docs/plugins/ObsidianFlavoredMarkdown.md",
+    "quartz/docs/plugins/NotFoundPage.md",
+    "quartz/docs/plugins/Latex.md",
+    "quartz/docs/plugins/index.md",
+    "quartz/docs/plugins/HardLineBreaks.md",
+    "quartz/docs/plugins/GitHubFlavoredMarkdown.md",
+    "quartz/docs/plugins/Frontmatter.md",
+    "quartz/docs/plugins/FolderPage.md",
+    "quartz/docs/plugins/Favicon.md",
+    "quartz/docs/plugins/ExplicitPublish.md",
+    "quartz/docs/plugins/Description.md",
+    "quartz/docs/plugins/CustomOgImages.md",
+    "quartz/docs/plugins/CreatedModifiedDate.md",
+    "quartz/docs/plugins/CrawlLinks.md",
+    "quartz/docs/plugins/ContentPage.md",
+    "quartz/docs/plugins/ContentIndex.md",
+    "quartz/docs/images/social-image-preview-light.png",
+    "quartz/docs/images/social-image-preview-dark.png",
+    "quartz/docs/images/quartz-layout-tablet.png",
+    "quartz/docs/images/quartz-layout-mobile.png",
+    "quartz/docs/images/quartz-layout-desktop.png",
+    "quartz/docs/images/quartz transform pipeline.png",
+    "quartz/docs/images/github-quick-setup.png",
+    "quartz/docs/images/github-init-repo-options.png",
+    "Untitled.canvas"
+  ]
+}
