@@ -21,6 +21,9 @@ Thumbs.db
 quartz/public/
 quartz/.quartz-cache/
 
+# quartz/content is a junction to vault/ — handled by CI symlink step
+quartz/content/
+
 # Quartz internal docs (these cause massive slowdowns and recursion)
 quartz/quartz/docs/
 content/quartz/docs/
