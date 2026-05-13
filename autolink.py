@@ -147,6 +147,11 @@ def link_segment(segment: str,
         if name in self_names or name in linked:
             continue
 
+        # If this canonical is already linked anywhere in this segment, don't add another.
+        if re.search(r'\[\[' + re.escape(canonical) + r'(?:\||\]\])', segment, re.IGNORECASE):
+            linked.add(name)
+            continue
+
         pat = re.compile(
             r"(?<!" + _NOT_LETTER + r")"       # not preceded by letter
             + re.escape(name)
