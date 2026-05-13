@@ -13,7 +13,7 @@ from datetime import datetime
 
 # ─── Paths ────────────────────────────────────────────────────────────────────
 XML_FILE   = Path("d:/osgog/black-lake-osgog-wiki-dump.xml")
-VAULT_ROOT = Path("d:/osgog/The Black Lake of Osgog")
+VAULT_ROOT = Path("d:/osgog/vault")
 
 # ─── Folder structure ─────────────────────────────────────────────────────────
 FOLDERS = [
