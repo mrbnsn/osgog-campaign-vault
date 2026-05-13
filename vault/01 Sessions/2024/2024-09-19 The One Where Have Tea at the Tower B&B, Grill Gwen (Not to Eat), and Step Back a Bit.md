@@ -74,17 +74,17 @@ S: What’s your relationship?
 
 G: I’m the housekeeper. I take care of things, he researches. I try to give the girls a good upbringing.
 
-Silas: Are the girls happy here?
+[[Silas]]: Are the girls happy here?
 
 G: I think so. I try to get them to be.
 
-Storr: Before you were housekeeper, what did you do?
+[[Storr]]: Before you were housekeeper, what did you do?
 
 G: I can’t remember that far back
 
 S: Have you traveled beyond this place?
 
-GL: What do you mean? I’ve traveled out into Nyth, made it out to the cave that once.
+GL: What do you mean? I’ve traveled out into [[Nyth]], made it out to the cave that once.
 
 S: No further than the cave?
 
@@ -177,9 +177,9 @@ Guiding questions from our DM: We have some good world building hypotheses, but 
 
 - Hopps thought: Seems to be a supernatural being
 - [[Kelynnen]] nuggets: B asked her about [[Osgog]]. Her response: he's a mystery but he took after his mother (a compliment, O’s mother is [[Doldhelan]], whom K is aligned with)
-- Is [[The Abbot|Bryok]] a sibling of Osgog? (never answered) Hopps thought: he is.
+- Is [[The Abbot|Bryok]] a sibling of [[Osgog]]? (never answered) Hopps thought: he is.
 - She called him “shining prince”, a translation of his name. Why? Because he was inline to the throne, but he had made another choice.
-- Hopps thought: Bryok could have been [[The God King]] after [[Mons]]
+- Hopps thought: [[Bryok]] could have been [[The God King]] after [[Mons]]
 - What is Bryok’s intention with us as a party then? ***- How do his actions affect your answer to these last three questions? NB***
 
       1. People/ideas we've encountered
@@ -190,13 +190,13 @@ Big mysteries that seem very related but have no real information about:
 
 Does Bryok not want there to be a god king?
 
-Does the [[Sun King]] want to be the god king?   ***- These last two seem like big questions.  NB***
+Does the [[Sun King]] want to be [[The God King]]?   ***- These last two seem like big questions.  NB***
 
 These are opposing motivations. Have we seen anything related to those motivations?
 
 [[The Black Water|The black water]]:
 
-- The [[The Black Lake of Osgog|lake]] is the source of the black water
+- The [[The Black Lake of Osgog|lake]] is the source of [[The Black Water]]
 - There may be spring beneath the lake
 - We’ve heard both of these narratives around the black water: 
 
@@ -214,7 +214,7 @@ Choice and the dead
 - Dm not sure what else we’ve heard about the dead
 - [[Branwen#A_Vision_From_the_Raven_Queen|Branwen’s “A Vision From the Raven Queen”]] - ***I did a really good job with this. NB***
 
-The DM defends Mons:
+The DM defends [[Mons]]:
 
 - I’ve been microaggressing against mons
 - Lots of people don’t hate him in and around [[Monsoth]]
@@ -224,12 +224,12 @@ The DM defends Mons:
 [[Mali]]
 
 - She wasn't there to bring Balz back, she was looking for the black water
-- What was her intent with [[Balthazar]] then?   ***- How much do you remember about her words?  What does Balthazar remember about his relationship with her?  NB***
+- What was her intent with [[Balthazar]] then?   ***- How much do you remember about her words?  What does [[Balthazar]] remember about his relationship with her?  NB***
 
       1. Our current position and questions
 We believe we’ve been sent here by our Abbot. Who is our opposition? What role could coming to this place play?
 
-Why would the Sun King be so interested in the black water? He wants to be a god king?  ***-The fact that you've repeated this about twenty times is telling. NB***
+Why would the [[Sun King]] be so interested in the black water? He wants to be a god king?  ***-The fact that you've repeated this about twenty times is telling. NB***
 
 The lake has been described as a prison, the black water has been described as an evil leaking out of it.
 
@@ -249,7 +249,7 @@ Something was released in [[Mons and the God of Death]]. (A beast) There were fo
 Is the hammer the scepter?
 
 - The stone was found on a beach
-- [[Krambler]] gave the rock to the Abbot, later K found the hammer in the A’s enclave with a branch grasping the stone (there’s a drawing). ***------------->***
+- [[Krambler]] gave the rock to [[The Abbot]], later K found the hammer in the A’s enclave with a branch grasping the stone (there’s a drawing). ***------------->***
 - K keeps having dreams of roots in the earth grasping for things ***- What things? NB***
 - K had a dream in the Abbot’s cottage (“one of the great hammers”)
 - In Gorydth (the alpine bog) he showed the hammer to one of the stones (not the three) and the eyes blazed with desire

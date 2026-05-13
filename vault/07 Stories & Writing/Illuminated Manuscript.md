@@ -3,8 +3,6 @@ title: "Illuminated Manuscript"
 type: writing
 tags:
   - "writing"
-  - "red-blade"
-  - "weaving"
 aliases:
   - "Illuminated Manuscript"
 last_edited: 2026-03-06
@@ -34,7 +32,7 @@ Krambler may have heard the stories told at [[Tawesek]] in ways slightly differe
 | Mons' followers |  |  |
 | Silas' druidfolk |  |  |
 | Bear people |  |  |
-| [[The Abbot|The Abbott]] and Tawesek |  |  |
+| [[The Abbott]] and Tawesek |  |  |
 | Gorg and Gwa(e)nethen village |  |  |
 | The sisterhood ([[Kelynnen|Kelynnen,]] Gwen at the tower, [[Seren]]) |  |  |
 | Caer [[Osgog]] |  |  |

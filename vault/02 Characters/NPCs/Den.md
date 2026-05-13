@@ -11,4 +11,4 @@ contributors:
   - "SilasWoodhenge18"
 ---
 
-A guard at [[Tawesek]] who took us up to see [[The Abbot|the Abbott]]
+A guard at [[Tawesek]] who took us up to see [[The Abbott]]

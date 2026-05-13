@@ -6,7 +6,6 @@ tags:
   - "npc"
 aliases:
   - "Bremphyr"
-  - "Bremfyr"
 last_edited: 2026-05-10
 contributors:
   - "Nblauss"

@@ -3,10 +3,6 @@ title: "The Story So Far (Boyz Bop 2022 to The Abbott's Hut)"
 type: meta
 tags:
   - "meta"
-  - "bear-born"
-  - "arthyden"
-  - "gorg-gwen"
-  - "boatman"
 aliases:
   - "The Story So Far (Boyz Bop 2022 to The Abbott's Hut)"
 last_edited: 2023-12-29
@@ -14,13 +10,13 @@ contributors:
   - "SilasWoodhenge18"
 ---
 
-Night 1 (Late August): Six companions meet at a Tavern in the coastal city of [[Monsoth]], and discover that our paths lay in the same direction: **the monastery of [[Tawesek]]** in the mountains.  Some choose to sleep in the inn, others exit the city via the main gate in the dyke (all avoid the sacred grove), and 
+Night 1 (Late August): Six companions meet at a Tavern in the coastal city of [[Monsoth]], and discover that our paths lay in the same direction: **the monastery of [[Tawesek]]** in the mountains.  Some choose to sleep in the inn, others exit the city via the main gate in the dyke (all avoid the sacred grove), and 
 
-Day 1,2,3: …meet up on the road outside in the morning.  As we travel, we experience minor tremors, and fight a band of highway robbers. We spend a night in the robber’s cave, only to be trapped inside by an avalanche during an earthquake.  There is fire, tiny flames lit near the rear of the cave that were quickly snuffed out, and darkness, and flashing lights, like an explosion.  And a long, arduous dig to escape. We put [[Broggy]] to good use during the dig. As a reward, we allow him to carry a trunk to the monastery.
+Day 1,2,3: …meet up on the road outside in the morning.  As we travel, we experience minor tremors, and fight a band of highway robbers. We spend a night in the robber’s cave, only to be trapped inside by an avalanche during an earthquake.  There is fire, tiny flames lit near the rear of the cave that were quickly snuffed out, and darkness, and flashing lights, like an explosion.  And a long, arduous dig to escape. We put [[Broggy]] to good use during the dig. As a reward, we allow him to carry a trunk to the monastery.
 
-Day 4: Continuing on, we arrive in **[[Kel]] - the town at the base of the Mountain**, and below **Tawesek**. [[Krambler]] tells us that the town is not for the worshippers of [[Mons]].  He also remarks that **[[The Abbot]], named [[The Abbot|Bryok]]** is “obtuse but honest.”  We stay in **Krambler’s** family’s barn.
+Day 4: Continuing on, we arrive in **[[Kel]] - the town at the base of the Mountain**, and below **Tawesek**. [[Krambler]] tells us that the town is not for the worshippers of [[Mons]].  He also remarks that **[[The Abbot]], named [[Bryok]]** is “obtuse but honest.”  We stay in **Krambler’s** family’s barn.
 
-While walking about town, the adventurers  recognize **a guard named [[Den]]**. They also visit a shop in town and meet its **elderly purveyor [[Dama]]**.  As they leave, she says, “Happy to help.”
+While walking about town, the adventurers  recognize **a guard named [[Den]]**. They also visit a shop in town and meet its **elderly purveyor [[Dama]]**.  As they leave, she says, “Happy to help.”
 
 - Other random Dama notes that don’t make sense*
 
@@ -40,44 +36,44 @@ He tells us that **Tewdler** built the items in the chest we’ve been carrying.
 
 During our conversation with Bryok, he pulls aside some members of the party separately, [[Silas]] and [[Balthazar]]. During one conversation, Bryok sends away a weasel sneaking in the corners. The weasel leaves as if understanding.
 
-Back with the group, he tells us “a choice needs to be made” and asks for our help. After yesterday’s quake, someone came to the temple and reported seeing a town had appeared. It hadn’t existed three days ago.  Bryok says “it’s time for me to leave” to see this town and that Musk has a crudely drawn map. He mentions that an infant girl, one of the artisans’ daughters has gone missing (this having happened while we were in Kel.) There’s also mention of a stolen spear. 
+Back with the group, he tells us “a choice needs to be made” and asks for our help. After yesterday’s quake, someone came to the temple and reported seeing a town had appeared. It hadn’t existed three days ago.  Bryok says “it’s time for me to leave” to see this town and that Musk has a crudely drawn map. He mentions that an infant girl, one of the artisans’ daughters has gone missing (this having happened while we were in Kel.) There’s also mention of a stolen spear. 
 
-[[Cricket]] went snooping around the grounds in the middle of the night, hoping to find some answers or insight into the residents of this temple.  Abbot Bryok surprised Cricket during this time, and they had a conversation.  The Abbot thought Cricket could make something of himself, if he made the right choices, that the Abbot "sees something" in Cricket.  Abbot also requested that Cricket made sure that word of the upcoming expedition gets back to Tawesek.  Cricket had the feeling that the Abbot had unnaturally keen senses and abilities - folks don't usually get the drop on Cricket when he's being stealthy in the dark.  Cricket was also frustrated with the riddles and vagueness of the Abbot's responses.
+[[Cricket]] went snooping around the grounds in the middle of the night, hoping to find some answers or insight into the residents of this temple.  Abbot Bryok surprised Cricket during this time, and they had a conversation.  The Abbot thought Cricket could make something of himself, if he made the right choices, that the Abbot "sees something" in Cricket.  Abbot also requested that Cricket made sure that word of the upcoming expedition gets back to Tawesek.  Cricket had the feeling that the Abbot had unnaturally keen senses and abilities - folks don't usually get the drop on Cricket when he's being stealthy in the dark.  Cricket was also frustrated with the riddles and vagueness of the Abbot's responses.
 
-Before the adventurers depart the temple, the party hikes  to the peak. It’s a nice view.  Cricket felt a strong connection to the natural world while taking in the vast landscape.
+Before the adventurers depart the temple, the party hikes  to the peak. It’s a nice view.  Cricket felt a strong connection to the natural world while taking in the vast landscape.
 
-Day 5,6,7: The band sets out with the Abbot.  Along the way, they experiment with the nature of the black stream. We do have to cross the river, but we’re able to navigate the boats so that [[The Black Water]] is not at the surface in those places.
+Day 5,6,7: The band sets out with the Abbot.  Along the way, they experiment with the nature of the black stream. We do have to cross the river, but we’re able to navigate the boats so that [[The Black Water]] is not at the surface in those places.
 
 He, along with additions by Krambler, regales us with a tale of a god king.
 
-As they continue traveling they come across another stream that Bryok says did not exist before. They arrive at the town encircled in high walls. There are four gates, one in each cardinal direction. The one westward is facing us. The town is surrounded by huge fields with no people to be seen.  In the clearing, the stream looks normal, about 20 feet across. Guards walk along the walls of the town. Bryok enters the west gate.  One group went north, one went south, and both ended up at the same gate, which Bryok had apparently walked through.
+As they continue traveling they come across another stream that Bryok says did not exist before. They arrive at the town encircled in high walls. There are four gates, one in each cardinal direction. The one westward is facing us. The town is surrounded by huge fields with no people to be seen.  In the clearing, the stream looks normal, about 20 feet across. Guards walk along the walls of the town. Bryok enters the west gate.  One group went north, one went south, and both ended up at the same gate, which Bryok had apparently walked through.
 
-They enter the town without conflict but are required to relinquish their weapons. We tried to hide some, but were unsuccessful.  It is the most developed town any of the adventurers have ever seen. Once inside, they notice that beyond the gates, the adventurers see different landscapes that don’t look like mountains as they would expect. Balthazar mentions that the stonework in town reminds him of similar craft he has seen in the Old World.  We speak to the gardeners. Of the Abbot they say, “He has returned,” but don’t seem to know anything about a monastery. They call him “The Foundling.”  
+They enter the town without conflict but are required to relinquish their weapons. We tried to hide some, but were unsuccessful.  It is the most developed town any of the adventurers have ever seen. Once inside, they notice that beyond the gates, the adventurers see different landscapes that don’t look like mountains as they would expect. Balthazar mentions that the stonework in town reminds him of similar craft he has seen in the Old World.  We speak to the gardeners. Of the Abbot they say, “He has returned,” but don’t seem to know anything about a monastery. They call him “The Foundling.”  
 
 - Other unattributed quotes:*
 
 - The “[[Sun King]]” - assuming to arrive shortly
 - “Ravens are a powerful magic.”
 
-We  proceed to the fountain at the center of town and find [[The Abbot|the abbott]] in the fountain. The water coming off the fountain seems to take the shape of birds as it falls. The townspeople say that Mons is a king in hiding and that the siblings are waiting to arrive (?)
+We  proceed to the fountain at the center of town and find [[The Abbott]] in the fountain. The water coming off the fountain seems to take the shape of birds as it falls. The townspeople say that Mons is a king in hiding and that the siblings are waiting to arrive (?)
 
-The Abbot walks into the fountain and dies suddenly. Before the party can act, a throng of townspeople descend on the fountain and guards take Bryok’s body to a temple. The party follows and discovers that his body is under heavy guard.  We retrieve our weapons, and attack two guards who try to prevent us from re-entering the town. 
+The Abbot walks into the fountain and dies suddenly. Before the party can act, a throng of townspeople descend on the fountain and guards take Bryok’s body to a temple. The party follows and discovers that his body is under heavy guard.  We retrieve our weapons, and attack two guards who try to prevent us from re-entering the town. 
 
-At the fountain, we are confronted by 10 armed guardsmen and the **Red Blade**.  They fight.  
+At the fountain, we are confronted by 10 armed guardsmen and the **Red Blade**.  They fight.  
 
 Balthazar notes that he recognizes their sigil and/or fighting style of reputable soldiers.
 
 We beseech the guard to allow us to tend to [[Storr]]. A couple of us go up to him. Balthazar heals him slightly. A soldier steps forward and says, “The Sun King is about to arrive. You must leave with the **Arthyden**! You will leave now!” The soldiers advance, pushing us toward the exit.
 
-We pass two dead guards that have bronze daggers and bronze spears, both wearing armor. Cricket takes a dagger, Storr grabs a spear. The soldiers see this and start advancing quicker.  
+We pass two dead guards that have bronze daggers and bronze spears, both wearing armor. Cricket takes a dagger, Storr grabs a spear. The soldiers see this and start advancing quicker.  
 
-We leave through the gate. We attempt to talk to the two guards at the gate but they ignore us. We continue across the plain.  As a group, we agree to continue on until nightfall and make camp. Silas uses a healing potion on Storr. We find a clearing by a waterfall and make a fire in a grove of trees.
+We leave through the gate. We attempt to talk to the two guards at the gate but they ignore us. We continue across the plain.  As a group, we agree to continue on until nightfall and make camp. Silas uses a healing potion on Storr. We find a clearing by a waterfall and make a fire in a grove of trees.
 
-Storr tells us that he  and Balthazar have seen a place like this before.The soldiers there attacked, Storr’s family was massacred with weapons that look like the Red Blade’s sword. He wants answers about this Red Blade and what happened to the abbott.
+Storr tells us that he  and Balthazar have seen a place like this before.The soldiers there attacked, Storr’s family was massacred with weapons that look like the Red Blade’s sword. He wants answers about this Red Blade and what happened to the abbott.
 
 The group questions Silas about his transformation. Silas tells the group that it has always been a part of his life and he’s still learning to harness and control its power. He had never heard the term that the guards had called him.
 
-Cricket and Balthazar take first watch. They think they spy something up on a ledge by the waterfall. They sneak through the darkness and up the rock formations on either side of the waterfall. They spy a humanoid. One of them emerges from the brush and makes herself  known to Cricket. She is one of the gardeners that we encountered in town. They have been following us since we left. She reveals a seedling tree wrapped in burlap and offers it to Cricket. “This is a sacred tree from the grove. Does your party need healing?” She seems annoyed at our fire and how brazen we are about “sneaky” around. Her name is **[[Mag]]**. She joins us around the fire and administers some herbs to Storr. Silas and Storr awaken and Silas  does not recognize this species of tree.
+Cricket and Balthazar take first watch. They think they spy something up on a ledge by the waterfall. They sneak through the darkness and up the rock formations on either side of the waterfall. They spy a humanoid. One of them emerges from the brush and makes herself  known to Cricket. She is one of the gardeners that we encountered in town. They have been following us since we left. She reveals a seedling tree wrapped in burlap and offers it to Cricket. “This is a sacred tree from the grove. Does your party need healing?” She seems annoyed at our fire and how brazen we are about “sneaky” around. Her name is **[[Mag]]**. She joins us around the fire and administers some herbs to Storr. Silas and Storr awaken and Silas  does not recognize this species of tree.
 
 She says it’s a gift for the monastery. 
 
@@ -89,7 +85,7 @@ Does the abbott follow the ways of Mabnoss? “He was wise and understanding of 
 
 We hike up to the monastery and decide to continue up to the peak and plant the sapling. The peak is cloudy and the weather is less than ideal.
 
-Silas and Cricket hunker down at the peak to oversee the sapling’s planting. Krambler decides to seek out the sheer face of the mountain.  Storr and Balthazar have a head start on the descent.
+Silas and Cricket hunker down at the peak to oversee the sapling’s planting. Krambler decides to seek out the sheer face of the mountain.  Storr and Balthazar have a head start on the descent.
 
 Stor and Balthazar arrive at the bottom of the mountain first.
 
@@ -148,7 +144,7 @@ Balthazar reads us ***[[Weyland]] .***
 
 Silas observes the chess pieces.
 
-We drop back and head a couple miles up the stream to check out the beech valley that Silas felt. We come to a clearing with a spring just to the west. To the east and west there are hills. There is a ring of large beech trees. Fairly dense with an opening in the middle where there is a pile of stones.  The surroundings look perfectly natural. The spring water reminds you of the water near the temple and the mysterious town.
+We drop back and head a couple miles up the stream to check out the beech valley that Silas felt. We come to a clearing with a spring just to the west. To the east and west there are hills. There is a ring of large beech trees. Fairly dense with an opening in the middle where there is a pile of stones.  The surroundings look perfectly natural. The spring water reminds you of the water near the temple and the mysterious town.
 
 The earth shakes and as it does, the stone pile shrugs itself and stands up to reveal a giant stone turtle. Shakes itself off and sits down like a sphinx.
 
@@ -156,7 +152,7 @@ He speaks with Silas (knocks Storr to the side). He allows me to take the staff 
 
 At one point, Mannix attacks and the turtle laughs and says “WHAT ARE YOU??” Cricket attacks with the bronze dagger and sits.
 
-“I have no name,” he says after the battle. “You can call me what you wish.”  He asks what brings this group together.
+“I have no name,” he says after the battle. “You can call me what you wish.”  He asks what brings this group together.
 
 He says, “Among you I see:
 
@@ -168,7 +164,7 @@ One who is marked by the raven queen - Cricket and Mannix:
 
 Questions for the turtle
 
-He says he has waited long for his awakening. He knows little of the staff lodged in his mouth. He doesn’t consider the black stream important. There was a time when entities like him were waiting to be part of “The Next Choice.” When asked about the bronze dagger, he says “The flame you carry is an old flame.” When asked about mountain forges, he says he has heard of men meddling in natural forces. He says the lady of the  ??? is known to “us”. “Go to where your destiny takes you. We will meet again if that is where the fates lead us.” He can’t give us a ride. 
+He says he has waited long for his awakening. He knows little of the staff lodged in his mouth. He doesn’t consider the black stream important. There was a time when entities like him were waiting to be part of “The Next Choice.” When asked about the bronze dagger, he says “The flame you carry is an old flame.” When asked about mountain forges, he says he has heard of men meddling in natural forces. He says the lady of the  ??? is known to “us”. “Go to where your destiny takes you. We will meet again if that is where the fates lead us.” He can’t give us a ride. 
 
 He is definitely judging us. We don’t get the sense that he understands exactly what is going on, but he has decided whatever has brought us to him, he doesn’t feel like we need to be destroyed. We’re not a danger to his interests.
 
@@ -234,11 +230,11 @@ We go with Liana. Mannix sees pack horses, lots of stuff. There’s a female lea
 
 We listen. They talk about the black water and the source. They don’t mention the Sun King, but do mention a “he” with reverence who sent them, it was important to him that they find the source. The leader seems to know more; she is feared and revered by the group.
 
-Cricket and Silas chess. Black bishop (cricket)  makes it out in front. Black knight is left hanging. Black bishop goes in for the kill.
+Cricket and Silas chess. Black bishop (cricket)  makes it out in front. Black knight is left hanging. Black bishop goes in for the kill.
 
 The group we’re tracking aren’t worried about being tracked and so are rather boisterous in their camp. Our watch passes without event.
 
-There’s about 8 of them. They  appear to be soldiers, but only as far as they are equipped. It seems they have been sent out on a mission.
+There’s about 8 of them. They  appear to be soldiers, but only as far as they are equipped. It seems they have been sent out on a mission.
 
 While on watch, B heard voices: “He’s nearby.” “Can you warn her?” B didn’t recognise the voices. Not sure if they were voices in the surroundings or in his head; they felt real. No one else heard them. B’s take is that these voices are coming from across the sea and they know that he is close to the party we’re tracking. “Can you warn her?” is possibly that group trying to figure out if they can communicate with the leader.
 
@@ -268,7 +264,7 @@ B: “is the Sun King going to be taken out by a stray arrow?”
 
 Mali starts sobbing in frustration. B asks that we keep her with us and under watch; give her a few days to realize her situation and give us information. 
 
-We question the other survivor. He looks to Mali, so we pull him away. He says his name is  Jowan. He’s from the old world, a small town not far from the coast in the old world. We sailed across the ocean. He was hired on as a mercenary to search out the source of the stream. He’s only heard that there was a traitor whom they might run into who was sent out to do this task and was not following orders. Of the Sun King, he doesn’t know anything. “I’m just a soldier. I was told to complete a task. I’ve heard of this person but I’ve never meant them. We’re all mercenaries as far as I know. Iwas told to mind my own business. 
+We question the other survivor. He looks to Mali, so we pull him away. He says his name is  Jowan. He’s from the old world, a small town not far from the coast in the old world. We sailed across the ocean. He was hired on as a mercenary to search out the source of the stream. He’s only heard that there was a traitor whom they might run into who was sent out to do this task and was not following orders. Of the Sun King, he doesn’t know anything. “I’m just a soldier. I was told to complete a task. I’ve heard of this person but I’ve never meant them. We’re all mercenaries as far as I know. Iwas told to mind my own business. 
 
 He seems like he’s being truthful. Has only heard that the black water leads to something powerful, some weapon, if they found the source, then they will get the Sun King something he can use.
 
@@ -292,7 +288,7 @@ Lake is due south west of us, which is where Silas sensed the black water. We al
 
 Our current location is 100 yards up from the stream to the lake shore.
 
-Storr can tell that the bronze sword has an “active dislike” of any iron that comes near it (the dagger). Rambler senses that his bronze  spear is fearful of the hammer.
+Storr can tell that the bronze sword has an “active dislike” of any iron that comes near it (the dagger). Rambler senses that his bronze  spear is fearful of the hammer.
 
 Storr’s setup feels better to her. Still doesn’t feel 100% committed to her yet. There’s some residual resentment. Rambler feels like this weapon is promising.
 
@@ -300,7 +296,7 @@ Krambler takes his hammer to Silas’ bronze dagger. (WIS 7, DEX 13) He doesn’
 
 Krambler takes the hammer to Storr’s iron dagger this time. (WIS 22, DEX 16)
 
-Suddenly everyone else  is enveloped in darkness. Mail lunges for B’s pack. She grabs the vial of black water she saw B pondering last night and she drinks it. The darkness swarms around her and resolidifies around a different looking Mali. 12 to 15 feet tall.  We fight .  We win,
+Suddenly everyone else  is enveloped in darkness. Mail lunges for B’s pack. She grabs the vial of black water she saw B pondering last night and she drinks it. The darkness swarms around her and resolidifies around a different looking Mali. 12 to 15 feet tall.  We fight .  We win,
 
 B can’t explain his “hellish rebuke-ish” reaction, He called out for help in that moment and something answered.
 
@@ -312,13 +308,13 @@ Lone island to the far south, K feels like the spyglass has an unnatural zoom. H
 
 We decide to head out to the islands.
 
-She looks to Silas and says, “River  system north along the coast.”
+She looks to Silas and says, “River  system north along the coast.”
 
-[[Lianna]] is departing.  She will bring the horses to the monastery, and tell them what you've seen - Mali and such.  Cricket directs her to investigate the Turtle Place, but requests she not discuss what we saw, or what she sees there, with the monastery.  Lianna understands.
+[[Lianna]] is departing.  She will bring the horses to the monastery, and tell them what you've seen - Mali and such.  Cricket directs her to investigate the Turtle Place, but requests she not discuss what we saw, or what she sees there, with the monastery.  Lianna understands.
 
 Silas communes and feels some powerful darkness to the south. A swirling darkness on that shrouded island, feel some things that are old. Not menacing, but they’re not protective. Not an evil darkness, not like Mali, but don’t feel like it’s there to help. 
 
-Krambler wants to try and get to higher ground and look. B goes to the beach to contemplate. K joins him. They experiment with the abbots water and the turtle shell and B’s horn.  The Abbot’s water seems to “shine” up the shell, to rejuvenate some of it’s natural color…Krambler gives the scale/shell another look after the second application of water, and with his “stonecunning” he notices there seem to be some iron traces, veins if you will, as if the scale is actually made of stone…
+Krambler wants to try and get to higher ground and look. B goes to the beach to contemplate. K joins him. They experiment with the abbots water and the turtle shell and B’s horn.  The Abbot’s water seems to “shine” up the shell, to rejuvenate some of it’s natural color…Krambler gives the scale/shell another look after the second application of water, and with his “stonecunning” he notices there seem to be some iron traces, veins if you will, as if the scale is actually made of stone…
 
 Just before sunrise, Storr notices a very brief green flash, then the edge of the sun rises above the horizon.
 
@@ -330,33 +326,33 @@ Krambler felt like the bronze was feeling tied down by the iron…
 
 Balthazar reads us: ***[[Mons and the God of Death]]*** 
 
-We take the boats south to the southern island.  The group slowly reaches the summit.  There is a clearing, surrounded by trees of the same ilk as the one we planted in Tawasek.  There is an unnatural darkness, and there seem to be a LOT of birds in the trees.  A large raven sits in the clearing, and Cricket approaches and feeds him a goodberry.  The raven enjoys it.  Cricket can communicate with the raven.  He confirms that they recognize each other, perhaps he's seen Cricket in his dreams, as Cricket has seen the raven.
+We take the boats south to the southern island.  The group slowly reaches the summit.  There is a clearing, surrounded by trees of the same ilk as the one we planted in Tawasek.  There is an unnatural darkness, and there seem to be a LOT of birds in the trees.  A large raven sits in the clearing, and Cricket approaches and feeds him a goodberry.  The raven enjoys it.  Cricket can communicate with the raven.  He confirms that they recognize each other, perhaps he's seen Cricket in his dreams, as Cricket has seen the raven.
 
 The raven says that this is the Grove of Derwen.
 
-There are flowers, of a color we've never seen.  Raven says they are a symbol of the lady.  Balthazar collects a decent supply of samples of the flowers.
+There are flowers, of a color we've never seen.  Raven says they are a symbol of the lady.  Balthazar collects a decent supply of samples of the flowers.
 
-Is the lady someone we should trust?  No. But don't NOT trust her too.  
+Is the lady someone we should trust?  No. But don't NOT trust her too.  
 
-The island is a dipole.  The south is bright day light.  North is in darkness.  The southwest like the abbott.  The middle is something ancient.  
+The island is a dipole.  The south is bright day light.  North is in darkness.  The southwest like the abbott.  The middle is something ancient.  
 
-Krambler dives into the spring and finds a tunnel that seems to go on beyonds our ability to explore at the moment.  
+Krambler dives into the spring and finds a tunnel that seems to go on beyonds our ability to explore at the moment.  
 
-Something is clearly leaking into our world from another.  
+Something is clearly leaking into our world from another.  
 
 Koweth is the name of the raven.
 
 The party decides to follow the path along the stream where south is east and up is north.
 
-Mannix looked into the small pond located at the center of the clearing to stare at his reflection. This area where we are was similar if not identical to the area that he was in during his dreams.  As he looked into the water his reflection made him feel a sense that he was on the right path and what he was doing was right.
+Mannix looked into the small pond located at the center of the clearing to stare at his reflection. This area where we are was similar if not identical to the area that he was in during his dreams.  As he looked into the water his reflection made him feel a sense that he was on the right path and what he was doing was right.
 
 We walked down south to see what was going on in that point of the island. 
 
-We approach another spring.  Three women are there.  They make really uncomfortable eye contact - as if they don’t break eye contact.  A crone, a child (age 10ish), and a 30 year old ish.  All female.
+We approach another spring.  Three women are there.  They make really uncomfortable eye contact - as if they don’t break eye contact.  A crone, a child (age 10ish), and a 30 year old ish.  All female.
 
 They all appear different to each of us. 
 
-Mannix runs and does a cannonball into the well.  Storr and Krambler try to help.  Everyone survives, despite their best efforts.
+Mannix runs and does a cannonball into the well.  Storr and Krambler try to help.  Everyone survives, despite their best efforts.
 
 The crone refers to Mabnoss as a child, and to the little girl as Storm. Her name is Stone. The middle aged woman is named Sea (which we take as a reference to like a curse saying).
 
@@ -394,23 +390,23 @@ Who are the women?
 
    - A - “the way you see us means nothing to us - it has more to do with you.”**
 
-- They want us to deal with these armed people - why?  
+- They want us to deal with these armed people - why?  
 
    - A - all facing Balthazar “You would know something about making from the bones of old things”**
 
-- What can they tell us about the earthquakes, the disappearance of the child? What do they know of the black water?  How is this all related?
+- What can they tell us about the earthquakes, the disappearance of the child? What do they know of the black water?  How is this all related?
 
    - A: (black water) “It’s the trapped one leaking out. One of the young ones in a recent battle.”**
 
-   - A: re: Earthquakes - Stone: “There are many things that affect the body.  These are just recent tremors.”**
+   - A: re: Earthquakes - Stone: “There are many things that affect the body.  These are just recent tremors.”**
 
    - A: re: Child “Children go missing all the time._**
 
 - If we deal with these armed people will they give us real answers and not riddles?
 
-Who is the 7-Faced Man?  
+Who is the 7-Faced Man?  
 
-There was a tunnel under the spring up the hill, too.  We should ask the raven if anyone came out of that spring.
+There was a tunnel under the spring up the hill, too.  We should ask the raven if anyone came out of that spring.
 
 We follow the three south along the trail, breaking away from the stream that goes west.
 
@@ -434,7 +430,7 @@ No.
 
 How do you stay in touch with the people that sent you.
 
-We don’t.  We’ve been searching for over a year.
+We don’t.  We’ve been searching for over a year.
 
 What do you know about the 7 faced man?
 
@@ -458,7 +454,7 @@ Farmer is tall with long blonde hair. Has two ram’s horns. He’s in a good ch
 
 B: I like your horns
 
-Mogg: I’ve always had mine. I didn’t have a mother. [[Mabmnoss|Morianoth]] is my wife.
+Mogg: I’ve always had mine. I didn’t have a mother. [[Morianoth]] is my wife.
 
 We’re now on the south of the island, outside of the darkness. We suspect that we’re in a different sort of dimension.
 
@@ -494,7 +490,7 @@ On the table there’s some books, writing. Paging through, it seems like he’s
 
 On the nearby beach, an iron ring pounded into a rock that a boat could have been attached to. No evidence of a boat having recently launched.
 
-Rambler tries to fashion something for Storr. He shapes the bronze spearhead  back to a knife. It’s close, and not broken. Still sharp and pointy. With her smith’s tools, she fashioned a reasonable hilt from a derwin tree branch to the blade.
+Rambler tries to fashion something for Storr. He shapes the bronze spearhead  back to a knife. It’s close, and not broken. Still sharp and pointy. With her smith’s tools, she fashioned a reasonable hilt from a derwin tree branch to the blade.
 
 Silas and Cricket chess. Silas plays black. A lot of forks. We found ourselves in places where there are multiple ways to go. Cricket wins and we leave it on the table.
 

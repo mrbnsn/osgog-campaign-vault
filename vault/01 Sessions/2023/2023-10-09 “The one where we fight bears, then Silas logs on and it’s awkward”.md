@@ -35,6 +35,6 @@ We decided to take a short rest and cross in the middle of the night.
 
 We cross and all make it; it takes 2 hours. At the bank we travel up a hill to the edge of the forest and K takes a good look through the spyglass. We’re standing at the bottom of a 200 feet grassy hill. He sees that this is a defended space. It’s been fortified, but with earthen banks and wooden palisades, no stone. We can see the trail leading up and it disappears around a structure. There might be someone up there watching, but it’s hard to tell. There is a common path of travel to the structure.  We see the earthen banks and are reminded of the circles we came across.  
 
-We attempt to converse with the guard in the dark.  He tells us to come back in the morning, which was Storr’s original idea. We do that, and B notes that maybe these folks are familiar with the druids since their path is not far and encourages [[Silas]] to speak on their behalf.
+We attempt to converse with the guard in the dark.  He tells us to come back in the morning, which was [[Storr]]’s original idea. We do that, and B notes that maybe these folks are familiar with the druids since their path is not far and encourages [[Silas]] to speak on their behalf.
 
 He does, saying that he is of the People of the Bear. At that, the guards allow them all to enter, including Arthen, and the party finds a whole settlement within its fortified walls.

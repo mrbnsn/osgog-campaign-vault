@@ -67,7 +67,7 @@ There are a lot of mountains. “If you walk out to the edge of the world, if yo
 
 We’re not 100% percent sure, but the consensus view is that we need to head toward Twseren. That is the tower known for looking at the stars, way up in the mountains. That’s the tower to the north west. They’ve heard that someone is up there checking out the stars, their not sure about the folks that are there.
 
-We ask about the possible route. The simplest route would be to follow the stream that goes through the village. That joins the Meander, you’ll go through the valley, travel by boat, barge or raft, to the lake. Have to figure out how to traverse the lake. People are hesitant to cross it. You should use caution on the lake, it has a mind of its own. Then, going up the autumn river, faster flowing. Comes down through a large forest. Probably a trail that runs along it, not been there, but heard of it. A solid while to try to make it. 
+We ask about the possible route. The simplest route would be to follow the stream that goes through the village. That joins the [[Meander]], you’ll go through the valley, travel by boat, barge or raft, to the lake. Have to figure out how to traverse the lake. People are hesitant to cross it. You should use caution on the lake, it has a mind of its own. Then, going up the autumn river, faster flowing. Comes down through a large forest. Probably a trail that runs along it, not been there, but heard of it. A solid while to try to make it. 
 
 Use the bridge? Could go that way, harder cutting across land in the foothills. A little bit wilder that way. The route they would take would be the river.
 
@@ -82,7 +82,7 @@ Possibilities:
 - The child
 - [[Musk]] (was he an intentional genius, or did he not realize what he was meddling with?)
 
-We ask about the child. It’s a newborn, possibly with someone that looks like Musk (haggard, homeless)
+We ask about the child. It’s a newborn, possibly with someone that looks like [[Musk]] (haggard, homeless)
 
 . 
 

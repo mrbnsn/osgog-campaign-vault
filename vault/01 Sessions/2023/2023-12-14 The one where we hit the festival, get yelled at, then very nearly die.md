@@ -18,7 +18,7 @@ There’s a tunnel, then we emerge. There’s an incline in teh terrain. There�
 
 Stors tries to jiggle a handle, but ots locked. We debate whether to pick it, but decide not to. 
 
-We come to a bridge which spans [[The Black Water]]. There’s an iron grate the water flows through and it appears to flow out a city wall. Further up stream it flows underneath a building and between others. There aren’t any obvious barriers preventing folks from going in. City seems constructed around the stream. Why does it follow this route? Why does the city accommodate it? What came first, the city or the black water? The city seems to coexist with the water.
+We come to a bridge which spans [[The Black Water]]. There’s an iron grate the water flows through and it appears to flow out a city wall. Further up stream it flows underneath a building and between others. There aren’t any obvious barriers preventing folks from going in. City seems constructed around the stream. Why does it follow this route? Why does the city accommodate it? What came first, the city or [[The Black Water]]? The city seems to coexist with the water.
 
 We approach another staircase. The buildings seem to get taller as we ascend the stairs. The buildings have been mostly residential.
 
@@ -39,9 +39,9 @@ K tries to shape the black water but feels nothing. The black water forms a whir
 We try to engage the people. They look at us and tell us to be quiet.
 
    1. The festival
-We continue on and start hearing a crowd. There’s a fountain in the middle of the square. We see the fireworks that create the shape of a tree in the smoke. We move into the square. As [[Silas]] steps in, people start noticing the bear and start crowding around Silas and Arthen. Silas starts feeding Arthyn snacks to show that he is not a threat. 
+We continue on and start hearing a crowd. There’s a fountain in the middle of the square. We see the fireworks that create the shape of a tree in the smoke. We move into the square. As [[Silas]] steps in, people start noticing the bear and start crowding around [[Silas]] and Arthen. Silas starts feeding Arthyn snacks to show that he is not a threat. 
 
-Storr moves toward the fountain. The central carving is in the shape of an [[Ancient Tree]] of various colors, black, brown, green. At teh base you see what might be the face of a bear peeking out from under the roots. Ravens are perched on branches. The water is flowing to fill out the form of the sculpture so the water becomes both branches and foliage. It almost looks as though a raven flies and jumps into the pool below. The fireworks are shooting out of tubes in the fountain (is that right?)
+[[Storr]] moves toward the fountain. The central carving is in the shape of an [[Ancient Tree]] of various colors, black, brown, green. At teh base you see what might be the face of a bear peeking out from under the roots. Ravens are perched on branches. The water is flowing to fill out the form of the sculpture so the water becomes both branches and foliage. It almost looks as though a raven flies and jumps into the pool below. The fireworks are shooting out of tubes in the fountain (is that right?)
 
 You bring the other twin to the festival?
 
@@ -63,7 +63,7 @@ Crowd: We’re wary of travelers bearing tokens of power. (said with an edge of 
 
 K shapes the water back to the fountain with his weird finger magic.
 
-The person that had been talking to Silas strides over to Storr and Cricket and points to [[Krambler]] and questions him. Who are you? Where have you come from?
+The person that had been talking to Silas strides over to Storr and [[Cricket]] and points to [[Krambler]] and questions him. Who are you? Where have you come from?
 
 Man: This city has long been hidden to outsiders. How have you got here and what are your intentions? Are you the ones you accosted our boats 6 days ago?
 
@@ -88,7 +88,7 @@ C: What’s the festival about?
 
 B: you have somewhere to go. Let’s walk and talk.
 
-B: This festival celebrates a young girl and an ancient tree who are the protectors of those who listen.
+B: This festival celebrates a young girl and an [[Ancient Tree]] who are the protectors of those who listen.
 
 C: Are those the twins?
 

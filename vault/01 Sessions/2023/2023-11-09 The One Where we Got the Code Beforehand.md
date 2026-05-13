@@ -13,7 +13,7 @@ contributors:
 
 [[Cricket]] tries to find a book that’s been more recently disturbed than others, but they all look equally old and unmoved.
 
-Cricket examines the fireplace. Ash and soot. Old logs. He kicks around in there. Just looks like there was only fire.
+[[Cricket]] examines the fireplace. Ash and soot. Old logs. He kicks around in there. Just looks like there was only fire.
 
 We light the fireplace and here the chittering of the - the beacons of Brazier’s are lit!  Tatta’s calls for aid! 
 
@@ -39,7 +39,7 @@ Cricket chooses a book and thankfully it does not fall apart. B takes the book a
 > Lips that would kiss
 >
 > Form prayers to broken stone.
-Cricket tries it again and the book falls apart. He hands it to Storr. HE tries once more, again it falls apart.
+Cricket tries it again and the book falls apart. He hands it to [[Storr]]. HE tries once more, again it falls apart.
 
 [[Silas]] tries as well and it falls. Storr now has plenty of kindling.
 
@@ -119,7 +119,7 @@ Any inscriptions? There’s writing around the edge of the well. The well itself
 
 Storr put is katana in the water, and a hand materializes and takes the katana. A figure emerges, and we obviously have to fight it.
 
-On the “shadow’s” turn, he goes for silas, screams, we all become frightened, and silas AGES 30 YEARS. He’s now like, 48.
+On the “shadow’s” turn, he goes for [[Silas]], screams, we all become frightened, and silas AGES 30 YEARS. He’s now like, 48.
 
 On its next turn, it seems to flow into Silas, and doesn’t seem to know who he is. On the shadow’s next turn, he (Silas) attacks Storr with the bronze katana.
 

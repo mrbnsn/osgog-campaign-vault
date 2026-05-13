@@ -20,13 +20,13 @@ We recall how the carving on the edge of the bowl reminds us of the writing we�
 
 We ask Carantok about the script. We came long ago, this is an ancient relic of long ago. He doesn’t necessarily understand how it works. He knows they congregate here and they perform some sort of ritual that he’s not a part of. He’s hesitant to enter here, and because they group and [[Silas]] got the blessing, he was willing. He’s not sure if it was here before or after they came. It’s a focus of the followers of the bear. 
 
-Storr posits that perhaps we consider returning to the village and talking more to the elders about the well.
+[[Storr]] posits that perhaps we consider returning to the village and talking more to the elders about the well.
 
-Silas recalls the words of the elders, that they don’t actually know how to use it. Whatever knowledge there was around it has been lost.
+[[Silas]] recalls the words of the elders, that they don’t actually know how to use it. Whatever knowledge there was around it has been lost.
 
 [[Krambler]] puts his bronze spear in the water. The blade seems to make the water bubble and boil, but the boiling does not rise to the surface. Hammer does not have the same effect.  Gale goes in. The image around the blade is not water, but rushing wind and storm, black ragged rushes of air. Silas dips the beechstaff in, the uncharred end. The ground of the forest spreads out from the staff and goes down into the ground. Rather than being a dead piece of beechwood, it becomes a healthy young tree under the surface. The charr on the other end appears as coal popping up off the surface of it and flame seems to reignite. 
 
-We don’t notice the three women while we experiment with our weapons, except when Krambler reveals the hammer, the crone seems interested. 
+We don’t notice the three women while we experiment with our weapons, except when [[Krambler]] reveals the hammer, the crone seems interested. 
 
 We record the runes in B’s notebook. 
 
@@ -41,7 +41,7 @@ Silas didn’t get the sense that the elders from the village were being cagey a
 Outstanding questions:
 
 - Show the runes to the [[Logan]]
-- Ask logan about what we saw. Had other rituals revealed similar visions?
+- Ask [[Logan]] about what we saw. Had other rituals revealed similar visions?
 
 We go find Logan and sit with him in a tree swing. Storr asks what the trees tell him. He says it’s all musical and you need to be very still to hear it.  
 

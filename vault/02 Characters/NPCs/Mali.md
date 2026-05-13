@@ -11,4 +11,4 @@ contributors:
   - "SilasWoodhenge18"
 ---
 
-A horned enemy of [[Balthazar]] who drank black water, and got very evil.  We fought and beat her.
+A horned enemy of [[Balthazar]] who drank black water, and got very evil.  We fought and beat her.

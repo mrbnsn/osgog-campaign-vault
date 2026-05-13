@@ -17,18 +17,18 @@ We land on short resting, here on a ledge and setting a watch. Because the [[Con
 
 We're able to sleep, we go through three watches. The sky does not get lighter. Everyone wakes up rested. We can either slink in the darkness or play a song.
 
-We slink in the darkness. We all roll stealth and perception. We travel up the stream and find ourselves back at the same spot after what we gues is about a mile of walking, 20/30 mins. Silas admittedly has been blundering around making noise in the underbrush, but probably because he’s been a little distracted by the nature around him. Claims to have seen some things that kind of strike him as odd like looking sort of like trails, hes not sure what it is, not exactly human, animal or druid, but some things that pique his fancy in terms of his woodcraft (the joys of druidicy and spending a lot of time in the woods.)
+We slink in the darkness. We all roll stealth and perception. We travel up the stream and find ourselves back at the same spot after what we gues is about a mile of walking, 20/30 mins. [[Silas]] admittedly has been blundering around making noise in the underbrush, but probably because he’s been a little distracted by the nature around him. Claims to have seen some things that kind of strike him as odd like looking sort of like trails, hes not sure what it is, not exactly human, animal or druid, but some things that pique his fancy in terms of his woodcraft (the joys of druidicy and spending a lot of time in the woods.)
 ![[A giant, old tree and another group of musical stones.png]]
 
 It doesn’t feel personal (old lore, 12), you could imagine it as being a druidic language that is not related to one i know, but it could also be leaves blown in tthe wind. Could have been a deer track, or something that was supposed to look like a deer track to someone not initiated. 
 
-We decide to find the spot again by continuing up the path. Storr rolls a dirty 20 nature and Silas rolls a 10 perception. Storr notices a LOT of stuff. But Silas is able to locate the trail again. It’s a game trail, clear that its not just one animal that uses it. Storr sees some markings that she’s not able to identify. Silas is unsure what they are. 
+We decide to find the spot again by continuing up the path. [[Storr]] rolls a dirty 20 nature and Silas rolls a 10 perception. Storr notices a LOT of stuff. But Silas is able to locate the trail again. It’s a game trail, clear that its not just one animal that uses it. Storr sees some markings that she’s not able to identify. Silas is unsure what they are. 
 
 We decide to follow the trail. As we travel, we have a strange sensation. We’re walking through the woods, we’re following the trail, but as we go, the forest around us looms higher and higher and higher and we can’t quite tell if things around us are getting larger or we are getting smaller. And we find ourselves here (it’s still night).
 
 It is an old huge tree, but we also have a sensation that we’ve grown very small.   Storr’s stranger danger is particularly high, but it’s more wtf is going on rn, not that there’s a presence. The stones have markings on them, curved. 
 
-[[Branwen]] touches the tree. Branwen feels a barrier trying to raech into it and isn’t successful. K touches a stone. This is a stone that was shaped with intention and almost inconceivable how long ago that happened. When K compares it to anything he’s worked with, it doesn’t make sense. 
+[[Branwen]] touches the tree. [[Branwen]] feels a barrier trying to raech into it and isn’t successful. K touches a stone. This is a stone that was shaped with intention and almost inconceivable how long ago that happened. When K compares it to anything he’s worked with, it doesn’t make sense. 
 
 Storr puts a hand on Kelghein to see how she feels. The sword is looking around and feels pretty comfortable, not paying attention to Storr, but to whats happening here, like looking for a kindred spirit
 

@@ -3,8 +3,6 @@ title: "The Black Water"
 type: lore
 tags:
   - "lore"
-  - "black-water"
-  - "cradle"
 aliases:
   - "The Black Water"
 last_edited: 2023-11-29

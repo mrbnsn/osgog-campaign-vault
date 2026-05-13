@@ -43,10 +43,10 @@ Hopps reads [[Geshwa]].
 
 We discuss [[Gwedhen]], and how the bear is guarding the honey, the life force. Could this tree be part of the same larger entity of the tree in [[Gwedhen]].
 
-We talk about a [[Noorglass]]-[[Nyth]] theory. Tom suggests that maybe this is the same circular lake as in the Norglass map. Ryan is doubtful, as [[Silas]] has been to that region (the mountain with the dot is the cave where he was trapped as a child) and nothing here as looked familiar. Mike R suggests that perhaps this isn't exactly the same place but a reflection of it in another dimension. If so, there may be a mapping of what's in Norglass to what's in Nyth . Silas mentions [[Silas|his dream in Tawesek]] where a woman came to him and he flew to a circular lake, where there was a cabin. She said "It’s been a long while since he’s met with a bear.  Perhaps you should visit…", so following this theory, Silas would have a strong interest in visiting the what would be we're guessing the northen shore of this lake to find what would be there as a reflection of this cabin. 
+We talk about a [[Noorglass]]-[[Nyth]] theory. Tom suggests that maybe this is the same circular lake as in the Norglass map. Ryan is doubtful, as [[Silas]] has been to that region (the mountain with the dot is the cave where he was trapped as a child) and nothing here as looked familiar. Mike R suggests that perhaps this isn't exactly the same place but a reflection of it in another dimension. If so, there may be a mapping of what's in Norglass to what's in [[Nyth]] . [[Silas]] mentions [[Silas|his dream in Tawesek]] where a woman came to him and he flew to a circular lake, where there was a cabin. She said "It’s been a long while since he’s met with a bear.  Perhaps you should visit…", so following this theory, Silas would have a strong interest in visiting the what would be we're guessing the northen shore of this lake to find what would be there as a reflection of this cabin. 
 
       1. [[Storr]] attunes with Kleghein
-Storr tries to attune with Kleghein on the island. She goes off to a peaceful corner of the island and tries to reenact the same actions that the centaur did.
+[[Storr]] tries to attune with Kleghein on the island. She goes off to a peaceful corner of the island and tries to reenact the same actions that the centaur did.
 
 Storr’s memory (12) allows him to start the motions, trying to put it together, she’s got parts of it, not 100%. The phoenix hops down and nods, holds out a talon to her. Gives her an imperious (adj. assuming power or authority without justification; arrogant and domineering) look.
 
@@ -71,7 +71,7 @@ Keto is curious what we found. We relay what we saw.
 
 We discuss what to do next. Should we enter the city or confront the [[Sun King]]?
 
-We may need to do both. Sneak into the city in order to confront the sun king as he is outside, laying siege. The sun king knows of B’s presence here; he may be the reason why Sun King is laying seige to the city. We decide to talk with Keto about our plan to confront the sun king.
+We may need to do both. Sneak into the city in order to confront the [[Sun King]] as he is outside, laying siege. The sun king knows of B’s presence here; he may be the reason why Sun King is laying seige to the city. We decide to talk with Keto about our plan to confront the sun king.
 
 K says the sun king’s army emerged form the mists of the lake not so long ago and have enveloped the city and taken over the docks and the quays and while they have not penetrated the city’s defences, and there hasn’t been a lot of fighting, they just showed up and said “I demand entrance and sovereignty” So anything that comes out of the city, vessels that land can’t go without agents of the sun king on board. K definitely knows some smuggling routes, can get us up the to harbor, but I’m not sure if that’s really where you want to go, it’s up to you.
 

@@ -4,19 +4,14 @@ type: character
 tags:
   - "character"
   - "npc"
-  - "well"
-  - "derwen"
-  - "bear-born"
 aliases:
   - "The Abbot"
-  - "Bryok"
-  - "The Abbott"
 last_edited: 2026-05-11
 contributors:
   - "Hoppsy"
 ---
 
-Bryok.  Name means "Shining Prince".
+[[Bryok]].  Name means "Shining Prince".
 
 Son of [[Bremphyr]] and [[Kerenja|Karenja]]. Was "next in line for the throne", but made his choice at [[Trenewydh]].
 

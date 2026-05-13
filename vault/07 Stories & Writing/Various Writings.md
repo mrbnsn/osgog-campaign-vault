@@ -51,7 +51,7 @@ Later "Elementals" were found with other words written in runes. Perhaps we miss
 
 Wind Fight:  Become step as wind.
 
-[Grassy Beings Fight](https://docs.google.com/document/d/1emqYTYZ_gYKiFgIxbaCIxuVGSm_zFuDcBj0vMHBGMj8/edit?tab=t.0#bookmark=id.kflq65c0n04f):  EMERGE.  ARISE LIKE GRASS.
+[Grassy Beings Fight](https://docs.google.com/document/d/1emqYTYZ_gYKiFgIxbaCIxuVGSm_zFuDcBj0vMHBGMj8/edit?tab=t.0#bookmark=id.kflq65c0n04f):  EMERGE.  ARISE LIKE GRASS.
 
 [Stone Giant Fight](https://docs.google.com/document/d/1emqYTYZ_gYKiFgIxbaCIxuVGSm_zFuDcBj0vMHBGMj8/edit?tab=t.0#bookmark=id.y0y0vpgqtdvz): Go plod as stone.
 
@@ -67,7 +67,7 @@ Long ago some one carved me in the semblance of a god.
 
 I have forgot now what god I was meant to represent.
 
-I have no consciousness now but of stone, sunlight, and rain;   //
+I have no consciousness now but of stone, sunlight, and rain;   //
 
 The sun baking my skin of stone, the wind lifting my hair;
 

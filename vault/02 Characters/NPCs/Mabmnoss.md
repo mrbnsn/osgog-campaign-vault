@@ -4,13 +4,8 @@ type: character
 tags:
   - "character"
   - "npc"
-  - "mother-night"
-  - "raven"
-  - "derwen"
-  - "gorg-gwen"
 aliases:
   - "Mabmnoss"
-  - "Morianoth"
 last_edited: 2024-06-14
 contributors:
   - "Hoppsy"

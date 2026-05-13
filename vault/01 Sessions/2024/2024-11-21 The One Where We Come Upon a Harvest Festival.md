@@ -30,7 +30,7 @@ Journeying on.  Move a few hexes to the ESE.  Some rolls happen.
 
 As we are coming down out of the hills…[[Krambler]] hears something on the wind and goes looking to check it out.  He discovers a roving band of soldiers who have the livery of the [[Sun King]].  Rambler is ambushed by them.  He escapes and gets back to the party.  (He passed a saving throw so…) he loses half his max HP and the band pursues him.  The party decides to try to lose them, and our DC fatigue saving throw increases by 3.  (5 total to date)
 
-Balz roll: 11. We decide where to go. There’s a habitation two clicks to the east that may or may not be friendly. Krambler looks through the spyglass. It appears more likely to be a settlement rather than an army camp. Evidence suggests an established settlement. We’re not sure which direction the army was going. As we were coming down, they were to the east. K went off in that direction and was ambushed. 
+Balz roll: 11. We decide where to go. There’s a habitation two clicks to the east that may or may not be friendly. [[Krambler]] looks through the spyglass. It appears more likely to be a settlement rather than an army camp. Evidence suggests an established settlement. We’re not sure which direction the army was going. As we were coming down, they were to the east. K went off in that direction and was ambushed. 
 
 What if this is Trenewdyth? We head in the direction of the town. We get pretty close. It is early evening. 
 
@@ -89,7 +89,7 @@ Can we lend a hand while striking up a conversation?
 
 We want to be earnest and ingratiate ourselves to these folk. Br rolls persuasion (12) She goes over and notices some women working at a table arranging things. Br offers to lend a hand. “We;d love to have your help! Can you help us move these pumpkins.” (Very high pitched, very monty python) They seem happy to participate and chat.
 
-Silas asks if he needs to take his helmet off. (He rolls a 9 persuasion) The folk say that, yes , he can if it makes him comfortable. We are comfortable with horns here, so yes. They seem to think that Silas is a little slow, like an idiot brother.
+[[Silas]] asks if he needs to take his helmet off. (He rolls a 9 persuasion) The folk say that, yes , he can if it makes him comfortable. We are comfortable with horns here, so yes. They seem to think that Silas is a little slow, like an idiot brother.
 
 Silas: I am smart. I just want to know
 
@@ -127,7 +127,7 @@ Anyone put off by the bear cub?
 
 We are getting attention, but not sure why. We have a guy with a horned helmet, a more charismatic guy with real horns, and a bear cub. It’s a sight.
 
-We have reached the conclusion of our journey. We make our fatigue saving throws, and it’s not good. Silas and Storr are at exhaustion level 2. Balz is at level 3.
+We have reached the conclusion of our journey. We make our fatigue saving throws, and it’s not good. Silas and [[Storr]] are at exhaustion level 2. Balz is at level 3.
 
 We talk to the pumpkin ladies about the statue.,
 
@@ -147,4 +147,4 @@ They are husband and wife.
 
 What’s next?
 
-Our intention is to spend a few nights’ at the farm so we can get a long rest. We’ve got an understanding with the farmer wife that’ its doable and they are amenable. We can go into the feast tonight. Next session will be the week following next. Have some thoughts about what it is we want to do. We could just go and attend and go to sleep. We could also go full council. We did just run into a band of sun king minions. It’s late afternoon. Feast starts at sundown.
+Our intention is to spend a few nights’ at the farm so we can get a long rest. We’ve got an understanding with the farmer wife that’ its doable and they are amenable. We can go into the feast tonight. Next session will be the week following next. Have some thoughts about what it is we want to do. We could just go and attend and go to sleep. We could also go full council. We did just run into a band of [[Sun King]] minions. It’s late afternoon. Feast starts at sundown.

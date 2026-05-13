@@ -13,7 +13,7 @@ contributors:
 
 So, [[Silas]] is hutting with some elders.  They’ve been discussing the topic of us staying for some time, recouping, and learning.
 
-Silas has learned some things that he’s going to share…. Now?  Now.  Now?  Yes, now.
+[[Silas]] has learned some things that he’s going to share…. Now?  Now.  Now?  Yes, now.
 
 He asked many questions and has few answers.  The landmarks to the north - the clearing and tower. The clearing, the first we’ll encounter, is surrounded by trees.  There are huts in the trees, for safety.  It's a shared location for groups from the region - so not only this tribe.  Think of an Ent Moot. It takes a long time to get answers (sounds vaguely familiar).  The bears would patrol at night.  There is a well in teh clearing.  Asked if connected to the other wells, they said the ones we’ve seen are strange and wondrous.  It’s sacred and ancient and a form of communication.  Maybe not a tunnel we’ve seen.
 
@@ -53,7 +53,7 @@ Corantok blows a bison horn, 3 sharp blasts.  *Then shalt thou blow to three, no
 
 We meet the caretaker, [[Logan]] the hermit.  We are invited in.  Or up.  
 
-He says what’s up?  Logan has lived there most of his life.  He doesn’t get along with people that much.  He stays there with the trees.  It’s nice to have someone come by while he’s talking to the forest… it talks back all the time.  you  can hear whispers on the wind?  Silas does his Silas things and thanks him for welcoming us.  He doesn’t want to clean up after us, so don’t mess it up.
+He says what’s up?  [[Logan]] has lived there most of his life.  He doesn’t get along with people that much.  He stays there with the trees.  It’s nice to have someone come by while he’s talking to the forest… it talks back all the time.  you  can hear whispers on the wind?  Silas does his Silas things and thanks him for welcoming us.  He doesn’t want to clean up after us, so don’t mess it up.
 
 There’s space for us to rest.  Logan wanders off muttering to himself
 
@@ -65,7 +65,7 @@ Silas: What else do you know about the bear?
 
 Logan:The great bear is asleep and has been for a long time. He became reliant on people to keep him away, so when the people moved on he fell asleep. Some of us are listening and trying to find him. If we spread the word will that help? He may just need an audience.
 
-Storr: What do people do here?
+[[Storr]]: What do people do here?
 
 Logan: We just get together at the soltices.  We feast and we sing to the bear some go down to the well and see if there’s anything coming through.
 
@@ -103,7 +103,7 @@ We get the sense that Carantok considers this sort of a pilgrimage, but doesn’
 
 Walls get taller as we get further in, some sheer. K considers rock climbing. Not a scramble, would be a sheer climb.
 
-We’re guessing that its flat above us and we’re in sort of a crack in the earth. We continue. The water comes out of a slim passage to the west. Cricket looks through a passage further south and moves through while we’re further north. He pauses at the next opening. 
+We’re guessing that its flat above us and we’re in sort of a crack in the earth. We continue. The water comes out of a slim passage to the west. [[Cricket]] looks through a passage further south and moves through while we’re further north. He pauses at the next opening. 
 
 There’s a space there and shaded from above, no dead body.
 
@@ -133,7 +133,7 @@ Carantok sees stars and the night sky.
 
 Storr touches the water. The faces are obscured and then return.
 
-Krambler displays the hammer, the crone seems to point at him and says something to the other two.  We don’t see the same movement that he does
+[[Krambler]] displays the hammer, the crone seems to point at him and says something to the other two.  We don’t see the same movement that he does
 
 B attempts to use the thieves cant to communicate. Who are you? We are sea, storm and stone. B hears them in his head.
 
@@ -165,7 +165,7 @@ Krambler spelunks up the waterfall and finds nothing out of the ordinary.
 
 Silas examines the crone and her cloak. She looks gray, an unnatural palor. The cloak is weave and fabric. All gray. 
 
-Channeling Mannix, Krambler tries to cannonball into the well. He smashes the bottom; he doesn’t float back up, but sees the three women looking down at him. Their expressions are questioning, intrigued, but not convinced. Carantok is impressed by K’s gusto. Does not feel like K is being disrespectful. He swims up to the surface, the three women reach down and touch him and pull him up. He submerges himself, they are still there and they are still holding him. They are in control.
+Channeling [[Mannix]], Krambler tries to cannonball into the well. He smashes the bottom; he doesn’t float back up, but sees the three women looking down at him. Their expressions are questioning, intrigued, but not convinced. Carantok is impressed by K’s gusto. Does not feel like K is being disrespectful. He swims up to the surface, the three women reach down and touch him and pull him up. He submerges himself, they are still there and they are still holding him. They are in control.
 
 K’s impression: That was weird. Seemed like it didn’t seem like it was his time. They were preventing him from progressing to another location.
 

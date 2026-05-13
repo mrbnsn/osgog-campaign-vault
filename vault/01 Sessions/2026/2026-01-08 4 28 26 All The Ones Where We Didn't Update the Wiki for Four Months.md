@@ -24,9 +24,9 @@ We’ve not left the boat yet, and given the new exhaustion levels, we’re all 
 
 We don’t hear the noises anymore. The terrain is ocean-smoothed cobble, smooth otherwise. We do see tracks, large 6in across where more visible, circular-ish indentations where something was moving around. They appear to move up into the forest.
 
-Storr: These could be centaurs, like the sentries. 
+[[Storr]]: These could be centaurs, like the sentries. 
 
-[[Silas]] is our tracker (Nature, 18). Silas leads with Arthen and Storr behind. We track most of the morning. Goes through some dense forest. Guessing that its hoof prints. Eventually it peters out, forest grows back in around it. As time goes on, they grow less distinct.  Not sure what to make of it. Silas says it looks horse-ish. There are multiple animals. At least 3, but not totally sure. Could be more but probably not less. 
+[[Silas]] is our tracker (Nature, 18). [[Silas]] leads with Arthen and Storr behind. We track most of the morning. Goes through some dense forest. Guessing that its hoof prints. Eventually it peters out, forest grows back in around it. As time goes on, they grow less distinct.  Not sure what to make of it. Silas says it looks horse-ish. There are multiple animals. At least 3, but not totally sure. Could be more but probably not less. 
 
 It does seem we are following the tracks in the same direction they were traveling. Silas does notice that the tracks should be fresher here but they’re not, which seems strange, like the forest is involved. The forest does seem primeval.
 
@@ -42,11 +42,11 @@ Storr scrambles onto a boulder to get a better look. She hears the twang of a bo
 
 WE FIGHT
 
-- Krambler hits for a CRIT HIT
+- [[Krambler]] hits for a CRIT HIT
 - The centaurs so far have been whiffing like their little hooves depended on it.
 - The mage centaur has a sword and can do like 3 things in one turn.
 - Silas gets hit BAD and drops to zero, automatically bearing out
-- [[Branwen]] takes out Gale and sing a song (Brid song) and Branwen is surrounded in a purple aura of ravens. The centaur encompassed in the aura is now frightened of her. 
+- [[Branwen]] takes out Gale and sing a song (Brid song) and [[Branwen]] is surrounded in a purple aura of ravens. The centaur encompassed in the aura is now frightened of her. 
 - Krambler falls. Branwen falls. Silas in bear form gets down to 1.
 - Storr uses the INFLUENCE action to convince the mage that they don’t want to fight.
 - Silas as the bear, hears Storr’s plea, and places his staff on the ground
@@ -215,7 +215,7 @@ White hair looks at Branwen.  Says: your past is lost, is it not?
 
    - Black Hair: Who’s playing the music and where did it come from**
 
-   - Bran: From [[The Boatman]], it was [[Cricket]]’s song. I have odd connections to Cricket, our essences are somehow entwined. His loss became my being.**
+   - Bran: From [[The Boatman]], it was [[Cricket]]’s song. I have odd connections to [[Cricket]], our essences are somehow entwined. His loss became my being.**
 
    - White Hair: You have three things, and perhaps an arrangement can be made. I would take a flute of bone–**
 
@@ -237,11 +237,11 @@ White hair looks at Branwen.  Says: your past is lost, is it not?
 
    - Everything goes fuzzy for Branwen. Her eyes are open, but she isn’t seeing what’s around her. She experiences feeling herself suddenly in a greyscale world, and slowly realizing she’s on a boat, a small boat, rocking on a black sea. As she feels the boat move on the waves, she sees the shore come in and out of focus, far away. She feels a lot of pain in her throat, and finds she is drenched in blood. A familiar voice says from behind, This is the land you now inhabit.**
 
-   - The boat runs aground and Branwen steps out. She sees the [[The Boatman|Boatman]] and recognizes him. Memories flood back, and she recognizes herself as Cricket. She undergoes the same process that caused her to undergo her original transformation, and emerges, still Branwen, but with all of Cricket’s memories and the certain knowledge that it was the Boatman that carried her across the water. She finds herself back at the edge of the pool.**
+   - The boat runs aground and Branwen steps out. She sees the [[The Boatman|Boatman]] and recognizes him. Memories flood back, and she recognizes herself as Cricket. She undergoes the same process that caused her to undergo her original transformation, and emerges, still Branwen, but with all of Cricket’s memories and the certain knowledge that it was [[The Boatman]] that carried her across the water. She finds herself back at the edge of the pool.**
 
       - Storr’s Take…***
 
-A man may know the three names… his name is Osgog and he remembers all things.  They were put there and forgotten about, spoken about only in whispers and hear themselves on the wind sometimes.
+A man may know the three names… his name is [[Osgog]] and he remembers all things.  They were put there and forgotten about, spoken about only in whispers and hear themselves on the wind sometimes.
 
 They can feel themselves flowing.
 
@@ -282,9 +282,9 @@ B: And we told you his name–
 
 W: Is ***osgog***
 
-We discuss osgog and his mother ([[Doldhelan]]/Noswaith), and Osgog and the Dragon.
+We discuss osgog and his mother ([[Doldhelan]]/[[Doldhelan|Noswaith]]), and Osgog and the Dragon.
 
-Silas’s note: There is a sisterhood of Doldhelan and [[Ceridwen]] (kelynnyn, Gwen at the tower, probably Seren. If Osgog’s mother is truly still trapped, we would have an interest in freeing her. If these three have their names back, maybe they could help free her. 
+Silas’s note: There is a sisterhood of [[Doldhelan]] and [[Ceridwen]] (kelynnyn, Gwen at the tower, probably [[Seren]]. If Osgog’s mother is truly still trapped, we would have an interest in freeing her. If these three have their names back, maybe they could help free her. 
 
 Ok, big theories coming together.
 
@@ -302,7 +302,7 @@ Osgog remembers the 3's names, according to the 3, themselves.
 
 Storr posits the compass is symbol of her failure.
 
-Silas’ note: Osgog and the Dragon seems to be written with a certain angle, read: propaganda of Mons. The cradle, if a symbol of Noswaith, could have positive connotations, as a sign of honor and respect put out into the world by the sisterhood.
+Silas’ note: Osgog and the Dragon seems to be written with a certain angle, read: propaganda of [[Mons]]. [[The Cradle]], if a symbol of Noswaith, could have positive connotations, as a sign of honor and respect put out into the world by the sisterhood.
 
 The cradle: We talk about the girls at the tower playing teh game with Arthen (it was the not=[[Glasses Girl]] three. 
 
@@ -527,7 +527,7 @@ JB: You can call me Gwynys.
 
 So we cradle.  She declines to sing, prefers to listen to the wind.
 
-There’s a constant breeze. She’s moving her hands, cupping them, opening her mouth, experimenting. We hear notes.  It sounds like Merthyn's Cradle Song - it was produced by Gwynys and the wind.
+There’s a constant breeze. She’s moving her hands, cupping them, opening her mouth, experimenting. We hear notes.  It sounds like [[Merthyn]]'s Cradle Song - it was produced by Gwynys and the wind.
 
 JB:  Creation is what it is .  when you are making something you don't always know where the inspiration comes from.
 
@@ -559,7 +559,7 @@ JB: You said your family was involved?
 
 Bran: I don’t know my family directly. But there women ([[Mabmnoss|Morianoth]], [[Doldhelen]]) would try to hear and understand its sign. I have a connection to them.
 
-JB: That first name: Morianoth, feels familiar and windlike somehow.
+JB: That first name: [[Morianoth]], feels familiar and windlike somehow.
 
 B: I don’t know as much about my background as much as I’d like, but you might know my mother, [[Mother Night]]. In different phases she’s listened to the wind. You might know her.
 
@@ -730,7 +730,7 @@ W: reaches into her pocket, pulls out a pipe.  Watches him.  The way you ask mak
 
 BZ: We don't know when or how of our last visit.  Do you margaritas? 
 
-Who came and went, SUN KING, HMM? 
+Who came and went, [[Sun King]], HMM? 
 
 W: NO! Someone much more interesting.
 
@@ -738,7 +738,7 @@ Balz: Who are you talking about?
 
 Secret for a secret, she says.
 
-BZ: tells tale of the Abbot.
+BZ: tells tale of [[The Abbot]].
 
 The arrival was the Abbot and our accompaniment.  
 
@@ -768,7 +768,7 @@ The foundling is the Abbot
 
 Prophecy?  
 
-We recite the foundling poem. She thinks its interesting that the poem talks of a “she”. Balz offers that that’s like “glasses girl” and says we’ve found her. She promises to keep that information in confidence.
+We recite the foundling poem. She thinks its interesting that the poem talks of a “she”. Balz offers that that’s like “[[Glasses Girl]]” and says we’ve found her. She promises to keep that information in confidence.
 
 Silas sees some parallels of her to his own people. Lives in nature. Seems like she’s goot a handle on it.
 

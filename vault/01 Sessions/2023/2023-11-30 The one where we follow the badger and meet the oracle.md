@@ -25,7 +25,7 @@ We follow the badger up the shoreline.
 
 We see some markings on the city walls and flags flying, but nothing we’d recognize. We see smoke from chimney fires, but nothing out of the ordinary. There are sparse guards along the walls.
 
-Further up the shoreline, we see some folks preparing to head out to the city walls. [[Storr]] calls out to them and the badger bites Storr in the ear. The rest of the party slinks into the brush to hide. They group looks in our direction. The badger jumps off and starts nickering. The people call out, “Who goes there?”
+Further up the shoreline, we see some folks preparing to head out to the city walls. [[Storr]] calls out to them and the badger bites [[Storr]] in the ear. The rest of the party slinks into the brush to hide. They group looks in our direction. The badger jumps off and starts nickering. The people call out, “Who goes there?”
 > STORR: “I go there. Who are you?”
 >
 > PEOPLE: We were on our way into the city. We don’t come across strangers.
@@ -43,7 +43,7 @@ Further up the shoreline, we see some folks preparing to head out to the city wa
 > They look at eachother, they back away and converse. P: “Tonight is the night of the festival and its not a good night for you to be there.”
 >
 > S: Would tomorrow be better?
-We try to communicate to Storr from the bushes that we should make our way into the city, but not with these folks. They’re skeptical, they eye Storr, and then start rowing out across the river. The badger runs over to Silas and gives Storr some looks. Once the men disappear, Mochyn pads along the trail again and we follow.
+We try to communicate to Storr from the bushes that we should make our way into the city, but not with these folks. They’re skeptical, they eye Storr, and then start rowing out across the river. The badger runs over to [[Silas]] and gives Storr some looks. Once the men disappear, [[Mochyn]] pads along the trail again and we follow.
 
 We come to a manmade inlet with stone piers. Across the inlet is a set of stone stairs, probably going up the side of the second waterfall. There’s some apparati (pullies, ropes, etc)  used to carry loads up and down the slope. There are boats here. The badger starts nosing toward the boats.
 
@@ -73,12 +73,12 @@ We cross the bridge and enter the smaller structure. There's an open square in f
 
 There’s another bridge to the NE that connects to the landmass at the upper waterfall. Mochyn turns a corner and we’re standing next to the black stream on the eastern edge. The path walks along the stream and goes up to a doorway.
 
-We’ve reached the outer wall of the city. The gateway is 10 ft wide and high, like an arch. The doors are currently open. If we look out through the archway, we see the black stream flowing in. The walkway seems out of place, like it doesn’t make sense in Euclidean space. Cricket reads some text over the archway:
+We’ve reached the outer wall of the city. The gateway is 10 ft wide and high, like an arch. The doors are currently open. If we look out through the archway, we see the black stream flowing in. The walkway seems out of place, like it doesn’t make sense in Euclidean space. [[Cricket]] reads some text over the archway:
 > “The gate of [[The Oracle]]."
 This gate is freaky. We’re getting straight [[Trenewydh]] vibes from this gate.T
 
    1. [[The Boatman]]
-We leave the city and the black water is still with us, even though we couldn’t see it flowing into the city structures.
+We leave the city and [[The Black Water]] is still with us, even though we couldn’t see it flowing into the city structures.
 ![[Black lake of osgog.png]]
 
 We agree to forego the festival and follow the badger for THREE DAYS. We climb into the mountains. Trees get shorter. After an arduous climb, we arrive at a high mountain lake. We’re at elevation. Breathing is difficult. Mochyn leads us up to a small stone hut. The stream has been all black water to this point, as is the lake. This is [[The Black Lake of Osgog]]. There’s a small dock with a boat tied up. There is a little rocky island out in the middle of the lake.
@@ -104,9 +104,9 @@ The man is dressed all in black. He is old and strong. Feathers in his hair.
 >
 > BOATMAN: I cannot count the years.
 >
-> P: Who is the oracle?
+> P: Who is [[The Oracle]]?
 >
-> B: The oracle lives out on the island down in a cave. People come from far away to hear her words.
+> B: The [[The Oracle|oracle]] lives out on the island down in a cave. People come from far away to hear her words.
 >
 > P: What is her name?
 >
@@ -132,14 +132,14 @@ The man is dressed all in black. He is old and strong. Feathers in his hair.
 >
 > B: No, not particularly. The task is reward enough.
 >
-> - (Balthazar recalls [[Runic Messages#Balthazar|a runic message mentioning a boatman]].)*
+> - ([[Balthazar]] recalls [[Runic Messages#Balthazar|a runic message mentioning a boatman]].)*
 >
 > P: Do the people that go to see the oracle come back?
 >
 > B: The people that go to see the oracle do come back, presumably changed.
 Cricket recalls a message about [[Runic Messages#Cricket|“The story of daughter and mother - one and the same”]] We don't know who TW’s mother is, who [[The Abbot|the Abbott]]..ahem…bedded. 
 
-We climb down to the boat. The badger nodes to the boatman and retreats to the side of the cottage.
+We climb down to the boat. The badger nodes to [[The Boatman]] and retreats to the side of the cottage.
 
 The boatman remarks on Balthazars horn. "That is a mark I have not seen on one like you."
 
@@ -162,13 +162,13 @@ Most folks remember the first horned beings that came up over the mountains and 
 >
 > Ba: What was the city it attacked?
 >
-> Bo: The city of Mons.
+> Bo: The city of [[Mons]].
 >
 > CRICKET: Is that [[Monsoth]]?
 >
-> Bo: No, Monsoth is here if you follow the sea.
+> Bo: No, [[Monsoth]] is here if you follow the sea.
 >
-> C: Did Osgog summon his monster here?
+> C: Did [[Osgog]] summon his monster here?
 >
 > Bo: That’s a good question. Did Osgog summon a monster or did he find something ancient that was beyond the imagination of most people and therefore called it a monster because they were afraid.
 

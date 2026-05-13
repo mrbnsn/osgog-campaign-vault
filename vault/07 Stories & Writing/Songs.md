@@ -3,11 +3,8 @@ title: "Songs"
 type: writing
 tags:
   - "writing"
-  - "song-magic"
-  - "weaving"
 aliases:
   - "Songs"
-  - "Song"
 last_edited: 2026-03-20
 contributors:
   - "unknown"
@@ -21,7 +18,7 @@ contributors:
 - [[Kelynnen]] hummed this song while gathering herbs.
 
    1. [Bird's Song (Conspiracy)](https://drive.google.com/file/d/1aecWRuvlMfPpfzOEm2_8QvP-CeLCOFuX/view?usp=drive_link) :
-- This is a song that the red and golden plumed bird sang for you at the [[2024-08-15 The One Where We Meet the Local Fauna|Tree Island]].
+- This is a song that the red and golden plumed bird sang for you at the [[8/15/24 The One Where We Meet the Local Fauna|Tree Island]].
 - Gale responded to this song at the Island of the Weavers.  If Branwen hums this song while wielding Gale, foes are frightened.
 - Branwen also played this song to Jessie Buckley on the small hillock on the storm giant island. JB also played this back to Bran and the party and made us all tired.
 
@@ -32,13 +29,10 @@ contributors:
    - In his youth, Silas would hear the women going down to the river hum it
    - The Raven haired girl at [[Twrseren]] hummed this song to herself (though, [maybe this isn't true](http://[[Osgog]].mrobinson.us/index.php/11/14/24_The_One_Where_We_Encounter_Two_Distinct_and_Diametric_Sets_of_Voices#:~:text=This%20is%20probably%20not%20correct%2C%20given%20recent%20(October%202025)%20conversations%20about%20songs.)?)
    - We also [played this song in the company of the girls](http://osgog.mrobinson.us/index.php/9/26/24_The_One_Where_We_Don%27t_Quite_Get_to_Council,_but_Try_to_Find_Out_More_About_Our_Hosts#We_play_music_and_games_with_the_girls) on instruments. RHG played it on the [[Bone Flute]]:
-      - 
-> Silas takes out his pan flute.  He's never realized he has a pan flute, but it turns out he's proficient in playing one, so he probably has one. Silas plays the song from his youth, that has been hummed by the raven haired girl.    The RavenHG stares at Silas, the Blonde and Red head turn to him.  The [[Glasses Girl]] comments on the weather in the valley.  Branwen offers the RavenHG the bone flute.  She takes it and plays it *really well*.  We feel transported to… we start hearing rain.  A gentle rain storm.  MOstly a sensory memory - safe and comfortable listening to rain at night.  (Branwen notes that the last person to play that flute so well was [[The Boatman]])  Glasses girl: clouds have wafted up, and it's raining outside now.  Silas was always reminded of morning mist by that song.
-
+      - > Silas takes out his pan flute.  He's never realized he has a pan flute, but it turns out he's proficient in playing one, so he probably has one. Silas plays the song from his youth, that has been hummed by the raven haired girl.    The RavenHG stares at Silas, the Blonde and Red head turn to him.  The [[Glasses Girl]] comments on the weather in the valley.  Branwen offers the RavenHG the bone flute.  She takes it and plays it *really well*.  We feel transported to… we start hearing rain.  A gentle rain storm.  MOstly a sensory memory - safe and comfortable listening to rain at night.  (Branwen notes that the last person to play that flute so well was [[The Boatman]])  Glasses girl: clouds have wafted up, and it's raining outside now.  Silas was always reminded of morning mist by that song.
       - Silas played this song at [[[The Hill of Voices]]](http://osgog.mrobinson.us/index.php/11/14/24_The_One_Where_We_Encounter_Two_Distinct_and_Diametric_Sets_of_Voices#The_Hill_of_Voices_(Our_Second_Set)), and as he did clouds came in and socked us inside of a mist
       - At the tree after fighting the shadow bear:
-      - 
-> We play Silas’ song on the stones successfully (performance 19, -1 let’s go), we all spread out on the stones and play. As it happens, some clouds come in and obscure the stars and it gets a little misty, a gentle rain starts falling, but it’s pleasant. We’re all naturally inclined to look up into the sky and we pull our cloaks over ourselves. As we hum the tune to ourselves, we make our way to a clutter of stones beneath the tree. We find a protected spot from the rainfall, and the night loses some of its frautness. The anxiety of the evil bear and other dangers pass away. We fall asleep amidst the roots and grass and stones.
+      - > We play Silas’ song on the stones successfully (performance 19, -1 let’s go), we all spread out on the stones and play. As it happens, some clouds come in and obscure the stars and it gets a little misty, a gentle rain starts falling, but it’s pleasant. We’re all naturally inclined to look up into the sky and we pull our cloaks over ourselves. As we hum the tune to ourselves, we make our way to a clutter of stones beneath the tree. We find a protected spot from the rainfall, and the night loses some of its frautness. The anxiety of the evil bear and other dangers pass away. We fall asleep amidst the roots and grass and stones.
 
    1. [Night Storm](https://drive.google.com/file/d/1OqGpAapJUf8gXBAjZrOXnQxSuoCTUucX/view?usp=drive_link):
 - played by the black haired girl at Twrseren.

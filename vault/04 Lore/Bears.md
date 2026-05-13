@@ -3,10 +3,6 @@ title: "Bears"
 type: lore
 tags:
   - "lore"
-  - "bear-born"
-  - "arthyden"
-  - "cradle"
-  - "well"
 aliases:
   - "Bears"
 last_edited: 2025-08-21
@@ -18,14 +14,7 @@ contributors:
       1. Phase 1: The beginning (summer 2022) to [[Cricket]]'s Death (December 2023)
 The [[Characters|adventurers]] have found numerous imagery and lore related to a giant sleeping bear:
 
-- A kindly woman says this to [[Silas]] in his [[Silas#Tawesek|dream]] at [[Tawesek]], referring to a cottage on the shore of [[Lake of the Eye of Night|The Eye of Night]]:
-> *“It’s been a long while since he’s met with a bear.  Perhaps you should visit…”*
-- The same woman appears in Silas' [[Silas#The_Abbot's_Hut|dream]] at [[The Abbot]]'s hut, saying:
-> *"You have much to learn, and to see Little Bear before you make your choice.  Do you hear his whispers?  He crawled down into the ground long ago, and he sleeps on the edge of thought and dream.  We all thought that we understood him, but the Bear is clever, and deep, and it is hard to tell if his sleep is troubled."*
-She departs, and adds ethereally:
-> *"They’ll wish to return to the [[Elder Lands]] even if they don’t know, and if you look, he’s there too.  And perhaps that’s where you are, as well."*
-- [[Runic Messages#Silas|Silas's runic message]]
-> A [[Bears|bear]] knows where honey lives for both mind and body.
+- A kindly woman says this to [[Silas]] in his [[Silas#Tawesek|dream]] at [[Tawesek]], referring to a cottage on the shore of [[Lake of the Eye of Night|The Eye of Night]]:> *“It’s been a long while since he’s met with a bear.  Perhaps you should visit…”*- The same woman appears in Silas' [[Silas#The_Abbot's_Hut|dream]] at [[The Abbot]]'s hut, saying:> *"You have much to learn, and to see Little Bear before you make your choice.  Do you hear his whispers?  He crawled down into the ground long ago, and he sleeps on the edge of thought and dream.  We all thought that we understood him, but the Bear is clever, and deep, and it is hard to tell if his sleep is troubled."*She departs, and adds ethereally:> *"They’ll wish to return to the [[Elder Lands]] even if they don’t know, and if you look, he’s there too.  And perhaps that’s where you are, as well."*- [[Runic Messages#Silas|Silas's runic message]]> A [[Bears|bear]] knows where honey lives for both mind and body.
 >
 > Secretive lest others find his stores.
 >
@@ -33,10 +22,9 @@ She departs, and adds ethereally:
 >
 > He hardly knows his strength.
 >
-> But the stars see all he does.
-- Silas' seems to have encountered a slumbering, underground bear in his [[Silas#Ancient_Tree_Vision|vision]] at [[Ancient Tree|The Ancient Tree]]. In that vision, [[Silas]] soothed the fitfully sleeping bear, allowing it to turn over and dream of something beautiful.
+> But the stars see all he does.- Silas' seems to have encountered a slumbering, underground bear in his [[Silas#Ancient_Tree_Vision|vision]] at [[Ancient Tree|The Ancient Tree]]. In that vision, [[Silas]] soothed the fitfully sleeping bear, allowing it to turn over and dream of something beautiful.
 
-- In the shared [[2023-09-18 The one where we dream and fight a singular stone giant|dream]] back at the stone circle (just before we fight the stone giant), Silas senses a "giant, ancient, moss-covered bear in the roots" of The [[Ancient Tree]].
+- In the shared [[9/18/23 The one where we dream and fight a singular stone giant|dream]] back at the stone circle (just before we fight the stone giant), Silas senses a "giant, ancient, moss-covered bear in the roots" of The [[Ancient Tree]].
 
 - [[Silas#Looking_up_into_the_stars_one_night|Looking up into the night sky]] once, Silas saw, [[Silas' Conspiracy Corner#Constellations|among other images,]] "a Great Bear, and a Bear Cub with a dragon curling between them."
 
@@ -55,8 +43,7 @@ In the bear village, they talk of a hill site outside of the village, visible fr
 - They’re all trying to find the bear, but none of them know how it works. It’s when humans get arrogant and try to say, control and dictate rather than letting the bear do his work is when things go wrong.
 - He doesn't always know what the elders talk about, but in the context of the us discussing the tree at the monestary, he says: "the mother tree, the bees and the great bear are all part of one thing."
 
-- An interesting exchange at the well in [[Celliwig]], where we see [[Crone, Woman, Child / Stone, Sea, and Storm|Crone, Woman and Child]] again:
-> S asks how he can wake the great bear. 
+- An interesting exchange at the well in [[Celliwig]], where we see [[Crone, Woman, Child / Stone, Sea, and Storm|Crone, Woman and Child]] again:> S asks how he can wake the great bear. 
 >
 > Women: Are you looking for the child?
 >
@@ -70,17 +57,13 @@ In the bear village, they talk of a hill site outside of the village, visible fr
 >
 > B: Is the bear the son and the missing child is the daughter?
 >
-> Women: <They won’t clarify.>
-- An excerpt from a [message in the trees](http://[[Osgog]].mrobinson.us/index.php/11/16/23_The_one_where_we_find_a_badger,_er,_he_finds_us,_and_shows_us_the_waterfall_city) read by Cricket, and intended for [[Balthazar]] seems to hint at the bear:
-> A hearty friend awaits
+> Women: <They won’t clarify.>- An excerpt from a [message in the trees](http://[[Osgog]].mrobinson.us/index.php/11/16/23_The_one_where_we_find_a_badger,_er,_he_finds_us,_and_shows_us_the_waterfall_city) read by Cricket, and intended for [[Balthazar]] seems to hint at the bear:> A hearty friend awaits
 >
 > At the gateway, heart
 >
-> Deep within the earth
-- In [[The Waterfall City]], there was a [fountain](http://osgog.mrobinson.us/index.php/12/14/23_The_one_where_we_hit_the_festival,_get_yelled_at,_then_very_nearly_die#:~:text=[[Storr]]%20moves%20toward%20the%20fountain) of a tree in the square, with the face of a bear underneath.
+> Deep within the earth- In [[The Waterfall City]], there was a [fountain](http://osgog.mrobinson.us/index.php/12/14/23_The_one_where_we_hit_the_festival,_get_yelled_at,_then_very_nearly_die#:~:text=[[Storr]]%20moves%20toward%20the%20fountain) of a tree in the square, with the face of a bear underneath.
 
-- An exchange with the crowd at the festival:
-> You bring the other twin to the festival?
+- An exchange with the crowd at the festival:> You bring the other twin to the festival?
 >
 > Silas, putting on airs: I do indeed. Where be the other?
 >
@@ -90,9 +73,7 @@ In the bear village, they talk of a hill site outside of the village, visible fr
 >
 > Do you understand the significance of the presence of the twins?
 >
-> Silas: Of course I do. Do you??
-- Questions put to [[The Oracle]]
-> S: What do you know of the bear.
+> Silas: Of course I do. Do you??- Questions put to [[The Oracle]]> S: What do you know of the bear.
 >
 > O: The sleeper? He sleeps and some hear him. And you are marked by him.
 >
@@ -104,9 +85,7 @@ In the bear village, they talk of a hill site outside of the village, visible fr
 >
 > O: Do you not feel him everywhere?
 >
-> S: Yes
-[[[The Boatman]] seems to suggest](http://osgog.mrobinson.us/index.php/12/14/23_The_one_where_we_hit_the_festival,_get_yelled_at,_then_very_nearly_die#The_festival:~:text=turn%20back%20west.-,The%20[[The Boatman|Boatman]]%20leads%20us%20back%20to%20the%20stone%20circle,-%5Bedit%20%7C) that Silas is the bear, one of the twins:
-> B: This festival celebrates a young girl and an ancient tree who are the protectors of those who listen.
+> S: Yes[[[The Boatman]] seems to suggest](http://osgog.mrobinson.us/index.php/12/14/23_The_one_where_we_hit_the_festival,_get_yelled_at,_then_very_nearly_die#The_festival:~:text=turn%20back%20west.-,The%20Boatman%20leads%20us%20back%20to%20the%20stone%20circle,-%5Bedit%20%7C) that Silas is the bear, one of the twins:> B: This festival celebrates a young girl and an ancient tree who are the protectors of those who listen.
 >
 > C: Are those the twins?
 >
@@ -126,18 +105,11 @@ There's not a lot of great bear activity until we get to [[The Tree Island]] in 
 - In [[Meander]], the fishing village in Nyth, the innkeeper when asked about a sleeping bear, says: "Sometimes hear about a sleeping bear. It growls and rumbles and rolls in his sleep, and the wind blows and the earth shakes."
 
 - At the tree island in Nyth, the tree reminds us of the story of [[Gwedhen]], the girl who gave herself to a tree to save it, and the bear that she befriended. [We read the story and dissect it](http://osgog.mrobinson.us/index.php/8/29/24_The_One_Where_We_Leave_the_Island,_Do_Some_More_Really_Great_Speculation,_and_Sneak_Past_the_City) (more notes following in the Ruminations section.)
-At the old woman's homestead on the way to the tower:
-> [[Branwen]]: I’m new. Can you tell us more about the twins.
+At the old woman's homestead on the way to the tower:> [[Branwen]]: I’m new. Can you tell us more about the twins.
 >
 > She nods over in Silas and Arthen’s direction. “There’s one.” And she looks over to a tree to the north of the plot, and says, “There’s another.”
 >
-> The tree is a [[Derwen Trees|derwen]].
-In [Silas' [[Twrseren]] dream](http://osgog.mrobinson.us/index.php/Silas#Dream_at_Twrseren): [[Seren]] tells him that she's has traveled far among branches and stars:
-> And now we are here again, high amongst the branches in the nest of a giant she-bird. I want you to know that I climbed to the highest branches, and I leapt up amongst the stars. I’ve traveled far and wide, preparing a way for you. But I’m content now, and the task falls to you.
-She continues:
-> Almost no one hears him now. ... He’ll not awaken, but you hear him, and perhaps that’s enough. [You start to speak, but she holds up her hand to gently stop you.] Silas, she says, I won’t answer your questions. Much of this you simply have to see on your own. You’ve always learned by making your own mistakes. But perhaps I can point you in a direction, or two.
-At the waterfall fortress, conferring the [[Black Willem and Lady Fiona]]:
-> BW: Are you finished? Can we offer you wine or song?
+> The tree is a [[Derwen Trees|derwen]].In [Silas' [[Twrseren]] dream](http://osgog.mrobinson.us/index.php/Silas#Dream_at_Twrseren): [[Seren]] tells him that she's has traveled far among branches and stars:> And now we are here again, high amongst the branches in the nest of a giant she-bird. I want you to know that I climbed to the highest branches, and I leapt up amongst the stars. I’ve traveled far and wide, preparing a way for you. But I’m content now, and the task falls to you.She continues:> Almost no one hears him now. ... He’ll not awaken, but you hear him, and perhaps that’s enough. [You start to speak, but she holds up her hand to gently stop you.] Silas, she says, I won’t answer your questions. Much of this you simply have to see on your own. You’ve always learned by making your own mistakes. But perhaps I can point you in a direction, or two.At the waterfall fortress, conferring the [[Black Willem and Lady Fiona]]:> BW: Are you finished? Can we offer you wine or song?
 >
 > Balz: “One more thing,” and lowers his hood. "I’ve gotten some looks about my decorative apendages since I’ve been here. Do they mean anything to you?"
 >

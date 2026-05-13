@@ -11,13 +11,13 @@ contributors:
   - "Hoppsy"
 ---
 
-One of the craftsmen at [[Tawesek]] who took over after [[The Abbot|the Abbott]] died.
+One of the craftsmen at [[Tawesek]] who took over after [[The Abbott]] died.
 
 Married to the [[The Abbott|Abbott]]'s daughter.
 
 [[Musk]] gave us these drawings, made by Twelder.
-![[Tewlder's Drawing 2.png]]
+> [!note] Image: `Tewlder's Drawing 2.png`
 
-![[Tewlder's Drawing 1.png]]
+> [!note] Image: `Tewlder's Drawing 1.png`
 
-![[Tewlder's Drawing 3.png]]
+> [!note] Image: `Tewlder's Drawing 3.png`

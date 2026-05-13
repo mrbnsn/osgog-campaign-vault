@@ -24,7 +24,7 @@ We council with the girls.
 
 We think one of them is the girl, and talk about how they were one and the next day there was four.  We believe one of you is the child
 
-Blondie stares Branwen down and says you’re correct it is one of us…
+Blondie stares [[Branwen]] down and says you’re correct it is one of us…
 
 Branwen, which one?  Blondie asks, which one?  Blondie says you come here with this as a party, which one of us do you think it is and what is it that you’re looking for in this child?
 
@@ -66,7 +66,7 @@ We head down to Martin’s Summer. Glasses (Nori) is willing to go with us.
 
 Farm is in a cove, mountains rising on all sides, streams flow out somehow. Deep harvest time. A lot of foliage, warm reprise./ Cold nights, warm day, pumpkins are ripening. Low stone thatched buildings. [[Storr]] knows her way around, she points us out to the forest, looks desolate based on the time of year.
 
-We come down, Storr shows us the way around. 
+We come down, [[Storr]] shows us the way around. 
 
 [[Henavek (man) & Beryan (woman)|Beryan]] comes out “Hello\, Storr told me all about you, it’s nice to make your acquaintance. Branwen tries to intimidate, but it doesn’t work. Brenyan smiles and shakes her head.
 
@@ -86,7 +86,7 @@ B: Yes, I have.
 
 S: Do you know how lives there?
 
-Silas looks into her face and detects a family resemblance.
+[[Silas]] looks into her face and detects a family resemblance.
 
 ITS SILAS SISTER!!!  [[Seren]]!!
 
@@ -153,4 +153,4 @@ B is bound up in the tree, so she thinks she was bound up in the messages.
 
 We discuss the possibility that maybe the tree has in fact sent us the messages, but B was a part of that.
 
-Storr asks something. Storr Seren seems to have taken the same journey as [[Gwedhen]].
+Storr asks something. Storr [[Seren]] seems to have taken the same journey as [[Gwedhen]].

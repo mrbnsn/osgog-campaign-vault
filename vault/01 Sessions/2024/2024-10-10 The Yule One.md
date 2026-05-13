@@ -29,7 +29,7 @@ What was our impression of the visitors? We got the sense that we were the prior
 
 We loot those bodies.
 
-Armor and weapons are all bronze. Fairly heavily armored, scale or plate. Branwen’s looking for armor. (Balz has studded leather and gives it to Branwen)
+Armor and weapons are all bronze. Fairly heavily armored, scale or plate. [[Branwen]]’s looking for armor. (Balz has studded leather and gives it to Branwen)
 
 Woman has a torc around her neck made of three metals twisted together (like the ring we have)
 
@@ -62,7 +62,7 @@ Balz has a buckler made from the turtle shell.
 
    - Group undertaking:** Study magical items.
 
-Storr goes to work on Martins Summer Farm. Meets the family. She is working hard. She feels the burn of the work, pounding iron, takes out some anger and stress. Hurling hay, moving stone to make fences. She gets to know the family, the farmer. A mother and her six children. She integrates into the family. She has an experience in the log. She packs up food and hikes back up to the tower. Sheds a shadow scar. She is no longer miserable. (At the time she became miserable, our fellowship rating was 6. Is it back up to 6 now?)
+[[Storr]] goes to work on Martins Summer Farm. Meets the family. She is working hard. She feels the burn of the work, pounding iron, takes out some anger and stress. Hurling hay, moving stone to make fences. She gets to know the family, the farmer. A mother and her six children. She integrates into the family. She has an experience in the log. She packs up food and hikes back up to the tower. Sheds a shadow scar. She is no longer miserable. (At the time she became miserable, our fellowship rating was 6. Is it back up to 6 now?)
 
 Ballz talks about a proof of circles and equilateral triangles with Glasses, related to the lenses. She’s super excited that she figured this out. ([[Glasses Girl]]’s proofs)
 
@@ -70,7 +70,7 @@ DM will circle back on results of Balz undertaking based on what others manage t
 
 Branwen is SNEAKING. Trying to find out more about the girls.
 
-Silas plays a walking song.
+[[Silas]] plays a walking song.
 
 Bran reads her bit. Gwen was having a conversation with the owl, nothing desperate or fearful, a sense of purpose. There was an owl named Archimedes that was Merlin’s pet. There is also a red fox constellation and there’s a story of a fox outwitting an owl. Maybe there’s an owl constellation that wqe haven’t identified. Is there also a large owl bird that is one og the phoenix and ther goose’s ilk? This owl was large. Guessing, it was 3 or 4 feet tall.
 
@@ -82,17 +82,17 @@ Silas’s experience. The children’s circle game. Silas was older when he join
 
 Over the course of the month, no more emissaries from SK arrived. 
 
-K isn’t sure why, but he sees the blonde girl especially doing some work around the tower and she seems to be the one, she is the one that fixes it. He feels compelled to lend her his hammer to work on some things. By the end of the month, he feels compelled to give her the hammer. Why? He feels like he wanted to go and complete this task, but now his place is going back to Tawesek and carry on the Abbots legacy there, and return to the mountains that he hears calling him. He sees her fixing things, and he sees her using it better than he, and he gives it to her “in her keeping, to choose its destiny”. Still open for us to take it with us.
+K isn’t sure why, but he sees the blonde girl especially doing some work around the tower and she seems to be the one, she is the one that fixes it. He feels compelled to lend her his hammer to work on some things. By the end of the month, he feels compelled to give her the hammer. Why? He feels like he wanted to go and complete this task, but now his place is going back to [[Tawesek]] and carry on the Abbots legacy there, and return to the mountains that he hears calling him. He sees her fixing things, and he sees her using it better than he, and he gives it to her “in her keeping, to choose its destiny”. Still open for us to take it with us.
 
 Balz would like to sketch K’s tattoos before he departs.  
 
 Balz is looking for leads about potential new locations that might be a good spot for celestial observation or landmarks that S might know about that are mysterious that might be worth chiecking out. Probably not more than the map of [[Nyth]] we already have. Stuff close by, his world doesn’t extend much beyond the tower. You can go up the tower, and down into the valley to Storr’s farm. 
 
-Has he heard of anyone in Nyth that might have a map of someplace outside of Nyth, a treasured possession that they might not understand?
+Has he heard of anyone in [[Nyth]] that might have a map of someplace outside of Nyth, a treasured possession that they might not understand?
 
 We need to determine what our next step is, and then we can unlock more about Balz interfacing with S. 
 
-Silas asks the blonde girl about the game, she says it’s called “playing cradle”, the person in the middle is in [[The Cradle]] and spin around them. Just a gesture, no words. He thought he saw them playing this upon waking. The cradle is also the name of the symbol we found in front of the tree of seasons, which [[2024-08-08 The One Where Silas and Balz Contemplate Trees|Silas has also seen in henges in his homeland]].  
+Silas asks the blonde girl about the game, she says it’s called “playing cradle”, the person in the middle is in [[The Cradle]] and spin around them. Just a gesture, no words. He thought he saw them playing this upon waking. [[The Cradle]] is also the name of the symbol we found in front of the tree of seasons, which [[2024-08-08 The One Where Silas and Balz Contemplate Trees|Silas has also seen in henges in his homeland]].  
 
 Silas asks Gwen about the honey. She has hives tucked down near the back entrance of the tower. Some of the bees presumably head down to the forest, other search out alpine plants. Always kind of fascinated by bees and beekeeping. Honey is so nourishing and delicious and loves the process of beekeeping.  Bears don’t come up this far. Only interested in crawling up into a cave. Silas expresses interested in seeing the hives. She does, gross woven skips. Gwen ahsn’t heard of of other sources of honey or bees? Not particularly. 
 

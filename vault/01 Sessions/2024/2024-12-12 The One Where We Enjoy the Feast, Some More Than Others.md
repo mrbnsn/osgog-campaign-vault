@@ -21,7 +21,7 @@ And so we engage in our own happenings with the DM.
 
 Things that the party did:
 
-Storr decides to seek out Branwen and Silas. She stands up and sees Branwen talking to the elder and goes over there.
+[[Storr]] decides to seek out [[Branwen]] and [[Silas]]. She stands up and sees Branwen talking to the elder and goes over there.
 
 Branwen goes to talk to Rhian. - *This conversation didn't yield anything very fruitful.  This village worships Gwenethen and [[Gorgomog]], and don't seem to make the connection to [[Mabmnoss|Morianoth]], that Branwen figures is pretty obvious.*
 
@@ -31,7 +31,7 @@ Silas sneaks away from Branwen successfully with Arthen. They make their way out
 
 Balz is conversing with Mowen courteously, if a little apprehensively. 
 
-Silas and Arthen make a scene coming back in. Arthen is covered in feathers and grease. Krambler goes over to Silas to help. The three make a break for the stage, drunk, dirty and disruptive.  Branwen casts darkness on the corner they’re in. Everyone in the place is shocked and scared at this sudden darkness and they retreat to the far corner.
+Silas and Arthen make a scene coming back in. Arthen is covered in feathers and grease. [[Krambler]] goes over to Silas to help. The three make a break for the stage, drunk, dirty and disruptive.  Branwen casts darkness on the corner they’re in. Everyone in the place is shocked and scared at this sudden darkness and they retreat to the far corner.
 
 K tries Prestidigitation in the face of B’s darkness, and can’t do it. He’s freaked. 
 

@@ -5,10 +5,6 @@ tags:
   - "meta"
 aliases:
   - "Fellowship Phases"
-  - "fellowship phase"
-  - "Fellowship Phase"
-  - "Fellowship Rating"
-  - "Fellowship rating"
 last_edited: 2024-05-23
 contributors:
   - "SilasWoodhenge18"

@@ -3,10 +3,6 @@ title: "Branwen's Branches"
 type: writing
 tags:
   - "writing"
-  - "party/branwen"
-  - "three-women"
-  - "derwen"
-  - "raven"
 aliases:
   - "Branwen's Branches"
 last_edited: 2026-05-12
@@ -19,13 +15,13 @@ Come, sit and ponder with me this dark and clear night.
 Pull up a stone, listen to the wind, and sift through the rivers of lore.
 
 ~[[Branwen]]
-![[Branwen 2.0.png]]
+> [!note] Image: `Branwen 2.0.png`
 
    1. 12/5/2025 A Moon Shaped Horn
 Crescent moon horns are associated with the [[Moon King]], whom know to be [[Gorgomog]], god of the dead, and we've heard that he's trapped beneath the lake. The lake is leaking black water into the world.
 
 - Silas' vision of the Bear with moon horns - possible that the Bear (The Twins entirely?) are under the influence of some power that originates from the Moon King - some deathly power that is sedating the Bear.
-- The Tree is the other Twin - perhaps [[The Black Water]] is some of the Moon King's power, and some of it has gotten into the tree's water supply - [[2023-09-11 THE ONE WHERE WE LOOT THE “DEBTREE”|see this tree note]] . This meshes nicely with the previous bullet.
+- The Tree is the other Twin - perhaps [[The Black Water]] is some of the Moon King's power, and some of it has gotten into the tree's water supply - [[9/11/23 THE ONE WHERE WE LOOT THE “DEBTREE”|see this tree note]] . This meshes nicely with the previous bullet.
 
 MK power is affecting the Bear.   Next question is who directs that power, and to what end?
 
@@ -42,44 +38,34 @@ These are some repeated themes we've encountered in our journey.  The intent is 
    1. Sacrifices
 A common theme is giving up something to gain something else.  Give and take.  Life and death.  Balance and circles.
 
-- [[The Abbot]], [[The Abbot|Bryok]].  He willingly gave his life as sacrifice for something.   What was it?
-- [[Weyland]]: **You must give up something - you must cease to see some things so that you may see others**.  You must give me one of your eyes, and then you will be able to see what must be done.”  So the boy gave the King of Stone one of his eyes. And the King of Stone said:  “I will take your eye, and I will turn it into stone, and it will look like a storm in the sky, and I will cast it into the sea like the old oath”, and this he did.
+- [[The Abbot]], [[Bryok]].  He willingly gave his life as sacrifice for something.   What was it?
+- [[Weyland]]: **You must give up something - you must cease to see some things so that you may see others**.  You must give me one of your eyes, and then you will be able to see what must be done.”  So the boy gave the King of Stone one of his eyes. And the King of Stone said:  “I will take your eye, and I will turn it into stone, and it will look like a storm in the sky, and I will cast it into the sea like the old oath”, and this he did.
 - [[Cricket]]. *he found someone who understood that the only way for one thing to gain, is for another to lose.*
-- [[Gwedhen]]: 
-> And [[Gwedhen]] took a basket made from twisted grasses from the wreckage around the tree, and scooped what water she could from the well, and put out the last of the coals, but she saw that the tree was dying.  The leaves shuddered, and began to droop, and the flowers which the bees came to drink from began to drop their petals.  Again, the Bear looked at her with his deep green eyes, and she understood his request.  She lay herself against the trunk, which groaned, and crack opened in its side.  And Gwedhen stepped into the crack, which closed around her, and she was seen no more.  Hwedhel stood when she was gone, and walked to the tree, and placed his hand on the rough bark, and felt life return to the tree.  And he put his hand on the Bear, who looked at him with sad and kindly eyes, and nodded in thanks for the **sacrifice**, and then strode off to his cave.
+- [[Gwedhen]]: > And [[Gwedhen]] took a basket made from twisted grasses from the wreckage around the tree, and scooped what water she could from the well, and put out the last of the coals, but she saw that the tree was dying.  The leaves shuddered, and began to droop, and the flowers which the bees came to drink from began to drop their petals.  Again, the Bear looked at her with his deep green eyes, and she understood his request.  She lay herself against the trunk, which groaned, and crack opened in its side.  And Gwedhen stepped into the crack, which closed around her, and she was seen no more.  Hwedhel stood when she was gone, and walked to the tree, and placed his hand on the rough bark, and felt life return to the tree.  And he put his hand on the Bear, who looked at him with sad and kindly eyes, and nodded in thanks for the **sacrifice**, and then strode off to his cave.
 
    1. The Dead
 - Druids, according to [[Gwedhen|Gwedhen:]] They gave their Dead to the earth, so that they would be protected, and distrusted the people in the valleys who could not see the beauty of the untamed wilds.
-- Mother Night: *I was granted power long ago through no wish of my own.  Power is always granted from without.  Perhaps I was made from it.  Those that wish power must use force, but I have no such desire, and so no such need.  **But the Dead are forgotten at the risk of greater harm, and when feared, well, let us say they have their revenge - a revenge they never sought.***
+- Mother Night: *I was granted power long ago through no wish of my own.  Power is always granted from without.  Perhaps I was made from it.  Those that wish power must use force, but I have no such desire, and so no such need.  **But the Dead are forgotten at the risk of greater harm, and when feared, well, let us say they have their revenge - a revenge they never sought.***
 - *It is up to the living to find the endlessly flowing wisdom of the Dead. ~*Mother Night
-- *As the dead  lose their grip the crack widens, i watch the best I can drinking from the well* (The Twins / The Tree watches?)
-- [[Kerenja]] came from a grove surrounded by high dirt mounds, striding out with unusual confidence.  She gave Gale to [[Mannix]], said it was a "family heirloom".   Who is this Kerenja?  Wife of [[Bremphyr|Bremfyr]].
+- *As the dead  lose their grip the crack widens, i watch the best I can drinking from the well* (The Twins / The Tree watches?)
+- [[Kerenja]] came from a grove surrounded by high dirt mounds, striding out with unusual confidence.  She gave Gale to [[Mannix]], said it was a "family heirloom".   Who is this Kerenja?  Wife of Bremfyr.
 
    1. The Incident Long Ago
-According to [[The Boatman]]: 
-> [[2023-12-07 The one where we talk with The Boatman and make our choice|There was a man who delved deep beneath the earth and thought long and hard and succeeded in placing many names, and focused too deeply on the thing beneath the lake, and it escaped, and it escaped into him, and that happened long, long ago. **Words can bring you too near to a thing and it can be dangerous.**]]
+According to [[The Boatman]]: > [[12/7/23 The one where we talk with The Boatman and make our choice#:~:text=There was a,can be dangerous|There was a man who delved deep beneath the earth and thought long and hard and succeeded in placing many names, and focused too deeply on the thing beneath the lake, and it escaped, and it escaped into him, and that happened long, long ago. **Words can bring you too near to a thing and it can be dangerous.**]]
 >
 > Question: Have you been to Caer **[[Osgog]]**.
 >
-> [[The Boatman|Boatman]]: I have, long ago. Long ago, people left their homes and followed **one of the sons of Mons** **in his labors to try to contain that which some fear live beneath this lake**. And they created a city in the name of the son who has long ago disappeared.
-According to a poem:
-> *[[Various Writings|Deeper still into geologic gold]]*
+> Boatman: I have, long ago. Long ago, people left their homes and followed **one of the sons of Mons** **in his labors to try to contain that which some fear live beneath this lake**. And they created a city in the name of the son who has long ago disappeared.According to a poem:> *[[Various Writings|Deeper still into geologic gold]]*
 >
 > - [[Various Writings|Like a sword sheathed in meteors]]*
 >
 > - [[Various Writings|I plunged my turbulent and tender hand]]*
 >
-> - [[Various Writings|Into the most genital of earthly places]]*
-According to the forest sentinels:
-> [[2024-05-09 The One Where We Meet The Limb Entity and (Some Of Us) Receive Our Shadow Scars|Long ago someone burrowed down and created a soft spot between different places that have long been separated.]] 
+> - [[Various Writings|Into the most genital of earthly places]]*According to the forest sentinels:> [[5/9/24 The One Where We Meet The Limb Entity and (Some Of Us) Receive Our Shadow Scars#:~:text=Long ago someone burrowed down and created a soft spot between different places that have long been separated. We know this a weak spot, but given proper direction, people could potentially travel along it.|Long ago someone burrowed down and created a soft spot between different places that have long been separated.]] 
 >
-> [[2024-05-09 The One Where We Meet The Limb Entity and (Some Of Us) Receive Our Shadow Scars|We know this a weak spot, but given proper direction, people could potentially travel along it.]]
-According to the Man in the Tower:
-> [[2023-11-09 The One Where we Got the Code Beforehand|The man tells Cricket: “I was a watcher under the towers and I left long ago but part of me was wrapped in this shadow, but the burden has been lifted.”]]
+> [[5/9/24 The One Where We Meet The Limb Entity and (Some Of Us) Receive Our Shadow Scars#:~:text=Long ago someone burrowed down and created a soft spot between different places that have long been separated. We know this a weak spot, but given proper direction, people could potentially travel along it.|We know this a weak spot, but given proper direction, people could potentially travel along it.]]According to the Man in the Tower:> [[11/9/23 - The One Where we Got the Code Beforehand#:~:text=The man tells Cricket: “I was a watcher under the towers and I left long ago but part of me was wrapped in this shadow, but the burden has been lifted.” And he evaporates.|The man tells Cricket: “I was a watcher under the towers and I left long ago but part of me was wrapped in this shadow, but the burden has been lifted.”]]
 >
-> About the Man: He sees in the space of [[Silas]]  a pale figure being buffeted and swirled around in this darkness. He doesn’t necessarily look thrilled to be where he is. The shadow is possessing him. Silas, a shadow, and a man, all layered over him. Silas is on the outside, the shadow, and then the man on the inside.
-According to the Triumverate:
-> [[Silas' Conspiracy Corner|The sun husband turned black]]  (son husband?)
+> About the Man: He sees in the space of [[Silas]]  a pale figure being buffeted and swirled around in this darkness. He doesn’t necessarily look thrilled to be where he is. The shadow is possessing him. Silas, a shadow, and a man, all layered over him. Silas is on the outside, the shadow, and then the man on the inside.According to the Triumverate:> [[Silas' Conspiracy Corner#:~:text=Child: The sun husband turned to black.|The sun husband turned black]]  (son husband?)
 
 We see [[Party Items|a feather]] in the water. Cricket picks it up. It appears to made out of metal - silver and gold. It’s a quill pen.
 
@@ -88,14 +74,14 @@ The statue in the village is of a man with a quill.  We hear he left the village
 Current theory is that [[Prydyh]], watched from beneath the tower, and as a poet, put into words what he saw, and it consumed him.  Or something, like he traveled into the land of the dead, through the prison we passed through, and released some evil.  The poet was a watcher in the tower who was tainted by a shadow released through this event.  He released a part of the thing locked beneath the lake. 
 
    1. Trinities
-![[The harmonius pattern of strangely colored lobes carved into a stone at the base of the tree.png]]
+> [!note] Image: `The harmonius pattern of strangely colored lobes carved into a stone at the base of the tree.png`
 
 - Life, Death and Rebirth
 - Maiden, Mother and Crone
 - Land, Sea and Sky
 - The 3 children of [[Gorgomog]] and [[Morianoth]] ([[Mons]] [[Ceridwen]] and [[Torval]]), aka the 3 siblings in [[How Old Brother Found Fire]]
 - The 3 stone women: [[Crone, Woman, Child / Stone, Sea, and Storm|Stone, Sea and Storm]] (Maiden mother crone)
-- [[The God King]] (unreliable narrator, though. Careful.) : "**three dark enchantresses** who lived amongst the stones of the mountains - sisters who were possessed of the power of primordial chaos", who "changed" [[Mabmnoss|Morianoth]].
+- [[The God King]] (unreliable narrator, though. Careful.) : "**three dark enchantresses** who lived amongst the stones of the mountains - sisters who were possessed of the power of primordial chaos", who "changed" [[Morianoth]].
    - The three enchantresses are Stone Sea and Storm, who took affront to the King and Queen's ordering of the world.  
       - .."he spoke the names of the enchantresses, and the **earth** shook, and the **sky** wept, and the **seas** raged as they battled across the earth"
       - Morianoth and Gorgomog sang secret names, and **bound the enchantresses in a prison deep beneath the earth**
@@ -109,7 +95,7 @@ Current theory is that [[Prydyh]], watched from beneath the tower, and as a poet
 - [[The God King]]: "three dark enchantresses who lived amongst the stones of the mountains - **sisters** who were possessed of the power of primordial chaos", who "changed" Morianoth.
 - [[The God King]]: The world was left in the hands of G & M's children after they left - Gorgomog + Morianoth --> Mons, Ceridwen, Torval
 - Silas sees the [Two Brothers](http://osgog.mrobinson.us/index.php/Silas%27_Conspiracy_Corner#The_sleeping_Bear:~:text=Milky%20Way.-,Two%20Brothers,-[[Tewlder]]%20and%20[[Musk]]) constellation in the sky
-- [Five statues](http://osgog.mrobinson.us/index.php/10/30/23_-_%E2%80%9CThe_one_where_we_left_off_at_the_well,_and_Silas_and_Krambler_had_just_dived_into_the_well%E2%80%A6a.k.a_the_one_where_Paul_has_major_connectivity_issues.%E2%80%9D#:~:text=a%20male%20statue%20(brother)%20holding%20a%20dagger%20in%20one%20hand%20and%20a%20big%20piece%20of%20cloth%20draped%20over%20his%20other%20arm.) in the tower are siblings sired by Mons and Doldelhan.  ([[Rhiannon]], Osgog, Bremfyr,  [[Kevnis]], [[Crochenwen|Priweythva]]/[[Crochenwen]])
+- [Five statues](http://osgog.mrobinson.us/index.php/10/30/23_-_%E2%80%9CThe_one_where_we_left_off_at_the_well,_and_Silas_and_Krambler_had_just_dived_into_the_well%E2%80%A6a.k.a_the_one_where_Paul_has_major_connectivity_issues.%E2%80%9D#:~:text=a%20male%20statue%20(brother)%20holding%20a%20dagger%20in%20one%20hand%20and%20a%20big%20piece%20of%20cloth%20draped%20over%20his%20other%20arm.) in the tower are siblings sired by Mons and Doldelhan.  ([[Rhiannon]], Osgog, Bremfyr,  [[Kevnis]], [[Priweythva]]/[[Crochenwen]])
 
    1. [[Mabmnoss|Mabmnoss/Raven Queen/Morianoth]]/Mother Night
 - **Multifaceted goddess.**  
@@ -123,12 +109,10 @@ Current theory is that [[Prydyh]], watched from beneath the tower, and as a poet
 - [[Morianoth]] developed wings in [[The God King]].  She's described as fair haired, but is changed by "three dark enchantresses who lived amongst the stones of the mountains"
    - [[Mog]] told us himself that his wife is Morianoth.  (Is [[Mog]] actually Gorgomog from the tale?)
    - The 3 Statue Women indicated that Morianoth and [[Mabmnoss]] were the same.
-- [[How Old Brother Found Fire]]: "But I have brought you both a boon, from a **Black Bird** that flies high upon the winds of storms.  And I know that this bird brings many things, **trouble**, but also knowledge, and I think that we have much to learn from him, because I believe that he comes from our **Mother**.”  (note: Honey Woman thought the raven woman would bring trouble)
+- [[How Old Brother Found Fire]]: "But I have brought you both a boon, from a **Black Bird** that flies high upon the winds of storms.  And I know that this bird brings many things, **trouble**, but also knowledge, and I think that we have much to learn from him, because I believe that he comes from our **Mother**.”  (note: Honey Woman thought the raven woman would bring trouble)
 - Cricket had dreams where he'd be visited by a raven or by a raven woman.
 - In [[Weyland]], a wolf takes [[Weyland]]'s mother, Morgan into the mountains, where it is cold and icy, and Weyland does not find her, but rather a burning heart inside the wolf.
-- [[Branwen]]'s visions of the Night Queen include the following: 
-> *The old battle with human arrogance is unending, and my time in hiding will run its course soon enough.  They always defeat themselves, but they need not cause such misery.  **I am in the air, and the earth, and the flowing water**, indifferent as they are*  *And with that, she blows onto your face, and the scent of her breath is full of the smell of cinnamon, and t**he sounds of the night wind in leaves, and the voice of the river rushing over the rounded stones at its bottom***
-These references to air, earth, water are VERY reminiscent of Stone, Sea and Storm.  Morianoth was "changed" by a spell placed upon her by the 3, according to the God King story.  Perhaps this incident made her what she is today - no longer human, powerful, a Night Queen who reveres the dead, keeps the balance.  
+- [[Branwen]]'s visions of the Night Queen include the following: > *The old battle with human arrogance is unending, and my time in hiding will run its course soon enough.  They always defeat themselves, but they need not cause such misery.  **I am in the air, and the earth, and the flowing water**, indifferent as they are*  *And with that, she blows onto your face, and the scent of her breath is full of the smell of cinnamon, and t**he sounds of the night wind in leaves, and the voice of the river rushing over the rounded stones at its bottom***These references to air, earth, water are VERY reminiscent of Stone, Sea and Storm.  Morianoth was "changed" by a spell placed upon her by the 3, according to the God King story.  Perhaps this incident made her what she is today - no longer human, powerful, a Night Queen who reveres the dead, keeps the balance.  
    - Maybe she did something to take their power and encase them in the statues?
    - More likely: she is a part of them, they are a part of her.
 
@@ -146,9 +130,7 @@ These references to air, earth, water are VERY reminiscent of Stone, Sea and Sto
    - Has sent minions after Balthazar, and to the tower in the mountains - looking for a girl?
 
    1. Order vs Chaos
-- [[Foamflower]] - men of the old world land and found [[Monsoth]].  We think the Boy is Bryok, as he is literally a foundling in the story.  May be a leap of logic?
-> ...following the Boy Who Had No Name - they walked up the stream until they reached a hollow between the three hills where a spring rose from the earth, and they were amazed, for the place was beautiful, and perfect.  The Spring stood as a perfect circle in a clearing that was also a perfect circle, and around the clearing were twelve trees, all tall and straight, and each of it’s own kind. And Kenza said: “This place is the world showing tribute to Mons and his twelve spoked wheel - it is a holy place, and shall be kept as such forever.”  But the Boy Who Had No Name said “it is not.  **For Mons is a Lord of Men, and what they do with their hands, and yet this place has not been touched by the hands of men.  This is a place that celebrates a different power than the power of men.**
-
+- [[Foamflower]] - men of the old world land and found [[Monsoth]].  We think the Boy is Bryok, as he is literally a foundling in the story.  May be a leap of logic?> ...following the Boy Who Had No Name - they walked up the stream until they reached a hollow between the three hills where a spring rose from the earth, and they were amazed, for the place was beautiful, and perfect.  The Spring stood as a perfect circle in a clearing that was also a perfect circle, and around the clearing were twelve trees, all tall and straight, and each of it’s own kind. And Kenza said: “This place is the world showing tribute to Mons and his twelve spoked wheel - it is a holy place, and shall be kept as such forever.”  But the Boy Who Had No Name said “it is not.  **For Mons is a Lord of Men, and what they do with their hands, and yet this place has not been touched by the hands of men.  This is a place that celebrates a different power than the power of men.**
 - [[The God King]]: Gorgomog + Morianoth vs 3 dark enchantresses. 
 - Krambler's hammer?
 
@@ -160,7 +142,7 @@ These references to air, earth, water are VERY reminiscent of Stone, Sea and Sto
 
 The Honey Woman uses bees to watch [[Geshwa]]
 
-Beehive in the tree on the island [[2024-08-15 The One Where We Meet the Local Fauna]]
+Beehive in the tree on the island [[8/15/24 The One Where We Meet the Local Fauna]]
 
 Raven Queen said to Branwen:  "*I am all powerful, and no more than the humblest of bees"*
 
@@ -176,8 +158,8 @@ Bees make honey...which could be life symbolism?
 - Honey Woman watched and waited
 - Bryok reportedly left the city to keep a watch
 - The centaur and satyr and the insect
-- [[2023-09-11 THE ONE WHERE WE LOOT THE “DEBTREE”|The poem in charcoal mentions "I watch the best I can // Drinking from the well"]]
-- The Boatman [[2023-11-30 The one where we follow the badger and meet the oracle|watched]] the black water - part of an ancient evil and there are those of us that are tasked to watch it and protect from its reemergence
+- [[9/11/23 THE ONE WHERE WE LOOT THE “DEBTREE”#:~:text=I watch the,The well.|The poem in charcoal mentions "I watch the best I can // Drinking from the well"]]
+- The Boatman [[11/30/23 The one where we follow the badger and meet the oracle#:~:text=P: What do,from its reemergence.|watched]] the black water - part of an ancient evil and there are those of us that are tasked to watch it and protect from its reemergence
 
    1. Dragons
 Gwen: She’s heard of a dragon. The dragon was an embodiment of the earth’s wisdom. It possibly might be eldest. It may be the oldest thing out there.
@@ -212,7 +194,7 @@ Osgog made a [[Osgog and the Dragon|Dragon]] to free his mother.
 | [[Ceridwen]] |  |  | She of the Twins, listens to the world, learns the names of things |  |  |  |  |  |  |
 | [[Torval]] |  |  | Old Brother (He of the Twins), [Oldest of the Three](http://osgog.mrobinson.us/index.php/How_Old_Brother_Found_Fire#:~:text=And%20you%2C%20Oldest%2C%20will%20always%20be%20most%20my%20child). | Given fire - spoken to by the wind, brought on by a raven... |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |
-| [[Doldhelan]] | Noswaith | Watching Mons | Wife of Mons. Mother of the five below. | [[Mons and Bargos]] See the end. That's her. |  |  |  |  |  |
+| [[Doldhelan]] | [[Doldhelan|Noswaith]] | Watching Mons | Wife of Mons. Mother of the five below. | [[Mons and Bargos]] See the end. That's her. |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |
 | [[Kevnis]] |  |  |  |  |  |  |  |  |  |
 | [[Bremphyr]] | [[Weyland]] |  | One Eyed Blacksmith.  Forger of Gale. | God king after Mons' fall? | Father of Bryok. |  | Married to Kerenja. |  | [[Bryok]]'s father. |
@@ -261,16 +243,13 @@ Osgog made a [[Osgog and the Dragon|Dragon]] to free his mother.
       - * Taken by the greatest wolf to the north, snow and ice.
       - * Wolf slain, burning hot heart, no Morgan to be found.
       - From [[Geshwa]]:
-      - * far in the north, Icebeard found something - or someone.  Trapped in the snow, or made from it, he found a woman, both beautiful and terrible to behold.  Her skin was like the snow and ice: pale, and hard, and her hair was like the shadows of the wind.  And as he began to dig her out, he found that she had wings like a bird - also black like shadows of the wind, but also at time reflecting starlight, and all the colors it contained.  
+      - * far in the north, Icebeard found something - or someone.  Trapped in the snow, or made from it, he found a woman, both beautiful and terrible to behold.  Her skin was like the snow and ice: pale, and hard, and her hair was like the shadows of the wind.  And as he began to dig her out, he found that she had wings like a bird - also black like shadows of the wind, but also at time reflecting starlight, and all the colors it contained.  
       - * Honey Woman gave her honey, and brought her back to life - or perhaps to full life for the first time....this woman will bring trouble wherever she goes…
       - **Conjectures**.  
-      - * Newer idea: The Moon King (GMog) got into some trouble (maybe Mons overthrew him - GMog IS the god of death) and trapped him under the lake.  He and Morianoth defeated the 3 enchantresses:
-> Morianoth and Gorgomog sang secret names, and bound the enchantresses in a prison deep beneath the earth.  And Morianoth and Gorgomog cast down the throne from the heights of the Temple where it shattered utterly on the ground.  And they joined hands and spoke to the stones of the temple, and asked for passage into its interior and descended out of the world abandoning the people, so that no being could be possessed of their power until the temple is broken. And so the world passed into the hands of their children, who lacked their wisdom and strength, and so there is still sickness, for the names of ancient evil have been lost, and none now know them.  But it is said that some day their youngest child will arise, and with the child’s help Gorgormog and Morianoth will be found, and that the people will live in the bliss of the world’s bounty forever.
-I think the two of them found power from the Dead to **defeat*** the 3 (Stone Sea Storm) (tame the chaos of the world?).  In doing so they "became" the gods of Death - the Moon King and Mother Night. 
+      - * Newer idea: The Moon King (GMog) got into some trouble (maybe Mons overthrew him - GMog IS the god of death) and trapped him under the lake.  He and Morianoth defeated the 3 enchantresses:> Morianoth and Gorgomog sang secret names, and bound the enchantresses in a prison deep beneath the earth.  And Morianoth and Gorgomog cast down the throne from the heights of the Temple where it shattered utterly on the ground.  And they joined hands and spoke to the stones of the temple, and asked for passage into its interior and descended out of the world abandoning the people, so that no being could be possessed of their power until the temple is broken. And so the world passed into the hands of their children, who lacked their wisdom and strength, and so there is still sickness, for the names of ancient evil have been lost, and none now know them.  But it is said that some day their youngest child will arise, and with the child’s help Gorgormog and Morianoth will be found, and that the people will live in the bliss of the world’s bounty forever.I think the two of them found power from the Dead to **defeat*** the 3 (Stone Sea Storm) (tame the chaos of the world?).  In doing so they "became" the gods of Death - the Moon King and Mother Night. 
       - * *Note: *I am in the air, and the earth, and the flowing water, indifferent as they are.*  Did Morianoth ***join*** with the Stone Sea and Storm? 
       - * Older idea: Questionable, at this point.  How can it relate to the above point?  Morianoth/Morgan escaped a trap from the 3 by expending her inner flame, which burned a bowl into the mountain, left her cold, drained and exhausted, and changed.  She no longer has the fire, but still has the love of living things - with the respect for the circle of life.  The blacksmith son (Weyland/Bremfyr) found this location while searching for his mother and setup a forge
-      - * Random thought of the above.  Bremfyr is Ceridwen's son.  Morgan could be Ceridwen.  Maybe mother and daughter followed the same path - Ceridwen had to contain a wild evil (wolf) and gave herself to the dead, became a part of death, joined her mother in sealing the chaos???  See Cricket's message: 
-> There are some who live as both a flying thing and its prey.   **The story of daughter and mother: one and the same.**  Are all things circles?  We move the pieces on the board, but who moves us?  The sun and moon turn in circles in the sky; bees and pawns and mothers.
+      - * Random thought of the above.  Bremfyr is Ceridwen's son.  Morgan could be Ceridwen.  Maybe mother and daughter followed the same path - Ceridwen had to contain a wild evil (wolf) and gave herself to the dead, became a part of death, joined her mother in sealing the chaos???  See Cricket's message: > There are some who live as both a flying thing and its prey.   **The story of daughter and mother: one and the same.**  Are all things circles?  We move the pieces on the board, but who moves us?  The sun and moon turn in circles in the sky; bees and pawns and mothers.
 
 Children of Mons, based on Statues in the tower.  Includes the gifts they *may* have given Mons, as per Mons vs God of Death  
 
@@ -288,7 +267,7 @@ Seeing all that was or is
 
 They found two mysteries                              // One mystery in the snow is Morgan.  The other one?
 
-   within the snow
+   within the snow
 
 Again they are well hid                                  // ? Bear is sleeping.  Tree is elsewhere...
 

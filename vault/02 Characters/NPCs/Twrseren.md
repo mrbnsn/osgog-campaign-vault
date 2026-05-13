@@ -4,9 +4,6 @@ type: character
 tags:
   - "character"
   - "npc"
-  - "twrseren"
-  - "sisterhood"
-  - "nyth"
 aliases:
   - "Twrseren"
 last_edited: 2026-05-10

@@ -18,7 +18,7 @@ We descend into darkness. It’s very dark. At first we can hear everyone, and w
 
 We wake up by this very shallow water. It feels like we’re up in hills. The stars are very bright above us. Patches of mist float around us in this moor. It’s wet, but we;re in a dry spot. We could probably wade into the water. At the edge, there are fir trees. When we left, it was fall. It seems that this is a crisp fall night, sometime in October. 
 
-We feel that something is strange, but not ominous. There’s no sense of where Bal and Branwen would be. This doesn’t feel familiar but Krambler maybe has seen similar places around [[Tawesek]], high bogs in mountains in hill country. Silas isn’t sure where this would be. Definitely northern latitude. About 1000 feet above sea level.
+We feel that something is strange, but not ominous. There’s no sense of where Bal and [[Branwen]] would be. This doesn’t feel familiar but [[Krambler]] maybe has seen similar places around [[Tawesek]], high bogs in mountains in hill country. [[Silas]] isn’t sure where this would be. Definitely northern latitude. About 1000 feet above sea level.
 
 This area feels strange, but also real. The colors seem super saturated. Feels magical, but we’re definitely present, and here. 
 
@@ -37,7 +37,7 @@ The rock itself is a statue of a robed woman.
 
 Silas feels eerie. Not what he expected. Almost convinced it was a rock before, and as he approached may have changed into this statue. Two tones sound.
 
-Krambler and Storr join. Krambler, the stone expert, examines the statue. He’s convinced it’s not manmade. Looking for marks of making. There aren’t any. Has not been crafted of tools he knows of. Strangly like the earth has thrusted up this structure.
+Krambler and [[Storr]] join. Krambler, the stone expert, examines the statue. He’s convinced it’s not manmade. Looking for marks of making. There aren’t any. Has not been crafted of tools he knows of. Strangly like the earth has thrusted up this structure.
 
 Silas communes with nature, targeting the statue, trying… His awareness pushes outwards. Very nearby, he feels a number of glowing spots. Most of them a purple. Three are close by to the south east that are other colors. Hard to identify what the colors are, dark and old. Awareness pushes out again. He feels the hill we’re in. Higher points, one to the north, one to the south east. Out. Rolling downs, very wild. Off to the north, off to the north,. People travel on a line running southwest to northeast.
 
@@ -74,7 +74,7 @@ Silas steps onto the stone and wild shapes into a bear. More tones.
 
 The tones seem to have some mathematically pattern, much like some sequence named after an Italian mathematician. We recall the poem written on the wall of the tower that ended in “The Foundling”, where we met the man enshrouded in shadow. He was “the watcher under the tower”
 
-Silas: Does Seren know the watcher under the towers?
+Silas: Does [[Seren]] know the watcher under the towers?
 
 Child: “They should have left him under our charge, but humans are arrogant and self absorbed.”
 

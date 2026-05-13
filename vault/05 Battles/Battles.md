@@ -26,7 +26,7 @@ contributors:
 - [[Three Big Bears (Battle)]]
 - [[The Stone Giant (Battle)]]
 - [[Various Experiments on Innocent animals (Battle)]]
-- [[The Grass - Onion guys (Battle)]]
+- [[The Grass / Onion guys (Battle)]]
 - [[Three more Big Bears (Battle)]]
 - [[The Scary Shadow Thing in the Tower (Battle)]]
 - [[The Winter Man Fighter and the Ice Dagger Monk Lady (Battle)]]

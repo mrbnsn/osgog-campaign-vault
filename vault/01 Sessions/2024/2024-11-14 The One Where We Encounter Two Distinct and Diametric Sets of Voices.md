@@ -19,7 +19,7 @@ contributors:
 
 We approach and see if the last guy is still alive. [[Branwen]] stabalizes him for 1HP.
 
-Branwen says, “Fuck you for killing Koweth, but he’ll be back. You’re actions mean nothing.”
+[[Branwen]] says, “Fuck you for killing Koweth, but he’ll be back. You’re actions mean nothing.”
 
 He rolls, coming in and out of consciousness and says “I know a spy when I see one.”
 
@@ -38,7 +38,7 @@ He holds up his hand and there’s a ring on it. “I work for myself, and use w
    1. The First Set of [Spooky] Voices
 We loot them bodies. Strange armor is strange armor. No weapons. Armor is made from what seems like iron. Wizard has a bronze dagger, a ring with the same three twisted metals, no, instead on the staff he has a twisted braid of the metals on it, and 50 gold pieces. Carved wooden flute that looks a bit like the one that [[Mannix]] had. 
 
-K takes the wizard’s flute. Br joins in with her [[Bone Flute]] and Silas joins with his pan flute, playing the low melodies. As we do this we hear voices on the wind coming out of the forest. The mood changes from somber to dangerous, we feel as though we’re about to die.
+K takes the wizard’s flute. Br joins in with her [[Bone Flute]] and [[Silas]] joins with his pan flute, playing the low melodies. As we do this we hear voices on the wind coming out of the forest. The mood changes from somber to dangerous, we feel as though we’re about to die.
 
 We put our instruments away. The voices continue around us. It is noon currently. Branwen closes her eyes and opens her ears to listen to their voices (percep 18+0) These voices are strange to her, she does not feel a kinship with them. They seem menacing, she gets the sense that we have their attention. 
 
@@ -55,7 +55,7 @@ Balz’s travel roll 14. We go up into a high mountain pass. It’s cold, and we
 4th event (screenshot): Scout (15+6) As we go up through the mountains, we see a rock outcrop that we think might afford a view and a better pathway forward. Silas climbs up but as he does, one of the stones rolls over and pins his leg, and so he’s stuck there for a while. The party finds him after a while, he;s bruised but okay. Fatigue saving throw increases by 1.
 ![[Screenshot 2024-11-14 at 9.53.29 PM.png]]
 
-Branwen heals Arthyden and Krambler a little bit. From the outcropping vantage point, we see more of the valley (screenshot) We spy an interesting structure on a distant hill top We move to go south of the 
+Branwen heals Arthyden and [[Krambler]] a little bit. From the outcropping vantage point, we see more of the valley (screenshot) We spy an interesting structure on a distant hill top We move to go south of the 
 ![[Screenshot 2024-11-14 at 9.56.13 PM.png]]
 
 ![[Screenshot 2024-11-14 at 9.58.17 PM.png]]

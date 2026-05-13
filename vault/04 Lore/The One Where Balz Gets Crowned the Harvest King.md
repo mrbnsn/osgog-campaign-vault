@@ -3,8 +3,6 @@ title: "The One Where Balz Gets Crowned the Harvest King"
 type: lore
 tags:
   - "lore"
-  - "harvest-king"
-  - "party/balz"
 aliases:
   - "The One Where Balz Gets Crowned the Harvest King"
 last_edited: 2024-12-13
@@ -14,7 +12,7 @@ contributors:
 
 We discuss what to do next. We decide to hang out for the festival, and then potential try to take advantage of a long rest situation.
 
-We’re in the hall, which people are still preparing.  
+We’re in the hall, which people are still preparing.  
 
 [[Storr]] talks to a villager.
 
@@ -100,13 +98,13 @@ I want it back
 
 Of course, of course.
 
-I’d love to try it. I’ll shoe the hosrse for free if you’ll let me play around with it.  We offer up some other materials. He’s getting overwhelmed a little
+I’d love to try it. I’ll shoe the hosrse for free if you’ll let me play around with it.  We offer up some other materials. He’s getting overwhelmed a little
 
 We offer to leave some obsidian shards.
 
 This is some dark stuff, are you sure?
 
-He’s heard stories of great forgers that could use other materials. We’ve walked in here with a stunning dark haired woman offering multiple materials.  He may be getting some visions of grandeur here. 
+He’s heard stories of great forgers that could use other materials. We’ve walked in here with a stunning dark haired woman offering multiple materials.  He may be getting some visions of grandeur here. 
 
 Koweth is back and perches on the roof to oversee the forging. 
 

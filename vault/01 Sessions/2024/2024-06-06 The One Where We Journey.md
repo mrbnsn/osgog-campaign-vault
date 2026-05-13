@@ -13,11 +13,11 @@ contributors:
 ---
 
 1. [[Branwen]] and the statue
-Branwen examines the statue. Gets the feeling that, once upon a time, as a small man, this statue reminds her of someone from their recent past.
+[[Branwen]] examines the statue. Gets the feeling that, once upon a time, as a small man, this statue reminds her of someone from their recent past.
 
 We ruminate on who [[Cricket]]-Branwen would have seen that none of the rest of us would have. We had found a quill in the tower where we freed the man trapped in shadow. He was a watcher, as the stone statues spoke of him.
 
-We decide that [[Storr]] most definitely took the quill from cricket before we set him on fire.
+We decide that [[Storr]] most definitely took the quill from [[Cricket]] before we set him on fire.
 
 [[Prydyh]] is the name of the man in the statue. He wrote the poem on his statue.
 
@@ -39,15 +39,15 @@ Scout (Exploration) - [[Silas]] (+6)
 
 Look-out (Perception) - [[Krambler]] (+8)
 
-Hunter (Hunting)  Storr (+3)
+Hunter (Hunting)  [[Storr]] (+3)
 
 Guide (Travel) [[Balthazar]] (+4)
 
       1. # Events
 (Our guide rolls a 15, so the first event is three days away)![[The journey to Meander.png]]
-   - Event one, Day 3:** Ill Choice. Target: Krambler. Success. +2 fatigue saving throw. <<Need to fill in event details here>>
+   - Event one, Day 3:** Ill Choice. Target: [[Krambler]]. Success. +2 fatigue saving throw. <<Need to fill in event details here>>
 
-   - Event two, Day 4:** Despair. Failure. Silas is scouting and yells in horror. They all come running. There’s a grizzly trail leading off into the woods where it looks like someone has been maimed and dragged off into the woods in the hills. We look around, the forest is dark and disturbing. As we look around we see huge marks that we determine to be the footprints of the giant insect creatures coming down out of the hills. Everyone gains one shadow point because of this grizzly scene, +2 fatigue saving throw.
+   - Event two, Day 4:** Despair. Failure. [[Silas]] is scouting and yells in horror. They all come running. There’s a grizzly trail leading off into the woods where it looks like someone has been maimed and dragged off into the woods in the hills. We look around, the forest is dark and disturbing. As we look around we see huge marks that we determine to be the footprints of the giant insect creatures coming down out of the hills. Everyone gains one shadow point because of this grizzly scene, +2 fatigue saving throw.
 
 Storr is now **miserable**. (Now has 6 shadow points, which is more than half her wisdom score (11).) Our fellowship rating goes down from 6 to 5. Storr now automatically fails throws of 1 and 2.
 
@@ -63,7 +63,7 @@ DC is 15. Silas takes 1 level. (exhaustion rules are the same as 5e, PHB pg 291.
 
 We’re keeping track of shadow points and skill tallies in the NOTES section of our character sheets.
 
-      1. Meander
+      1. [[Meander]]
 We approach a fishing area. There are reeds and rougher terrain at our backs. In the river, folks are fishing. 
 
 We speak with a villager. We tell him we’re headed into the mountains in the winter land. He’s confused why we arrived through the reeds.

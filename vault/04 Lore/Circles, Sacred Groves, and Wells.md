@@ -3,9 +3,6 @@ title: "Circles, Sacred Groves, and Wells"
 type: lore
 tags:
   - "lore"
-  - "well"
-  - "cradle"
-  - "derwen"
 aliases:
   - "Circles, Sacred Groves, and Wells"
 last_edited: 2024-01-05

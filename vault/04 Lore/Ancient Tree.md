@@ -3,8 +3,6 @@ title: "Ancient Tree"
 type: lore
 tags:
   - "lore"
-  - "cradle"
-  - "well"
 aliases:
   - "Ancient Tree"
 last_edited: 2023-12-13

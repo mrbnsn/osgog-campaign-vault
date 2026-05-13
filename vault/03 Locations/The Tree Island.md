@@ -10,8 +10,8 @@ contributors:
   - "Nblauss"
 ---
 
-![[Lake of Voices Island.png]]
+> [!note] Image: `Lake of Voices Island.png`
 
-![[Cradle.png]]
+> [!note] Image: `Cradle.png`
 
 An island with a symbol on a stone at the feet of a tree which has the seasons sweeping around it's branches.

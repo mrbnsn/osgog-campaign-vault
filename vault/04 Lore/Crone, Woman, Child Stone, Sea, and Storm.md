@@ -3,8 +3,6 @@ title: "Crone, Woman, Child / Stone, Sea, and Storm"
 type: lore
 tags:
   - "lore"
-  - "three-women"
-  - "well"
 aliases:
   - "Crone, Woman, Child / Stone, Sea, and Storm"
 last_edited: 2026-05-11
@@ -35,10 +33,10 @@ Storm (child): the child is his sister
 
 Stone (crone): the crone as the tattoo artist.
 
-Sea (woman):  [[The Abbot|the Abbott]]'s daughter.
+Sea (woman):  [[The Abbott]]'s daughter.
 
    1. [[Mannix]]
-Storm (child):  a child that was sacrificed at the temple where he used to practice
+Storm (child):  a child that was sacrificed at the temple where he used to practice
 
 Stone (crone): the Crone appears as a cloaked figure that I can see her face as I saw her in my dream
 
@@ -47,7 +45,7 @@ Sea (woman): he woman as a lady he knew in Monsoth named [[Kerenja]] that he lov
    1. [[Silas]]
 Storm (child): my sister as a young child; she and I had become separated as children in a winter storm after escaping from a cave. I haven't seen her since then but have a strong feeling she is still alive.
 
-Stone (crone): The matronly, kind eyed woman from my dream. She wears a cloak not unlike Cricket's (the Abbott's gift.) In my dream she and I were looking out over a perfectly circular lake. She told me "It’s been a long while since he’s met with a bear.  Perhaps you should visit…" , touched my forehead, and sent me flying to the shore of the lake, where I found a cottage.
+Stone (crone): The matronly, kind eyed woman from my dream. She wears a cloak not unlike Cricket's (the Abbott's gift.) In my dream she and I were looking out over a perfectly circular lake. She told me "It’s been a long while since he’s met with a bear.  Perhaps you should visit…" , touched my forehead, and sent me flying to the shore of the lake, where I found a cottage.
 
 Sea (woman): My mother. She and my father perished in that same cave our family had become trapped in, before my sister and I found a way out.
 

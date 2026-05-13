@@ -11,9 +11,9 @@ contributors:
 ---
 
 1. Full relevant campaign logs
-[[2024-05-16 The One Where We Embark On Our First Official Fellowship Phase]]
+[[5/16/24 The One Where We Embark On Our First Official Fellowship Phase]]
 
-[[2024-05-23 The One Where We Check the Lore Box]]
+[[5/23/24 The One Where We Check the Lore Box]]
 
    1. Cliffs notes
 We exited the forest having just met the sentinels, likely traveling into another realm or plane, or exiting that one into our own. We come upon a village and talk to a kindly woman who directs us to the inn. The innkeeper's father is sitting out on the patio; his name is [[Bardh]]. We take [[council]] with him, with the goals of determining if this village could serve as a [[safe haven]] for the party.
