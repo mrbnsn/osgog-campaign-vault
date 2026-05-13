@@ -30,6 +30,12 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: Run wiki sync
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python sync.py
+        run: python sync.py --no-pr
+
+      - name: Commit and push if changed
+        run: |
+          git diff --quiet vault/ || (
+            git add vault/ &&
+            git commit -m "Sync wiki export $(date +%Y-%m-%d)" &&
+            git push origin main
+          )
