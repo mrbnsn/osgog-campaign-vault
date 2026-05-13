@@ -78,7 +78,7 @@ WE FIGHT.
 - Kramb does some fire and wind shit which is impressive
 - Bald guy can seemingly teleport. He does a bunch of wizard shit.
 - Kramb goes down and starts making saves
-- Storr grapples one of the armored dudes
+- [[Storr]] grapples one of the armored dudes
 - [[Silas]] mauls the wizard to death
 - Storr attempts to toss one of the guards over the side of the bridge, but can’t do it. Instead, she drags him across the bridge, so…
 - [[Branwen]] can hit him with [[Rhiannon]]’s gale, which she does, and she unleashes a gust of wind 50 FEET LONG

@@ -76,7 +76,7 @@ Could we take the boat with us?
 
 We boat to the island. Everything looks similar. We row around the island.
 
-Bran sneaks onto the island with cloak to scope the stone. Like the spoon, there is no stone. Roas monsters appear, and Bran retreats. Meanwhile, Silas banks right to find his staff. Thorns are back, so he summons a giant eagle to hep find it.
+Bran sneaks onto the island with cloak to scope the stone. Like the spoon, there is no stone. Roas monsters appear, and Bran retreats. Meanwhile, [[Silas]] banks right to find his staff. Thorns are back, so he summons a giant eagle to hep find it.
 
 We sail back to the shore and try to bring the boat back to our longship. Probably not worth the portage with the waterfall and all, so we leave it.
 

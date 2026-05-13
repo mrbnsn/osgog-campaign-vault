@@ -26,7 +26,7 @@ This area feels strange, but also real. The colors seem super saturated. Feels m
 
 The area is weirdly silent. No animal sounds.
 
-Silas dips his head under. He sees some movement off toward the rock nearby, but hard to see through the darkness. The rock is about 8 ft away. 
+[[Silas]] dips his head under. He sees some movement off toward the rock nearby, but hard to see through the darkness. The rock is about 8 ft away. 
 
 A tone sounds.
 
@@ -41,7 +41,7 @@ Silas feels eerie. Not what he expected. Almost convinced it was a rock before, 
 
 Silas communes with nature, targeting the statue, trying… His awareness pushes outwards. Very nearby, he feels a number of glowing spots. Most of them a purple. Three are close by to the south east that are other colors. Hard to identify what the colors are, dark and old. Awareness pushes out again. He feels the hill we’re in. Higher points, one to the north, one to the south east. Out. Rolling downs, very wild. Off to the north, off to the north,. People travel on a line running southwest to northeast.
 
-Krambler flashes back to the moment he was in [[The Abbot]]’s cottage when the woman approached him and said, “How did you get one of the great hammers.”
+[[Krambler]] flashes back to the moment he was in [[The Abbot]]’s cottage when the woman approached him and said, “How did you get one of the great hammers.”
 
 More tones, coming in on the wind. Not sure where the source is.
 
@@ -53,7 +53,7 @@ Silas travels out to an island in the water, without a problem. The island is a 
 
 Krambler and [[Storr]] remain by the first solitary statue, and Krambler takes out his hammer. This first statue’s eyes flash open, and he feels her powerful desire for the hammer. 
 
-Krambler and Storr make their way over to where Silas stands by the three statues together.
+Krambler and [[Storr]] make their way over to where Silas stands by the three statues together.
 ![[Screenshot 2024-04-18 at 10.11.35 PM.png]]
 
 Storr sees his own face as an ancient woman. Silas has been conversing with another that appears to him as his sister. Krambler sees [[The Abbot|the Abbott]]’s daughter. These are the child, the crone and the woman.

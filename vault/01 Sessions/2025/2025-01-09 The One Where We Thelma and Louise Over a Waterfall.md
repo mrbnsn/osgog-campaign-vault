@@ -60,7 +60,7 @@ Balz: Any advice before we head in? You don’t recommend going over the falls. 
 
 This would be my suggestion. The guide is awaiting you.
 
-Storr gets the sense that Kleghein is frightened but doesn’t want to be so its working itself up to be pumped af.
+[[Storr]] gets the sense that Kleghein is frightened but doesn’t want to be so its working itself up to be pumped af.
 
 We walk through and it gets very dark. Ahead of us the cave opens out a little, there’s some movement ahead of us, we walk down and we walk in. We see a spectral dog who looks nervous, spotted black and white, natural athlete, but he is waiting for us in this chamber. He looks at us and barks as if to say “ready?” and starts to sunter down a pathway.
 

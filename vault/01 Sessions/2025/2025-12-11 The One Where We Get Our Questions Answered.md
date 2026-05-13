@@ -57,7 +57,7 @@ Bran: Maybe we need to find Brem and tell him [[The Black Water]] is trouble, pe
 
 Could each of us describe what the party’s overall purpose is at this point in light of this conversation?
 
-[[Storr]]: We are searching for the cause of the black water leaking into the world and a solution as to how to stop it from destroying that which it comes into contact with.
+[[Storr]]: We are searching for the cause of [[The Black Water]] leaking into the world and a solution as to how to stop it from destroying that which it comes into contact with.
 
 Bran: Your task is no more than to bring the tangled garden to bloom. ~[[Mother Night]] to [[Branwen]]
 
@@ -83,15 +83,15 @@ Bran(5/15):
 Balz (15/27):
 
 - Q: (missed it)
-- A: The [[Sun King]] is probably not worldly enough to know much about the black water. The [[Sun King]] and his operation feels powerful, but of the present time; not organized or powerful enough to be responsible for the Bear’s slumber. B suspects that the Bear is asleep at the behest of the Singers we encountered. B believes the Moon King could be responsible, and thinks it would be more likely than the [[Sun King]] to due his mythological figure. The messages seem to have been coming from either [[Seren]] or the Tree, not the Bear. Due to B’s perspective on life in general, he is likely to believe that the Moon King is not responsible for the Bear’s predicament, because B is defiant of the Moon King and death in general.
+- A: The [[Sun King]] is probably not worldly enough to know much about the black water. The [[Sun King]] and his operation feels powerful, but of the present time; not organized or powerful enough to be responsible for the Bear’s slumber. B suspects that the Bear is asleep at the behest of the Singers we encountered. B believes the [[Moon King]] could be responsible, and thinks it would be more likely than the [[Sun King]] to due his mythological figure. The messages seem to have been coming from either [[Seren]] or the Tree, not the Bear. Due to B’s perspective on life in general, he is likely to believe that the Moon King is not responsible for the Bear’s predicament, because B is defiant of the Moon King and death in general.
 
 [[Silas]] (8/21): 
 
 - Q: Remembering what my sister told me in a dream, I believe now that I’m not meant to wake the bear, and that the bear will never wake. I believe that the bear is all knowing, as shown to me by my old friend, the Moon, crowning the bear with horns of wisdom. The Moon, which, as taught to me by my folk, cares for all no matter how well it is  hidden. She said that I can hear him, the bear, and perhaps that’s enough. She spoke of a task for me that she herself had started. She spoke of a direction to show me. My question is this: What is the task that [[Seren]] spoke of that falls to me now?
-- A: Silas would figure if he thinks that he’s not meant to wake the bear, that would have been his first inclination. Saying I think i’m not going to do that, he would see that Seren has been opening ways, pathways through some metaphysical forest that we’ve been traversing and perhaps that she’s gotten the bear to rollover with a scent on the wind and Silas would suspect that if the bear is under that mound with these creatures singing to it, while the bear may be staying there that doesn't mean knowledge of him should remain trapped, and especially looking around at others in the party that haven’t considered this being to exist at all, that no, this is an important aspect of this balance. You all won’t restore it without being. The wisdom and the goal of the bear needs to be out in the world.
+- A: [[Silas]] would figure if he thinks that he’s not meant to wake the bear, that would have been his first inclination. Saying I think i’m not going to do that, he would see that [[Seren]] has been opening ways, pathways through some metaphysical forest that we’ve been traversing and perhaps that she’s gotten the bear to rollover with a scent on the wind and Silas would suspect that if the bear is under that mound with these creatures singing to it, while the bear may be staying there that doesn't mean knowledge of him should remain trapped, and especially looking around at others in the party that haven’t considered this being to exist at all, that no, this is an important aspect of this balance. You all won’t restore it without being. The wisdom and the goal of the bear needs to be out in the world.
 
    1. Discussion with Merlin... [[Myrthn]]. [[Myrthn]].
-Storr asks [[Myrthn]] his question. “Great [[Merthyn]]!” She asks “How do we restore the bear?”
+[[Storr]] asks [[Myrthn]] his question. “Great [[Merthyn]]!” She asks “How do we restore the bear?”
 
 We catch in his spill of words in human and animal languages, we hear him talk about a fiery fierceness, about an endless slumber, about individual responsibility, and about individuals coming together as a whole to complete a task. 
 

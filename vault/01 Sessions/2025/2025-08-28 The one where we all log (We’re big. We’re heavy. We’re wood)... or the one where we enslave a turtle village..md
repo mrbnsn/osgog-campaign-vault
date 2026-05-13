@@ -46,7 +46,7 @@ We send a chickadee to scout first the perimeter and then the island. Nothing st
    1. The Communal Play-by-play
 [[Silas]] shares something he talked with [[Seren]] about a circular lake. 
 
-Context: [Silas’ [[Tawesek]] dream, the “Eye of Night”](http://[[Osgog]].mrobinson.us/index.php/Silas#[[Tawesek]])
+Context: [Silas’ [[Tawesek]] dream, the “Eye of Night”](http://[[Osgog]].mrobinson.us/index.php/[[Silas]]#[[Tawesek]])
 > She says that that circular lake is in more than one place, and that sometimes there is someone there, and sometimes there is not.  She’s not sure who lives there, or even if it’s always the same “person”.  While she can travel some paths, they don’t always lead to the same places, so directions are hard.
 We decide to do stuff. Party decides to move towards the island
 
@@ -68,7 +68,7 @@ Mini journey:
 
 Guide: Balz (Travel)
 
-Lookout: Krambler (Perception)
+Lookout: [[Krambler]] (Perception)
 
 Scout: Silas (Exploration)
 
@@ -80,7 +80,7 @@ We short rest and do downtime stuff, to be resolved.
 
 We continue journeying. Balz picks a great route, and we make it. It’s foggy with drizzle, so we can’t see much.
 
-Storr wades out on the lake to see how deep it is.  About 100 ft before it’s up to her chin.  She decides to swim out to the island with only her knife. (rolls a 6)  She gets lost in the mist but has to retreat and doesn’t make it to the island.  She calls out and the party and they call her back.
+[[Storr]] wades out on the lake to see how deep it is.  About 100 ft before it’s up to her chin.  She decides to swim out to the island with only her knife. (rolls a 6)  She gets lost in the mist but has to retreat and doesn’t make it to the island.  She calls out and the party and they call her back.
 
 The stars the previous night did not have the same locations as [[Nyth]] or our home. Coming to the  end of day 2, we get to another point around the lake, we don’t see another spot that’s close given the fog. 
 

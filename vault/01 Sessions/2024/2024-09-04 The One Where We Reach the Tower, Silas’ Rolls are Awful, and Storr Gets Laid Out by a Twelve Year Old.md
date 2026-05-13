@@ -59,7 +59,7 @@ The forest is my home, I feel as safe within it as one should feel anywhere. Whe
 
 [[Silas]] says he understands more than she knows. But in light of the recent threat at the city, he offers her the Better Obsidian Dagger in case things go sour. 
 
-She takes it and spins it around with a dexterity you don’t expect, she takes it and drags it against her hand, a little bit of blood beading up. She puts her hand to her mouth, looking at Silas. She puts pressure on it. Still looks at Silas.
+She takes it and spins it around with a dexterity you don’t expect, she takes it and drags it against her hand, a little bit of blood beading up. She puts her hand to her mouth, looking at [[Silas]]. She puts pressure on it. Still looks at Silas.
 
 S: Have you seen weapons like this before?
 
@@ -93,7 +93,7 @@ Have you taken an interest in the stars?
 
 Looking at the stars is the earliest form of storytelling. Stars make good companions, but she seldom if ever leaves her small plot within the woods.  
 
-Storr: What do you know of the bear and the twins?
+[[Storr]]: What do you know of the bear and the twins?
 
 What of them?
 
@@ -270,7 +270,7 @@ Probably not.
 
 (The girl with the glasses that went up stairs is potentially the one we’re looking for) 
 
-Branwen has her raven fly onto her hand and fly over to the shy black haired girl gently. She’s apprehensive, but calm. 
+[[Branwen]] has her raven fly onto her hand and fly over to the shy black haired girl gently. She’s apprehensive, but calm. 
 
 B: "Put your hand out child." Koweth lands on the girl’s hand. Looking to the raven, she tries to discern what the raven will do. 
 

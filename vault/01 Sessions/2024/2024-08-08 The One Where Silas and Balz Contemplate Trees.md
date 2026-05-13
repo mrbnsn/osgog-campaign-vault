@@ -95,6 +95,6 @@ Balz does a lap around the island to see if anything catches his eye. (15) It's 
 
 Balz asks about the other side of the tree, looking for anything unnatural or desecrated. Nothing there.
 
-Balz asks Silas if he remembers the symbol at all (21) Silas does remember it. He would have seen it in the henges. Would not have understood it, and would not have been explained. But definitely recognizes it. He thinks his folk called it "[[The Cradle]]" Was it a part of the ritual?
+Balz asks [[Silas]] if he remembers the symbol at all (21) Silas does remember it. He would have seen it in the henges. Would not have understood it, and would not have been explained. But definitely recognizes it. He thinks his folk called it "[[The Cradle]]" Was it a part of the ritual?
 
 Balz asks about [[Tewlder]]'s drawings. The symbol would not have been a part of them. [[Tewlder]]'s sketches are of natural imagery. He worked on ships like [[Krambler]]. Shells, mussels, clams, sea urchins, stars. Those and making them into simpler shapes, "geometrizing."

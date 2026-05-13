@@ -29,7 +29,7 @@ A man and a woman offer to show her some pointers.  [[Branwen]] starts weaving, 
 
 [[Krambler]] also joins in the weaving.  Grabs a seat next to woman who helped Br.  She helps K.  He rolls a 4.  No one is impressed.  
 
-Branwen cracks about how we can only get better at this.  Says to the woman, we are practiced at smiting evil.  She says, This is a good place to not have to spite evil…
+[[Branwen]] cracks about how we can only get better at this.  Says to the woman, we are practiced at smiting evil.  She says, This is a good place to not have to spite evil…
 
 This island is great to smell the ocean, listen to the wind and concentrate on other things.
 
@@ -53,7 +53,7 @@ Brawn asks the name of the port city, no one knows this city - unfamiliar.
 
 [[Storr]] - what's the baskets for, precious?  Sometimes the weather takes them, they float away in the ocean.
 
-Storr - what else besides weaving?  Some normal daily tasks, gotta live.
+[[Storr]] - what else besides weaving?  Some normal daily tasks, gotta live.
 
 Storr - you know [[Sun King]]? Nope
 
@@ -77,7 +77,7 @@ S: Ohm not me, then?
 
 Isolde: right…
 
-[[Silas]]: I'm silas, this arthen, he's a bear.  I'm also a bear.
+[[Silas]]: I'm [[Silas]], this arthen, he's a bear.  I'm also a bear.
 
 Isolde: Questioning look at Branwen, who shrugs.
 

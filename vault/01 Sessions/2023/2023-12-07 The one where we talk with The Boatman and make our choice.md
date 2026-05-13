@@ -40,7 +40,7 @@ We settle in for the night. [[Cricket]] and [[Silas]] play chess. [[Storr]] and 
 
 [[Cricket]] fucks around with [[Mannix]]'s flute, as he somberly reflects on his lost brother.  He rediscovers a melody.  Just a few notes, but the memory of it is flooding back.  Reminds me of my mother putting me to sleep.
 
-Cricket asks K to tinker with..his dagger?
+[[Cricket]] asks K to tinker with..his dagger?
 
 We’re high up in the mountains, thrusting into the sky, and the night is sharp and cold. The stars are pinpoint, almost like you could reach out and touch them. [[Silas]] feels as though he has gained some wisdom, but it’s difficult to describe exactly what. They are the same stars as he’s seen in the past, but never so bright and close and colorful as he sees tonight.
 
@@ -144,7 +144,7 @@ K looses his patience and tries to hit [[The Boatman]], but the rest of the part
    1. Heading back to the city
 Koweth returns outside the cottage. He did not find a boulder. The city is still festivaling. Tehre was a temple, but nothing large with a boulder. To the north,m he saw a stone circle in the woods. A couple of castles, and forticfications on some of the smaller islands, and saw in the quiet quarter where [[The Black Water]] entered was quiet, there was reveling and a festival elsewhere but not in that space. 
 
-We go outside and tell the Boatman our choice: to continue on our path. It would seem that your path leads back to the city, to the stone circle that your friend described. And you my friend (to Cricket) have been shown the path and can divine the way.
+We go outside and tell [[The Boatman]] our choice: to continue on our path. It would seem that your path leads back to the city, to the stone circle that your friend described. And you my friend (to Cricket) have been shown the path and can divine the way.
 
 Cricket goes in for a hug, and it is the burliest and most comforting hug. Ravens feathers in his hair. “Go with luck my son”
 
@@ -158,7 +158,7 @@ The path downward goes more quickly as the path in. We make it back down in two 
 
 From outside the city, we dont see fireworks. From inside, we do see fireworks. They’re still festivaling. 
 
-We go west. The black water enters a culvert and travels beneath the pathway. We see a statue and a staircase going down into the groun. The statue looks like the central statue in the tower.\
+We go west. [[The Black Water]] enters a culvert and travels beneath the pathway. We see a statue and a staircase going down into the groun. The statue looks like the central statue in the tower.\
 
 K hits the statue with his hammer, and despite being made of stone, we hear a deep tolling of a bell emanating from the statue. K doubles down and tries again. He rolls fantastically with help, but somehow he misses and hurts himself.
 

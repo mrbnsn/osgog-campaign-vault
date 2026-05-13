@@ -70,7 +70,7 @@ They say they were defeated and banished from elsewhere but had been here in the
 
 These three would say that the other statues aside from them are the prisoners. The three would say they are trapped somewhat willingly. They’re here, not upset, but they’re willing to make the choice, but also don’t have a choice. 
 
-Storr doesn’t trust them. They want the hammer. They’ve never answered a question.
+[[Storr]] doesn’t trust them. They want the hammer. They’ve never answered a question.
 
 As she says this, a stark silhouette appears off to the northeast and approaches us. 
 

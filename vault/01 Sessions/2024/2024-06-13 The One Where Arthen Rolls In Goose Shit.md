@@ -61,7 +61,7 @@ We heard this other woman may have saw a man and  child in the winter lands.  [[
 
 She wants to know why we are here - [[Branwen]] explains we are looking for the man and the child; it would have been long ago.  We want to know if she can remember anyone who matches this description.  
 
-Branwen critically persuades [[Kelynnen]]!
+[[Branwen]] critically persuades [[Kelynnen]]!
 
 She says, “Yes, I met a strange person while I was going up to collect some herbs from the hills at the edge of spring. He told me a story about having found a child but at that point, having given the child away. It was a long time ago."
 
@@ -124,7 +124,7 @@ So [[Storr]], [[Silas]], Arthen, Bal and Kramb have the afternoon off.  They hea
 
 > We come to the fancy house on the west side of town. We see young faces peaking out the windows. We’re standing there awkwardly on the boardwalk.
 >
-> Silas waves to the children in the window. He rolls a 0. They scream and yell to their parents “There’s a bear that’s going to eat us!!”
+> [[Silas]] waves to the children in the window. He rolls a 0. They scream and yell to their parents “There’s a bear that’s going to eat us!!”
 >
 > The mother comes out and Branwen diffuses, and the mother says Why are you scaring the children?
 >
@@ -150,7 +150,7 @@ So [[Storr]], [[Silas]], Arthen, Bal and Kramb have the afternoon off.  They hea
 >
 > Silas and Arthen go for a swim to wash off the stink.
 >
-> Storr is suspicious and knocks on the door and tries to ask if “everything is okay” to the mother. She says “Yes, thank you, good day”
+> [[Storr]] is suspicious and knocks on the door and tries to ask if “everything is okay” to the mother. She says “Yes, thank you, good day”
 >
 > Storr asks B if she can have Koweth do a lap around the building to see if there’s something off. Storr seems to think there’s something wrong. See if there’s anything wrong or someone else with. (B can see through the raven’s eyes and hear what he hears, always obeys commands) Kowethi doesn’t really see much, nothing out of the ordinary. No one standing next to a window. K doesn’t see a good place to peak in. Koweth sees the tops of heads of two little girls, whispering. Not odd, just playing. One of the boys playing with some blocks upstairs in the attic space. A couple of small beds up there. Don’t see the fourth kid, not sure if the boy is inside or not. The mother is chopping veggies in the kitchen.
 >

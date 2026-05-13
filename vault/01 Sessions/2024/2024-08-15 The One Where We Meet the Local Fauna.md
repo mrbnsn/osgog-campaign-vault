@@ -39,7 +39,7 @@ We’re trying to call the woman below.
 
 The goose turns it head, looks at us with one eye. In goose fashion, with somewhat limited power of speech, squawks: “Aw, woman, tree woman.” The goose references a tree woman, looks at us, says, “Sometimes she comes to speak to her. Sits there. Taught me talking. Mmm.”
 
-Storr: “What is the name of the woman?”
+[[Storr]]: “What is the name of the woman?”
 
 Nice lady!
 
@@ -141,7 +141,7 @@ He is here.
 
 (will follow up on [[Branwen]]’s reactions when Hoppsy is back.)
 
-There’s kinship between Branwen and the raven, but there’s a strangeness there too.
+There’s kinship between [[Branwen]] and the raven, but there’s a strangeness there too.
 
 Which stone is your favorite?
 
@@ -175,7 +175,7 @@ We adjourn.
 
 —----
 
-Silas really wants to get to the bottom of this womanly presence in the tree. This doesn't seem like the kind of thing we should “keep in mind and move on.” We’re here now and should try and figure it out. (percep, 14) He remembers that in getting to a magical tree the first time where we first detected that presence, you would remember  that at that time you went through the water left behind by the water knights and came to that magic tree. This doesn’t seem like the same tree. But having cast commune w/ nature, you would recognize that this tree is not that tree, but you do sense a kinship with this tree. It feels right, but it doesn’t seem right. That tree was a [[Derwen Trees|derwen]]. 
+[[Silas]] really wants to get to the bottom of this womanly presence in the tree. This doesn't seem like the kind of thing we should “keep in mind and move on.” We’re here now and should try and figure it out. (percep, 14) He remembers that in getting to a magical tree the first time where we first detected that presence, you would remember  that at that time you went through the water left behind by the water knights and came to that magic tree. This doesn’t seem like the same tree. But having cast commune w/ nature, you would recognize that this tree is not that tree, but you do sense a kinship with this tree. It feels right, but it doesn’t seem right. That tree was a [[Derwen Trees|derwen]]. 
 
 Are there multiple trees with these feminine presences beneath them?
 

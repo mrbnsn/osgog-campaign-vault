@@ -71,7 +71,7 @@ The rocks are precipitates, about 15 feet down, and the water is about 3 ft deep
 
 As we progress, we hear some rustling behind us. Two other centaurs appear, along with the original one.
 
-Branwen asks if we’ve faltered, but they dont answer.
+[[Branwen]] asks if we’ve faltered, but they dont answer.
 
 What can you tell us about this sacred place?
 
@@ -91,7 +91,7 @@ Off to the left is the mouth of a cave, down inside is some firelight. No signs 
 
 [[Silas]] lights a torch. [[Storr]] moves into the cave and sees someone in the cave with his head down, with something in his hand.
 
-Storr: who are you?
+[[Storr]]: who are you?
 
 He looks up, sees us, and he looks down and has a raven in his hand.
 
@@ -117,7 +117,7 @@ What do you call yourself?
 
 I think I recognize the name you said. What was it?
 
-Musk?
+[[Musk]]?
 
 That sounds right.
 
@@ -171,7 +171,7 @@ I would like to speak again with [[Bryok]].
 
 We tell him the story of [[Bryok]].
 
-He freaks out about Bryok not being around anymore.
+He freaks out about [[Bryok]] not being around anymore.
 
 Storr hugs him and its awkward.
 

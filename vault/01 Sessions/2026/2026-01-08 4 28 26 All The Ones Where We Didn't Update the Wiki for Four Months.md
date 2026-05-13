@@ -38,14 +38,14 @@ We’ve been moving up hill inside a cull. We’re reaching up toward a high spo
 
 We find ourselves in a clear with a little outcropping (screenshot) We move into the circle, and start to hear rustling in the bushes to the northeast southwest and northwest of us. 
 
-Storr scrambles onto a boulder to get a better look. She hears the twang of a bow, and sees a creature emerge, a centaur. (She missed.)
+[[Storr]] scrambles onto a boulder to get a better look. She hears the twang of a bow, and sees a creature emerge, a centaur. (She missed.)
 
 WE FIGHT
 
 - [[Krambler]] hits for a CRIT HIT
 - The centaurs so far have been whiffing like their little hooves depended on it.
 - The mage centaur has a sword and can do like 3 things in one turn.
-- Silas gets hit BAD and drops to zero, automatically bearing out
+- [[Silas]] gets hit BAD and drops to zero, automatically bearing out
 - [[Branwen]] takes out Gale and sing a song (Brid song) and [[Branwen]] is surrounded in a purple aura of ravens. The centaur encompassed in the aura is now frightened of her. 
 - [[Krambler]] falls. [[Branwen]] falls. Silas in bear form gets down to 1.
 - Storr uses the INFLUENCE action to convince the mage that they don’t want to fight.
@@ -138,7 +138,7 @@ Balz awakens in the night and spies the shadow of an enormous tree extending int
 
 We wake. Balz and Storr check out the waterfall. (investigation, 6 & 8 respectively)
 
-Branwen sends Koweth, Silas sends Arthen with him so he can practice tracking. Koweth does a loop around flies off to the waterfall. Earthen ranged along the beach, sniffing around teh animal trail. Koweth called, Arthen disappeared into the brush. They both came back after a bit indicating that if we followed them we’d have a way forward.  The animals high five each other (wing to ear, really).
+[[Branwen]] sends Koweth, Silas sends Arthen with him so he can practice tracking. Koweth does a loop around flies off to the waterfall. Earthen ranged along the beach, sniffing around teh animal trail. Koweth called, Arthen disappeared into the brush. They both came back after a bit indicating that if we followed them we’d have a way forward.  The animals high five each other (wing to ear, really).
 
 We travel with the help fo A&K up and around the waterfall. There are a set of rough stairs off the end of what we thought was an animal trail. Balz has a weird sense as he’s gong along that he recognizes this as a human trail, but he doesn’t know why he knows that. Feels different than the forest. We emerge. 
 
@@ -282,7 +282,7 @@ B: And we told you his name–
 
 W: Is ***[[Osgog]]***
 
-We discuss [[Osgog]] and his mother ([[Doldhelan]]/[[Doldhelan|Noswaith]]), and Osgog and the Dragon.
+We discuss [[Osgog]] and his mother ([[Doldhelan]]/[[Doldhelan|Noswaith]]), and [[Osgog]] and the Dragon.
 
 Silas’s note: There is a sisterhood of [[Doldhelan]] and [[Ceridwen]] (kelynnyn, Gwen at the tower, probably [[Seren]]. If Osgog’s mother is truly still trapped, we would have an interest in freeing her. If these three have their names back, maybe they could help free her. 
 
@@ -462,7 +462,7 @@ There’s scree on the ground in swirling patterns. Branwen turns into a raven a
 
 Bran thinks perhaps Jessie Buckley is maybe part of the sisterhood, the “crag and forest” group.
 
-Branwen reforms into … Branwen, and hums Cricket's lullaby.  Jessie Buckley comes around the corner.
+Branwen reforms into … Branwen, and hums [[Cricket]]'s lullaby.  Jessie Buckley comes around the corner.
 
 There's various rock investigations.  Old rock. Lichen.Textures as the air flows, air is feeling the rock as it flows.
 
@@ -513,7 +513,7 @@ S: look at the ground !
 
 JB: yes, you can see where the air has shaped the ground.
 
-We recognize the Cradle as part of the scree pattern.
+We recognize [[The Cradle]] as part of the scree pattern.
 
 S: We've seen this before.  From my childhood, even.
 

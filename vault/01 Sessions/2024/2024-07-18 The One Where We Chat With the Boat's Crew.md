@@ -139,7 +139,7 @@ We take the afternoon and speak to the crew. [[Silas]] and Arthen put on a bear 
 
 [[Krambler]] can’t really smithy much on the boat.
 
-[[Storr]] feigns sickness to get out of the meal. She says she’d like to go down below, and be alone, not feeling sociable. We head down to the galley, Storr is directed to find some blankets and lay down somewhere. Copyn is L’s friend. 
+[[Storr]] feigns sickness to get out of the meal. She says she’d like to go down below, and be alone, not feeling sociable. We head down to the galley, [[Storr]] is directed to find some blankets and lay down somewhere. Copyn is L’s friend. 
 
 He goes into the captains quarters, there’s some talking, the two of them come out and he joins us at the table.
 
@@ -165,7 +165,7 @@ There’s a few jokes about diarrhoea.
 
 B askas [[Silas]] how Arthen is faring.
 
-Silas saus he seems to have taken to the sea. Surprised he hasn’t jumped inot the lake, judging fro the swim we had back at the marsh toen.
+[[Silas]] saus he seems to have taken to the sea. Surprised he hasn’t jumped inot the lake, judging fro the swim we had back at the marsh toen.
 
 B: have you L and C been there?
 

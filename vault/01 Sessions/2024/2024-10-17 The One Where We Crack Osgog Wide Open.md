@@ -97,7 +97,7 @@ Balz recalls what happened during his vision at the island:
 >
 > 2. I'm not sure if the judging she felt was actual or just in her dream (*sometimes in my dreams I'm mad at Ruth for things that didn't happen in reality but I feel it but that doesn't make it real*).  So chalking it up to the dream... [[Storr]] would have found Beryan and told her about the dream.
 >
-> - Storr would have taken note of how Beryan reacted to her telling her about the dream
+> - [[Storr]] would have taken note of how Beryan reacted to her telling her about the dream
 >
 > Very calmly, and with understanding.
 >
@@ -164,7 +164,7 @@ Gwen says it’s not a banality that folks can travel to different places. It se
 
 Would she know [[The Oracle]]? 
 
-She has heard of it. The [[The Oracle|oracle]] was the source of the prophecy that Osgog brought back: The “One and one are eldest” poem. Most of that was carved into the wall, and we wrote in charcoal “the foundling”
+She has heard of it. The [[The Oracle|oracle]] was the source of the prophecy that [[Osgog]] brought back: The “One and one are eldest” poem. Most of that was carved into the wall, and we wrote in charcoal “the foundling”
 
 Gwen: So you know S has a copy of it upstairs.
 
@@ -198,7 +198,7 @@ When the world was split apart, she doesn’t know where he ended up. He was the
 
 Do you want [[Mons]] or the [[God of Death]] to return?
 
-She has doubts as to the accuracy of that story. In terms of the return of [[Mons]], (aside form the idea of a high king), the SK sure seems to be … nothing I’ve seen would tell me he’s [[Mons]] but he’s certainly trying to give that air. Ons was referenced as a King. I just hope SK stays away from us to do our own things. As far as Mons, I have strongly mixed feelings. As far as [[God of Death]], we’re trying to prevent that catastrophe from happening again, cause that was a mess. 
+She has doubts as to the accuracy of that story. In terms of the return of [[Mons]], (aside form the idea of a high king), the SK sure seems to be … nothing I’ve seen would tell me he’s [[Mons]] but he’s certainly trying to give that air. Ons was referenced as a King. I just hope SK stays away from us to do our own things. As far as [[Mons]], I have strongly mixed feelings. As far as [[God of Death]], we’re trying to prevent that catastrophe from happening again, cause that was a mess. 
 
 What is her true version of [[Mons and the God of Death]]?
 
@@ -262,7 +262,7 @@ She doesn’t know the details but she had heard that he returned and died.
 
 Have you heard of Trenewydth?
 
-Not specifically. There is some communication between worlds. You are from a world that is more separate. She guesses that Bryok was sent to our world and thus disappeared.
+Not specifically. There is some communication between worlds. You are from a world that is more separate. She guesses that [[Bryok]] was sent to our world and thus disappeared.
 
 Did you know what his return would entail? The people of Trenewydth seemed to understand what he was doing and react immediately almost ceremonially.
 
@@ -300,7 +300,7 @@ But Bryok doesn’t like him.
 
 Do you think Bryok would have cast off his name? We’ve gotten some clues about nameless families and we think this child is part of this nameless family. Does that ring true to anything you’ve experienced?
 
-As a follower of Ceridwen, some names are hidden for good reason. The idea of someone not having a name, she could understand why they would do that. 
+As a follower of [[Ceridwen]], some names are hidden for good reason. The idea of someone not having a name, she could understand why they would do that. 
 
 Do you think Bryok in trying to cast off this mantle of high king would not name his daughter.
 

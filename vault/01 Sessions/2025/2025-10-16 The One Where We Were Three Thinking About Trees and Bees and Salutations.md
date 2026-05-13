@@ -24,7 +24,7 @@ Lunch had, council done, bellies filled and tea time happened.  The afternoon se
 
 [[Branwen]] will go crash to shed her exhaustion and focus on recovery for a day then spend the 5 days weaving
 
-Branwen heads to the bee hive, tapped out.  First night packing it in…. Prima nocta
+[[Branwen]] heads to the bee hive, tapped out.  First night packing it in…. Prima nocta
 
 Balz and [[Storr]], what they doing?
 
@@ -52,7 +52,7 @@ The first afternoon comes to a close.  We come back and have a communal dinner i
 
 In the evening the party does…
 
-Storr goes up to the peak and listens to the music they are making
+[[Storr]] goes up to the peak and listens to the music they are making
 
 Balz joins Storr, imbibes in some honey mead and looks to sit in.  It’s not boisterous.
 

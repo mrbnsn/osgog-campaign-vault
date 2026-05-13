@@ -101,7 +101,7 @@ We decide to go see the lord and lady.
 
 The guard master says it’s been a longtime since we’ve hosted anyone outside of [[Nyth]]. She says, “We’ve heard that there are forces around. After a long time of not having incursions, we have to be on guard more so than in the past. How did you get here? Do you know how the SK arrived?”
 
-[[Storr]]: We come from Norglass, which is unfamiliar to anyone here, just as we are unfamiliar with Nyth. We’re trying to avoid the SK minions.
+[[Storr]]: We come from Norglass, which is unfamiliar to anyone here, just as we are unfamiliar with [[Nyth]]. We’re trying to avoid the SK minions.
 
 How do you get from there to here?
 

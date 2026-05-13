@@ -197,7 +197,7 @@ Mike Robinson:
 
     	[[Sword of Darkness Edged in Light]] sounds like it came from [[Osgog]]: a healer associated with darkness, darkness contained by light?
 
-    	Did Osgog create the prison?
+    	Did [[Osgog]] create the prison?
 
     	Or just seal it with the Black Lake?
 
@@ -217,7 +217,7 @@ Michael Hopps:
 
 [[Bremphyr]] (smith):, [[Sword of Darkness Edged in Light]]
 
-Rhiannon (horsewoman/sailor): [[Crown of Water]]
+[[Rhiannon]] (horsewoman/sailor): [[Crown of Water]]
 
 [[Kevnis]] (weaver): [[Cloak of Wind]]
 
@@ -463,7 +463,7 @@ Ryan Petti:
 
 Michael Hopps:
 
-    	I'm thinking the Sun King is Osgog.
+    	I'm thinking the [[Sun King]] is Osgog.
 
 Mike Robinson:
 
@@ -491,7 +491,7 @@ Mike Robinson:
 
 Michael Hopps:
 
-    	After slaying Osgog's monster, Mons was wounded and came across the sea to our land. 
+    	After slaying Osgog's monster, [[Mons]] was wounded and came across the sea to our land. 
 
 Mike Robinson:
 
@@ -567,7 +567,7 @@ Mike Robinson:
 
 Nathaniel Blauss:
 
-    	Bremphyr is the name of Mons' son who was a smith
+    	[[Bremphyr]] is the name of Mons' son who was a smith
 
 Mike Robinson:
 
@@ -635,7 +635,7 @@ Nathaniel Blauss:
 
 Michael Hopps:
 
-    	From Weyland: King of Stone, you have created stones out of many things: you’ve turned water, and air, and even night into stone, but never have you made a stone out of fire.
+    	From [[Weyland]]: King of Stone, you have created stones out of many things: you’ve turned water, and air, and even night into stone, but never have you made a stone out of fire.
 
 Mike Robinson:
 
@@ -715,7 +715,7 @@ Nathaniel Blauss:
 
     	So, the stories in [[Balthazar]]'s book would not be attributed to an author.  They were scribed and illuminated at [[Tawesek]] by one of the artisans.
 
-    	Balthazar would have heard of [[Bardh]] as a great poet from antiquity.
+    	[[Balthazar]] would have heard of [[Bardh]] as a great poet from antiquity.
 
 Mike Robinson:
 
@@ -739,7 +739,7 @@ Nathaniel Blauss:
 
 Mike Robinson:
 
-    	Bardh wrote of the foundling, but doesn't seem to interested in our theories about [[The Abbot|the abbott]]
+    	[[Bardh]] wrote of the foundling, but doesn't seem to interested in our theories about [[The Abbot|the abbott]]
 
 Ryan Petti:
 
@@ -833,7 +833,7 @@ Mike Robinson:
 
 Ryan Petti:
 
-    	Is Branwen a foundling?
+    	Is [[Branwen]] a foundling?
 
 Mike Robinson:
 
@@ -853,7 +853,7 @@ Mike Robinson:
 
 Ryan Petti:
 
-    	I mean, in a way, Silas is also a foundling. Parents died, found and raised by the druid folk.
+    	I mean, in a way, [[Silas]] is also a foundling. Parents died, found and raised by the druid folk.
 
 Mike Robinson:
 
@@ -1167,9 +1167,9 @@ Ryan Petti:
 
     	 ​👍​ to “ Mons "slew" this "monster", which could be trapping it, somehow.
 
-This smacks of the ending of The God King, where they lock away the 3 enchantresses. ” 
+This smacks of the ending of [[The God King]], where they lock away the 3 enchantresses. ” 
 
-    	[[Musk]]: [[Musk]] has always been “playing with fire”, Abbot always said that Musk was in touch with greater and deeper things, and we all have to suffer the consequences.
+    	[[Musk]]: [[Musk]] has always been “playing with fire”, Abbot always said that [[Musk]] was in touch with greater and deeper things, and we all have to suffer the consequences.
 
 Mike Robinson:
 
@@ -1195,7 +1195,7 @@ Ryan Petti:
 
     	Here's what I know of what I've seen of the sky:
 
-    	http://osgog.mrobinson.us/index.php/Silas%27_Conspiracy_Corner#Constellations
+    	http://osgog.mrobinson.us/index.php/Silas%27_Conspiracy_Corner#[[Constellations]]
 
     	As for what my folk know beyond that...
 
@@ -1239,7 +1239,7 @@ Mike Robinson:
 
 Ryan Petti:
 
-    	I think the Elder Lands are  the area to the far north where that smith dwells.
+    	I think the [[Elder Lands]] are  the area to the far north where that smith dwells.
 
 Mike Robinson:
 
@@ -1415,7 +1415,7 @@ Mike Robinson:
 
 Michael Hopps:
 
-    	Kevnis.  Gotta be [[The Abbot|Bryok]].
+    	[[Kevnis]].  Gotta be [[The Abbot|Bryok]].
 
 Mike Robinson:
 
@@ -1427,7 +1427,7 @@ Mike Robinson:
 
 Michael Hopps:
 
-    	Kerenja.  Gave Gale to Mannix... Kerenja == Rhiannon?
+    	[[Kerenja]].  Gave Gale to [[Mannix]]... Kerenja == Rhiannon?
 
 Mike Robinson:
 
@@ -1459,7 +1459,7 @@ Mike Robinson:
 
 Michael Hopps:
 
-    	Which leaves Priweythva.  A sister, depicted as a potter in the statue.
+    	Which leaves [[Priweythva]].  A sister, depicted as a potter in the statue.
 
 Mike Robinson:
 

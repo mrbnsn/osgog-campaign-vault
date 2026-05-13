@@ -30,7 +30,7 @@ During the rest, we each ask a question of the gardners.
 
 S:	Who?
 
-Mag	She is **The Beloved.  [[Kerenja]].**
+[[Mag]]	She is **The Beloved.  [[Kerenja]].**
 
 [[Storr]]:   "she came for his body" physically?  Or?  She's a legend, a deity.
 
@@ -54,7 +54,7 @@ M	Don't know any more.  Outside of time.  The seasons pass through, nothing chan
 
 Tending the garden.   Long time, but feels like no time has passed.
 
-Storr:	Why did you give us a [[Derwen Trees|Derwen]] tree - 
+[[Storr]]:	Why did you give us a [[Derwen Trees|Derwen]] tree - 
 
 Mag:	it felt appropriate to mark where he'd been with a tree.
 
@@ -107,7 +107,7 @@ B	Jewels?
 
 Mag	Simpler, golden sheathes of wheat and a silver moon and iron ripples binding them together.
 
-B	Mogg, though. Wheat and moon - mother night and mogg?  He farmed, etc, she's 
+B	Mogg, though. Wheat and moon - [[Mother Night]] and mogg?  He farmed, etc, she's 
 
 B 	Explains the festival at a village in [[Nyth]]….check out my circlet.  Kind of like the crown?
 

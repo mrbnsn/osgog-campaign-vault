@@ -38,7 +38,7 @@ On the desk is a stone bowl filled with water. The bowl has no markings, its rou
 
 Most of the paper in the drawers it appears to be a ledger. Balz could say it looks like accounting books, possibly Keto’s.
 
-There’s another chest that is locked and Storr does not have the key.
+There’s another chest that is locked and [[Storr]] does not have the key.
 
 Storr tosses the cot. On the table are a couple of place settings. A rack on the wall has some food and supplies.
 
@@ -71,7 +71,7 @@ Why seek [[The Black Water]]?  Copyn doesn't know.
 
 Why torture?  Great gifts require sacrifice.  Not sure why you were chosen, or anything about your old bones - but he's very interested in those bones.
 
-Were they looking for US in particular?  They get hesitant and don't answer.    Storr threatens them, successfully. They were told to look for a man of *[[Balthazar]]'s description*, and take him back to the city to see the Sun King.  
+Were they looking for US in particular?  They get hesitant and don't answer.    Storr threatens them, successfully. They were told to look for a man of *[[Balthazar]]'s description*, and take him back to the city to see the [[Sun King]].  
 
 Copyn calls the city, "The city of voices".  
 
@@ -202,7 +202,7 @@ We row the dinghy up to the cove. A large flat stone juts into the water that we
 
 We think on the coloraton of the symbol. Black and purple seem to speak to both Mon's follower's garb, but also the palette of Mabnoss and [[Branwen]]. The three lobes could represent the [[Branwen's Branches|children of Mog]]: [[Mons]] (black and purple), [[Ceridwen]] (green, nature) and [[Torval]] (red, fire (and blue, ice?)).
 
-Storr bites an apple. She feels youth flowing back into her. Silas also takes a bite, and returns to his previous age. 
+Storr bites an apple. She feels youth flowing back into her. [[Silas]] also takes a bite, and returns to his previous age. 
 
    1. The 2nd Fight with Copyn
 Storr offers an apple to Copyn. He’s looking a lot more spry now. Copyn bends down and picks up a branch. He starts muttering to himself. 
@@ -213,7 +213,7 @@ WE FIGHT
 - [[Branwen]] throws on [[Cricket]]’s cloak, but can’t see the wizard anywhere
 - Copyn reappears across the island
 - Silas tries to paralyze a bunch of water and it does’t work for some reason
-- Branwen’s commands Copyn to move closer
+- [[Branwen]]’s commands Copyn to move closer
 - Storr takes out Copyn, yea-fatally.
 - Silas gives his new bronze shortsword a try, but then says fuck it and bears out, managing to hold onto his beechstaff
 - Branwen smashes a column of water with Gale with a crit

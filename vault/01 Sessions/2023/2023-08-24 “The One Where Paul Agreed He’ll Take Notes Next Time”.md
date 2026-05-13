@@ -45,7 +45,7 @@ Rambler - what about the bronze from the forge?
 
 [[Krambler]] - bronze comes from fire
 
-[[Storr]] - the Weyland story required him sacrifice an eye;
+[[Storr]] - the [[Weyland]] story required him sacrifice an eye;
 
 Balz - says something poignant
 
@@ -73,7 +73,7 @@ As [[Storr]] looks at Gale - the blade is steel, the red may be copper and NOT b
 
 [[Krambler]] recognize the flame patterns in Gale are similar to his tattoos.  In terms of style.  
 
-[[Storr]] thinks Krambler should carry Gale.  She passes the sword onto Krambler.
+[[Storr]] thinks [[Krambler]] should carry Gale.  She passes the sword onto Krambler.
 
 The party journey’s on…
 

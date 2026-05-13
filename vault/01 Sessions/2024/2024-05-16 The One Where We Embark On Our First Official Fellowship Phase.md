@@ -111,7 +111,7 @@ We notice that he’s moving his head a little strangely. Holds up his hand as h
 
 Bal introduces the party. Each of us approach and introduce ourselves.
 
-Bardh mentions having written an epic. 
+[[Bardh]] mentions having written an epic. 
 
 Are you the titular poet?
 
