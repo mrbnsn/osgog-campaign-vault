@@ -118,7 +118,7 @@ To preview the site locally before or after a sync:
 
 ```powershell
 cd quartz
-npx quartz build --serve
+npm run serve
 ```
 
 Open http://localhost:8080/ in your browser.
