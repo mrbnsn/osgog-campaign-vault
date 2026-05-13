@@ -28,11 +28,11 @@ We don’t hear the noises anymore. The terrain is ocean-smoothed cobble, smooth
 
 [[Silas]] is our tracker (Nature, 18). [[Silas]] leads with Arthen and [[Storr]] behind. We track most of the morning. Goes through some dense forest. Guessing that its hoof prints. Eventually it peters out, forest grows back in around it. As time goes on, they grow less distinct.  Not sure what to make of it. [[Silas]] says it looks horse-ish. There are multiple animals. At least 3, but not totally sure. Could be more but probably not less. 
 
-It does seem we are following the tracks in the same direction they were traveling. Silas does notice that the tracks should be fresher here but they’re not, which seems strange, like the forest is involved. The forest does seem primeval.
+It does seem we are following the tracks in the same direction they were traveling. [[Silas]] does notice that the tracks should be fresher here but they’re not, which seems strange, like the forest is involved. The forest does seem primeval.
 
 We’ve been moving up hill inside a cull. We’re reaching up toward a high spot between two hills. 
 
-Storr posits that these folks probably know we’re here, saw us on the boat. We probably shouldn’t try and sneak up on them. May not be a threat, but they may also be a threat. We agree to proceed cautiosly, but not sneak around, and attempt to be unaggressive. We head to the high hill. 
+[[Storr]] posits that these folks probably know we’re here, saw us on the boat. We probably shouldn’t try and sneak up on them. May not be a threat, but they may also be a threat. We agree to proceed cautiosly, but not sneak around, and attempt to be unaggressive. We head to the high hill. 
 
 [[Krambler]] is our pathfinder tonight (Travel: 6) We get turned around and don’t totally know where we end up. 
 
@@ -134,7 +134,7 @@ The centaurs were saying something about the tree having a shadow in the sky.
 
 We heal, and short rest.
 
-Balz awakens in the night and spies the shadow of an enormous tree extending into the sky. We’re reminded of the tree that we fell through jumping out of [[Nyth]]. Took up a lot most of the sky. Branwen has a weird memory like she’s seen this tree before but she can’t remember where.
+Balz awakens in the night and spies the shadow of an enormous tree extending into the sky. We’re reminded of the tree that we fell through jumping out of [[Nyth]]. Took up a lot most of the sky. [[Branwen]] has a weird memory like she’s seen this tree before but she can’t remember where.
 
 We wake. Balz and Storr check out the waterfall. (investigation, 6 & 8 respectively)
 
@@ -237,7 +237,7 @@ White hair looks at Branwen.  Says: your past is lost, is it not?
 
    - Everything goes fuzzy for Branwen. Her eyes are open, but she isn’t seeing what’s around her. She experiences feeling herself suddenly in a greyscale world, and slowly realizing she’s on a boat, a small boat, rocking on a black sea. As she feels the boat move on the waves, she sees the shore come in and out of focus, far away. She feels a lot of pain in her throat, and finds she is drenched in blood. A familiar voice says from behind, This is the land you now inhabit.**
 
-   - The boat runs aground and Branwen steps out. She sees the [[The Boatman|Boatman]] and recognizes him. Memories flood back, and she recognizes herself as [[Cricket]]. She undergoes the same process that caused her to undergo her original transformation, and emerges, still Branwen, but with all of Cricket’s memories and the certain knowledge that it was [[The Boatman]] that carried her across the water. She finds herself back at the edge of the pool.**
+   - The boat runs aground and Branwen steps out. She sees the [[The Boatman|Boatman]] and recognizes him. Memories flood back, and she recognizes herself as [[Cricket]]. She undergoes the same process that caused her to undergo her original transformation, and emerges, still Branwen, but with all of [[Cricket]]’s memories and the certain knowledge that it was [[The Boatman]] that carried her across the water. She finds herself back at the edge of the pool.**
 
       - Storr’s Take…***
 
@@ -282,7 +282,7 @@ B: And we told you his name–
 
 W: Is ***[[Osgog]]***
 
-We discuss osgog and his mother ([[Doldhelan]]/[[Doldhelan|Noswaith]]), and Osgog and the Dragon.
+We discuss [[Osgog]] and his mother ([[Doldhelan]]/[[Doldhelan|Noswaith]]), and Osgog and the Dragon.
 
 Silas’s note: There is a sisterhood of [[Doldhelan]] and [[Ceridwen]] (kelynnyn, Gwen at the tower, probably [[Seren]]. If Osgog’s mother is truly still trapped, we would have an interest in freeing her. If these three have their names back, maybe they could help free her. 
 
@@ -388,7 +388,7 @@ Storr thoughts -
       - Grey w/ crust and liken, very old looking
       - May be we have to play music FOR the stones, not from the stones?
       - Branden Hopps is a fine young man
-      - We are going to form the cradle with our arms, put Arthen in the middle, and sing a song together
+      - We are going to form [[The Cradle]] with our arms, put Arthen in the middle, and sing a song together
       - Storr thinks our intention has to be to sing a song that connects to a particular place (Silas song for example may open a path way to some place associated with druidism)
       - * Our performance rolls were terrible (10 Storr, 1, and 6)
 
@@ -764,7 +764,7 @@ He returned and made a choice.  That made all the different.
 
 He didn't chose the crown, no one sits on the throne.  Which sits far away.  The [[Sun King]] is trying to find th throne. 
 
-The foundling is the Abbot
+The foundling is [[The Abbot]]
 
 Prophecy?  
 

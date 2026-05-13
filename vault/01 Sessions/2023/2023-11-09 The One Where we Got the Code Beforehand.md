@@ -27,7 +27,7 @@ The stairway continues up to more levels.
 > What the greatest love, as inside a falling
 >
 > Glove, hands over to us like endless moonlight.
-[[Storr]] burns a book. Cricket takes another book successfully. B reads.
+[[Storr]] burns a book. [[Cricket]] takes another book successfully. B reads.
 > It is like this in death’s other kingdom
 >
 > Waking alone
@@ -93,7 +93,7 @@ Await the coming of
 
 THE FOUNDLING - Written in runic in charcoal!
 
-Storr examines the contents of the dresser that were thrown around. This room looks like it wasn’t left in pristine condition. 
+[[Storr]] examines the contents of the dresser that were thrown around. This room looks like it wasn’t left in pristine condition. 
 
 Storr examines the scratches on the walls. He suspects they aren’t just a bear scratching at the wall, they are deep, and in stone. The way things look, a bear could have been here and messed the place up. Though, it does look like the disturbance happened a long time ago.
 
@@ -121,7 +121,7 @@ Storr put is katana in the water, and a hand materializes and takes the katana. 
 
 On the “shadow’s” turn, he goes for [[Silas]], screams, we all become frightened, and [[Silas]] AGES 30 YEARS. He’s now like, 48.
 
-On its next turn, it seems to flow into Silas, and doesn’t seem to know who he is. On the shadow’s next turn, he (Silas) attacks Storr with the bronze katana.
+On its next turn, it seems to flow into [[Silas]], and doesn’t seem to know who he is. On the shadow’s next turn, he (Silas) attacks Storr with the bronze katana.
 
 On Storr’s turn, he drags the Silas Shadow into the well and holds his head underwater. 12 seconds go by with Silas’ head underwater. Cricket screams “THE POWER OF CHRIST COMPELS YOU”, twice. 18 seconds. He escapes, but Storr grapples him again and dunks him. 12 seconds.  
 

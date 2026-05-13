@@ -46,7 +46,7 @@ Not long as far as I’m concerned. (He’s very old, so really 🎵 time has no
 
 [[The Boatman]] is an older gentleman. ***<I miss the description>***
 
-Storr asks about the four girls we found instead of just the one. Do you know who would have done this and why.
+[[Storr]] asks about the four girls we found instead of just the one. Do you know who would have done this and why.
 
 I don’t now I— ***missed the rest of this answer.*** 
 
@@ -134,7 +134,7 @@ How many?
 
 Not sure.
 
-Balz: Why the thing that went terribly wrong have to do with Osgog weakening the boundaries between worlds or realms or gaining access to the realm of the dead? The schisms that we’ve traversed and the sentinels we met?
+Balz: Why the thing that went terribly wrong have to do with [[Osgog]] weakening the boundaries between worlds or realms or gaining access to the realm of the dead? The schisms that we’ve traversed and the sentinels we met?
 
 He finds the sentinels fascinating and while it see, perhaps that its news to him he doesn’t look shocked or surprise. He doesn't really know what happened or how it happened, that s a mystery that gets discussed, but he doesn’t understand it.
 
@@ -150,7 +150,7 @@ It would be at that tower.
 
 - I think you would have to find him, first. 
 
-Silas: Am I the Great Bear?
+[[Silas]]: Am I the Great Bear?
 
 - Well, at any rate… not yet. Lol
 - The Great Bear is always spoken about as a powerful being who in ancient times was subdued by the forces of mankind and who many say he will never arise to his full strength again because his time has passed. But his memory lingers on (CRANBERRIES) and there are those who still believe in him, so perhaps he still has some power.
@@ -164,7 +164,7 @@ Bran: Who is the other twin
 
 - I’ve heard described as a tree
 
-Storr pulls out her katana and nonchalantly prods the fire embers. The boatman gives everyone the “this lady with you?” look.
+Storr pulls out her katana and nonchalantly prods the fire embers. [[The Boatman]] gives everyone the “this lady with you?” look.
 
 Silas: Can you tell us how the bees, the great bear and the mother tree are connected?
 

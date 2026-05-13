@@ -23,9 +23,9 @@ Things that the party did:
 
 [[Storr]] decides to seek out [[Branwen]] and [[Silas]]. She stands up and sees [[Branwen]] talking to the elder and goes over there.
 
-Branwen goes to talk to Rhian. - *This conversation didn't yield anything very fruitful.  This village worships Gwenethen and [[Gorgomog]], and don't seem to make the connection to [[Mabmnoss|Morianoth]], that Branwen figures is pretty obvious.*
+[[Branwen]] goes to talk to Rhian. - *This conversation didn't yield anything very fruitful.  This village worships Gwenethen and [[Gorgomog]], and don't seem to make the connection to [[Mabmnoss|Morianoth]], that Branwen figures is pretty obvious.*
 
-[[Silas]] sneaks away from Branwen successfully with Arthen. They make their way outside to gaze a the stars. Silas poaches some brew from the tap and offers some to Arthen. They find a pile of gristle and bone and fat and feathers leftover from rending the dinner meat and Arthen indulges himself. Silas then proceeds to “decorate” Arthen in feathers and grease. They sneak some more brew and make their way back inside, trying to get to the stage in the far corner without anyone noticing. The extra beer though hasn’t helped, and they cause a small cacophony upon reentry.
+[[Silas]] sneaks away from Branwen successfully with Arthen. They make their way outside to gaze a the stars. [[Silas]] poaches some brew from the tap and offers some to Arthen. They find a pile of gristle and bone and fat and feathers leftover from rending the dinner meat and Arthen indulges himself. Silas then proceeds to “decorate” Arthen in feathers and grease. They sneak some more brew and make their way back inside, trying to get to the stage in the far corner without anyone noticing. The extra beer though hasn’t helped, and they cause a small cacophony upon reentry.
 
 [[Krambler]] (fill in stuff here)
 
@@ -87,7 +87,7 @@ They show us to the barn. “Bed down and I’m sure we’ll have further conver
 
 It’s the morning. 
 
-Storr sees Rhian walks towards the clearing in the morning, she’s ignoring Storr. There's a nest, four women standing near the edges of the clearing. There's some movement in a lite bower by the stone. B and Mowen are there, they get up and walk to Rhian. She bows to them. They bow to her. Rhian says to follow her and they do. Balz is walking solemnly, no spring. He and Mowen are holding hands, followed by the 4 women in procession. Storr follows trying to get Balz’ attention. When she makes a noise, the 4 women give her a look. Storr flexes. The women shake their heads in disgust and continue. Storr follows. 
+[[Storr]] sees Rhian walks towards the clearing in the morning, she’s ignoring Storr. There's a nest, four women standing near the edges of the clearing. There's some movement in a lite bower by the stone. B and Mowen are there, they get up and walk to Rhian. She bows to them. They bow to her. Rhian says to follow her and they do. Balz is walking solemnly, no spring. He and Mowen are holding hands, followed by the 4 women in procession. Storr follows trying to get Balz’ attention. When she makes a noise, the 4 women give her a look. Storr flexes. The women shake their heads in disgust and continue. Storr follows. 
 
 B and K are up with the sun. Silas and Arthen take a dip in Stanley Pond when it's nice and misty. 
 

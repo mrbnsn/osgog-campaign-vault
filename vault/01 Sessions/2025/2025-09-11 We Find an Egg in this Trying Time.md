@@ -58,7 +58,7 @@ We make radiohead puns for like, a while.
 
 We get in the boat and push out into the sea. It is getting toward evening. The rain slackens as we get out into open water. 
 
-We take out the navigation device. Silas is able to tell that the chimes that sound when turning the inner wheel are the minor pentatonic scale, the series of notes most of the music his people would play is in. 
+We take out the navigation device. [[Silas]] is able to tell that the chimes that sound when turning the inner wheel are the minor pentatonic scale, the series of notes most of the music his people would play is in. 
 
 For next week: We’re going to figure out a configuration to use for this device by Monday dinner. 
 

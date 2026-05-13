@@ -57,7 +57,7 @@ S: We hope it stays that way. We don’t mean to bring any unnecessary attention
 
 The forest is my home, I feel as safe within it as one should feel anywhere. When you understand a place, there becomes less reason to fear.
 
-Silas says he understands more than she knows. But in light of the recent threat at the city, he offers her the Better Obsidian Dagger in case things go sour. 
+[[Silas]] says he understands more than she knows. But in light of the recent threat at the city, he offers her the Better Obsidian Dagger in case things go sour. 
 
 She takes it and spins it around with a dexterity you don’t expect, she takes it and drags it against her hand, a little bit of blood beading up. She puts her hand to her mouth, looking at Silas. She puts pressure on it. Still looks at Silas.
 
@@ -73,7 +73,7 @@ S: How is your hand faring?
 
 There is a small cut, a little dried blood. It’s stopped bleeding. The wound seems clean and small. Not abnormally healed. 
 
-Storr: How long have you lived here?
+[[Storr]]: How long have you lived here?
 
 As long as I can remember. 
 
@@ -145,7 +145,7 @@ B apologies for the barbarian. Tells her of their mission.
 
 She sighs and turns away and yells, “There’s someone at the door!”
 
-We wait. Make awkward conversation. "Crazy hike." "You all see that tree?" We see some heads peak out around the corner to look at us. A woman's voice says, “Out of the way, out of the way.” Around the corner walks this woman, late middle aged, matronly build, shooing those behind her away, comes down into the vestibule and says, “Ah, I welcome you to Twr-Seren. What brings you here? I’m sorry about the welcoming party.
+We wait. Make awkward conversation. "Crazy hike." "You all see that tree?" We see some heads peak out around the corner to look at us. A woman's voice says, “Out of the way, out of the way.” Around the corner walks this woman, late middle aged, matronly build, shooing those behind her away, comes down into the vestibule and says, “Ah, I welcome you to Twr-[[Seren]]. What brings you here? I’m sorry about the welcoming party.
 
 B: Thank you for the welcome. The welcome party was what we deserved. We’re not quite sure exactly why we’re here. We’ve had a calling from some higher powers to come here. We’re trying to find out what is special about this place.
 
@@ -262,7 +262,7 @@ Storr: What do you do here?
 
 G: Mostly we work to keep the place going and Serydhwr looks at the stars. Sometimes Berythen and her family come up from the valley adn visit. That’s how we get more of our food.  
 
-Branwen is relatively confident we have not met anyone by that name. 
+[[Branwen]] is relatively confident we have not met anyone by that name. 
 
 Will Serydhwr be down soon?
 

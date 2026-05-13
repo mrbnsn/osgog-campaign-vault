@@ -33,7 +33,7 @@ Armor and weapons are all bronze. Fairly heavily armored, scale or plate. [[Bran
 
 Woman has a torc around her neck made of three metals twisted together (like the ring we have)
 
-She has a similar book to the one we found in the captain’s quarters, which Branwen likely recognized as a spellbook (Aug 1st)
+She has a similar book to the one we found in the captain’s quarters, which [[Branwen]] likely recognized as a spellbook (Aug 1st)
 
 Ring metals: entwined in three types, not sure what they are. Gale has some decorative metalwork on it. Ring wouldn’t look like the work of the same hand of Gale. Same type of embellishment. 
 
@@ -78,7 +78,7 @@ Island birds. The story of Bargos. Raven is a sibling of Bargos. All these birds
 
 B did hear the owl speaking back, not a human voice, but didn’t hear what it said. 
 
-[[Silas]]’s experience. The children’s circle game. Silas was older when he joined the druidic circle. This game coils represent a ritual of sorts like children’s games sometimes do. 
+[[Silas]]’s experience. The children’s circle game. [[Silas]] was older when he joined the druidic circle. This game coils represent a ritual of sorts like children’s games sometimes do. 
 
 Over the course of the month, no more emissaries from SK arrived. 
 
@@ -97,7 +97,7 @@ Silas asks the blonde girl about the game, she says it’s called “playing cra
 Silas asks Gwen about the honey. She has hives tucked down near the back entrance of the tower. Some of the bees presumably head down to the forest, other search out alpine plants. Always kind of fascinated by bees and beekeeping. Honey is so nourishing and delicious and loves the process of beekeeping.  Bears don’t come up this far. Only interested in crawling up into a cave. Silas expresses interested in seeing the hives. She does, gross woven skips. Gwen ahsn’t heard of of other sources of honey or bees? Not particularly. 
 
    1. Temperature of who’s our girl
-Storr: Blonde
+[[Storr]]: Blonde
 
 Silas: Blonde
 

@@ -49,7 +49,7 @@ Guide (Travel) [[Balthazar]] (+4)
 
    - Event two, Day 4:** Despair. Failure. [[Silas]] is scouting and yells in horror. They all come running. There’s a grizzly trail leading off into the woods where it looks like someone has been maimed and dragged off into the woods in the hills. We look around, the forest is dark and disturbing. As we look around we see huge marks that we determine to be the footprints of the giant insect creatures coming down out of the hills. Everyone gains one shadow point because of this grizzly scene, +2 fatigue saving throw.
 
-[[Storr]] is now **miserable**. (Now has 6 shadow points, which is more than half her wisdom score (11).) Our fellowship rating goes down from 6 to 5. Storr now automatically fails throws of 1 and 2.
+[[Storr]] is now **miserable**. (Now has 6 shadow points, which is more than half her wisdom score (11).) Our fellowship rating goes down from 6 to 5. [[Storr]] now automatically fails throws of 1 and 2.
 
    - Event 3, Day 5:** Small mishap, +1 fatigue saving throw. K (target) on the lookout, he was waiting and mistook Arthen for a wild beast in the woods, there was a but of a scuffle between he [[Silas]] and arthen, everyone calmed down, no bones broken.
 
@@ -58,7 +58,7 @@ Guide (Travel) [[Balthazar]] (+4)
 We all roll 8d20 for the downtime skill building.
 
       1. # Exhaustion saving throw
-DC is 15. Silas takes 1 level. (exhaustion rules are the same as 5e, PHB pg 291.)
+DC is 15. [[Silas]] takes 1 level. (exhaustion rules are the same as 5e, PHB pg 291.)
 > [[Osgog]] rules: a short rest in a safe location reduces your exhaustion level by one
 
 We’re keeping track of shadow points and skill tallies in the NOTES section of our character sheets.

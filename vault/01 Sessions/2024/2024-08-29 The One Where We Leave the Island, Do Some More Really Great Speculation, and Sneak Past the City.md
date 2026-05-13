@@ -50,9 +50,9 @@ We talk about a [[Noorglass]]-[[Nyth]] theory. Tom suggests that maybe this is t
 
 [[Storr]]’s memory (12) allows him to start the motions, trying to put it together, she’s got parts of it, not 100%. The phoenix hops down and nods, holds out a talon to her. Gives her an imperious (adj. assuming power or authority without justification; arrogant and domineering) look.
 
-Storr kneels and presents the sword to the phoenix. It grasps the sward in one claw, balancing elegantly on the other leg. It calls out to the sky, warbles and makes noises that Storr doesn’t fully understand. Storr casts speak w/ animals. Storr still can’t understand word for word what is happening, but she gets the sense the bird is trying to do something similar to what the centaur was doing. It hands the sword back. (7) Storr gets the sense that the sword has decided to take Storr, and a new rune looks to be forming, but unknown what it is as of yet. Storr tries to thank the phoenix. It looks down his beak at Storr, and flies back to the tree. 
+[[Storr]] kneels and presents the sword to the phoenix. It grasps the sward in one claw, balancing elegantly on the other leg. It calls out to the sky, warbles and makes noises that Storr doesn’t fully understand. Storr casts speak w/ animals. Storr still can’t understand word for word what is happening, but she gets the sense the bird is trying to do something similar to what the centaur was doing. It hands the sword back. (7) Storr gets the sense that the sword has decided to take Storr, and a new rune looks to be forming, but unknown what it is as of yet. Storr tries to thank the phoenix. It looks down his beak at Storr, and flies back to the tree. 
 
-Silas asks the birds about beech trees. The birds indicate that there is a magical beech tree somewhere “across many skies”, but can’t give a precise location. 
+[[Silas]] asks the birds about beech trees. The birds indicate that there is a magical beech tree somewhere “across many skies”, but can’t give a precise location. 
 
 We sleep.
 
@@ -71,7 +71,7 @@ Keto is curious what we found. We relay what we saw.
 
 We discuss what to do next. Should we enter the city or confront the [[Sun King]]?
 
-We may need to do both. Sneak into the city in order to confront the [[Sun King]] as he is outside, laying siege. The [[Sun King]] knows of B’s presence here; he may be the reason why Sun King is laying seige to the city. We decide to talk with Keto about our plan to confront the sun king.
+We may need to do both. Sneak into the city in order to confront the [[Sun King]] as he is outside, laying siege. The [[Sun King]] knows of B’s presence here; he may be the reason why [[Sun King]] is laying seige to the city. We decide to talk with Keto about our plan to confront the sun king.
 
 K says the sun king’s army emerged form the mists of the lake not so long ago and have enveloped the city and taken over the docks and the quays and while they have not penetrated the city’s defences, and there hasn’t been a lot of fighting, they just showed up and said “I demand entrance and sovereignty” So anything that comes out of the city, vessels that land can’t go without agents of the sun king on board. K definitely knows some smuggling routes, can get us up the to harbor, but I’m not sure if that’s really where you want to go, it’s up to you.
 
@@ -138,7 +138,7 @@ She looks wary of the beast, but not intimidated. Silas proceeds, telling Arthen
 
 I suspect I know the tower. What do you want with it?
 
-Silas tells her their story of how they embarked on this quest together and a fellow called [[The Boatman]] sent them to a tower in the stars. When we came to Nyth, we saw this tower on a map, and it seemed to match his description. I am one of a party of travelers, and the previous night we lost one of our own for a spell and none of us slept very much. Your home looks very cozy and your garden has these nice looking pumpkins I see. Might we rest here a bit and perhaps tell you more of our tale before we continue on our journey? (3)
+Silas tells her their story of how they embarked on this quest together and a fellow called [[The Boatman]] sent them to a tower in the stars. When we came to [[Nyth]], we saw this tower on a map, and it seemed to match his description. I am one of a party of travelers, and the previous night we lost one of our own for a spell and none of us slept very much. Your home looks very cozy and your garden has these nice looking pumpkins I see. Might we rest here a bit and perhaps tell you more of our tale before we continue on our journey? (3)
 
 You may. That corner of the yard has some good branches. You can sleep there.
 

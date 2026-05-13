@@ -19,7 +19,7 @@ Balz wants to search around the stone circle for any evidence about what might h
 
 [[Storr]] talks to Balz, and says he wants K to take Kleghien and try to attune with it.
 
-Balz doesn’t want Storr to give up so quickly on Kleghien. 
+Balz doesn’t want [[Storr]] to give up so quickly on Kleghien. 
 
 [[Silas]] climbs the tree and looks into the bee hole. He can see some honeycomb, the bees, there’s a hive. Manage to do it in a way that they’re not perturbed.  Does not appear disturbed, no scratch marks. 
 
@@ -139,7 +139,7 @@ He is here.
 
 *Eyebrows gif directed toward Hoppsy*
 
-(will follow up on Branwen’s reactions when Hoppsy is back.)
+(will follow up on [[Branwen]]’s reactions when Hoppsy is back.)
 
 There’s kinship between Branwen and the raven, but there’s a strangeness there too.
 
@@ -149,7 +149,7 @@ Em, because it’s the saddest of keys. Jk, the raven would not pick one note ne
 
 Would you like to hear some music?
 
-Silas recalls the story of Icebeard and the Honey Woman, how he found a woman in the snow who calls to mind [[Morianoth]]. There are bees and honey in that story.
+[[Silas]] recalls the story of Icebeard and the Honey Woman, how he found a woman in the snow who calls to mind [[Morianoth]]. There are bees and honey in that story.
 
 We ask the raven if the woman that comes to the stone is the Honey Woman. 
 

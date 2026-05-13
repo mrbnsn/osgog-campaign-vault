@@ -99,7 +99,7 @@ They offer us some hearty porridge for breakfast. A young page dressed in the gu
 
 We decide to go see the lord and lady.
 
-The guard master says it’s been a longtime since we’ve hosted anyone outside of Nyth. She says, “We’ve heard that there are forces around. After a long time of not having incursions, we have to be on guard more so than in the past. How did you get here? Do you know how the SK arrived?”
+The guard master says it’s been a longtime since we’ve hosted anyone outside of [[Nyth]]. She says, “We’ve heard that there are forces around. After a long time of not having incursions, we have to be on guard more so than in the past. How did you get here? Do you know how the SK arrived?”
 
 [[Storr]]: We come from Norglass, which is unfamiliar to anyone here, just as we are unfamiliar with Nyth. We’re trying to avoid the SK minions.
 
@@ -138,7 +138,7 @@ Someone is building wooden boxes with strings with bridges. Someone else is buil
 
 Our first full day in [[Taymar]] is complete.
 
-What do we do for the next couple of days? Others lay around for a couple days shedding exhaustion while krambler continues his shopping.
+What do we do for the next couple of days? Others lay around for a couple days shedding exhaustion while [[Krambler]] continues his shopping.
 
 K: Why are they making these instruments and who are they for?
 
@@ -148,7 +148,7 @@ How do these protect you?
 
 Their goal would be to strike fear into the hearts of any who approach.
 
-3 full days have passed. Evening in Taymar. The rest of us have shed our exhaustion and can get up and move as a party.
+3 full days have passed. Evening in [[Taymar]]. The rest of us have shed our exhaustion and can get up and move as a party.
 
    1. We Go to See the Lord and Lady
 ![[The_Fortress_Taymar_with_the_party_in_the_greenspace_of_Lord_Black_Willem_and_Lady_Fiona..png]]
@@ -185,11 +185,11 @@ Sidebar: we don’t know why these connections exist. They seem to have more inf
 
 We mention Gorg and Gwen, and [[Mother Night]]. They perk up at this. They ask if our travels have anything to do with those figures. K notices then that as they talk about the three of them, they’;re looking a little more intently at [[Branwen]] (Balz is being ignored for now.) They’re trying to see if we have any alignment with the names we just mentioned. And if our travel is connected.
 
-[[Branwen]] expresses her unapologetic patronage to MN. The rest of us distance ourselves from this idea, with [[Silas]] saying that he holds no opposition to Branwen's alignment, but for himself he feels he may be more in tune with the ideals of Gwenethen.
+[[Branwen]] expresses her unapologetic patronage to MN. The rest of us distance ourselves from this idea, with [[Silas]] saying that he holds no opposition to [[Branwen]]'s alignment, but for himself he feels he may be more in tune with the ideals of Gwenethen.
 
 Black Willum leans forward, smirking (see above), and asks “Do you fear the dead?”
 
-Bran and Storr decidedly don’t (Br: "Some of my best friends are dead."). K and Silas are more hesitant to outright dismiss them.
+Bran and [[Storr]] decidedly don’t (Br: "Some of my best friends are dead."). K and [[Silas]] are more hesitant to outright dismiss them.
 
 They sing a sad song which we don’t necessarily understand. It’s appropriate to the beginning of autumn when thinking of those who had been lost reminding us that beautiful things can come out of loss. They say: "If perhaps you’re willing, we have something to potentially offer you. You can go over the waterfall, but you can go over with a guide of sorts, (Willum is smirking again) but it will take a certain level of bravery than simply jumping over in a barrel. It’s a dark journey."
 

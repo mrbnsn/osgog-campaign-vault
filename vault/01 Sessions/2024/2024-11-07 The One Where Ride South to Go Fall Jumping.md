@@ -65,7 +65,7 @@ Bal fails first check by 6. Event happens at the first hex. Hunter is target. 22
 
 Bal rolls 8, we burn a fellowship point (6), and get a 18. Next event is three hexes away. We’re traveling up in a valley. K rolls a 22 percep. The voices K is hearing on the wind are starting to grate on the party, getting anxious. Any small sound raises frustration and anxiety. Fatigue saving throw increases by 1.
 
-Bal rolls a 20. 3rd event (which hex are we on??). We come to a bridge high up in this forest. As we’re walking, it’s still autumn. We’ve left the colder parts and it seems more October-ish. Chance encounter. Storr hunts. She is going through the woods and she hears someone chanting. She sees someone standing on the bridge and beckons us over. There’s a tall figure flanked by two armored figures.
+Bal rolls a 20. 3rd event (which hex are we on??). We come to a bridge high up in this forest. As we’re walking, it’s still autumn. We’ve left the colder parts and it seems more October-ish. Chance encounter. [[Storr]] hunts. She is going through the woods and she hears someone chanting. She sees someone standing on the bridge and beckons us over. There’s a tall figure flanked by two armored figures.
 
 One is an older man, with a bald head wearing a red cape and holding a staff. The other two are unnaturally tall wearing armor, standing very still near him. We don’t see any insignia at this point. [[Branwen]] sends Koweth into the air and she wargs. 
 
@@ -79,7 +79,7 @@ WE FIGHT.
 - Bald guy can seemingly teleport. He does a bunch of wizard shit.
 - Kramb goes down and starts making saves
 - Storr grapples one of the armored dudes
-- Silas mauls the wizard to death
+- [[Silas]] mauls the wizard to death
 - Storr attempts to toss one of the guards over the side of the bridge, but can’t do it. Instead, she drags him across the bridge, so…
 - [[Branwen]] can hit him with [[Rhiannon]]’s gale, which she does, and she unleashes a gust of wind 50 FEET LONG
 - One of the guards goes over the side, but manages to wade up back into the fight. He dies anyway.

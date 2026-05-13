@@ -125,7 +125,7 @@ K: I don’t know, he stayed down below in my quarters the whole time. I really 
 
 [[Storr]] wants to sneak down to the ship’s waurters. She remembers that ship’s quarters are pretty tight, K are down the same steps that L went down. Certainly possible to sneak down there, but you would have to be very stealthy in a boat like this. We put a pin in that plan.
 
-B: Kitto, I think that we should travel to teh center of the lake. Doesn’t have to be right now. Leave that to you. We understand you’re fearful, you’ve had your set oath. But as you can see, we carry the voices with us. We can’t guarantee safety, but we think you’ll come out better on the other side. We want to find a path to confront the sun king.
+B: Kitto, I think that we should travel to teh center of the lake. Doesn’t have to be right now. Leave that to you. We understand you’re fearful, you’ve had your set oath. But as you can see, we carry the voices with us. We can’t guarantee safety, but we think you’ll come out better on the other side. We want to find a path to confront the [[Sun King]].
 
 K looks at B long and hard, and ponder at the decision. “These two things seem very different to me, and I need to think on it.” He’s not sure about the bigger thing, but would love to get rid of laden. Not sure what that would entail. You’re talking potentially about a big undertaking here. Fearful but also fascinated by the center of the lake, 1. Prtectng him from Laden. What does that mean? How is that related to 2. going to the center of the lake?
 
@@ -139,7 +139,7 @@ We take the afternoon and speak to the crew. [[Silas]] and Arthen put on a bear 
 
 [[Krambler]] can’t really smithy much on the boat.
 
-Storr feigns sickness to get out of the meal. She says she’d like to go down below, and be alone, not feeling sociable. We head down to the galley, Storr is directed to find some blankets and lay down somewhere. Copyn is L’s friend. 
+[[Storr]] feigns sickness to get out of the meal. She says she’d like to go down below, and be alone, not feeling sociable. We head down to the galley, Storr is directed to find some blankets and lay down somewhere. Copyn is L’s friend. 
 
 He goes into the captains quarters, there’s some talking, the two of them come out and he joins us at the table.
 
@@ -163,7 +163,7 @@ L: No no, here you just sort of hang over the edge.
 
 There’s a few jokes about diarrhoea. 
 
-B askas Silas how Arthen is faring.
+B askas [[Silas]] how Arthen is faring.
 
 Silas saus he seems to have taken to the sea. Surprised he hasn’t jumped inot the lake, judging fro the swim we had back at the marsh toen.
 

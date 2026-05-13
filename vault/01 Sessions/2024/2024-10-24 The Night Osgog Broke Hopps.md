@@ -28,7 +28,7 @@ Blondie stares [[Branwen]] down and says you’re correct it is one of us…
 
 [[Branwen]], which one?  Blondie asks, which one?  Blondie says you come here with this as a party, which one of us do you think it is and what is it that you’re looking for in this child?
 
-Branwen says I think it’s you (Blondie), and Blondie says it’s not…
+[[Branwen]] says I think it’s you (Blondie), and Blondie says it’s not…
 
 IT is NOT the RAVEN HAIR GIRL EITHER (FUCK!).   HOPPS SNAPS.
 
@@ -94,7 +94,7 @@ S: Can I hug you?
 
 Bayern: take  off your helmet, its ridiculous.
 
-B: It's been many ages, but more for me than for you.  (she is older than silas would expect)
+B: It's been many ages, but more for me than for you.  (she is older than [[Silas]] would expect)
 
 S: How did you survive hte storm?
 
@@ -106,7 +106,7 @@ S: Personal history, then, gives a recap of our history.
 
 B: Makes aggressive eye contact "I KNOW".  S: Great sister.  Love you :) 
 
-Storr: What is the importance of this child? 
+[[Storr]]: What is the importance of this child? 
 
 B: beyond the purview of ….  Something was foretold , carries a significance.  Not like anything we've seen before.
 

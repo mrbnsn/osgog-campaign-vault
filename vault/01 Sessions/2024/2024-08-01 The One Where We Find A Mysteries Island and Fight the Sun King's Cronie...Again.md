@@ -30,7 +30,7 @@ Behind it, there’s a table, a chest and a bed.
 
 [[Storr]] rifles through the table. On the bedside table, there’s a book, an inkpot and a quill pen. The book has strange writing in it that neither of them recognize. On the desk, there’s a large pearl, an emerald, and a blue jasper gem.
 
-[[Storr]] tosses the bed. Storr unlocks the chest with a nearby key.
+[[Storr]] tosses the bed. [[Storr]] unlocks the chest with a nearby key.
 
 In the chest, is some clothes (not 5 sets worth), some sort of personal effects, tobacco pouch, and pouch with 500 gp in it. Oilskin.   
 
@@ -65,7 +65,7 @@ The mission? The SK is trying to conquer and bring [[Nyth]] to order theers vari
 
 He’s not sure what’s in the lake. He’s apprehensive and intrigued. Laden makes big eyes when the center of the lake comes up.  
 
-Who is the Sun King what is his provenance?  Doesn't know.  He came from a place with death and rose to power with promises to banish death.  Many are drawn to an end to death.  
+Who is the [[Sun King]] what is his provenance?  Doesn't know.  He came from a place with death and rose to power with promises to banish death.  Many are drawn to an end to death.  
 
 Why seek [[The Black Water]]?  Copyn doesn't know.
 
@@ -180,7 +180,7 @@ Storr nicks Copyn’s face with a blade and takes a shadow point.
 We release these two to Keto, and he places them in the quarters under guard.
 
    1. The Island, the Tree and the Symbol
-[[Branwen]] and Silas go topside for the night.
+[[Branwen]] and [[Silas]] go topside for the night.
 
 In the night we hear chimes, some loud, some melodic.  Wind picks up, there is some chop as the ship sails through the cloud.  Feels like sailing into a super thick mist - no visibility at all as we enter. 
 
@@ -210,7 +210,7 @@ Storr offers an apple to Copyn. He’s looking a lot more spry now. Copyn bends 
 WE FIGHT
 
 - We hit Copyn a couple times, then he disappears and a water elemental shows up.
-- Branwen throws on [[Cricket]]’s cloak, but can’t see the wizard anywhere
+- [[Branwen]] throws on [[Cricket]]’s cloak, but can’t see the wizard anywhere
 - Copyn reappears across the island
 - Silas tries to paralyze a bunch of water and it does’t work for some reason
 - Branwen’s commands Copyn to move closer

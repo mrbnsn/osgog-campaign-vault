@@ -15,7 +15,7 @@ contributors:
 
 1. Plumbing the [[Myrthn]] Depths
       1. [[Silas]] Goes Full "O Captain, my Captain"
-Goal of the bear: Silas’ people, the groups we’ve been calling the druids, they sort of see the bear as this wise force elder, in kind of a embodiment of nature hero, the path that [[Silas]] is taking with his character, that the bear was this super ancient, wise, almost unknowable manifestation of the nature world and influences. The druids would worship the bear, would be asking the bear for insight, asking the bear to be more obviously present in the world around them, so they could learn from his example and follow in hius fpotsteps. Even if whatever has gone on with the bear, the bear is sleep, there was some sort of hurt done to the bear, the bear is in this healing process, but [[Silas]] would want to be… there’s a way in which he’s thinking he’s the disciple, he;s has to bring back the memory of hium, Silas sense of the people in [[Monsoth]] is that he’s tapped into something much older. This older tradition is lost and has been lost in all of them, and its something we have to bring back, to be more responsive and cognizant of hearing the bear, WWTBD. And its not necessarily obvious what the bear would do, not a well defined philosophy, hard for people to know. There a sense that the bear is mysterious, because his concerns are not strictly human concerns. 
+Goal of the bear: Silas’ people, the groups we’ve been calling the druids, they sort of see the bear as this wise force elder, in kind of a embodiment of nature hero, the path that [[Silas]] is taking with his character, that the bear was this super ancient, wise, almost unknowable manifestation of the nature world and influences. The druids would worship the bear, would be asking the bear for insight, asking the bear to be more obviously present in the world around them, so they could learn from his example and follow in hius fpotsteps. Even if whatever has gone on with the bear, the bear is sleep, there was some sort of hurt done to the bear, the bear is in this healing process, but [[Silas]] would want to be… there’s a way in which he’s thinking he’s the disciple, he;s has to bring back the memory of hium, [[Silas]] sense of the people in [[Monsoth]] is that he’s tapped into something much older. This older tradition is lost and has been lost in all of them, and its something we have to bring back, to be more responsive and cognizant of hearing the bear, WWTBD. And its not necessarily obvious what the bear would do, not a well defined philosophy, hard for people to know. There a sense that the bear is mysterious, because his concerns are not strictly human concerns. 
 
 Myrthin: in much the same way in what he’s communicating, not a 1:1 translation with my experience. As for a group, his response to that wouldn’t make a ton of sense. He wouldn’t acknowledge factions. He would just be like “I followed the bear with the people around me.” Get the sense its a loooong time ago. He’s probably been lone for an incomprehensible scratch of time. He’s been hanging out …There would be some confusion, he was probably someone who went off in earch of the bear, and from our perspective found it. He would say that we’ve come to the bear and he’s here so he has too, he might have taken some different path a long time ago, but because he says the bear is everywhere, he would say
 
@@ -72,14 +72,14 @@ What did Brem do or does that M has issue with?
 We would hear more of the song gone wrong sound, gnashing, ugly, dissonance. Ax, battle, fight. Creeping shadow, pestilence. The connection he’s making is that that figure was involved in that in some way. 
 
       1. The Horn of Balzhammerhand
-Balz approaches Myrthn, indicates his horns and asks, do you know what this is? Old, ancient, start humming the piano song, there’s a link there to what Balz was up to. Very interested in the fact that one horn is broken off. With Balz permission, he would be inclined to trace the line of the existing horn. Balz would get a sense of [[Cricket]]’s lullabye as he did this, easing a wound. Sympathetically also hear the dissonant melody piece. Bla shows him the broken off piece. He would take it and try to hold it back in place, and would look at Balz and be trying to gauge what Balz’s feelings toward that broken off piece were. (roll insight/perception: 13) He’s asking Balz something about it, but not sure what it is. 
+Balz approaches [[Myrthn]], indicates his horns and asks, do you know what this is? Old, ancient, start humming the piano song, there’s a link there to what Balz was up to. Very interested in the fact that one horn is broken off. With Balz permission, he would be inclined to trace the line of the existing horn. Balz would get a sense of [[Cricket]]’s lullabye as he did this, easing a wound. Sympathetically also hear the dissonant melody piece. Bla shows him the broken off piece. He would take it and try to hold it back in place, and would look at Balz and be trying to gauge what Balz’s feelings toward that broken off piece were. (roll insight/perception: 13) He’s asking Balz something about it, but not sure what it is. 
 
       1. [[Storr]]'s Turn
 [[Storr]] lays out the compass and the hammer and indicates them to M. (roll perception: 5) Asking him what these are.
 
 [[Storr]] would see M look at them, but would no be able to understand him. She would the piano tune again, construction, something reminding us of the blacksmith, snippets of all three M songs. He has some knowledge of what they are, they’re not mysteriewas, but doesn’t have any specific knowledge of any of these things. 
 
-Storr: Does he know how to set it, and how to set it to find B?
+[[Storr]]: Does he know how to set it, and how to set it to find B?
 
 M has a lot of ideas, but the answer would be no. We’d get the sense that this is not the kind of thing he uses, a man made mechanical object, like Tom B and the ring. He’s not carrying human constructions.
 
@@ -115,7 +115,7 @@ We journey:
 - Silas: Scout (Exploration)
 - [[Branwen]]: Lookout (perception)
 
-Storr: Compass has five lobes, five of us, very similar to the cradle itself. Similar coloration too. Would be interesting to see if we have a cradle five-way.
+Storr: Compass has five lobes, five of us, very similar to [[The Cradle]] itself. Similar coloration too. Would be interesting to see if we have a cradle five-way.
 
       1. Event #1: Man Overboard Amidst the Shrieking Eels
 Balz: 23

@@ -24,7 +24,7 @@ The center flagstone has the same three lobed symbol that we saw at the Island o
    1. Silas’ Jaunt Eastward
 [[Silas]] and Arthen take the east side of the island, intending to skirt along the coast. He gets down to the junction and goes around the small hillock to the east. Path is laid stone, not soil. Steep, water flowing down would fall far. Trail splits again, one goes along the across the larger hill, the other is created by stone pillars that goes along the backside of the hill, three feet apart, vary in height depending on the terrain. Arthen and S choose the backside pillar path. Arthen has a couple close calls, but he’s okay. After 100 yards, we;re back on a flat ledge, then a very steep stone staircase up to another terrace. We hear low singing as we approach, slow, gregorian chant like, long, drawn out notes, not unlike Eric Whitacre’s “Alleluia”. We pause and retreat, noting the location to share with the group, back across the pillars and return the group,
 
-   1. Storr’s Jaunt Westward
+   1. [[Storr]]’s Jaunt Westward
    1. Back at Camp
 In the late afternoon, [[Silas]] goes foraging for some pipable heath, and/or brush. There’s a lot of diverse plant life. He grabs some to burn, as well as some wintergreen and blueberries. 
 
@@ -35,7 +35,7 @@ Sunset. We have a magnificent view. Stars to the east appear even as the color i
 Balz, Bran, and K drop 1 exhaustion level.
 
    1. The Chorus
-We wake, and head to the singing dias. We get to the branch and take the eastern edge, not the pillar path that Silas traveled previously. Switchbacks, we gain some height. We come to the edge, and we start hearing maybe the same singing as previously. We pek around the corner and we think we see above us what we thing is the terrace. We see a marsh harrier hanging out on a stone. It sees us, jumps up into the wind and starts flying back toward the terrace Silas saw yesterday. ‘Was that thing looking for us?”
+We wake, and head to the singing dias. We get to the branch and take the eastern edge, not the pillar path that [[Silas]] traveled previously. Switchbacks, we gain some height. We come to the edge, and we start hearing maybe the same singing as previously. We pek around the corner and we think we see above us what we thing is the terrace. We see a marsh harrier hanging out on a stone. It sees us, jumps up into the wind and starts flying back toward the terrace Silas saw yesterday. ‘Was that thing looking for us?”
 
 We continue. Our cover might be blown. 
 

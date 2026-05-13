@@ -44,7 +44,7 @@ We decide to head to the lake, and arrive at our destination by mid-afternoon. B
 We send a chickadee to scout first the perimeter and then the island. Nothing stands out as particularly interesting, save a notable flat stone at the center of an island wreathed in roses.
 
    1. The Communal Play-by-play
-Silas shares something he talked with [[Seren]] about a circular lake. 
+[[Silas]] shares something he talked with [[Seren]] about a circular lake. 
 
 Context: [Silas’ [[Tawesek]] dream, the “Eye of Night”](http://[[Osgog]].mrobinson.us/index.php/Silas#[[Tawesek]])
 > She says that that circular lake is in more than one place, and that sometimes there is someone there, and sometimes there is not.  She’s not sure who lives there, or even if it’s always the same “person”.  While she can travel some paths, they don’t always lead to the same places, so directions are hard.
@@ -52,7 +52,7 @@ We decide to do stuff. Party decides to move towards the island
 
 (*Hopps regales us of his broken middle moat finger. Paul has no fucks to give.)*
 
-Krambler looks through the telescope (Natural 1) and everything looks further away.  Apparently he’s looked in the wrong end.
+[[Krambler]] looks through the telescope (Natural 1) and everything looks further away.  Apparently he’s looked in the wrong end.
 
 We head down to the lake.
 ![[River path to the lake.png]]
@@ -72,7 +72,7 @@ Lookout: Krambler (Perception)
 
 Scout: Silas (Exploration)
 
-Hunter: Storr (Hunting)
+Hunter: [[Storr]] (Hunting)
 
 Island has some scraggly grass, some flowers, a raised meadow in the middle. Some indentation, something walks around out there once in a while. Signs of life. 
 

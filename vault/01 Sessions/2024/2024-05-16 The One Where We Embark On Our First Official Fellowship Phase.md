@@ -58,7 +58,7 @@ What are you looking for?
 
 Absolutely
 
-Storr: Herbalist? Medicines?
+[[Storr]]: Herbalist? Medicines?
 
 Gwagh, in a cottage at the edge of town, she would be the person to ask. Uphill toward the mountains. 
 
@@ -80,13 +80,13 @@ Why arm's length?
 
 She’s interested in strange things. We all care about the names of things, but she has gone deeper into the darker facets of things than we are more comfortable.
 
-How can we ingratiate ourselves to Bardh?
+How can we ingratiate ourselves to [[Bardh]]?
 
 He does have a good sense of humor, though hard to nail down. Most days he looks out from his porch, he’s retired, and watches the world go past. There is a peach orchard down the hill to the right.
 
 She calls over the innkeeper. He tells us it’s called “The Poet’s Rest”, and he has some nice hobbit sized and regular sized rooms for us.
 
-Silas asks about a spot outside where he can camp. He says there's acreage available behind the inn he’s welcome to use.
+[[Silas]] asks about a spot outside where he can camp. He says there's acreage available behind the inn he’s welcome to use.
 
 How long have you been here?
 

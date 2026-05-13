@@ -26,7 +26,7 @@ During the rest, we each ask a question of the gardners.
    1. [[Storr]] has some questions for [[Mag]]
 [[Storr]].  What happened after we left - what happened to his body, etc?
 
-Mag:	His mother came to claim him. 
+[[Mag]]:	His mother came to claim him. 
 
 S:	Who?
 
@@ -44,7 +44,7 @@ S	B and K married?
 
 Mag: 	[[Bremphyr]] hasn't been seen for a while. Years.  Surprised when K showed up.
 
-Storr:   After body gone, what city do?  Expected, normal?
+[[Storr]]:   After body gone, what city do?  Expected, normal?
 
 Mag	Emporium is Emporium, and always will be
 
@@ -79,7 +79,7 @@ B. 	Balance?
 
 Mag: 	You leave this garden. You'll see "richer" busier people, but I wouldn't trade  my life for theirs.
 
-B	Why the name Mother Night
+B	Why the name [[Mother Night]]
 
 Mag	Invisible like a shadow, you always see her shadow.  She's working hidden. Working when the sun is not shining.  She's always present.
 

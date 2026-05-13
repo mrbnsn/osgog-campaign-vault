@@ -37,7 +37,7 @@ Description of Tapestry blanket with 9 panels:
 
 Discussing the story of [[Weyland]] - they talk about the Stone King who turned water, air, NIGHT into stone.  Party has fought elementals and stones.  When the fire elementals were destroyed they realized the obsidian they collected from the ashes could be the stone made from fire. 
 
-[[Cricket]]’s “perceives” that it says in the [[Weyland]] story the Stone King could make all these things into stone without humans but it took Weyland to freeze fire to turn fire into stone.  But it took man to make fire into stone.  It has to do with man - the volcanoes make obsidian.  The stone king would be banging away at the bottom.
+[[Cricket]]’s “perceives” that it says in the [[Weyland]] story the Stone King could make all these things into stone without humans but it took [[Weyland]] to freeze fire to turn fire into stone.  But it took man to make fire into stone.  It has to do with man - the volcanoes make obsidian.  The stone king would be banging away at the bottom.
 
 Rambler - what about the bronze from the forge? 
 
@@ -71,7 +71,7 @@ The runes on Gale are transcribed as “[[Rhiannon]]’s Gale”.  Balz has hear
 
 As [[Storr]] looks at Gale - the blade is steel, the red may be copper and NOT bronze.  There’s some green where the copper has weathered.  There may be some silver.  The handle is a green handle strapped.  On the actual blade is copper and silver mixed making the pattern.  The pommel is a large green stone.
 
-Krambler recognize the flame patterns in Gale are similar to his tattoos.  In terms of style.  
+[[Krambler]] recognize the flame patterns in Gale are similar to his tattoos.  In terms of style.  
 
 [[Storr]] thinks Krambler should carry Gale.  She passes the sword onto Krambler.
 
@@ -95,6 +95,6 @@ We fight.
 
 Balz dips a crossbow bolt in vial of black water and shoots the bolt at the ent, it hits and…. IT GRAPPLES KRAMBLER AND ABSORBS HIM INTO IT’S BODY .
 
-Balz hears screaming in his head when the bolts hit the monster (“CAN WE GET IT BACK”).  Storr gets pulled into the creature.  
+Balz hears screaming in his head when the bolts hit the monster (“CAN WE GET IT BACK”).  [[Storr]] gets pulled into the creature.  
 
 They kill it… it shrieks as it collapses into itself and looks like a bunch of evil dead weeds.

@@ -51,7 +51,7 @@ B takes down some sketches of the statues. We guess that the one eyed smithy wit
 
 [[Storr]] and B sparr. 
 
-Cricket and [[Silas]] [[Chess Games|chess]].
+[[Cricket]] and [[Silas]] [[Chess Games|chess]].
 
 In the morning, [[Storr]] asks Carrantock about bear riding (he doesn't get much information.)
 

@@ -11,7 +11,7 @@ contributors:
   - "unknown"
 ---
 
-1. Briefly????????????????
+1. Briefly
 A young man who was kidnapped as a child and experimented on.  The experimentation - which Balthazar remembers as a painful torture - left him with horns.  From what he was able to gather, the experimentation was done on the orders of a mysterious entity known as the [[Sun King]].  Balthazar was given a mission, and released back onto the streets on a coastal city in the Old World; his mission was to investigate the source of a mysterious Black Water, far to the west.
 
 At some point, in a fit of disgust and self-loathing, Balthazar broke on one of his horns, which he keeps as a memento - to what, he's less sure.

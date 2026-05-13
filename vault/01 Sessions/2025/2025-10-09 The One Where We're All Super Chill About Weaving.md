@@ -23,7 +23,7 @@ Balz asks Canstal if we can hang out a bit.  He says it's cool.
 
 [[Branwen]] sits and reaches for spare rushes, and tentatively asks if she could help out.
 
-A man and a woman offer to show her some pointers.  [[Branwen]] starts weaving, rolls a 5, and gets some condescending "youll get there honey" comments, but Branwen fiercely perseveres.
+A man and a woman offer to show her some pointers.  [[Branwen]] starts weaving, rolls a 5, and gets some condescending "youll get there honey" comments, but [[Branwen]] fiercely perseveres.
 
 [[Storr]] walks over to some huts.  She is looking for a reverence for bees, like the bear village.  Is the a "Bee village"?  They seem like bees in hives, nothing extraordinary.
 
@@ -51,7 +51,7 @@ Balz: is there a name for the manta ray constellation.  Reply: yes, hold on….T
 
 Brawn asks the name of the port city, no one knows this city - unfamiliar.
 
-Storr - what's the baskets for, precious?  Sometimes the weather takes them, they float away in the ocean.
+[[Storr]] - what's the baskets for, precious?  Sometimes the weather takes them, they float away in the ocean.
 
 Storr - what else besides weaving?  Some normal daily tasks, gotta live.
 
@@ -77,7 +77,7 @@ S: Ohm not me, then?
 
 Isolde: right…
 
-Silas: I'm silas, this arthen, he's a bear.  I'm also a bear.
+[[Silas]]: I'm silas, this arthen, he's a bear.  I'm also a bear.
 
 Isolde: Questioning look at Branwen, who shrugs.
 

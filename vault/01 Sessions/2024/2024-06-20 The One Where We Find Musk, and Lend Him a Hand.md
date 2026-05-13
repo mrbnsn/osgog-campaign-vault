@@ -63,7 +63,7 @@ He makes some hand signals to the other centaur, and she disappears into the woo
 
 He stands and looks, and waits. And says: “I will watch your progress.” and steps back, disappears, but we sense that he is still watching.”
 
-[[Storr]] offers the longbow to Branwen. She says “No thank you”
+[[Storr]] offers the longbow to [[Branwen]]. She says “No thank you”
 
 [[Silas]] sees some ripples in the pool that seems like there might be something down there.
 
@@ -89,7 +89,7 @@ We move slowly toward this shelf.
 
 Off to the left is the mouth of a cave, down inside is some firelight. No signs of Koweth.
 
-Silas lights a torch. Storr moves into the cave and sees someone in the cave with his head down, with something in his hand.
+[[Silas]] lights a torch. [[Storr]] moves into the cave and sees someone in the cave with his head down, with something in his hand.
 
 Storr: who are you?
 
@@ -99,7 +99,7 @@ Branwen: You there man, that bird belongs to me. Is he okay?
 
 The man holds up the bird. B takes it. Koweth looks up and shakes his head. Has a wound on the same side of his head that she felt. She strokes him because he’s a good boy.
 
-B: thank you sir. Are you Musk?
+B: thank you sir. Are you [[Musk]]?
 
 Man; I’ve not heard that name in a long time.
 
@@ -169,7 +169,7 @@ Would you go back if you could?
 
 I would like to speak again with [[Bryok]].
 
-We tell him the story of Bryok.
+We tell him the story of [[Bryok]].
 
 He freaks out about Bryok not being around anymore.
 

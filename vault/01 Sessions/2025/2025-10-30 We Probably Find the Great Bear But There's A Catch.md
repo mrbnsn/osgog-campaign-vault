@@ -23,7 +23,7 @@ Balz: Guide
 
 [[Silas]]: Scout
 
-We make our way downhill. Balz find s a good rout. Silas though tired is able to lead through thickets. Large lake, stony, not particularly deep, lichen, crusted rocks, boulders 50 ft offshore sticking up. Can see across the way, two low hill to the north north east. Off to the east is our best guess where this lake flows out. A rounded hill off to the west, sort of alone. Aroundthe lake is marshy and bushy not a lot of topsail. The western hill appears to have some meadow growth rising up above the tree line.
+We make our way downhill. Balz find s a good rout. [[Silas]] though tired is able to lead through thickets. Large lake, stony, not particularly deep, lichen, crusted rocks, boulders 50 ft offshore sticking up. Can see across the way, two low hill to the north north east. Off to the east is our best guess where this lake flows out. A rounded hill off to the west, sort of alone. Aroundthe lake is marshy and bushy not a lot of topsail. The western hill appears to have some meadow growth rising up above the tree line.
 
 Lake seems about a mile long. We can see the other side, but not with total clarity. No islands in the water, or in the sky (Balz looks up) Mostly cloudy, patches of sunshine, cool driving wind out of the west. 
 
@@ -61,7 +61,7 @@ We decide to head out to the "head" of the sleeping bear.  The hills are meadow,
 
 Silas casts commune with nature, no new news.
 
-Storr suggest Bw takes out Gale, who seemingly causes a pause, or a ripple in the singing.  
+[[Storr]] suggest Bw takes out Gale, who seemingly causes a pause, or a ripple in the singing.  
 
 LET'S GO GIRLS.
 
@@ -73,7 +73,7 @@ Silas steps forward and tries to entreat with the beings, saying “Hello. I am 
 
 They ignore him, see hi, but don’t acknowledge.
 
-Branwen plays the song they’re singing to try and trip them up. (17, perf, 17, perc). She gets the sense that there’s concern in the song. That there is a certain way they are trying to give a restful sleep to the sleeper. It’s a lullabye in a therapeutic way. She’s able to put that into her playing. We see them relax a little to our presence. We all get the sense that what she is doing is working and they are accepting her melody. Thinking that perhaps that would free them up to speak with us. 
+[[Branwen]] plays the song they’re singing to try and trip them up. (17, perf, 17, perc). She gets the sense that there’s concern in the song. That there is a certain way they are trying to give a restful sleep to the sleeper. It’s a lullabye in a therapeutic way. She’s able to put that into her playing. We see them relax a little to our presence. We all get the sense that what she is doing is working and they are accepting her melody. Thinking that perhaps that would free them up to speak with us. 
 
 Storr casts speak with animals to find out why they’re singing. They ignore her, and she can’t tell. 
 
