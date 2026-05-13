@@ -37,4 +37,4 @@ We find an interesting spot where there is a lot of animal activity. [[Silas]] f
 
 [[The Stone Giant (Battle)|WE FIGHT]].
 
-He keeps targeting Silas, furiously.
+He keeps targeting [[Silas]], furiously.

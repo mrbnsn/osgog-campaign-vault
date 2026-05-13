@@ -39,7 +39,7 @@ We ask for a basket. They hand us a basket.
 
 If it’s well woven, it will hold the song for a long time. [[Branwen]] approves of the basket.
 
-Before we depart, Silas offers the helm to Ives. 
+Before we depart, [[Silas]] offers the helm to Ives. 
 
 "Ives, I truly appreciate your hospitality these past few days, and I am happy to have found, if I may be so bold, a friend in you. As a token of my gratitude, I want to give you this." Here, I present to him Mannix' helm. "It once belonged to a companion of ours, who ventured out with us on this journey, but fell during a vicious battle. He hadn't yet discovered his purpose, but from what he told us, I believe, like you, he was interested in what nature could teach us, and specifically what the wind has to say. The [[Bone Flute]] that the raven one played the other day also belonged to him. A lovely sound. But I hope this helm will remind you of our time here, and of little Arthen and me. I can't ask anything in return, you've allowed me so much already. But, if you do have any of those nice woollen hats laying around, I'd very much appreciate the gift." 
 
@@ -55,11 +55,11 @@ Silas and Arthen hang back and keep the boat running. Not too keen on encroachin
 
 [[Branwen]] and [[Storr]] pack their weapons and leave everything else. In short: it’s lady’s night (morning)
 
-Storr is top rope, but peels off and falls back into the water and takes some damage. Storr makes it the second time. [[Branwen]] falls as well, but not as far and takes not as much damage.
+[[Storr]] is top rope, but peels off and falls back into the water and takes some damage. Storr makes it the second time. [[Branwen]] falls as well, but not as far and takes not as much damage.
 
 Storr makes it up the next pitch, and so does [[Branwen]]. 
 
-Last pitch for Storr, and she nails it. She gets over the lip and ties off. Branwen also makes it. 
+Last pitch for Storr, and she nails it. She gets over the lip and ties off. [[Branwen]] also makes it. 
 
 Skree, boulders, low bushes. It’s noontime.
 

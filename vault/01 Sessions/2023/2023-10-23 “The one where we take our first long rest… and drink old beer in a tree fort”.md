@@ -31,7 +31,7 @@ They saw we could rest for a long rest!  During the 5 days, we rest so but don�
 
 [[Storr]] learns some things about how to ride a bear.  She’s not yet a bear rider but knows some stuff.  Balz would have been listening to his horn.
 
-Of note - Silas does not turn into a short faced bear.  He’s smaller than a short faced bear but he’s not like a brown or black bear.  Just a generic bear.  Silas doesn’t know what Arthen is, species wise.  We all think he is likely a young giant short faced bear, like what we’ve seen in the village and what’s out in the wilderness.
+Of note - [[Silas]] does not turn into a short faced bear.  He’s smaller than a short faced bear but he’s not like a brown or black bear.  Just a generic bear.  Silas doesn’t know what Arthen is, species wise.  We all think he is likely a young giant short faced bear, like what we’ve seen in the village and what’s out in the wilderness.
 
 The talk with Silas gave the elders insight into the ancient bonds of hospitality - they send Corantokwith us as a guide; but not bears.  They haven’t a bear to SPEAR (I meant that to be a joke dammit Ryan).  They know they came from the continent from which the [[Sun King]] resides long, long ago.  They’ve stayed in the forest looking for him for a long long time.
 
@@ -63,7 +63,7 @@ B describes the tree at the monastery, what he knows about it. He says the trees
 
 Silas: What else do you know about the bear? 
 
-Logan:The great bear is asleep and has been for a long time. He became reliant on people to keep him away, so when the people moved on he fell asleep. Some of us are listening and trying to find him. If we spread the word will that help? He may just need an audience.
+[[Logan]]:The great bear is asleep and has been for a long time. He became reliant on people to keep him away, so when the people moved on he fell asleep. Some of us are listening and trying to find him. If we spread the word will that help? He may just need an audience.
 
 [[Storr]]: What do people do here?
 
@@ -131,7 +131,7 @@ Silas has Arhten come over and looks but he can’t tell us.Silas speaks with Ar
 
 Carantok sees stars and the night sky. 
 
-Storr touches the water. The faces are obscured and then return.
+[[Storr]] touches the water. The faces are obscured and then return.
 
 [[Krambler]] displays the hammer, the crone seems to point at him and says something to the other two.  We don’t see the same movement that he does
 
@@ -165,7 +165,7 @@ Koweth jumps in. The reflections dissipate. He cleans his feathers and splashes 
 
 Silas examines the crone and her cloak. She looks gray, an unnatural palor. The cloak is weave and fabric. All gray. 
 
-Channeling [[Mannix]], Krambler tries to cannonball into the well. He smashes the bottom; he doesn’t float back up, but sees the three women looking down at him. Their expressions are questioning, intrigued, but not convinced. Carantok is impressed by K’s gusto. Does not feel like K is being disrespectful. He swims up to the surface, the three women reach down and touch him and pull him up. He submerges himself, they are still there and they are still holding him. They are in control.
+Channeling [[Mannix]], [[Krambler]] tries to cannonball into the well. He smashes the bottom; he doesn’t float back up, but sees the three women looking down at him. Their expressions are questioning, intrigued, but not convinced. Carantok is impressed by K’s gusto. Does not feel like K is being disrespectful. He swims up to the surface, the three women reach down and touch him and pull him up. He submerges himself, they are still there and they are still holding him. They are in control.
 
 K’s impression: That was weird. Seemed like it didn’t seem like it was his time. They were preventing him from progressing to another location.
 

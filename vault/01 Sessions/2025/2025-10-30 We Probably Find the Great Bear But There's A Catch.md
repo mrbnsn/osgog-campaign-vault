@@ -27,7 +27,7 @@ We make our way downhill. Balz find s a good rout. [[Silas]] though tired is abl
 
 Lake seems about a mile long. We can see the other side, but not with total clarity. No islands in the water, or in the sky (Balz looks up) Mostly cloudy, patches of sunshine, cool driving wind out of the west. 
 
-Silas seems drawn to the western hill. We go.
+[[Silas]] seems drawn to the western hill. We go.
 
 We make good progress. We get to the edge of tlake. We can see the forest climb the hill and we start hearing something. As we get into the fortst he hear noises that sound like voices. It sounds like wind and grating rock. [[Branwen]] thinks we’re hearing the lullabye song (the song that beckoned Bran out of the pyre. Crickets mother would hum it to him. [[The Boatman|Boatman]] played it on [[Mannix]]’s flute. [[Kelynnen]] was singing it while picking herbs.) as we approach the hill. 
 
@@ -75,7 +75,7 @@ They ignore him, see hi, but don’t acknowledge.
 
 [[Branwen]] plays the song they’re singing to try and trip them up. (17, perf, 17, perc). She gets the sense that there’s concern in the song. That there is a certain way they are trying to give a restful sleep to the sleeper. It’s a lullabye in a therapeutic way. She’s able to put that into her playing. We see them relax a little to our presence. We all get the sense that what she is doing is working and they are accepting her melody. Thinking that perhaps that would free them up to speak with us. 
 
-Storr casts speak with animals to find out why they’re singing. They ignore her, and she can’t tell. 
+[[Storr]] casts speak with animals to find out why they’re singing. They ignore her, and she can’t tell. 
 
 Silas hops down. The marmot rushes to the cave mouth between silas and the cave. Silas takes out the beechstaff to display it to the creature. Silas bears out, drops the staff. The pinemarten goes to smell silas to check him out. It’s not aggressive and pokes his nose in and knocks Silas around a bit, and trying to figure it out. Then he squints at Silas a little bit. Silas backs up, but the marmot doesn’t follow.
 

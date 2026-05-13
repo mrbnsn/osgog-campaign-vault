@@ -112,7 +112,7 @@ G: Gotta talk to him.
 
 G: Give him a few hours.
 
-Storr: Girls, do you have interest or participate int he research?
+[[Storr]]: Girls, do you have interest or participate int he research?
 
 Girl w/ glasses: Well I find it really interesting and I’ve been working on these pieces of crystal so we can get a better view of stuff. I’ve played around with them with a candle and I think  we can make things closer, etc.
 
@@ -153,11 +153,11 @@ The girls tire of [[Branwen]]'s 'god questions'.  We've entered the awkward fami
 
 The RavenHG stares at [[Silas]], the Blonde and Red head turn to him.  The [[Glasses Girl]] comments on the weather in the valley.
 
-Branwen offers the RavenHG the [[Bone Flute]].  She takes it and plays it *really well*.  We feel transported to… we start hearing rain.  A gentle rain storm.  MOstly a sensory memory - safe and comfortable listening to rain at night.  (Branwen notes that the last person to play that flute so well was the [[The Boatman|Boatman]])
+[[Branwen]] offers the RavenHG the [[Bone Flute]].  She takes it and plays it *really well*.  We feel transported to… we start hearing rain.  A gentle rain storm.  MOstly a sensory memory - safe and comfortable listening to rain at night.  (Branwen notes that the last person to play that flute so well was the [[The Boatman|Boatman]])
 
 [[Glasses Girl]]: clouds have wafted up, and it's raining outside now.
 
-Silas was always reminded of morning mist by that song.
+[[Silas]] was always reminded of morning mist by that song.
 
 Storr: Do the girls like to play chess?
 

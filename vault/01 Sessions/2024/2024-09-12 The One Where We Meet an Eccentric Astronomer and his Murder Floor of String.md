@@ -117,7 +117,7 @@ Ser: I don’t know what the stars are!
 
 We look through the spyglass at our [[Constellations]].
 
-In the field of view, there are a couple of places that kind of maybe see a couple different points, we’re looking at the bright spots, and we can sort of see a separation of light,  but it’s not as obvious as the one the girl pointed out. We can’t see individual constellations through the telescope, we really can only see one star at a time. 
+In the field of view, there are a couple of places that kind of maybe see a couple different points, we’re looking at the bright spots, and we can sort of see a separation of light,  but it’s not as obvious as the one the girl pointed out. We can’t see individual [[Constellations]] through the telescope, we really can only see one star at a time. 
 
 (Hopps mentions that the line of stars with the larger one is a planet, like Jupiter and its moons? MR speculates this could also be a tidally locked eclipse.) 
 
@@ -137,7 +137,7 @@ https://drive.google.com/file/d/1TA6-RfCIyNMSOzrfmhdeQ0hB0Y-7G4qP/view?usp=shari
 
 [[Silas]] asks glasses if she knows the song as well. “She’s always singing it. It’s the only sound she makes.”
 
-Silas asks B to ask her about the song. She starts humming again and doesn’t seem inclined to answer.
+[[Silas]] asks B to ask her about the song. She starts humming again and doesn’t seem inclined to answer.
 
 Bran to raven girl: You don’t have to answer now. Think on it. Come see me if you want to talk. For now, it’s late, you should be in bed. 
 
@@ -157,7 +157,7 @@ Those in the great room wake up, smelling something sweet. Light through the win
 
 Silas wakes up damp. Mist cleared up, but not rained on. He ambles down the stairs to see what everyone’s up to.
 
-Branwen opens the kitchen door.
+[[Branwen]] opens the kitchen door.
 
 Gwen says breakfast will be done in a jiffy.
 

@@ -86,7 +86,7 @@ Gale does connect to Br, and you’re questioning in terms of your lady and [[Mo
 
 He went with his mother, not his father. We don’t know who Mons’ wife was.
 
-Br wanted to know if this creation from [[Mons]] son is a comfort or an abomination. It was created by [[Bremphyr]]. Mons wants to control, the other way is allowing nature to flourish.
+Br wanted to know if this creation from [[Mons]] son is a comfort or an abomination. It was created by [[Bremphyr]]. [[Mons]] wants to control, the other way is allowing nature to flourish.
 
 Br has a flash, an revelation: Mother and daughter, one and the same. Maybe one of Mobnoss’s daughters, 
 
@@ -94,4 +94,4 @@ Br has a flash, an revelation: Mother and daughter, one and the same. Maybe one 
 
 Is Mons another name from Mogg?
 
-Mabnoss is Bremphyr/[[Weyland]]'s mother.  Mons is Bremphyr's father.  [[Mabmnoss]] is [[Mog]]'s wife.  [[Mog]] + [[Mabmnoss]] = Mons + M
+Mabnoss is [[Bremphyr]]/[[Weyland]]'s mother.  Mons is Bremphyr's father.  [[Mabmnoss]] is [[Mog]]'s wife.  [[Mog]] + [[Mabmnoss]] = Mons + M

@@ -43,7 +43,7 @@ Further up the shoreline, we see some folks preparing to head out to the city wa
 > They look at eachother, they back away and converse. P: “Tonight is the night of the festival and its not a good night for you to be there.”
 >
 > S: Would tomorrow be better?
-We try to communicate to [[Storr]] from the bushes that we should make our way into the city, but not with these folks. They’re skeptical, they eye Storr, and then start rowing out across the river. The badger runs over to [[Silas]] and gives Storr some looks. Once the men disappear, [[Mochyn]] pads along the trail again and we follow.
+We try to communicate to [[Storr]] from the bushes that we should make our way into the city, but not with these folks. They’re skeptical, they eye [[Storr]], and then start rowing out across the river. The badger runs over to [[Silas]] and gives Storr some looks. Once the men disappear, [[Mochyn]] pads along the trail again and we follow.
 
 We come to a manmade inlet with stone piers. Across the inlet is a set of stone stairs, probably going up the side of the second waterfall. There’s some apparati (pullies, ropes, etc)  used to carry loads up and down the slope. There are boats here. The badger starts nosing toward the boats.
 
@@ -65,7 +65,7 @@ We’re amidst mostly residences. Not so many shops. A few are three stories. Th
 
 A narrow alley heads off to the east, there seems to be some green space there. We continue.
 
-At one point, the badger slows down. We’ve come to a crossroads. [[Mochyn]] peaks around the corner and heads to the right. Storr looks to the left. We have come out to the main thoroughfare. To our left, there is an open square, past which is are the main docks on the other side of the city. Mochyn is looking at us anxiously. A narrow path heads off in front of us. Off to the SW, the terrain is lower. The badger wants to head off toward a city gate and a bridge that leads to the smaller structure where [[The Black Water]] is coming from. The festival noises are in the other direction.
+At one point, the badger slows down. We’ve come to a crossroads. [[Mochyn]] peaks around the corner and heads to the right. Storr looks to the left. We have come out to the main thoroughfare. To our left, there is an open square, past which is are the main docks on the other side of the city. [[Mochyn]] is looking at us anxiously. A narrow path heads off in front of us. Off to the SW, the terrain is lower. The badger wants to head off toward a city gate and a bridge that leads to the smaller structure where [[The Black Water]] is coming from. The festival noises are in the other direction.
 
 Mochyn continues over the bridge. Throughout our travels, there’s not much for [[Cricket]] to read. 
 
@@ -152,7 +152,7 @@ The boat looks sea worthy. Flat bottomed. Not so fast, but also not a long dista
 Storr asks how he knows other like [[Balthazar]]. 
 
 Most folks remember the first horned beings that came up over the mountains and attacked the city. He’s met others, but he recants the story of this being having been [[Mons and the God of Death|riding a chariot pulled by two goats]]. 
-> BALTHAZAR: What became of this monster?
+> [[Balthazar]]: What became of this monster?
 >
 > BOATMAN: I always heard the people say that [[Mons]] defeated it. 
 >
@@ -164,7 +164,7 @@ Most folks remember the first horned beings that came up over the mountains and 
 >
 > Bo: The city of [[Mons]].
 >
-> CRICKET: Is that [[Monsoth]]?
+> [[Cricket]]: Is that [[Monsoth]]?
 >
 > Bo: No, [[Monsoth]] is here if you follow the sea.
 >
@@ -237,13 +237,13 @@ The staircase opens into a stone chamber. There a small child dressed in rags si
 > O: He left the city to go keep a watch.
 
    1. The Choices
-The oracle tells us that there is a choice ahead of us. 
+[[The Oracle]] tells us that there is a choice ahead of us. 
 
 You have a choice of three things, which will leave you each changed in ways potentially unrecognized. Your Journey moves on, but your destination is yours to decide.
 
       1. # *1. Shall you continue this search and travel towards the mountains amongst the stars,*
       1. # *2. Shall you find the one eyed man who waits by the grave of his mother,*
-      1. # *3. Or will you travel through darkness at the hand of the boatman and give and receive your gifts.*
+      1. # *3. Or will you travel through darkness at the hand of [[The Boatman]] and give and receive your gifts.*
 
 > C: Are these mutually exclusive choices?
 >

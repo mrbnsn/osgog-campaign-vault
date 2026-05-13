@@ -21,7 +21,7 @@ As Balz mentioned, [[Branwen]] decides to dives into the water and swims across 
 
 [[Silas]] communes with nature to find a hidey hole in which we can stow our stuff. He finds not much except a large downed tree under which we can stuff our belongings. [[Storr]], Balz and [[Silas]] decide to noodle our way over. It takes most of all of the morning to drag deadwood down to the shore and get going. As this si our decision, we need to leave our camping gear. We can take two weapons. [[Storr]] drags some logs to the shore (25 athletics), [[Silas]] rides on one (6).
 
-Branwen meanwhile arrives back to shore, looking ragged (she has taken one level of exhaustion. She tells us she got hit upside the head.
+[[Branwen]] meanwhile arrives back to shore, looking ragged (she has taken one level of exhaustion. She tells us she got hit upside the head.
 
 Branwen’s report:
 
@@ -33,7 +33,7 @@ Branwen sits by the fire that we made. We agree to stay put for the next 24 hour
 
 We discuss how to approach the island and why these entities might have been hostile. Maybe Br’s hacking at the thickets was the provocation. S, Balz, Si, and K build a raft by lashing logs together. [[Silas]] (nat 20 let’s go), Balz: 6, [[Storr]]: 7.
 
-Silas gets together a bunch of sticks, making layers, getting things going. [[Storr]] is kind of helpful, but Silas is like, just let me do it or listen to what I’m saying. Balz and Storr eventually resort to talking about how they are like pirates and goofing off. Silas is getting annoyed and progress is taking long. At the end of the day, we have a raft. Parts are secure, parts are less secure. Silas is huffing around. He suspects the raft will probably make it to the island, but everything will probably not be dry given the raft we’ve created. It is also rainy and foggy. 
+[[Silas]] gets together a bunch of sticks, making layers, getting things going. [[Storr]] is kind of helpful, but Silas is like, just let me do it or listen to what I’m saying. Balz and [[Storr]] eventually resort to talking about how they are like pirates and goofing off. Silas is getting annoyed and progress is taking long. At the end of the day, we have a raft. Parts are secure, parts are less secure. Silas is huffing around. He suspects the raft will probably make it to the island, but everything will probably not be dry given the raft we’ve created. It is also rainy and foggy. 
 
 Balz plans to lie prostrate perpendicular to the boards. Storr poses like washington crossing the delaware.
 

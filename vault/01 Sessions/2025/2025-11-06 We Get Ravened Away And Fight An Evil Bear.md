@@ -44,6 +44,6 @@ WE FIGHT
 1. [[Balthazar]] is highly effective between two attacks, sneak attack, colossus slayer and Hunter’s Mark.
 1. On its next turn it roars out a CONE OF BLACKNESS. K takes 32 DAMAGE. K goes down.
 1. [[Branwen]] manages to shove the bear off the cliff finally! With Thunder!
-1. Bear on bear violence takes him down, and he collapses into a shadowy heap, leaving Silas with a foul taste in his mouth.
+1. Bear on bear violence takes him down, and he collapses into a shadowy heap, leaving [[Silas]] with a foul taste in his mouth.
 
 We felt a presence of evil to the bst of our knowledge. This was bad, unnatural. Something was not right. We wouldn’t necessarily equate this to a black water situation.

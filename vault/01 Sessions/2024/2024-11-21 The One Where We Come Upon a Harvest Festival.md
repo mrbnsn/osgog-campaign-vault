@@ -97,7 +97,7 @@ Of course you are. Do you like goats?
 
 I like bears. Bears beets goats. I have a bear.
 
-Silas steps aside to reveal Arthen.
+[[Silas]] steps aside to reveal Arthen.
 
 They are surprised.
 

@@ -185,7 +185,7 @@ Guiding questions from our DM: We have some good world building hypotheses, but 
       1. People/ideas we've encountered
 Big mysteries that seem very related but have no real information about:
 
-- [[Silas]] and the sleeping [[Bears|bear]] (B asks if Silas has anything to tell us, Silas will need to reflect)
+- [[Silas]] and the sleeping [[Bears|bear]] (B asks if [[Silas]] has anything to tell us, Silas will need to reflect)
 - There was a second one….  ***I think this was the Tower. NB***
 
 Does [[Bryok]] not want there to be a god king?
@@ -223,7 +223,7 @@ The DM defends [[Mons]]:
 - (Silas would not be swayed be these treaties in defense of [[Mons]])
 [[Mali]]
 
-- She wasn't there to bring Balz back, she was looking for the black water
+- She wasn't there to bring Balz back, she was looking for [[The Black Water]]
 - What was her intent with [[Balthazar]] then?   ***- How much do you remember about her words?  What does [[Balthazar]] remember about his relationship with her?  NB***
 
       1. Our current position and questions
@@ -243,7 +243,7 @@ Plotwise, the tower and the watchman was a significant event.
 
 The lake, the tower. Where else has something dark escaped?
 
-Something was released in [[Mons and the God of Death]]. (A beast) There were four gifts given to Mons by his children. Is the SK trying to retrieve these four gifts in order to come to power? **Kleghien might be the “[[Sword of Darkness Edged in Light]]”**
+Something was released in [[Mons and the God of Death]]. (A beast) There were four gifts given to [[Mons]] by his children. Is the SK trying to retrieve these four gifts in order to come to power? **Kleghien might be the “[[Sword of Darkness Edged in Light]]”**
 ![[Krambler's Hammer.jpg]]
 
 Is the hammer the scepter?

@@ -37,7 +37,7 @@ She has a similar book to the one we found in the captain’s quarters, which [[
 
 Ring metals: entwined in three types, not sure what they are. Gale has some decorative metalwork on it. Ring wouldn’t look like the work of the same hand of Gale. Same type of embellishment. 
 
-Branwen removes the necklace. B feels that the object has some power in the same way as Gale or K. They’re in Bran’s inventory.
+[[Branwen]] removes the necklace. B feels that the object has some power in the same way as Gale or K. They’re in Bran’s inventory.
 
    1. Undertakings
 Balz: Maps: Has S traveled beyond this area? Ponder star maps as well. Also interested in helping make a telescope secondarily. Undertaking focus will be the maps. Can help glasses to make a telescope, but not
@@ -92,7 +92,7 @@ Has he heard of anyone in [[Nyth]] that might have a map of someplace outside of
 
 We need to determine what our next step is, and then we can unlock more about Balz interfacing with S. 
 
-Silas asks the blonde girl about the game, she says it’s called “playing cradle”, the person in the middle is in [[The Cradle]] and spin around them. Just a gesture, no words. He thought he saw them playing this upon waking. [[The Cradle]] is also the name of the symbol we found in front of the tree of seasons, which [[2024-08-08 The One Where Silas and Balz Contemplate Trees|Silas has also seen in henges in his homeland]].  
+[[Silas]] asks the blonde girl about the game, she says it’s called “playing cradle”, the person in the middle is in [[The Cradle]] and spin around them. Just a gesture, no words. He thought he saw them playing this upon waking. [[The Cradle]] is also the name of the symbol we found in front of the tree of seasons, which [[2024-08-08 The One Where Silas and Balz Contemplate Trees|Silas has also seen in henges in his homeland]].  
 
 Silas asks Gwen about the honey. She has hives tucked down near the back entrance of the tower. Some of the bees presumably head down to the forest, other search out alpine plants. Always kind of fascinated by bees and beekeeping. Honey is so nourishing and delicious and loves the process of beekeeping.  Bears don’t come up this far. Only interested in crawling up into a cave. Silas expresses interested in seeing the hives. She does, gross woven skips. Gwen ahsn’t heard of of other sources of honey or bees? Not particularly. 
 

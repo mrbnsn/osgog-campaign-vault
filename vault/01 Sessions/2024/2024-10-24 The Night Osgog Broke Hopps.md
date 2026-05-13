@@ -40,7 +40,7 @@ Glasses is taken aback, surprised. The other three scratch Arthen between the ea
 
 Glasses is still confused. Council ends. We have succeeded, but at what cost?
 
-Branwen is quietly melting down, sitting in a chair. Gwen walks over and gives her a hug. “Sometimes things are more complicated than they seem, but that doesn’t mean the things you’ve seen aren’t real. Would you like some tea?
+[[Branwen]] is quietly melting down, sitting in a chair. Gwen walks over and gives her a hug. “Sometimes things are more complicated than they seem, but that doesn’t mean the things you’ve seen aren’t real. Would you like some tea?
 
 Branwen: Are you going to tell me what the honey means? Otherwise, you can fuck right off.
 
@@ -110,7 +110,7 @@ B: Makes aggressive eye contact "I KNOW".  S: Great sister.  Love you :)
 
 B: beyond the purview of ….  Something was foretold , carries a significance.  Not like anything we've seen before.
 
-Storr: somewhere w3e should take her?
+[[Storr]]: somewhere w3e should take her?
 
 B: this place is very safe, been here a long long long time.  Spread my branches over wind and rain and protected my children.  Other places are possibly safe.  
 
@@ -135,7 +135,7 @@ The water in this bottle?
 
 Yes. 
 
-Silas: Are you the one who’s been sending us messages?
+[[Silas]]: Are you the one who’s been sending us messages?
 
 I think so.
 

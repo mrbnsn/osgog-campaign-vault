@@ -63,11 +63,11 @@ Balz’s travel roll 14. We go up into a high mountain pass. It’s cold, and we
 Bal (20), we can move 4 hexes, we get to Weathertop (screenshot, and also image asset “Hill of Voices”) We may not know its called that, but there it is. We saw some bare hilltops from that last lookout. To the south there was something that looked like it had some ruins on it amidst the greenery. We found this mystical circle. 
 
    1. [[The Hill of Voices]] (Our Second Set)
-Branwen walks out to the middle and tries to listen and feel and observe. She feels all around her the stones chorusing, she hears then maybe chorusing on the wind not unlike in Ghurag (the underground prison under the pyre), not like the voices in the forest. It feels constructive, she feels a sense that they’re weaving something, and doesn't feel menacing, more creative, and she doesn’t understand what they’re saying but that she is communicating meaning.  
+[[Branwen]] walks out to the middle and tries to listen and feel and observe. She feels all around her the stones chorusing, she hears then maybe chorusing on the wind not unlike in Ghurag (the underground prison under the pyre), not like the voices in the forest. It feels constructive, she feels a sense that they’re weaving something, and doesn't feel menacing, more creative, and she doesn’t understand what they’re saying but that she is communicating meaning.  
 
 Branwen casts Comprehend Languages (21, WIS) She is immediately overwhelmed with images of the natural world around you, and it’s too much. And she turns it off before anything bad happens. The snippets were neutral enough, but it was overloading her, jumping from place to place, a real mental struggle. She was lucky to have coped and gotten out. 
 
-Silas casts CWN. He becomes immediately aware of the stones. Picture this based on our player knowledge: these stones would be almost fungel, the mycelium down into the ground and spreading in these connected pathways, infiltrating the ground and the sky and going to paces unknown. Int he tangle, Silas would also struggle to comprehend it. He would get lost in the tangle and not necessarily be able to navigate it and be able to see it. 
+[[Silas]] casts CWN. He becomes immediately aware of the stones. Picture this based on our player knowledge: these stones would be almost fungel, the mycelium down into the ground and spreading in these connected pathways, infiltrating the ground and the sky and going to paces unknown. Int he tangle, Silas would also struggle to comprehend it. He would get lost in the tangle and not necessarily be able to navigate it and be able to see it. 
 
 [[Krambler]] draws flutes (and notes) K rolls percep (27) He notices the same symbol in the symbols, [[The Cradle]]. We rehash the connections we had made with the symbol. Silas reminds of the symbol being a part of his past.
 
@@ -89,7 +89,7 @@ Silas plays his song on the pan flute (14) with the intention of paying reverenc
 
 Silas sits by a stone and takes out Copyn’s pipe to take a load off. He does. 
 
-Krambler walks into the center and wants to sense anything. It feels like everything is intense, super saturated. Nothing intelligible. 
+[[Krambler]] walks into the center and wants to sense anything. It feels like everything is intense, super saturated. Nothing intelligible. 
 
 Silas goes up to a stone and puts a hand on it. He’s very aware of the texture of the rock. It does not make a sound like the stones on the island. These don’t have the same grooves as the island. 
 

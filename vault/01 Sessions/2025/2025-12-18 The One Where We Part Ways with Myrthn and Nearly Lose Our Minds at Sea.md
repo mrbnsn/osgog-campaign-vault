@@ -19,7 +19,7 @@ Goal of the bear: Silas’ people, the groups we’ve been calling the druids, t
 
 Myrthin: in much the same way in what he’s communicating, not a 1:1 translation with my experience. As for a group, his response to that wouldn’t make a ton of sense. He wouldn’t acknowledge factions. He would just be like “I followed the bear with the people around me.” Get the sense its a loooong time ago. He’s probably been lone for an incomprehensible scratch of time. He’s been hanging out …There would be some confusion, he was probably someone who went off in earch of the bear, and from our perspective found it. He would say that we’ve come to the bear and he’s here so he has too, he might have taken some different path a long time ago, but because he says the bear is everywhere, he would say
 
-[[Myrthn]] would be able to teach Silas less about technique and more about the search, e.g. being able to move stats upon discovering a truth. 
+[[Myrthn]] would be able to teach [[Silas]] less about technique and more about the search, e.g. being able to move stats upon discovering a truth. 
 
 The Hopps’ lost at trivia. 
 
@@ -83,7 +83,7 @@ Balz approaches [[Myrthn]], indicates his horns and asks, do you know what this 
 
 M has a lot of ideas, but the answer would be no. We’d get the sense that this is not the kind of thing he uses, a man made mechanical object, like Tom B and the ring. He’s not carrying human constructions.
 
-Storr: Can he guide us to [[Bremphyr]]?
+[[Storr]]: Can he guide us to [[Bremphyr]]?
 
 He might indicate that he could get you away from here, but he doesn’t have much interest in going further than that. 
 

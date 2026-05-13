@@ -36,7 +36,7 @@ We record the runes in B’s notebook.
 
 Carantok keeps his distance from our proceedings, he’s not sure we want him involved.  He’s a little in awe, and finds it marvelous and miraculous, but the things we’re saying don’t mean a lot to him. He would be anxious around the metal weapons. 
 
-Silas didn’t get the sense that the elders from the village were being cagey about information around the well. May have been withholding something about shapeshifterss, but about the well, we feel like we’ve seen more than the elders at this point. Perhaps they could decode some of it for us. 
+[[Silas]] didn’t get the sense that the elders from the village were being cagey about information around the well. May have been withholding something about shapeshifterss, but about the well, we feel like we’ve seen more than the elders at this point. Perhaps they could decode some of it for us. 
 
 Outstanding questions:
 
@@ -59,7 +59,7 @@ Silas would like to take Arthen with him into the Western woods, and while they�
 
 [[Storr]] is gonna talk to Corantok about more bear riding lessons… (roll a couple of D20’s?  For 33 don’t mind that!).
 
-Storr and K spar.
+[[Storr]] and K spar.
 
 Silas and Arhten hunt and track (Silas shifts)
 
@@ -71,7 +71,7 @@ We approach the tower area. Silas sneak into some cover and throws his cave ston
 
 We sneak up to the boundary and all three of us trip. Carantock is like “Who are these people? I mean, in the name of the bear.”
 
-We regroup and remember what the elders told Silas about the tower. We enter: Storr, Silas, Arthen, Krambler. There are two fireplaces on either side. It is dark in here but our eyes adjust. There’s a spiral staircase going up in the middle. Five statues are arranged against the other end.
+We regroup and remember what the elders told Silas about the tower. We enter: Storr, Silas, Arthen, [[Krambler]]. There are two fireplaces on either side. It is dark in here but our eyes adjust. There’s a spiral staircase going up in the middle. Five statues are arranged against the other end.
 
 Three male statues and two female statues. 
 

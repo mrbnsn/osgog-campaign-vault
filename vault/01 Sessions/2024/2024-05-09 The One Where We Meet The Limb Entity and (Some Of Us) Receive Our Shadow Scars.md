@@ -80,7 +80,7 @@ K: 3 scars
 
 [[Storr]]: 5 scars
 
-Silas and [[Branwen]] have 0
+[[Silas]] and [[Branwen]] have 0
 
 About the faultline: Long ago someone burrowed down and created a soft spot between different places that have long been separated. We know this a weak spot, but given proper direction, people could potentially travel along it.
 
@@ -132,7 +132,7 @@ Is there a village elder we can speak with?
 
 You can speak with me.
 
-[[Storr]] tells her our entire backstory and she looks very confused and asks if Storr is okay. 
+[[Storr]] tells her our entire backstory and she looks very confused and asks if [[Storr]] is okay. 
 
 She says we’re in the land of [[Nyth]]. 
 

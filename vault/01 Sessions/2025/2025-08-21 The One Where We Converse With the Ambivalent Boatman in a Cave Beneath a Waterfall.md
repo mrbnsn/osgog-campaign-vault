@@ -64,7 +64,7 @@ What are your feelings on GG?
 
 I don’t have any one set of feelings, but I have heard of him as you describe as a god that brings an abundant harvest that brings plent, husbands animals, and also a terrible evil king of the dead who seeks to overthrow the living, but again the power of stories is far reaching, so probably both are true in their own way.
 
-Storr talks of how the seasons changing in [[Nyth]]. Have you visited?
+[[Storr]] talks of how the seasons changing in [[Nyth]]. Have you visited?
 
 Perhaps I did once. I was on a lake in which things were as you describe, but mostly I simply ferry travelers from one place to another, and dont travel much myself.
 
@@ -138,7 +138,7 @@ Balz: Why the thing that went terribly wrong have to do with [[Osgog]] weakening
 
 He finds the sentinels fascinating and while it see, perhaps that its news to him he doesn’t look shocked or surprise. He doesn't really know what happened or how it happened, that s a mystery that gets discussed, but he doesn’t understand it.
 
-Bran: In your travels, have you heard of that rift cause by [[Mons]] by some or Osgog by others? Who are the culprits?
+Bran: In your travels, have you heard of that rift cause by [[Mons]] by some or [[Osgog]] by others? Who are the culprits?
 
 I have heard that both [[Mons]] and Osgog were responsible for that rift, that in each case someone was looking for an ancient power and that power proved too string. But whether it was either one, I’ve also heard that it was neither that were in the tower that did the digging. 
 
@@ -155,7 +155,7 @@ It would be at that tower.
 - Well, at any rate… not yet. Lol
 - The Great Bear is always spoken about as a powerful being who in ancient times was subdued by the forces of mankind and who many say he will never arise to his full strength again because his time has passed. But his memory lingers on (CRANBERRIES) and there are those who still believe in him, so perhaps he still has some power.
 
-Silas: [[Seren]] said the bear will never awaken. Agree?
+[[Silas]]: [[Seren]] said the bear will never awaken. Agree?
 
 - That’s above my pay grade, I’m just a boatman.
 - If you travel and listen and remember what you hear, you gain certain insights. But I’m a listener and a gatherer of moss, not so much a doer and a shaker.

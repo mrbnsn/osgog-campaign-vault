@@ -48,7 +48,7 @@ S: We do.
 
 B: Perhaps this friend of yours could be honored in the same way.
 
-Storr asks the townsfolk who they are. They look to [[The Boatman]], he says no, and they look back.
+[[Storr]] asks the townsfolk who they are. They look to [[The Boatman]], he says no, and they look back.
 
 B: I think they come out of curiosity. It’s not everyday we have visitors entering through standing stones.
 
@@ -74,7 +74,7 @@ B: Just that flutes of bone are ancient artifacts and this one seems of a high q
 
 B: I saw a glowing ember you took from him too. Perhaps you should light the fire with it?
 
-Storr holds it out to the boatman but he says to keep it and use it.
+Storr holds it out to [[The Boatman]] but he says to keep it and use it.
 
 Everyone says or does something in honor.
 
@@ -92,7 +92,7 @@ We see a figure among us with dark hair. We don’t recognize this person. The s
 
 The woman approaches [[Krambler]] and takes Gale from him. “And here I become death, destoryer of worlds. 
 
-[[Silas]] asks her name. She says “**[[Branwen]]**” [[Silas]] offers her a cloak, but she refuses and goes and takes Cricket’s cloak. She does not know [[Mannix]].
+[[Silas]] asks her name. She says “**[[Branwen]]**” [[Silas]] offers her a cloak, but she refuses and goes and takes [[Cricket]]’s cloak. She does not know [[Mannix]].
 
 Bal: What do you know of Cricket
 
@@ -102,7 +102,7 @@ Kr: Do you have any healing powers?
 
 Br: I have nothing. If someone has a healing kit…
 
-Silas hands her one.
+[[Silas]] hands her one.
 
 Bal: huddles with the party.
 
@@ -120,7 +120,7 @@ B: (Looking to us) I believe you have a choice to make.
 
 Silas: We’ve made our choice.
 
-Koweth reappears and lands on [[The Trilithon]]. Branwen looks to him and raises her hand and Koweth flies to her and lands on her hand. The Boatman looks to us and says “I believe that your choice lies through that gateway. Is there anything that you ask of me before you continue on your way?
+Koweth reappears and lands on [[The Trilithon]]. [[Branwen]] looks to him and raises her hand and Koweth flies to her and lands on her hand. The Boatman looks to us and says “I believe that your choice lies through that gateway. Is there anything that you ask of me before you continue on your way?
 
 Bal: Where will the portal take us?
 

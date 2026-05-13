@@ -34,7 +34,7 @@ We get to the bottom of the stairs, the path branches left and right. Right path
 
 We come to [[The Black Water]] flowing into a hole. There’s a stone wall around it with people looking into the hole. They’re wearing black and purple robes. They’re not talking.
 
-K tries to shape [[The Black Water]] but feels nothing. The black water forms a whirlpool. 
+K tries to shape [[The Black Water]] but feels nothing. [[The Black Water]] forms a whirlpool. 
 
 We try to engage the people. They look at us and tell us to be quiet.
 
@@ -53,7 +53,7 @@ We are travelers and we’ve heard of this festival.
 
 They ask do you understand the significance of the presence of the twins.
 
-Silas: Of course I do. Do you??
+[[Silas]]: Of course I do. Do you??
 
 B is trying to hide his horns
 
@@ -63,7 +63,7 @@ Crowd: We’re wary of travelers bearing tokens of power. (said with an edge of 
 
 K shapes the water back to the fountain with his weird finger magic.
 
-The person that had been talking to Silas strides over to Storr and [[Cricket]] and points to [[Krambler]] and questions him. Who are you? Where have you come from?
+The person that had been talking to Silas strides over to [[Storr]] and [[Cricket]] and points to [[Krambler]] and questions him. Who are you? Where have you come from?
 
 Man: This city has long been hidden to outsiders. How have you got here and what are your intentions? Are you the ones you accosted our boats 6 days ago?
 
@@ -77,7 +77,7 @@ Man: Whoever you are you’re not here by our leave. Go. Go now.
 
 [[Cricket]] leads us east, saying that he's seeing some lavender light on a path ahead of us. Some folks are following Silas and Arthen. There’s a wide boulevard, people on either side. More people start following us. Their weapons are sheathed. 
 
-The lavender sheen that Cricket says he’s been seeing goes up the grand staircase in front of us. Elaborately carved railings. Marble is carved to look like branches and forest. As we reach the top we see the grand boulevard heading to the north east.
+The lavender sheen that [[Cricket]] says he’s been seeing goes up the grand staircase in front of us. Elaborately carved railings. Marble is carved to look like branches and forest. As we reach the top we see the grand boulevard heading to the north east.
 
 We continue to follow cricket. The crowd peaters out as we reach a square and turn back west.
 

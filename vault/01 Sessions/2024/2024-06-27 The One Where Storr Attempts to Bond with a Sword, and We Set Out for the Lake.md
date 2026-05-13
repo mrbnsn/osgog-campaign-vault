@@ -23,7 +23,7 @@ Tal: You feel you are worthy of those who smithed it?
 
 T: I'm aware of ways to ask a blade to take on a bearer.  If you'd like to attempt this, when the moon comes out, we can stand in the waterfall and see what happens.
 
-[[Storr]] agrees.  They go to the falls, under the moon.  Tal speaks in a language you don't understand, talking to the moon.  The result of the ritual is "NOT BONDED" but not disadvantage.  Storr is close, but not quite there. 
+[[Storr]] agrees.  They go to the falls, under the moon.  Tal speaks in a language you don't understand, talking to the moon.  The result of the ritual is "NOT BONDED" but not disadvantage.  [[Storr]] is close, but not quite there. 
 
 [[Branwen]]: Why is this place sacred to you?
 
@@ -101,6 +101,6 @@ Bal apologies for the horns, we can talk more about that later on if you like.
 
 Of course, no big deal, we’ll have a couple of days on the water. We just need to unload some things and we’ll be off in the afternoon.
 
-Storr assures Silas that we can torch the boat if necessary.
+Storr assures [[Silas]] that we can torch the boat if necessary.
 
 3 nights of the journey we weren’t able to craft. We each get 4d20s worth of craft points.

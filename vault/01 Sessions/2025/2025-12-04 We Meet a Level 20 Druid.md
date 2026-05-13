@@ -40,7 +40,7 @@ Arthen goes over after chatting with [[Silas]]. He gives A big eyes, and does a 
 
 [[Silas]] approaches the stranger. The stranger motions for [[Silas]] to be quiet. The sun is now fully awake, and the stranger raises his face in rapture to the rays.
 
-Silas asks if the sunrise is surprising.
+[[Silas]] asks if the sunrise is surprising.
 
 He says, “The little one speaks!” He mentions “fearful night” and “honey”
 
@@ -63,7 +63,7 @@ We recall the “two times” or “events” or man: [[2024-08-29 The One Where
 
 [[Moon King]] is often depicted in [[Mons]] in shadow with horns.
 
-Connection between the Moon King and the bear?
+Connection between the [[Moon King]] and the bear?
 
 When Silas was growing up in the druid folkd, the moon king wouldn’t be mentioned as part of their teachings. [[Mons]] followers are terrified of being trapped in this world as slaves (like the dead), purgatory, whereas the druid outlook is that you’re just part of nature. 
 
@@ -73,7 +73,7 @@ Could they be two halves of a whole? Could the MK be keeping the bear asleep? We
 
 We roll perception as a follow up to this question.
 
-- Storr’s background has a lot of animal worship. A bear would be a great warrior. The idea of a warrior spirit of the bear coming our as the MK, she wouldn’t see the death and destruction as evil. Could see the evil bear we fought as an MKish figure. What we’re talking about has plausibility in her interpretation.
+- [[Storr]]’s background has a lot of animal worship. A bear would be a great warrior. The idea of a warrior spirit of the bear coming our as the MK, she wouldn’t see the death and destruction as evil. Could see the evil bear we fought as an MKish figure. What we’re talking about has plausibility in her interpretation.
 - Balz likes the idea, would be skeptical. He thinks back and says theres been this notion that this bear has been sleeping int he wilderness and been dangerous, can imagine people tlaking about both entities.
 - Silas is hopelessly confused and puts his hat on, until he rolls again with a fellowship point! Silas sees in the images he’s talking about and in this discussion: he suspects that a lot fo this is borrowed, but he is focused specifically on saying, I suspect that its the crescent moon that they’re both borrowing. And that yes, people could assign the crescent moon, this dangerous thing they’ve taken and put on the MK, but I think the crescent moon is stronger than man. They put the moon on the MK themselves. Silas suspects the bear is a powerful entity and more powerful than MK coming from man. The moon isn’t inherently bad, nor is the bear, but someone took both and tried to make this evil creation. When he hears “seaperate mind” and “pestulence” they’re trying to take the bear and turn it into something that it isn’t. The badness here is a persons imaginations. It’s the stories that people tell. Silas remembers somebody saying something about stories are powerful. The bear does not appear in the [[Mons]] cosmology. They don’t favor nature doing its thing, that’s “bear country”
 - [[Branwen]] is just not sure. Thinking more about [[Mother Night]] and how she would come into this, and has a little bit of a hard time giving up power to these two male presences.
@@ -93,4 +93,4 @@ Silas bears out. This guy looks at him, smiles, and then he turns into a bear, l
 
 His name is [[Myrthn]]. He’s finished his sun-morning ceremony, and seems more open to conversation. 
 
-Branwen indicates to the stranger everyone’s name, patronizingly, like he's an idiot. We tow a line of insulting this guy. He looks at Arthen and Arthen literally shrugs. The wind picks up Br and plants her back where she was.
+[[Branwen]] indicates to the stranger everyone’s name, patronizingly, like he's an idiot. We tow a line of insulting this guy. He looks at Arthen and Arthen literally shrugs. The wind picks up Br and plants her back where she was.

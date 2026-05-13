@@ -45,7 +45,7 @@ We’re not from [[Nyth]], we came from a way through some dark ways, tunnels be
 
 What do you all want with us?
 
-Storr: We want to rest for a period of time and not disturb you all. We stumbled upon thi village and didn’t seek you out. We were set upon by the SK’s minions. We just need to lick our wounds and and continue on. Storr rolls persuasion (8 then we reroll to 13 then we reroll for a 6) Having failed, we decide to succeed with woe.
+[[Storr]]: We want to rest for a period of time and not disturb you all. We stumbled upon thi village and didn’t seek you out. We were set upon by the SK’s minions. We just need to lick our wounds and and continue on. Storr rolls persuasion (8 then we reroll to 13 then we reroll for a 6) Having failed, we decide to succeed with woe.
 
 They’re not super impressed with Storr’s comment. They look to B & B. "Look, it’s fine you're coming from these other places and you want to stay. We don’t want to get involved in SK, we don’t want him here. We know there are roving bands around us and we’d rather that they stay away from us but can’t help notice that a man with horns, we go through all of this festivity to put horns and a crown on someone, but now you have arrived. We’re trying to figure out what this means. You’ve arrived not with Gwenethen but with [[Mother Night]] who brought darkness into our hall. 
 
@@ -59,7 +59,7 @@ Others: we made the connection of Balz's friend, Bran, be one we feared.
 
 Balz: Why do you think I should be walking with Gwenethen?
 
-Others: We can't help notice on of you looks like Mother Night.  With the harvest festival upon us, this is eerie.  
+Others: We can't help notice on of you looks like [[Mother Night]].  With the harvest festival upon us, this is eerie.  
 
 Balz:  We could tell you of when we met [[Gorgomog]], and your smith can mess around with the hammer during our stay.
 
@@ -103,7 +103,7 @@ Balz is able to see Mowen. She gives him a “woven circlet of ripe wheat” tha
 
 We write with the quill, “casting a silver laced pattern…”
 
-Silas and [[Branwen]] play chess while smoking Copin’s pipe. Silas (18) obliterates Bran (8).
+[[Silas]] and [[Branwen]] play chess while smoking Copin’s pipe. Silas (18) obliterates Bran (8).
 
 We long rest. The village is there to see us off. 
 
@@ -128,7 +128,7 @@ Our journey path is to the waterfall.
 
 Blaz fist pathfinding check: 17. Event is three hexes away and we manage to cross the river.
 
-First event: Storr the hunter (18) Terrible misfortune. Fatigue saving throw: +3. She goes out hunting and the band os soldiers spots here. She has the wherewithal to misdirect the soldiers and not lead them to the group. She’s missing for a night. Loses half her hit points and returns. Lets us know what happened. They are looking for us but I think I’ve thrown them off. Branwen tends to her wounds.
+First event: Storr the hunter (18) Terrible misfortune. Fatigue saving throw: +3. She goes out hunting and the band os soldiers spots here. She has the wherewithal to misdirect the soldiers and not lead them to the group. She’s missing for a night. Loses half her hit points and returns. Lets us know what happened. They are looking for us but I think I’ve thrown them off. [[Branwen]] tends to her wounds.
 
 Next path check: 18. Three hexes away. We;ve made it to a source of one stream between two hills adn continue moving through a forest. Mountains to the south. More hills, grassland off to the east.
 
