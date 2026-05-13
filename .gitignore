@@ -36,3 +36,4 @@ quartz/node_modules/
 # ======================
 *.bak
 *.backup
+.claude/
