@@ -27,7 +27,8 @@ from pathlib import Path
 
 # ── Config ────────────────────────────────────────────────────────────────────
 
-WIKI_BASE = "http://osgog.mrobinson.us"
+WIKI_BASE  = "http://osgog.mrobinson.us"
+USER_AGENT = "osgog-sync/1.0 (https://github.com/mrbnsn/osgog-campaign-vault)"
 REPO_ROOT = Path(__file__).resolve().parent
 XML_FILE  = REPO_ROOT / "black-lake-osgog-wiki-dump.xml"
 GITHUB_REPO = "mrbnsn/osgog-campaign-vault"
@@ -62,7 +63,8 @@ def fetch_all_page_titles() -> list[str]:
     url = f"{WIKI_BASE}/api.php"
     while True:
         query = urllib.parse.urlencode(params)
-        with urllib.request.urlopen(f"{url}?{query}") as resp:
+        req = urllib.request.Request(f"{url}?{query}", headers={"User-Agent": USER_AGENT})
+        with urllib.request.urlopen(req) as resp:
             data = json.loads(resp.read())
         titles.extend(p["title"] for p in data["query"]["allpages"])
         cont = data.get("continue", {}).get("apcontinue")
@@ -83,7 +85,10 @@ def download_xml(titles: list[str]) -> None:
     url = f"{WIKI_BASE}/index.php/Special:Export"
     req = urllib.request.Request(
         url, data=payload,
-        headers={"Content-Type": "application/x-www-form-urlencoded"},
+        headers={
+            "Content-Type": "application/x-www-form-urlencoded",
+            "User-Agent": USER_AGENT,
+        },
     )
     with urllib.request.urlopen(req) as resp:
         XML_FILE.write_bytes(resp.read())
