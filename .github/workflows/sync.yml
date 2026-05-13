@@ -32,10 +32,19 @@ jobs:
       - name: Run wiki sync
         run: python sync.py --no-pr
 
+      - name: Report changes
+        run: |
+          echo "=== Changed files ==="
+          git diff --stat vault/
+          echo "=== New files ==="
+          git ls-files --others --exclude-standard vault/
+
       - name: Commit and push if changed
         run: |
-          git diff --quiet vault/ || (
-            git add vault/ &&
-            git commit -m "Sync wiki export $(date +%Y-%m-%d)" &&
+          git add vault/
+          if git diff --cached --quiet vault/; then
+            echo "No changes to commit."
+          else
+            git commit -m "Sync wiki export $(date +%Y-%m-%d)"
             git push origin main
-          )
+          fi
