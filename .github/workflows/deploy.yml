@@ -22,7 +22,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Copy vault to Quartz content
-        run: cp -r $GITHUB_WORKSPACE/vault $GITHUB_WORKSPACE/quartz/content
+        run: rm -rf $GITHUB_WORKSPACE/quartz/content && cp -r $GITHUB_WORKSPACE/vault $GITHUB_WORKSPACE/quartz/content
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -38,6 +38,12 @@ jobs:
         run: |
           sed -i 's|baseUrl: "mrbnsn.github.io"|baseUrl: "mrbnsn.github.io/osgog-campaign-vault"|' quartz/quartz.config.ts
           cd quartz && npx quartz build
+
+      - name: Debug build output
+        run: |
+          echo "=== quartz/content root ===" && ls $GITHUB_WORKSPACE/quartz/content | head -10
+          echo "=== quartz/public root ===" && ls $GITHUB_WORKSPACE/quartz/public | head -10
+          echo "=== baseUrl in config ===" && grep baseUrl $GITHUB_WORKSPACE/quartz/quartz.config.ts
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
