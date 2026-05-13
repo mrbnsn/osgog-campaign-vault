@@ -7,11 +7,12 @@ tags:
 aliases:
   - "Tewlder"
 last_edited: 2026-05-11
+wiki_rev: "2026-05-11T17:52:19Z"
 contributors:
   - "Hoppsy"
 ---
 
-One of the craftsmen at [[Tawesek]] who took over after [[The Abbott]] died.
+One of the craftsmen at [[Tawesek]] who took over after the Abbott died.
 
 Married to the [[The Abbott|Abbott]]'s daughter.
 

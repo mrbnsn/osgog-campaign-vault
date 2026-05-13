@@ -7,6 +7,7 @@ tags:
 aliases:
   - "10/3/24 The One Where We're All Back in the Saddle"
 last_edited: 2024-10-14
+wiki_rev: "2024-10-14T16:00:21Z"
 contributors:
   - "SilasWoodhenge18"
 ---
@@ -50,7 +51,7 @@ Br: Excellent. I think we’ll learn from each other and enjoy running this plac
 
 So what are we actually doing while we’re here?
 
-What if [[Storr]] were to do some repairs and creating around the tower?
+What if Storr were to do some repairs and creating around the tower?
 
 G: There’s nothing to build here, we’re on a mountain. You’d have to go to the farm.
 
@@ -60,7 +61,7 @@ Balz will shadow S and help with his murder board, with the goal of creating a t
 
 Br will help out in the house, with the kids, cleaning up. Gather rumors, snoop. Trying to find out more about the girls, who the missing child might be. 
 
-[[Silas]] will take inspiration from his last dream of his sister where she hummed [[Branwen]]’s tune to me and said she’d “Set me on a path”. Silas will write a song with the intention of the girls becoming more comfortable with him and the party as a whole.
+Silas will take inspiration from his last dream of his sister where she hummed Branwen’s tune to me and said she’d “Set me on a path”. Silas will write a song with the intention of the girls becoming more comfortable with him and the party as a whole.
 
 The rest of the day is spent working out the details of their tasks.
 
@@ -83,7 +84,7 @@ Br: goes to distract the folks at the door.
 
 RHG takes Storr, Silas, Balz and Arthen out the back way.
 
-Idiots: Open the door in the name of the [[Sun King]]?
+Idiots: Open the door in the name of the sun king?
 
 Br: Sun king? We’re all filled up on that here!
 

@@ -6,6 +6,7 @@ tags:
 aliases:
   - "The Red Blade (Illuminated Manuscript Story)"
 last_edited: 2023-12-29
+wiki_rev: "2023-12-29T12:51:14Z"
 contributors:
   - "SilasWoodhenge18"
 ---

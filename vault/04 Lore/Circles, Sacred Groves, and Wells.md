@@ -6,6 +6,7 @@ tags:
 aliases:
   - "Circles, Sacred Groves, and Wells"
 last_edited: 2024-01-05
+wiki_rev: "2024-01-05T00:57:26Z"
 contributors:
   - "SilasWoodhenge18"
 ---
@@ -15,7 +16,7 @@ contributors:
 - Twelve Spoked Wheel: the Inn the party started at
 
    1. [[Foamflower]]
-- The grove the Boy, Kenza and his crew found between the 3 hills of [[Monsoth]] surrounded with 12 varying trees
+- The grove the Boy, Kenza and his crew found between the 3 hills of Monsoth surrounded with 12 varying trees
 
    1. [[Lake of the Eye of Night|The Eye of Night]]
 The circular lake in the far north of the continent.
@@ -27,4 +28,4 @@ They came to a small grove of beech trees. In the southeastern corner was a well
 
    1. [[Derwen Trees|Derwen]] Grove on [[Raven Island]]
    1. [[Crone, Woman, Child / Stone, Sea, and Storm|Spring with the three Ladies]]
-   1. Stone Circle / Where [[Mannix]] died
+   1. Stone Circle / Where Mannix died

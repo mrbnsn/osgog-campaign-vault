@@ -6,6 +6,7 @@ tags:
 aliases:
   - "Campaign Log"
 last_edited: 2026-05-11
+wiki_rev: "2026-05-11T15:42:35Z"
 contributors:
   - "Hoppsy"
 ---

@@ -7,6 +7,7 @@ tags:
 aliases:
   - "The Boatman"
 last_edited: 2025-09-24
+wiki_rev: "2025-09-24T00:07:57Z"
 contributors:
   - "unknown"
 ---
@@ -19,7 +20,7 @@ contributors:
 >
 > I have never met her, but I have seen her footprints traveling from one place to another and wondered who was following those paths.
 >
-> [[Silas]]: Where were these paths?
+> Silas: Where were these paths?
 >
 > It is somewhat hard to describe these to someone that rather like walking in the countryside and through a forest and coming across footprints of another traveler who leaves a scent behind or other evidence. If you travel enough paths, or come to enough crossroads, you come to recognize those things.> And so I wonder whatever is beneath that lake, perhaps some call it Gorgomogg enough so that's what it is. Others call it a nameless evil. I’m not sure the name of it affects its nature, but the way it’s spoken about does.> [After we share [[Osgog and the Dragon]]] If there is something large and incomprehensible to people, those things maybe go unnamed. It’s a sign of a lack of understanding.> [Re: the watch tower] The stories say that long ago great and terrible powers were trapped beneath the mountain range and less those powers reemerge, a watch was set. And that tower from what I understand was amongst those that set the watch, but something went wrong and the watcher became the thing that was watched and a great darkness was released. And so that tower is said to have fallen. [The shadow we saw] seems perhaps to be some very small piece of it perhaps was tied to the place. I had not heard of that anything was lingering there.> [Re: the bear]
 >

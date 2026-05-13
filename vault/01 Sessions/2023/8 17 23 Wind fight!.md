@@ -7,6 +7,7 @@ tags:
 aliases:
   - "8/17/23 Wind fight!"
 last_edited: 2023-12-29
+wiki_rev: "2023-12-29T12:09:36Z"
 contributors:
   - "SilasWoodhenge18"
 ---
@@ -21,6 +22,6 @@ The storm retreats into the cave and leaves are scattered, revealing the appeara
 
 The crack was the entrance to this tunnel. It feels like the tunnel is elongating. When we first went in, the tunnel was wide and short and it connected two places very quickly. Now that we’re standing here, it closes down and is elongating. It feels similar to the other tunnels in that they feel like they are elsewhere. 
 
-[[Cricket]] notices that as the storm cloud was fighting, there was writing on his cloud body. He couldn’t make it out, but there was writing. B gives C his book so he can scribble down the writing he saw. 
+Cricket notices that as the storm cloud was fighting, there was writing on his cloud body. He couldn’t make it out, but there was writing. B gives C his book so he can scribble down the writing he saw. 
 
-C and [[Silas]] chess.
+C and Silas chess.

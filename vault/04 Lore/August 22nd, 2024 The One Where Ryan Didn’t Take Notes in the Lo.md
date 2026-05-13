@@ -6,6 +6,7 @@ tags:
 aliases:
   - "August 22nd, 2024 - The One Where Ryan Didn’t Take Notes in the Lo"
 last_edited: 2024-08-23
+wiki_rev: "2024-08-23T13:51:33Z"
 contributors:
   - "Hoppsy"
 ---
@@ -22,25 +23,25 @@ There is some surface ice just into the pond as it passes.  The whole island is
 
    - Party thoughts are in *italics*, plot summary in plain text.**
 
-Quick synopsis, druids in the woods were attacked by mon’s soldiers. The bear came to help, a tree was damaged, the girl climbed into the tree and things got better.  Then Nathaniel read the story to us…  High in the mountains was an [[Ancient Tree]].  The bees flocked to the flowers.  Tree drank from a spring that flowed into the meadow.  It was called the tree of whispers..  When the tree's branches are full of dark birds… ravens were there and were the signal that when people should come to the tree to decipher the words on the wind.  *The Raven queen ([[Morianoth]], [[Mabmnoss]]) we don’t know much about, but [[Branwen]] and [[Cricket]] were super fans of her.  [[Morianoth]] was into learning the ways of the world with humans working with nature (taking and giving).*
+Quick synopsis, druids in the woods were attacked by mon’s soldiers. The bear came to help, a tree was damaged, the girl climbed into the tree and things got better.  Then Nathaniel read the story to us…  High in the mountains was an [[Ancient Tree]].  The bees flocked to the flowers.  Tree drank from a spring that flowed into the meadow.  It was called the tree of whispers..  When the tree's branches are full of dark birds… ravens were there and were the signal that when people should come to the tree to decipher the words on the wind.  *The Raven queen ([[Morianoth]], [[Mabmnoss]]) we don’t know much about, but [[Branwen]] and [[Cricket]] were super fans of her.  Morianoth was into learning the ways of the world with humans working with nature (taking and giving).*
 
 The idea of the birds from [[Silas]] has some traction ([[Mons]], [[Torval]], and Mabnoss).   The parallels are noted. (Later debunked, probably, due to the number of birds in the family)
 
 During the festival one of the people, Ghweden was overwhelmed. She could hear the whispers but not with so much partying.  She’d go to the meadow at night and sit at the foot and it told her wisdom but she didn’t understand.  She slept with a foot in the well and ear to the roots.   
 
-- Listening to the world and shaping the world; all the sounds are very connected to the Spirit of Morianoth the Raven Queen.  Sometimes [[Mother Night]]  She is likely to be strong in the spirit of Morianoth, [[Gwedhen]] is.  *
+- Listening to the world and shaping the world; all the sounds are very connected to the Spirit of Morianoth the Raven Queen.  Sometimes [[Mother Night]]  She is likely to be strong in the spirit of Morianoth, Gwedhen is.  *
 
 So she follows a path in the forest and finds a caves that smells, so she took a nap.  People who lived in the mountains distrusted the pple inteh valley.  Arrow tips of frozen night; they lived as rumors.  *Frozen night is the obsidian*.  *They gave their dead to the earth to the dead, we’ve encountered this and we were told they were keeping the barrier.  People forget them at their peril.*
 
-- [[Branwen]] remembers (19) that these things came from the notes rec’d while fighting a monstrous tree, written in charcoal on its bark:  “As the dead  lose their grip the crack widens, i watch the best I can drinking from the well”.  We thought message was from [[The Abbott]], but it could possibly be Gwedhen?*
+- Branwen remembers (19) that these things came from the notes rec’d while fighting a monstrous tree, written in charcoal on its bark:  “As the dead  lose their grip the crack widens, i watch the best I can drinking from the well”.  We thought message was from [[The Abbott]], but it could possibly be Gwedhen?*
 
 Gwed awoke to a battle - she felt hot breath and it was the cave bear.  It was what she feared but learned to not be afraid, she was award by his power.  He has green eyes and was her protector.  She rode him into battle.
 
-- We saw this in the bear encampment - the same reverence.  The village may have tapped into the spirit of this story (inspired or leaned into the theology; directly or descendents).  The story we know comes from [[Silas]] and his time with the druids.*
+- We saw this in the bear encampment - the same reverence.  The village may have tapped into the spirit of this story (inspired or leaned into the theology; directly or descendents).  The story we know comes from Silas and his time with the druids.*
 
-- We look at the [[Noorglass]] Map and the [[Nyth]] painting.  [[Storr]] thinks the northern circular lake could line up with the [[Nyth]] painting.  Maybe Nyth exists in the world, the painting is just a representation of what the artist knows the world to be… but not a literal representation?*
+- We look at the [[Noorglass]] Map and the [[Nyth]] painting.  [[Storr]] thinks the northern circular lake could line up with the Nyth painting.  Maybe Nyth exists in the world, the painting is just a representation of what the artist knows the world to be… but not a literal representation?*
 
-Men on chariots and weapons killed the people.  Those who fled to the forest were cut down.  *We think they are Mon’s followers or associates; [[Mons]] invented the wheel.  Chariots seemingly associated with Mons - he rode one in the story with Bargos.*
+Men on chariots and weapons killed the people.  Those who fled to the forest were cut down.  *We think they are Mon’s followers or associates; Mons invented the wheel.  Chariots seemingly associated with Mons - he rode one in the story with Bargos.*
 
 One stood out wearing armor that stood out like the sun; shall build a home and build a farm and put it to good use.  The bear charges and Gwedhen is thrown from his back.  She finds her brother; she tends to him as the bear fights.  As he finishes the fight, the bear is enraged to find the tree being hacked at.  The Man in the armors says the tree held the power of the valley. *(Hopps thinks this 'man in golden armor' is actually Mons, himself)*
 
@@ -50,9 +51,9 @@ One stood out wearing armor that stood out like the sun; shall build a home and 
 
 - [[Musk]] touched stones, traveled to Nyth.  Sounds familiar.  The Hammer may have something to do with it because it’s a stone and the handle is a tree root holding the stone. It mirror kramblers vision.*
 
-- Did [[Krambler]] touch this tree?  He touched the stones and figured out the music but didn’t interact with tree.*
+- Did Krambler touch this tree?  He touched the stones and figured out the music but didn’t interact with tree.*
 
-- [[Storr]] asks Krambler to touch the tree and see if he can experience it again.  Branwen persuades him (17).  He touches the tree, closes his eyes and…. Scene.*
+- Storr asks Krambler to touch the tree and see if he can experience it again.  Branwen persuades him (17).  He touches the tree, closes his eyes and…. Scene.*
 
 - It’s not like the other tree in as far as we all had an immediate reaction; the same thing does not happen here. We are hoping that this tree is an off shoot of the tree we all touched.  Like a root that travel and sprung from the earther and grew itself as a tree.*
 
@@ -80,7 +81,7 @@ B: How do I know you?
 
 R: you remind me of someone I spoke to on a mountain top
 
-B: [[Cricket]] died so that I could be.
+B: Cricket died so that I could be.
 
 R: People are strange with strange ways.
 
@@ -96,7 +97,7 @@ B: Have you met Koweth?
 
 R: We all share an understanding.
 
-B: Are you allied with [[Mother Night]]?  
+B: Are you allied with Mother Night?  
 
 R: We share certain interests.
 

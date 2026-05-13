@@ -7,11 +7,12 @@ tags:
 aliases:
   - "10/30/25 We Probably Find the Great Bear But There's A Catch"
 last_edited: 2025-11-14
+wiki_rev: "2025-11-14T02:27:12Z"
 contributors:
   - "SilasWoodhenge18"
 ---
 
-We rehash. Balz stayed with [[Silas]]. [[Silas]] gets a shiny new wool hat.
+We rehash. Balz stayed with [[Silas]]. Silas gets a shiny new wool hat.
 
 [[Branwen]]: Lookout
 
@@ -27,11 +28,11 @@ Lake seems about a mile long. We can see the other side, but not with total clar
 
 Silas seems drawn to the western hill. We go.
 
-We make good progress. We get to the edge of tlake. We can see the forest climb the hill and we start hearing something. As we get into the fortst he hear noises that sound like voices. It sounds like wind and grating rock. [[Branwen]] thinks we’re hearing the lullabye song (the song that beckoned Bran out of the pyre. Crickets mother would hum it to him. Boatman played it on [[Mannix]]’s flute. [[Kelynnen]] was singing it while picking herbs.) as we approach the hill. 
+We make good progress. We get to the edge of tlake. We can see the forest climb the hill and we start hearing something. As we get into the fortst he hear noises that sound like voices. It sounds like wind and grating rock. Branwen thinks we’re hearing the lullabye song (the song that beckoned Bran out of the pyre. Crickets mother would hum it to him. Boatman played it on [[Mannix]]’s flute. [[Kelynnen]] was singing it while picking herbs.) as we approach the hill. 
 
 We’re hearing multiple sounds and voices, one in particular that’s not too far away to the north, one rising and falling. 
 
-Would [[Storr]] recognize any from the bird island?
+Would Storr recognize any from the bird island?
 
 The Gale song was a song that one of the bird’s sang, which we do not hear now. 
 

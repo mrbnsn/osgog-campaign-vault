@@ -7,6 +7,7 @@ tags:
 aliases:
   - "1/9/25 The One Where We Thelma and Louise Over a Waterfall"
 last_edited: 2025-08-01
+wiki_rev: "2025-08-01T03:18:41Z"
 contributors:
   - "SilasWoodhenge18"
 ---
@@ -41,11 +42,11 @@ They gesture to [[Silas]] and say “He may be small but he has a bear;s shape.�
 
 What does he see when he looks at [[Storr]] and K? 
 
-[[Storr]]: You bring with you a fire in the sky. K: You are a hunter of the winds and waters.
+Storr: You bring with you a fire in the sky. K: You are a hunter of the winds and waters.
 
 He sits back in his chair and smirks with his one crazy eye. “As I said, quite a collection of invdivioduals, the likes of which we have not seen before.”
 
-Can I interest you in a fortifying wine. Storr declines, and the rest imbibe. A thick rich red wine. “Follow us” Koweth takes a beak full before [[Branwen]] drinks.
+Can I interest you in a fortifying wine. Storr declines, and the rest imbibe. A thick rich red wine. “Follow us” Koweth takes a beak full before Branwen drinks.
 
 We follow them back down to the tower and through the greenspace. There’s a cleft in some rock. A cherry tree and a copper beech growing on either side of this entrance. 
 

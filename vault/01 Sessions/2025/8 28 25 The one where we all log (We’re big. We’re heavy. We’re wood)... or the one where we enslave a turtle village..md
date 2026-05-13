@@ -7,6 +7,7 @@ tags:
 aliases:
   - "8/28/25 The one where we all log (We’re big. We’re heavy. We’re wood)... or the one where we enslave a turtle village."
 last_edited: 2025-09-19
+wiki_rev: "2025-09-19T01:35:38Z"
 contributors:
   - "SilasWoodhenge18"
 ---
@@ -24,15 +25,15 @@ Nathaniel has also adjusted our currencies.
 
 Note taker colors? *(We'll use colors in the google doc, but the wiki will just include all the notes edited together.)*
 
-   - [[Silas]]**
+   - Silas**
 
    - Balz**
 
-   - [[Branwen]]  ** 
+   - Branwen  ** 
 
-   - [[Krambler]]** - likes things. But not in a materialistic way. He’s totally unencumbered.
+   - Krambler** - likes things. But not in a materialistic way. He’s totally unencumbered.
 
-   - [[Storr]]**
+   - Storr**
 
 Everyone: Don’t forget your class features. For instance, Silas is part Monk (!) so is Krambler. Neat!
 
@@ -46,7 +47,7 @@ We send a chickadee to scout first the perimeter and then the island. Nothing st
    1. The Communal Play-by-play
 Silas shares something he talked with [[Seren]] about a circular lake. 
 
-Context: [Silas’ [[Tawesek]] dream, the “Eye of Night”](http://[[Osgog]].mrobinson.us/index.php/Silas#[[Tawesek]])> She says that that circular lake is in more than one place, and that sometimes there is someone there, and sometimes there is not.  She’s not sure who lives there, or even if it’s always the same “person”.  While she can travel some paths, they don’t always lead to the same places, so directions are hard.We decide to do stuff. Party decides to move towards the island
+Context: [Silas’ [[Tawesek]] dream, the “Eye of Night”](http://osgog.mrobinson.us/index.php/Silas#Tawesek)> She says that that circular lake is in more than one place, and that sometimes there is someone there, and sometimes there is not.  She’s not sure who lives there, or even if it’s always the same “person”.  While she can travel some paths, they don’t always lead to the same places, so directions are hard.We decide to do stuff. Party decides to move towards the island
 
 (*Hopps regales us of his broken middle moat finger. Paul has no fucks to give.)*
 
@@ -80,7 +81,7 @@ We continue journeying. Balz picks a great route, and we make it. It’s foggy w
 
 Storr wades out on the lake to see how deep it is.  About 100 ft before it’s up to her chin.  She decides to swim out to the island with only her knife. (rolls a 6)  She gets lost in the mist but has to retreat and doesn’t make it to the island.  She calls out and the party and they call her back.
 
-The stars the previous night did not have the same locations as [[Nyth]] or our home. Coming to the  end of day 2, we get to another point around the lake, we don’t see another spot that’s close given the fog. 
+The stars the previous night did not have the same locations as Nyth or our home. Coming to the  end of day 2, we get to another point around the lake, we don’t see another spot that’s close given the fog. 
 
 Storr brings up summoning a duck which she could use beast sense on to see through their eyes and fly out to the island to get a sense as to what’s on the island.  Silas is concerned about using a 3rd level spell slot to summon a single small animal for the purpose; there’s nothing near us that Storr can talk to.  Balz’s primeval awareness may apply in this situation (*he can sense fey, celestials, etc*) as we don’t know if there’s creatures within a mile of where we are.  Balz tries to sense the presence of one of these creatures and…gets the sense that the landscape has the latent ability to become conscious. It could be the island, or it could be elsewhere, primeval awareness can’t locate exactly where this is coming from.  
 

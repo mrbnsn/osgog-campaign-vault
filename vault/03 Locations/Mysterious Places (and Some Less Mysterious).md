@@ -6,6 +6,7 @@ tags:
 aliases:
   - "Mysterious Places (and Some Less Mysterious)"
 last_edited: 2026-05-10
+wiki_rev: "2026-05-10T18:36:21Z"
 contributors:
   - "Nblauss"
 ---
@@ -17,7 +18,7 @@ contributors:
 > [!note] Image: `Continent.jpg`
 
    1. Phase One: [[Noorglass]]
-- [[Noorglass]]: The continent we started on, where [[Monsoth]] is located.
+- [[Noorglass]]: The continent we started on, where Monsoth is located.
 - [[Monsoth]]: The main settlement in our area, and where we begin our quest.
 - [[Tawesek]]: [[The Abbot]]'s Monastery
 - [[Trenewydh]]: The town we went to that appeared randomly in the valley, and where [[The Abbott]] died.
@@ -40,7 +41,7 @@ contributors:
 
 [[The Tree Island]]
 
-[[Twrseren]]: The tower in the mountains amongst the stars in [[Nyth]]
+[[Twrseren]]: The tower in the mountains amongst the stars in Nyth
 
 [[The Hill of Voices]]
 

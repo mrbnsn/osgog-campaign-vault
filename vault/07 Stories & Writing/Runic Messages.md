@@ -6,6 +6,7 @@ tags:
 aliases:
   - "Runic Messages"
 last_edited: 2026-05-10
+wiki_rev: "2026-05-10T15:03:49Z"
 contributors:
   - "Nblauss"
 ---
@@ -14,13 +15,13 @@ The key and messages are here: https://drive.google.com/drive/folders/1n5rsJGgKA
 
 Certain characters perceive that they are drawn to certain pieces of writing:
 
-[[Storr]]: Fire 2
+Storr: Fire 2
 
-[[Balthazar]]: Fire 1
+Balthazar: Fire 1
 
-[[Mannix]], [[Krambler]]: Water 1 and 2
+Mannix, Krambler: Water 1 and 2
 
-[[Cricket]]: 2 & 5 (the ones we haven’t found yet)
+Cricket: 2 & 5 (the ones we haven’t found yet)
 
    1. The Key
 > [!note] Image: `Rune Key.jpg`
@@ -162,7 +163,7 @@ This runic key was found inside a chest at the [[Ancient Tree|humongous, ancient
 
 - “As the dead loose their grip”* - direct reference to the dead we encountered in the circle and how they were waning
 
-   1. The message [[Cricket]] sees in the trees reflected in the fountain at [[Celliwig]]
+   1. The message Cricket sees in the trees reflected in the fountain at [[Celliwig]]
 > *Tell the Traitor:*
 >
 > - My festival approaches, like you*

@@ -6,6 +6,7 @@ tags:
 aliases:
   - "For May 30th session: Bardh and the Fellowship Phase undertakings"
 last_edited: 2024-05-27
+wiki_rev: "2024-05-27T14:56:31Z"
 contributors:
   - "SilasWoodhenge18"
 ---
@@ -25,4 +26,4 @@ He has traveled the world and contributed to many of the stories in the [[Illumi
 
 - **Choose our fellowship phase [[undertakings]].** [We started a doc](https://docs.google.com/document/d/1m86y_wu_-bMJv5uhV3Y2QgeJdtMwpkp1gqaNTGuJh6c/edit#heading=h.l3e3ch1016nz) with discussion about choices and what each member of the party would want to pursue. At the bottom of the doc is [a ranked vote](https://docs.google.com/document/d/1m86y_wu_-bMJv5uhV3Y2QgeJdtMwpkp1gqaNTGuJh6c/edit#bookmark=id.lfdlxjs0nc5d) of each undertaking for each party member.
 
-- **Ask any other questions of [[Bardh]].** We also have a [Questions for [[Bardh]]](https://docs.google.com/document/d/1CFTkIOXz9e7w4kC8gbYNmeqsZUuyweJ5VtTL-b7_Du8/edit) doc. The mythology based ones have largely been answered, or at least speculated  on based on new information.
+- **Ask any other questions of Bardh.** We also have a [Questions for Bardh](https://docs.google.com/document/d/1CFTkIOXz9e7w4kC8gbYNmeqsZUuyweJ5VtTL-b7_Du8/edit) doc. The mythology based ones have largely been answered, or at least speculated  on based on new information.

@@ -7,6 +7,7 @@ tags:
 aliases:
   - "6/8/23 The One Where We’re Hashtag BackInOsgog, Ruminate On A Chess Board and Fight Fire With Weapons"
 last_edited: 2023-12-29
+wiki_rev: "2023-12-29T03:08:00Z"
 contributors:
   - "SilasWoodhenge18"
 ---
@@ -67,11 +68,11 @@ B thinks that the two knights on the bottom half of the board are accompanying e
 
 Are there four players? 
 
-[[Silas]] notes that the white queen (ivory) has three faces and seems to be protecting the king (charcoal)
+Silas notes that the white queen (ivory) has three faces and seems to be protecting the king (charcoal)
 
 [[Krambler]] feels that somehow we are all represented on the board.
 
-[[Cricket]]: “we are pawns” in this game  
+Cricket: “we are pawns” in this game  
 
 [[Storr]] feels if she were a piece, she would be a knight.
 
@@ -87,7 +88,7 @@ Red crimson knight is the red blade?
 
 Charcoal rook and pawn is Cricket and Kevan.
 
-We talk about [[Krambler]]’s  dream
+We talk about Krambler’s  dream
 
 We talk about B’s  dream.
 
@@ -107,6 +108,6 @@ Three knight viking looking things crawl out of the fire and surround her.
 
 We fight them.
 
-There are interesting bits of wood with writing on them. [[Mannix]] takes another swim underneath an almost new moon. He finds nothing. The embers are warm to the touch and contain shards of obsidian. We take some with us.
+There are interesting bits of wood with writing on them. Mannix takes another swim underneath an almost new moon. He finds nothing. The embers are warm to the touch and contain shards of obsidian. We take some with us.
 
 We hop in the boats and make it to the mouth of the river to the north west.

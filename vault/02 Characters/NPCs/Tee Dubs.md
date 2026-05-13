@@ -7,6 +7,7 @@ tags:
 aliases:
   - "Tee Dubs"
 last_edited: 2023-12-29
+wiki_rev: "2023-12-29T12:47:56Z"
 contributors:
   - "SilasWoodhenge18"
 ---
@@ -20,4 +21,4 @@ After our dealings in [[Tawesek]], the party would retrospectively think it odd 
 >
 > - ...harsh, strange, and beautiful.  Like her.*
 >
-> - She had told him about the frozen star at the side of the path. “Yes,” [[Bryok]] said, “a frozen star.  She would be drawn by that, I think.”*
+> - She had told him about the frozen star at the side of the path. “Yes,” Bryok said, “a frozen star.  She would be drawn by that, I think.”*

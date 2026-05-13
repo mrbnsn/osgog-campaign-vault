@@ -6,6 +6,7 @@ tags:
 aliases:
   - "Silas' Conspiracy Corner"
 last_edited: 2026-01-30
+wiki_rev: "2026-01-30T02:25:26Z"
 contributors:
   - "Nblauss"
 ---
@@ -13,14 +14,14 @@ contributors:
 1. [[Silas|The]] woman that appears in Silas' dreams
 In [[Silas|Silas']] dreams this woman is described as "matronly, and covered in thick woolen clothing, made of burgundy, purple, and dark brown yarn, as well as a thick forest-green cape", having "kindly eyes" that holds "a deep forest green in her irises."
 
-Wondering if this is perhaps a vision of [[Tewlder]]'s wife?
+Wondering if this is perhaps a vision of Tewlder's wife?
 
 Could she perhaps be the other twin?
 
-   1. The [[Elder Lands]]
+   1. The Elder Lands
 Upon leaving Silas' dream at [[The Abbot]]'s hut, she says "*They’ll wish to return to the [[Elder Lands]] even if they don’t know, and if you look, he’s there too.  And perhaps that’s where you are, as well.*"
 
-I didn't pick up on this until now (1/4/24), otherwise I would have been asking around about these [[Elder Lands]]. 
+I didn't pick up on this until now (1/4/24), otherwise I would have been asking around about these Elder Lands. 
 
 The Elder Lands could be referring to:
 
@@ -40,9 +41,9 @@ While we were in [[Nyth]], [[Seren]] told us that we were in the Elder Lands, bu
 
 I can see two possibilities:
 
-1. Only [[Silas]] has the power to wake this bear (in that case, where is it?)
-1. [[Silas]] IS the bear, and has to awaken it in himself (in that case, how?)
-[As [[Cricket]] notes](http://[[Osgog]].mrobinson.us/index.php/[[Cricket]]%27s_Conspiracy_Corner#:~:text=The%20Sun%20King%27s%20minions%20have%20reacted%20badly%20to%20Silas%20%2D%20who%20is%20directly%20tied%20to%20the%20awakening%20of%20The%20Bear%2C%20who%20would%20likely%20be%20opposed%20to%20[[Mons]]...), the minions of the [[Sun King]] (who seem to worship [[Mons]]) seem to react especially negatively toward Silas (called Arthyden, "bear-born"; and the Bear's followers would oppose what Mons represents, that being the power and superiority of man.)
+1. Only Silas has the power to wake this bear (in that case, where is it?)
+1. Silas IS the bear, and has to awaken it in himself (in that case, how?)
+[As [[Cricket]] notes](http://[[Osgog]].mrobinson.us/index.php/Cricket%27s_Conspiracy_Corner#:~:text=The%20Sun%20King%27s%20minions%20have%20reacted%20badly%20to%20Silas%20%2D%20who%20is%20directly%20tied%20to%20the%20awakening%20of%20The%20Bear%2C%20who%20would%20likely%20be%20opposed%20to%20[[Mons]]...), the minions of the [[Sun King]] (who seem to worship Mons) seem to react especially negatively toward Silas (called Arthyden, "bear-born"; and the Bear's followers would oppose what Mons represents, that being the power and superiority of man.)
 
 At the well in [[Celliwig]], S asks how he can wake the great bear. The women reply: > Women: Are you looking for the child?
 >
@@ -56,32 +57,32 @@ At the well in [[Celliwig]], S asks how he can wake the great bear. The women re
 >
 > B: Is the bear the son and the missing child is the daughter?
 >
-> Women: <They won’t clarify.>About the sleeping bear, the [[The Oracle|Oracle]] said: > "He sleeps and some hear him. And you are marked by him."How does one wake the bear?> First you may need to find him.Silas sees the Great Bear and the bear cub [[Constellations]] in the sky with a dragon "curling between them." (see next section) Might this mean that to wake the sleeping bear, Silas may need [[Balthazar]]'s help?
+> Women: <They won’t clarify.>About the sleeping bear, the [[The Oracle|Oracle]] said: > "He sleeps and some hear him. And you are marked by him."How does one wake the bear?> First you may need to find him.Silas sees the Great Bear and the bear cub [[Constellations]] in the sky with a dragon "curling between them." (see next section) Might this mean that to wake the sleeping bear, Silas may need Balthazar's help?
 
 The origins of the sleeping bear (and the woman in the tree), or at least the interpretation of them according to the Silas' druid circle, are told in the oral traditional story [[Gwedhen]].
 
       1. Ruminations from a walkthrough of bear occurrences in Phases 1 & 2 (pre-waterfall jump)
-- In [[The Abbot]]'s Hut dream, she said: "...it is hard to tell if [the bear's] sleep is troubled." It seems likely that it is (or was), because in Silas' [[Ancient Tree]] vision, he soothes the bear who is restless in his sleep.
+- In the Abbot's Hut dream, she said: "...it is hard to tell if [the bear's] sleep is troubled." It seems likely that it is (or was), because in Silas' [[Ancient Tree]] vision, he soothes the bear who is restless in his sleep.
 - Was the bear banished or went to sleep? The dream woman and the bear people ([[Logan]] also) talk as though he went somewhere and slept, but the ancient turtle talks about the bear being [[The Story So Far (Boyz Bop 2022 to The Abbott's Hut)#:~:text=Arthyden: The,are not known.|banished by his children]].
    - In the well in the tree fort, the three women talk about the child and the bear as their children. This smacks of the turtle talking about the bear's father, and no one knowing who he is. Apparently the bear also has children, according to the turtle.
-- When we had asked about the bear to the women at the tree fort well, they deflected and asked us if we're looking for the child (which child? The missing one? The girl in the tree?.) Perhaps this child is key somehow to finding the bear (As of 8/18/25, we left the missing one at the farm with [[Seren]].)
+- When we had asked about the bear to the women at the tree fort well, they deflected and asked us if we're looking for the child (which child? The missing one? The girl in the tree?.) Perhaps this child is key somehow to finding the bear (As of 8/18/25, we left the missing one at the farm with Seren.)
 - In the bear village, they talk of a [[10/16/23 “The Gang “DOESN’T” Burn Down the House (or how we insulted a group of people without meaning to)”#:~:text=From two old bears that died, guard points out a site outside of the village, to a large hill - excarnation process (sky burial) and the skulls were brought back to the village.|hill site outside of the village]], visible from the village, where they have buried two old bears that had died. This might be worth revisiting.
 - Silas seems to have failed to ask the village Elders specifically anything more about the Great Bear in his talk with them. This seems like a missed opportunity.
 - Twin Talk
    - [[The Boatman]] suggested that a girl and the bear are "twins". We've heard/seen/felt imagery of both a girl and a bear separately being in the roots of a tree.
-   - [[The Boatman]] also suggests that Silas is the bear and not Arthen.
+   - The Boatman also suggests that Silas is the bear and not Arthen.
    - The festival folk at the fountain asked us: "You bring the other twin to the festival?"
-   - [[Logan]]: "the mother tree, the bees and the great bear are all part of one thing."
-   - Old woman's homestead in [[Nyth]]: [Regarding the twins, she nods over in Silas and Arthen’s direction.] “There’s one.” And she looks over to a tree to the north of the plot [a [[Derwen Trees|derwen]]], and says, “There’s another.”
+   - Logan: "the mother tree, the bees and the great bear are all part of one thing."
+   - Old woman's homestead in Nyth: [Regarding the twins, she nods over in Silas and Arthen’s direction.] “There’s one.” And she looks over to a tree to the north of the plot [a [[Derwen Trees|derwen]]], and says, “There’s another.”
    - [[Black Willem and Lady Fiona|Black Willem]] refers to Silas as a "great bear"
-- We speculated early on that the "hearty friend" from Balz's message could be the bear, especially if it's deep within the earth. But what is the gateway? A gateway to Nyth? We've been through one, but not the way [[Musk]] came. He came through a cave. Perhaps that's worth checking out on the other side.
+- We speculated early on that the "hearty friend" from Balz's message could be the bear, especially if it's deep within the earth. But what is the gateway? A gateway to Nyth? We've been through one, but not the way Musk came. He came through a cave. Perhaps that's worth checking out on the other side.
 - [[Gwedhen]] and the bear: This was a story told by Silas' druid folk and passed down. The brother in the story is potentially the patriarch of the druid folk, and speaks of bear riding and having respect for the beasts like bear village folk.
 - Bears, bees, battlestar galactica (and mother trees)
    - At the tree in Nyth, [[8/29/24 The One Where We Leave the Island, Do Some More Really Great Speculation, and Sneak Past the City#:~:text=B: Had a,of our world?|we ruminate]] on the "two times" or man, that of physicality and that of consciousness. In these ideas, the bear is the keeper of man's experiences and thoughts that the bees collect and keep in honeycombs. This seems to support what Logan said about the tree, the bear and the bees are all part of one thing.
    - This seems related to Silas' runic message: "A bear knows where honey lives **for both mind and body.**"
 
-   1. [[Constellations]]. ([GoogleDoc](https://docs.google.com/document/d/12LSOe6gj9wlQdWIZKmJnHUpBgYYd6AWZzdoFDaqtVdM/edit?tab=t.0))
-Our choice from [[The Oracle]] mentioned heading to "the mountains among the stars", so the stars themselves may be of some import.
+   1. Constellations. ([GoogleDoc](https://docs.google.com/document/d/12LSOe6gj9wlQdWIZKmJnHUpBgYYd6AWZzdoFDaqtVdM/edit?tab=t.0))
+Our choice from the oracle mentioned heading to "the mountains among the stars", so the stars themselves may be of some import.
 
 When sleeping under the stars one night, Silas took in many shapes in the stars, some of which seem directly referencing party members. They also reflect constellations IRL.
 
@@ -91,11 +92,11 @@ When sleeping under the stars one night, Silas took in many shapes in the stars,
 - You see a kingfisher with a red eye flying next to a phoenix - wings spread, and both flying through a great river of light
 - You see two brothers very different, but walking hand in hand.
 - You see an Old Man sitting and smoking a pipe, watching things from afar with a two-horned crown lying behind him.
-| [[Osgog]] constellations | Possible Osgog representations | IRL constellations |  |  |  |
+| Osgog constellations | Possible Osgog representations | IRL constellations |  |  |  |
 |---|---|---|---|---|---|
 | Great bear, bear cub, dragon | Silas, Arthen & Balthazar | or |  | The slumbering bear, Silas and Blathazar | Ursa Major, Ursa Minor and Draco |
 | Kingfisher and phoenix | [[Krambler]] and [[Storr]] | Crane (Grus)? and the Phoenix (I couldn't find a real constellation for a kingfisher, aside from the star Alcyone)  ***-Note from Nathaniel***: This isn't really story related, but it's worth noting that these, too, are real constellations, though I am (admittedly) renaming them.  I'm thinking that Aquila<nowiki/> looks <nowiki/>a bit like a kingfisher preparing to plunge and that Cygnu<nowiki/>s can b<nowiki/>e reinterpreted as a phoenix.  The "great river of light" is then the Milky Way. |  |  |  |
-| Two Brothers |  | - [[Tewlder]] and [[Musk]] (probably not if they're ancient) | - The brothers from [[How Old Brother Found Fire|Old Brother]], though there was also a sister in the story. | - [One of the statues](http://osgog.mrobinson.us/index.php/10/30/23_-_%E2%80%9CThe_one_where_we_left_off_at_the_well,_and_Silas_and_[[Krambler]]_had_just_dived_into_the_well%E2%80%A6a.k.a_the_one_where_Paul_has_major_connectivity_issues.%E2%80%9D#:~:text=a%20male%20statue%20(brother)%20holding%20a%20dagger%20in%20one%20hand%20and%20a%20big%20piece%20of%20cloth%20draped%20over%20his%20other%20arm.) in the tower is referenced as "brother" in the campaign log | The Twins (Gemini) |
+| Two Brothers |  | - [[Tewlder]] and [[Musk]] (probably not if they're ancient) | - The brothers from [[How Old Brother Found Fire|Old Brother]], though there was also a sister in the story. | - [One of the statues](http://osgog.mrobinson.us/index.php/10/30/23_-_%E2%80%9CThe_one_where_we_left_off_at_the_well,_and_Silas_and_Krambler_had_just_dived_into_the_well%E2%80%A6a.k.a_the_one_where_Paul_has_major_connectivity_issues.%E2%80%9D#:~:text=a%20male%20statue%20(brother)%20holding%20a%20dagger%20in%20one%20hand%20and%20a%20big%20piece%20of%20cloth%20draped%20over%20his%20other%20arm.) in the tower is referenced as "brother" in the campaign log | The Twins (Gemini) |
 | Old man and the crown |  | - The Abbot | - The Boatman | [Boötes (the Herdsman)](https://www.constellation-guide.com/constellation-list/bootes-constellation/) and the Corona Borealis |  |
 
    1. The Tower, the Watcher and the Prisoner (the poet)
@@ -122,7 +123,7 @@ From our interaction with the stone sisters in the dungeon:> We recall the poem 
 >
 > Child: “They should have left him under our charge, but humans are arrogant and self absorbed.”
 >
-> [[Storr]]: What did this watcher do to be put in a dungeon?
+> Storr: What did this watcher do to be put in a dungeon?
 >
 > Crone: His crime was to forget those who came before.
 >
@@ -143,14 +144,14 @@ From our interaction with the stone sisters in the dungeon:> We recall the poem 
 1. What is the incident mentioned in the Bear Village, in the Tower, in the tower writings, and from the forest sentinels that is also mention in stories?
 
       1. The incident
-[[Branwen]] has some good analysis [[Branwen's Branches#The_Incident_Long_Ago|here]].
+Branwen has some good analysis [[Branwen's Branches#The_Incident_Long_Ago|here]].
 
 Also from the bear village: "The Tower is related to the darkness that comes at night.  It was used in some capacity that was overstepping the bounds of nature… in a bad way.  They drove too deep and greedily.  Offensive to nature - like science gone too far…  It’s not inherently evil but used for those purposes."
 
       1. The identity of the watcher
 Again, good analysis from [[Branwen's Branches#The_Incident_Long_Ago|Branwen]].
 
-That bit from the bear village calls to my mind [[Musk]]; perhaps he is involved as well. He also seems to have delved into something powerful. Though these references to the incident point to something happening long ago, all things are circles, especially time, and we don't quite understand how time flows.
+That bit from the bear village calls to my mind Musk; perhaps he is involved as well. He also seems to have delved into something powerful. Though these references to the incident point to something happening long ago, all things are circles, especially time, and we don't quite understand how time flows.
 
       1. "Sun husband turned to black" (or "son")
 That was the answer the Triumverate (Branwen's name for the three stone sisters, which I love) gave to our question: "Can you tell us more about this one who escaped? We saw him only as a shadow." 
@@ -160,17 +161,17 @@ That was the answer the Triumverate (Branwen's name for the three stone sisters,
 We've seen "sun" and "husband" in various contexts: 
 
 - Sun
-   - most obviously The [[Sun King]]
+   - most obviously The Sun King
    - Honey Woman represents warmth
    - [[Gorgomog]] befriended the sun as king (but the sun wasn't inherent to his identity)
 - Husband
-   - Again, [[Gorgomog]], he had a wife, [[Morianoth]]
+   - Again, Gorgomog, he had a wife, [[Morianoth]]
    - Icebeard (but his wife was more identified with the sun, not himself)
    - The Red Blade's father
    - Mogg (whom we've speculagted is also be Gorgomog from [[The God King]])
 
       1. # An idea from 2024:
-I posit that the thing that this watcher was trying to keep contained is a dark side of [[Mog]]. [[Mog]] was also living on the sunny, fruitful, joyful side of [[Raven Island]], while the other half of it was covered in fog and shadow. We've posited that perhaps Mog was missing something of his identity, has been sort of neutered in a way, especially if he was once [[The God King]] Gorgomog (maybe this evil side is called "Gorgo?") Perhaps his powerful, darker side was somehow separated from him and held captive beneath the Black Lake.
+I posit that the thing that this watcher was trying to keep contained is a dark side of [[Mog]]. Mog was also living on the sunny, fruitful, joyful side of [[Raven Island]], while the other half of it was covered in fog and shadow. We've posited that perhaps Mog was missing something of his identity, has been sort of neutered in a way, especially if he was once the God King Gorgomog (maybe this evil side is called "Gorgo?") Perhaps his powerful, darker side was somehow separated from him and held captive beneath the Black Lake.
 
       1. # An update from 2025:
 We have reason to believe that the thing trapped under the lake is The [[Moon King]], who seems to be some iteration of Gorgomogg (See [log entry of 8/14/25](https://docs.google.com/document/d/1emqYTYZ_gYKiFgIxbaCIxuVGSm_zFuDcBj0vMHBGMj8/edit?tab=t.0#heading=h.93bcenabulr3)) that is feared by those of the bear village and the village of [[Trevas]] (goose fat party.)
@@ -203,11 +204,11 @@ From a Hoppsy text:> The stories say mons left.  Mons bias stories, anyway, righ
 >
 > Bal relates that the abbot has been referred to us as the foundling, and the abbot returned to this illusionary city and walked into a fountain and died. Celebrated as the return of the foundling. This was him returning from his watch.
 >
-> [[Bardh]] recognized versions of all the stories except [[Foamflower]].
+> Bardh recognized versions of all the stories except Foamflower.
 >
-> Bardh reads [[Foamflower]].
+> Bardh reads Foamflower.
 >
-> Bardh: This is storytelling. You seem to be taking it as verifiable truth. Motif of a seer. There are people out there that can see more than others. It seems magicalk to some, but it’s just perception.*The Abbot is "The Foundling."  [He was referred to](http://osgog.mrobinson.us/index.php/The_Story_So_Far_(Boyz_Bop_2022_to_The_Abbott%27s_Hut)#:~:text=Of%20the%20Abbot%20they%20say%2C%20%E2%80%9CHe%20has%20returned%2C%E2%80%9D%20but%20don%E2%80%99t%20seem%20to%20know%20anything%20about%20a%20monastery.%20They%20call%20him%20%E2%80%9CThe%20Foundling.%E2%80%9D%20%C2%A0) as such in [[Trenewydh]]. The [[The Oracle|oracle]] also [called him that.](http://osgog.mrobinson.us/index.php/11/30/23_The_one_where_we_follow_the_badger_and_meet_the_oracle#:~:text=the%20same%20circle.-,C%3A%20[[Bryok]]%3F,-O%3A%20Only%20rumors)*> C: [[Bryok]]?
+> Bardh: This is storytelling. You seem to be taking it as verifiable truth. Motif of a seer. There are people out there that can see more than others. It seems magicalk to some, but it’s just perception.*The Abbot is "The Foundling."  [He was referred to](http://osgog.mrobinson.us/index.php/The_Story_So_Far_(Boyz_Bop_2022_to_The_Abbott%27s_Hut)#:~:text=Of%20the%20Abbot%20they%20say%2C%20%E2%80%9CHe%20has%20returned%2C%E2%80%9D%20but%20don%E2%80%99t%20seem%20to%20know%20anything%20about%20a%20monastery.%20They%20call%20him%20%E2%80%9CThe%20Foundling.%E2%80%9D%20%C2%A0) as such in [[Trenewydh]]. The oracle also [called him that.](http://osgog.mrobinson.us/index.php/11/30/23_The_one_where_we_follow_the_badger_and_meet_the_oracle#:~:text=the%20same%20circle.-,C%3A%20[[Bryok]]%3F,-O%3A%20Only%20rumors)*> C: Bryok?
 >
 > O: Only rumors to me have returned to me of the Foundling.
 >
@@ -253,7 +254,7 @@ The watcher was the village poet (quill feather connection.)
 1. * *DM (paraphrasing): Her saying this as you leave the farm in that moment: if you’re telling her, this is where I want us to go, then she can say, "this is where I can tell you to go." She can help in our next direction. We can also send her a note or ask a question. Storr could have told us: Storr had been following her into the woods by a pool and the tree, she does so on a regular basis, and so can receive and reply to messages via waterways fairly quickly.*
 1. * We have a vial of the traveling water that we've forgotten about. This should be one of the items we keep with us after the waterfall. Asked about messaging via [[Derwen Trees]] as well. *DM: "You could certainly try. Try the water first though."*
 1. Asking around about the bear has only gotten so far. How can Silas take a more active role in discovering these things? What can Silas actually do?
-1. Still grappling with the idea of identity: that there are these twins, and apparently Silas is one, but there’s also a separate bear entity that’s asleep and won’t ever wake up (according to Seren) that is also the same twin? And the other twin is the girl-[[Derwen Trees|derwen]], and they're all connected?
+1. Still grappling with the idea of identity: that there are these twins, and apparently Silas is one, but there’s also a separate bear entity that’s asleep and won’t ever wake up (according to Seren) that is also the same twin? And the other twin is the girl-derwen, and they're all connected?
 
    1. Outstanding questions
       1. Phases 1 & 2

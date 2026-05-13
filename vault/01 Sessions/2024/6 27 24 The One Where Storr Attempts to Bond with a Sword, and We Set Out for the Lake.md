@@ -7,11 +7,12 @@ tags:
 aliases:
   - "6/27/24 The One Where Storr Attempts to Bond with a Sword, and We Set Out for the Lake"
 last_edited: 2024-08-02
+wiki_rev: "2024-08-02T00:26:52Z"
 contributors:
   - "unknown"
 ---
 
-[[Storr]] approaches a female centaur to ask about Kleghein.  She directs [[Storr]] to Tal, their leader.  Storr gets on her knee and presents the sword to Tal.  
+[[Storr]] approaches a female centaur to ask about Kleghein.  She directs Storr to Tal, their leader.  Storr gets on her knee and presents the sword to Tal.  
 
 He holds it up, runs his hand over it several times (ice blade), turns to water, turns to wind, turns to fire.  Spins it around and hands it back.  "What is it you are looking to do?"  
 
@@ -47,7 +48,7 @@ The water here is very fresh mountain water, clear and strong current.  Great w
 
 Balz: Ever heard of [[The Black Water]]?
 
-[[Kelynnen]] has, but it's a story/rumor from far away.  [[Musk]] knew about it, he grew up in [[Monsoth]].  The centaurs refused to discuss it.
+[[Kelynnen]] has, but it's a story/rumor from far away.  Musk knew about it, he grew up in [[Monsoth]].  The centaurs refused to discuss it.
 
 We sleep in various places.  
 
@@ -55,7 +56,7 @@ We wake up in the morning…what's the plan?  Centaurs are "melted back into th
 >
 > Scout (Exploration) - [[Silas]] (+6)
 >
-> Look-out (perception) - [[Branwen]] (+4)
+> Look-out (perception) - Branwen (+4)
 >
 > Hunter (Hunting)  Storr (+3)
 >
@@ -65,7 +66,7 @@ Guide check passes, first event is three days out. Target: Storr. ›Storr is hu
 
    - Event 2**
 
-Another event 1 day out. Target: [[Silas]]. Silas and Arthen are trying to find ways to get down to the main stream over a pass and we get lodged in some pretty sig snow and get suck out that night, and the party comes out looking for them and cant find them. A storm comes in, they retreat into a hollow. In the morning, S & A come rolling into to camp covered in snow did manage snuggle in a lee side of a cave? +2 fatigue saving throw, no shadow points
+Another event 1 day out. Target: Silas. Silas and Arthen are trying to find ways to get down to the main stream over a pass and we get lodged in some pretty sig snow and get suck out that night, and the party comes out looking for them and cant find them. A storm comes in, they retreat into a hollow. In the morning, S & A come rolling into to camp covered in snow did manage snuggle in a lee side of a cave? +2 fatigue saving throw, no shadow points
 
 Bal gets us to our destination. We make it to the lake shore and find a decent camping spot. 
 

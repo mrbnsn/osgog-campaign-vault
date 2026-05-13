@@ -7,6 +7,7 @@ tags:
 aliases:
   - "7/18/24 The One Where We Chat With the Boat's \"Crew\""
 last_edited: 2024-08-02
+wiki_rev: "2024-08-02T00:40:22Z"
 contributors:
   - "unknown"
 ---
@@ -45,7 +46,7 @@ B: We’re strangers. What are these troubled times? How does your presence male
 
 L: I’ve seen combat, I’ve seen the treachery of humans and tehre’s much turmoil in these lands, we know the world is changing at an ever increasing rate. You’ll find out more when you get to the city. Just here to make sure your stay on the boat is comfortable and enjoyable and that you arrive at your destination.
 
-B: When we spoke earlier, it seemsed you were especially curious about my horns. They were given to me by the [[Sun King]]. What do you think about that?
+B: When we spoke earlier, it seemsed you were especially curious about my horns. They were given to me by the sun king. What do you think about that?
 
 K is shocked as he hadn’t seen them yet. L looks at him and stammers and doesn’t know what to say.
 
@@ -57,7 +58,7 @@ L gets really uncomfortable and nervous. Stammering, “I’ve heard stories of 
 
 K looks really nervous and awkward.
 
-[[Storr]] puts it back in her bag. She talks about [[Mali]] and how she’s not with us anymore.
+[[Storr]] puts it back in her bag. She talks about Mali and how she’s not with us anymore.
 
 L steps back “You know, I mean no harm. I do’t appreciate this kind of behavior. Here we belief in justice and order and threats are no way to run a kingdom.
 
@@ -99,7 +100,7 @@ L: No its such a small place, no one’s ever heard it. It’s unlikely you’ve
 
 Kitto takes a big breath and looks over at us and goes back to steering.
 
-B and [[Storr]] and [[Silas]] head to the fore deck to chat. We decide to send K and Bran back to K to chat, since K was a sea-faring fellow and Bran is charismatic as fuck.
+B and Storr and [[Silas]] head to the fore deck to chat. We decide to send K and Bran back to K to chat, since K was a sea-faring fellow and Bran is charismatic as fuck.
 
 They go back to teh aft deck. K talks up the angle of being a seaman. Kr sees there are visible tattoos: one forearm has an anchor, and one with a mermaid in a heart that says MOM across it. Kr uses that as an in to talk about his tattoos. So he removes his shirt to show him his. As he does this, Kitto looks and sees them and his eyes get a little bit wide, the sea roughens a little, there are chimes on the wind, a mist comes up off of the water. Kitto is like, “What is that tattooed across your rippling pectorals?? You’re drawing the voices towards us, or perhaps the voices are written on you?”
 
@@ -133,7 +134,7 @@ He shows some willingness to try going to the middle of the lake to cause some c
 
 L’s friend isn’t necessarily a secret, but they just received these two travelers. L is the spokesperson, they all know about the other fellow. We could mention this to L without issue. 
 
-We take the afternoon and speak to the crew. [[Silas]] and Arthen put on a bear show and do some tricks that Arthen knows to ingraciate them to the crew. We’re invited to a meal with Laden down below decks.
+We take the afternoon and speak to the crew. Silas and Arthen put on a bear show and do some tricks that Arthen knows to ingraciate them to the crew. We’re invited to a meal with Laden down below decks.
 
 [[Krambler]] can’t really smithy much on the boat.
 

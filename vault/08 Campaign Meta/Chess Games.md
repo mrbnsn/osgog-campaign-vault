@@ -6,11 +6,12 @@ tags:
 aliases:
   - "Chess Games"
 last_edited: 2023-12-22
+wiki_rev: "2023-12-22T00:26:45Z"
 contributors:
   - "SilasWoodhenge18"
 ---
 
-The [[Party Items|chess pieces]] were created for the wealthy and remind [[Silas]] of his father’s work. Couldn’t say that he specifically created them but they are made in that tradition, recognizable as from the same people that Silas' father would be making them for. Reserved for people of high status (not us), [[Silas]] would have always felt that they were something he had access to but were beyond his pay grade. The board is simple wood that’s painted. White pieces made from walrus tusk, dark pieces (red) are dyed tusks.
+The [[Party Items|chess pieces]] were created for the wealthy and remind [[Silas]] of his father’s work. Couldn’t say that he specifically created them but they are made in that tradition, recognizable as from the same people that Silas' father would be making them for. Reserved for people of high status (not us), Silas would have always felt that they were something he had access to but were beyond his pay grade. The board is simple wood that’s painted. White pieces made from walrus tusk, dark pieces (red) are dyed tusks.
 
 > [!note] Image: `Board At the Hut.png`
 

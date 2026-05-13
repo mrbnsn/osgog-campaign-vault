@@ -6,6 +6,7 @@ tags:
 aliases:
   - "Riddle from the Haunted Tower"
 last_edited: 2026-05-10
+wiki_rev: "2026-05-10T18:21:35Z"
 contributors:
   - "Nblauss"
 ---

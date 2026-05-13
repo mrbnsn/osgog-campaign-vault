@@ -6,6 +6,7 @@ tags:
 aliases:
   - "Balthazar's Thoughts"
 last_edited: 2025-08-21
+wiki_rev: "2025-08-21T22:10:29Z"
 contributors:
   - "Mrbnsn"
 ---
@@ -14,7 +15,7 @@ contributors:
       1. The [[Various Writings|Poems]]
 A chronicle in metaphor of [[Osgog]]'s descent through the earth and into the realm of the dead. An unnatural crossing that resulted in "The Incident," and created a rift between worlds through which something black escaped; a rift since closed, but with a weakened seal that would break again but for the vigil of the dead who keep it, and through which still trickles the black pollutant like an inked prophecy of a deluge to come.
 
-The poetry is an attempt to convey [[Osgog]]'s thoughts and experiences, including the change he underwent. I believe his exposure to the blackness altered him fundamentally, as [[The Black Water]] does to those who touch it, and this change is revealed as his feelings move from awe, to fear, to understanding, and then to love, with him relishing this gift of "endless moonlight" in an endless night.
+The poetry is an attempt to convey Osgog's thoughts and experiences, including the change he underwent. I believe his exposure to the blackness altered him fundamentally, as [[The Black Water]] does to those who touch it, and this change is revealed as his feelings move from awe, to fear, to understanding, and then to love, with him relishing this gift of "endless moonlight" in an endless night.
 
 I believe the poet could actually be Osgog himself, though I recognize the quill we found does appear to be connected with a poet from the village.
 

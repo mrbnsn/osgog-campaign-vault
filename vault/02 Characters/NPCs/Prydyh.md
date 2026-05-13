@@ -7,6 +7,7 @@ tags:
 aliases:
   - "Prydyh"
 last_edited: 2026-05-11
+wiki_rev: "2026-05-11T17:29:39Z"
 contributors:
   - "Hoppsy"
 ---
@@ -49,6 +50,6 @@ He wrote this poem on his statue.> *Perhaps at the beginning*
 >
 > - Into the most genital of earthly places*From the "shadow man" encounter at the tower:
 
-The man tells [[Cricket]]: “I was a watcher under the towers and I left long ago but part of me was wrapped in this shadow, but the burden has been lifted.” About the Man: He sees in the space of [[Silas]]  a pale figure being buffeted and swirled around in this darkness. He doesn’t necessarily look thrilled to be where he is. The shadow is possessing him. [[Silas]], a shadow, and a man, all layered over him. Silas is on the outside, the shadow, and then the man on the inside.
+The man tells [[Cricket]]: “I was a watcher under the towers and I left long ago but part of me was wrapped in this shadow, but the burden has been lifted.” About the Man: He sees in the space of [[Silas]]  a pale figure being buffeted and swirled around in this darkness. He doesn’t necessarily look thrilled to be where he is. The shadow is possessing him. Silas, a shadow, and a man, all layered over him. Silas is on the outside, the shadow, and then the man on the inside.
 
 [[6/6/24 The One Where We Journey#:~:text=Prydyh is the name of,most genital of earthly places]]

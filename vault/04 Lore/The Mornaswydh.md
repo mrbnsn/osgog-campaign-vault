@@ -6,6 +6,7 @@ tags:
 aliases:
   - "The Mornaswydh"
 last_edited: 2026-04-30
+wiki_rev: "2026-04-30T14:32:30Z"
 contributors:
   - "Hoppsy"
 ---
@@ -41,7 +42,7 @@ As we move the two rings, it somehow has internal chimes in it, different chimes
 
 Black of the dragon's body are stone. Teeth and eye are gold. Horns bronze. Wing silver. Claws are tarnished iron.> *This is a wayfinder so it will set your direction. I suspect that if you arrange it in a certain orientation and are consistent in following it, perhaps rather it will turn the boat around the world, it will turn the world around the boat. Follow the moon.*
 >
-> - -- [[The Boatman]]*
+> - -- The Boatman*
 
    1. Uses
       1. #1: The initial attempt
@@ -89,7 +90,7 @@ Black of the dragon's body are stone. Teeth and eye are gold. Horns bronze. Wing
    - Log entry:**
 
       1. #5 Departing [[Myrthn]]'s Island - 3 Enchantresses + Centaurs Island
-   - Departing from:** Island where we came upon the bear mound, the animal singers and [[Myrthn]] the ultra-druid
+   - Departing from:** Island where we came upon the bear mound, the animal singers and Myrthn the ultra-druid
 
    - Device alignment:** **Green lobe**, **purple gem**, dragon head
 

@@ -7,6 +7,7 @@ tags:
 aliases:
   - "9/4/23 “The One Where There Weren’t Enough of Us to Make a Decision…”"
 last_edited: 2023-12-29
+wiki_rev: "2023-12-29T12:11:00Z"
 contributors:
   - "SilasWoodhenge18"
 ---
@@ -23,6 +24,6 @@ Group ponderings….
 
 C and [[Silas]] chess again. C stomps him (19 - 5). Board forthcoming.
 
-[[Storr]] asks [[Cricket]] as a [[Monsoth]] native, if he understands the story depicted in the blanket. He doesn’t recognize the story, but sees it as a story about people discovering fire by meeting a fire god. B is reminded of another story:
+Storr asks [[Cricket]] as a [[Monsoth]] native, if he understands the story depicted in the blanket. He doesn’t recognize the story, but sees it as a story about people discovering fire by meeting a fire god. B is reminded of another story:
 
       - How Old Brother Found Fire***

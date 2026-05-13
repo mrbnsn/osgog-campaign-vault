@@ -7,24 +7,25 @@ tags:
 aliases:
   - "5/3/26 The One Where We Meet the Gardners"
 last_edited: 2026-05-11
+wiki_rev: "2026-05-11T15:14:20Z"
 contributors:
   - "Hoppsy"
 ---
 
 Thus begins the council of [[Jacca]].  
 
-[[Jacca]] asks if we align with "[[Bryok]]'s declaration" that he made in this city.  We say that we do, in our various ways.  He accepts our request to lodge with him for a while.
+Jacca asks if we align with "[[Bryok]]'s declaration" that he made in this city.  We say that we do, in our various ways.  He accepts our request to lodge with him for a while.
 
 We go into the woods, that seem bigger and deeper than they should be.  We enter a cottage.  Central room, big stone fireplace, with [[Mag]] cooking over the fire.  "Bear" of a man, not like [[Silas]], bringing in fire Coed, pronounced "coitus, without the us".   Bunks in the back.  We got a space.  Not big, like AMC huts.
 
 We long rest.  Meet Afon, ropey arms, sinewy.  Tends gardens.  Deilin, young woman helping out.  Apprentice.
 
-[[Jacca]], Coid, Afon, Deilin and [[Mag]], are the 5.
+Jacca, Coid, Afon, Deilin and Mag, are the 5.
 
 During the rest, we each ask a question of the gardners.
 
    1. [[Storr]] has some questions for Mag
-[[Storr]].  What happened after we left - what happened to his body, etc?
+Storr.  What happened after we left - what happened to his body, etc?
 
 Mag:	His mother came to claim him. 
 
@@ -36,7 +37,7 @@ Storr:   "she came for his body" physically?  Or?  She's a legend, a deity.
 
 Mag:    Yes, she came and took his body.  Royalty, not deity.
 
-S: 	We've heard of [[Bremphyr]] and Karenja, as gods.
+S: 	We've heard of Bremphyr and Karenja, as gods.
 
 Mag:    Just people, but royal.
 
@@ -60,14 +61,14 @@ Mag:	it felt appropriate to mark where he'd been with a tree.
 
 Storr: 	Why [[Derwen Trees]]?
 
-Mag: 	They tend the [[Derwen Trees]] to honor [[Mother Night]].
+Mag: 	They tend the Derwen trees to honor [[Mother Night]].
 
    1. Balthezar also has questions for Mag
 Balz:  More about the [[Derwen]].  Are they connected to THE tree?  Do you know what I'm talking about?
 
-Mag:  It's my belief that the [[Derwen Trees|Derwen]], or a forest of one, is beautiful, provides shelter, etc.  Mother of the forest.  When you've seen something like that ….THE Tree is the derwen tree.  Seeing them from sapling to hollowed out shelter is something .  A perfect symbol for one who gives and takes.
+Mag:  It's my belief that the Derwen, or a forest of one, is beautiful, provides shelter, etc.  Mother of the forest.  When you've seen something like that ….THE Tree is the derwen tree.  Seeing them from sapling to hollowed out shelter is something .  A perfect symbol for one who gives and takes.
 
-B 	[[Mother Night]]. 
+B 	Mother night. 
 
 Mag: 	Yes.
 
@@ -101,7 +102,7 @@ Mag	Could claim a crown.  
 
 B	Crown here?
 
-Mag	Karenja took the crown when she took [[Bryok]].  It was here in the temple when he passed.  He carried it with him in the city.
+Mag	Karenja took the crown when she took Bryok.  It was here in the temple when he passed.  He carried it with him in the city.
 
 B	Jewels?
 

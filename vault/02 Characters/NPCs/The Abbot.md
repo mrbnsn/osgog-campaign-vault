@@ -7,6 +7,7 @@ tags:
 aliases:
   - "The Abbot"
 last_edited: 2026-05-11
+wiki_rev: "2026-05-11T15:03:59Z"
 contributors:
   - "Hoppsy"
 ---
@@ -15,7 +16,7 @@ contributors:
 
 Son of [[Bremphyr]] and [[Kerenja|Karenja]]. Was "next in line for the throne", but made his choice at [[Trenewydh]].
 
-Chose to drink from a horn nestled in a [[Derwen Trees|Derwen]], rather than place the crown
+Chose to drink from a horn nestled in a Derwen, rather than place the crown
 
 Head of [[Tawesek]].
 

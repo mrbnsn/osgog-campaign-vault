@@ -7,6 +7,7 @@ tags:
 aliases:
   - "The Stone Giant (Battle)"
 last_edited: 2024-01-04
+wiki_rev: "2024-01-04T03:22:53Z"
 contributors:
   - "SilasWoodhenge18"
 ---

@@ -7,6 +7,7 @@ tags:
 aliases:
   - "5/2/24 The One Where Storr Reads Us A Bedtime Story And We Fight People Bear Striking Resemblances To Ourselves"
 last_edited: 2024-05-03
+wiki_rev: "2024-05-03T13:05:30Z"
 contributors:
   - "SilasWoodhenge18"
 ---
@@ -30,9 +31,9 @@ We also fought a tree, but that might not be directly related.
 
 [[The Abbot]] died in that scenario with our encounter with the Red blade.
 
-Are the sounds the statue’s reactions to what we say? There was a cacophony when [[Krambler]] hit one. The sounds though are on the wind and we can’t really interpret them.
+Are the sounds the statue’s reactions to what we say? There was a cacophony when Krambler hit one. The sounds though are on the wind and we can’t really interpret them.
 
-[[Storr]] thinks the wind is pretty.
+Storr thinks the wind is pretty.
 
 [[Silas]] and B hear some of the tones there’s a level of 5 voices weaving together on the wind. The wind is coming from the north-north-west. Some other voices are in it that sound deeper, fully tones. The 5 though seem like a more concerted effort. 
 
@@ -48,7 +49,7 @@ She makes a noise that is uninterpretable.
 
 Storr recalls the basin with the writing. There was a hand that reached out for Krambler’s hammer. Is the western statue that wanted the hammer the same as the hand coming from the basin?
 
-[[Silas]] asks [[Seren]] if we can find these prisoners. She says others have done so to their disadvantage.
+Silas asks [[Seren]] if we can find these prisoners. She says others have done so to their disadvantage.
 
 Where are your two other colleagues? We’re not sure.
 
@@ -56,7 +57,7 @@ Are they missing? All children leave their parents.
 
 Where does the path lead? The path leads to [[Nyth]].
 
-“[[Nyth]] is the world about you.”
+“Nyth is the world about you.”
 
 Is tehre anyone else we should take to?
 

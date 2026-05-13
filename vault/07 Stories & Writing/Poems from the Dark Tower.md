@@ -6,6 +6,7 @@ tags:
 aliases:
   - "Poems from the Dark Tower"
 last_edited: 2026-05-10
+wiki_rev: "2026-05-10T16:37:24Z"
 contributors:
   - "Nblauss"
 ---

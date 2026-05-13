@@ -7,6 +7,7 @@ tags:
 aliases:
   - "7/6/23 Working Title: “The One Where Ryan Does A One Man Show of Grizzly Man”"
 last_edited: 2023-12-29
+wiki_rev: "2023-12-29T12:01:37Z"
 contributors:
   - "SilasWoodhenge18"
 ---
@@ -27,4 +28,4 @@ We fight bears: large. 5 feet high at the shoulder. Not the typical bears we’v
 
 We fight and win. [[Silas]] in conversation with the bear cub figured out that the bear goes by Arthen.
 
-[[Storr]] skinned the female bear (not well) and is carrying the pelt in her pack.
+Storr skinned the female bear (not well) and is carrying the pelt in her pack.

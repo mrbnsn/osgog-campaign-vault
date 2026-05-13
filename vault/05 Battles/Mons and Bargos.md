@@ -7,17 +7,18 @@ tags:
 aliases:
   - "Mons and Bargos"
 last_edited: 2024-06-21
+wiki_rev: "2024-06-21T14:55:13Z"
 contributors:
   - "Hoppsy"
 ---
 
 They say that long ago when [[Mons]] was young, he ruled over a small valley amidst tall mountains.  He and his people farmed the land as he had been taught by his mother and father watching the seasons change under the wheeling stars.  They had learned well, but they also did many things that others did not: they harnessed the power of the river to turn great stone wheels to grind their wheat, and cut channels in the ground so that the river would flow through their fields.  Although other peoples maintained that the traditional way was better, because of these things they lived in plenty.  
 
-But one year, [[Mons]] looked to them, and said: *We are wise in the ways of growing and ordering things, and so we have no need of storing seed corn against catastrophe.  Let us plant it all, and have the greatest harvest that’s ever been raised, and show all the people of the world that it is we who best understood the teachings of my parents, and it is we who shall conquer the world.* And so they planted all their seeds, and started them early so that the harvest would be great.
+But one year, Mons looked to them, and said: *We are wise in the ways of growing and ordering things, and so we have no need of storing seed corn against catastrophe.  Let us plant it all, and have the greatest harvest that’s ever been raised, and show all the people of the world that it is we who best understood the teachings of my parents, and it is we who shall conquer the world.* And so they planted all their seeds, and started them early so that the harvest would be great.
 
 And the seedlings emerged in good time, and began to unfurl their delicate leaves, but just as the seedlings of their crop emerged from the womb of the earth, a great and bitter wind flowed down from the dark mountains to the north, and all the new made leaves froze.  The people of the village walked out of their humble mud huts, and looked in despair at the fields with their dusting of snow, for as the Sun rose over the hills, the light warmed the plants and the ice in their veins melted, and they fell to the ground.
 
-And the people of the valley looked at their shining chieftain, and said “Lord [[Mons]], what shall we do?  We have done as you bade, and planted early and all of our seeds are now wasted, and we will surely starve.”
+And the people of the valley looked at their shining chieftain, and said “Lord Mons, what shall we do?  We have done as you bade, and planted early and all of our seeds are now wasted, and we will surely starve.”
 
 And Mons looked at them, and said “We will find a way, but in the meantime I will go into the mountains and find the demon that brought this fell wind, and we will live in confidence that this will never happen again.”
 
