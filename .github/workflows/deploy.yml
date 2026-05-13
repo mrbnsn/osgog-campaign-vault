@@ -21,9 +21,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Copy vault to Quartz content
-        run: rm -rf $GITHUB_WORKSPACE/quartz/content && cp -r $GITHUB_WORKSPACE/vault $GITHUB_WORKSPACE/quartz/content
-
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
@@ -37,13 +34,11 @@ jobs:
       - name: Build Quartz
         run: |
           sed -i 's|baseUrl: "mrbnsn.github.io"|baseUrl: "mrbnsn.github.io/osgog-campaign-vault"|' quartz/quartz.config.ts
-          cd quartz && npx quartz build
+          cd quartz && npx quartz build --directory $GITHUB_WORKSPACE/vault
 
       - name: Debug build output
         run: |
-          echo "=== content root (all) ===" && ls $GITHUB_WORKSPACE/quartz/content
-          echo "=== index.md present? ===" && ls $GITHUB_WORKSPACE/quartz/content/index.md 2>&1
-          echo "=== HTML files in public ===" && find $GITHUB_WORKSPACE/quartz/public -name "*.html" | head -20
+          echo "=== HTML files in public ===" && find $GITHUB_WORKSPACE/quartz/public -name "*.html" | wc -l
           echo "=== public root ===" && ls $GITHUB_WORKSPACE/quartz/public
           echo "=== baseUrl ===" && grep baseUrl $GITHUB_WORKSPACE/quartz/quartz.config.ts
 
