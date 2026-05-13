@@ -464,6 +464,15 @@ def parse_and_convert():
         filename = safe_filename(title)
         out_path = VAULT_ROOT / subfolder / filename
 
+        # Skip if the file already exists and the wiki revision date hasn't changed.
+        # This preserves autolinks added by autolink.py on previous syncs.
+        if out_path.exists():
+            existing = out_path.read_text(encoding="utf-8", errors="replace")
+            m = re.search(r"^last_edited:\s*(\S+)", existing[:600], re.MULTILINE)
+            if m and m.group(1) == date_str:
+                title_to_path[title] = str(out_path.relative_to(VAULT_ROOT))
+                continue
+
         out_path.write_text(content, encoding="utf-8")
         title_to_path[title] = str(out_path.relative_to(VAULT_ROOT))
         pages_written += 1
