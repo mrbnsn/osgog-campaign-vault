@@ -17,7 +17,7 @@ import sys
 import yaml
 from pathlib import Path
 
-VAULT   = Path("d:/osgog/The Black Lake of Osgog")
+VAULT   = Path(__file__).resolve().parent / "vault"
 DRY_RUN = "--dry-run" in sys.argv
 
 # ── Which folders contain notes that are valid LINK TARGETS ─────────────────
@@ -231,27 +231,29 @@ def process_note(md: Path,
 
 # ── Main ─────────────────────────────────────────────────────────────────────
 
-def main() -> None:
+def main(dry_run: bool = DRY_RUN) -> int:
+    """Run autolinker. Returns total links added (or that would be added)."""
     print("Building entity map...")
     entity_list = build_entity_map()
     print(f"  {len(entity_list)} names/aliases to match\n")
 
-    if DRY_RUN:
+    if dry_run:
         print("=== DRY RUN — no files will be written ===")
 
     total_links = 0
     files_changed = 0
 
     for md in sorted(VAULT.rglob("*.md")):
-        n = process_note(md, entity_list, DRY_RUN)
+        n = process_note(md, entity_list, dry_run)
         if n > 0:
             total_links += n
             files_changed += 1
-            if not DRY_RUN:
+            if not dry_run:
                 print(f"  +{n:4d}  {md.relative_to(VAULT)}")
 
-    verb = "Would add" if DRY_RUN else "Added"
+    verb = "Would add" if dry_run else "Added"
     print(f"\n{verb} {total_links} links across {files_changed} files.")
+    return total_links
 
 
 if __name__ == "__main__":

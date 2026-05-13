@@ -40,7 +40,7 @@ from pathlib import Path
 
 # Accept an optional positional path argument; default to the vault.
 _args     = [a for a in sys.argv[1:] if not a.startswith("--")]
-VAULT     = Path(_args[0]) if _args else Path("d:/osgog/The Black Lake of Osgog")
+VAULT     = Path(_args[0]) if _args else Path(__file__).resolve().parent / "vault"
 DRY_RUN   = "--dry-run"   in sys.argv
 NO_BACKUP = "--no-backup" in sys.argv
 

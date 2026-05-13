@@ -12,8 +12,9 @@ from pathlib import Path
 from datetime import datetime
 
 # ─── Paths ────────────────────────────────────────────────────────────────────
-XML_FILE   = Path("d:/osgog/black-lake-osgog-wiki-dump.xml")
-VAULT_ROOT = Path("d:/osgog/vault")
+_REPO_ROOT = Path(__file__).resolve().parent
+XML_FILE   = _REPO_ROOT / "black-lake-osgog-wiki-dump.xml"
+VAULT_ROOT = _REPO_ROOT / "vault"
 
 # ─── Folder structure ─────────────────────────────────────────────────────────
 FOLDERS = [

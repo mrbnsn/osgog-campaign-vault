@@ -42,37 +42,31 @@ osgog/
 ## Weekly sync workflow
 
 The wiki at http://osgog.mrobinson.us is the source of truth for campaign
-content. Roughly once a week, export a full dump, convert it, run cleanup,
-and push to deploy. The full export is idempotent — running it every time is
-cleaner than trying to track individual changed pages.
+content. Roughly once a week, run the sync script and push to deploy.
 
-### Step 1 — Export all pages from MediaWiki
-
-1. Go to http://osgog.mrobinson.us/index.php/Special:AllPages
-2. This lists every page on the wiki. Select all the page titles and copy them
-   to your clipboard.
-3. Go to http://osgog.mrobinson.us/index.php/Special:Export
-4. Paste the page titles into the large text box (one title per line)
-5. Check **"Include only the current revision"** (uncheck "Include templates")
-6. Click **Export** — your browser downloads an XML file
-7. Save it as `black-lake-osgog-wiki-dump.xml` in the root of this repo,
-   overwriting the existing file
-
-### Step 2 — Convert to Obsidian Markdown
-
-From the repo root:
+### Step 1 — Run the sync script
 
 ```powershell
-python convert_wiki.py
+python sync.py
 ```
 
-This parses the XML dump and writes/overwrites `.md` files into `vault/`.
-Pages are automatically sorted into the correct subfolder (sessions,
-characters, locations, etc.) based on their title and wiki categories.
+This does everything in one shot:
+1. Fetches all page titles from the MediaWiki API
+2. Downloads a full XML export via Special:Export
+3. Converts XML → Obsidian Markdown
+4. Fixes YAML frontmatter quoting issues
+5. Auto-links entity mentions in note bodies
+6. Reports any unresolved wikilinks to review
 
-### Step 3 — Check what changed
+If you already have a fresh XML dump and want to skip the download:
 
-Before running cleanup, see which files git considers modified:
+```powershell
+python sync.py --no-fetch
+```
+
+### Step 2 — Review changes and ghost nodes
+
+Check what changed:
 
 ```powershell
 git diff --name-only
@@ -81,31 +75,11 @@ git status --short
 
 New files appear as `?? vault/...`, modified files as `M vault/...`.
 
-### Step 4 — Run cleanup scripts
+If `sync.py` reported any unresolved wikilinks, fix them in Obsidian
+before committing (create the missing note, or add the right alias to
+an existing one), then re-run `python find_ghost_nodes.py` to confirm.
 
-Run these from the repo root in order:
-
-```powershell
-# Fix YAML frontmatter (escaped quotes, encoding issues)
-python fix_frontmatter.py
-
-# Auto-link entity mentions — always dry-run first to review changes
-python autolink.py --dry-run
-python autolink.py
-
-# Check for unresolved wikilinks
-python find_ghost_nodes.py
-```
-
-If `find_ghost_nodes.py` reports broken links, resolve them manually in
-Obsidian (create the missing note, or add the right alias to an existing one).
-
-> `fix_frontmatter.py` and `autolink.py` are safe to re-run on the full
-> vault — they only change files that actually need it. Both create `.bak`
-> backups by default; delete those once things look good, or pass
-> `--no-backup` to skip them.
-
-### Step 5 — Preview locally
+### Step 3 — Preview locally
 
 ```powershell
 cd quartz
@@ -114,7 +88,7 @@ npx quartz build --serve
 
 Open http://localhost:8080/ and spot-check the changed pages.
 
-### Step 6 — Commit and push
+### Step 4 — Commit and push
 
 ```powershell
 git add vault/
