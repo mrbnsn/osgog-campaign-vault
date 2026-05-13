@@ -3,9 +3,6 @@ title: "Osgog"
 type: location
 tags:
   - "location"
-  - "osgog-dragon"
-  - "black-water"
-  - "cradle"
 aliases:
   - "Osgog"
 last_edited: 2026-05-10

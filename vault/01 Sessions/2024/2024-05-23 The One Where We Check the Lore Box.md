@@ -44,7 +44,7 @@ Br: Ever heard of Abbot [[The Abbot|Bryok]]?
 
 Who?
 
-Storr: Ever heard of the foundling?
+[[Storr]]: Ever heard of the foundling?
 
 The foundling?? Well, lots in stories, but if you talk about THE foundling, there;s one that came from royal lineage that left to go set a watch. This young prince walks off and then comes back and declare something, I don’t know. 
 
@@ -52,11 +52,11 @@ Bal: What was he watching?
 
 It was about the time. He was going to come back when the time was right. A motif that shows up i stories, the young child that sees something, walks off into the wilderness.
 
-Bal relates that [[The Abbot]] has been referred to us as the foundling, and the abbot returned to this illusionary city and walked into a fountain and died. Celebrated as the return of the foundling. This was him returning from his watch.
+Bal relates that [[The Abbot]] has been referred to us as the foundling, and [[The Abbot]] returned to this illusionary city and walked into a fountain and died. Celebrated as the return of the foundling. This was him returning from his watch.
 
-Bardh recognized versions of all the stories except [[Foamflower]].
+[[Bardh]] recognized versions of all the stories except [[Foamflower]].
 
-Bardh reads Foamflower.
+[[Bardh]] reads [[Foamflower]].
 
 Bardh: This is storytelling. You seem to be taking it as verifiable truth. Motif of a seer. There are people out there that can see more than others. It seems magicalk to some, but it’s just perception.
 
@@ -76,17 +76,17 @@ This is a bronze? sword named Gale.
 
 One of his sisters was a sailor, and he forged a sword out of a storm
 
-Gale is a creation of Mons’ child, Bremphyr.
+Gale is a creation of Mons’ child, [[Bremphyr]].
 
-Br wonders if Mabnoss and Mons are not on the same page and how this sword feels.
+Br wonders if Mabnoss and [[Mons]] are not on the same page and how this sword feels.
 
 We do a series of rolls, and burn the rest of our fellowship points.
 
-Gale does connect to Br, and you’re questioning in terms of your lady and Mons, you recognize you feel that the maker of this blade had two parents, and that ultimately the choice was to harness or to direct the nature of the metal in the blade without controlling it.
+Gale does connect to Br, and you’re questioning in terms of your lady and [[Mons]], you recognize you feel that the maker of this blade had two parents, and that ultimately the choice was to harness or to direct the nature of the metal in the blade without controlling it.
 
 He went with his mother, not his father. We don’t know who Mons’ wife was.
 
-Br wanted to know if this creation from Mons son is a comfort or an abomination. It was created by Bremphyr. Mons wants to control, the other way is allowing nature to flourish.
+Br wanted to know if this creation from Mons son is a comfort or an abomination. It was created by [[Bremphyr]]. Mons wants to control, the other way is allowing nature to flourish.
 
 Br has a flash, an revelation: Mother and daughter, one and the same. Maybe one of Mobnoss’s daughters, 
 
@@ -94,4 +94,4 @@ Bremphyr is Mabnoss’ son. This sword was forged by my lady’s son, adn feels 
 
 Is Mons another name from Mogg?
 
-Mabnoss is Bremphyr/[[Weyland]]'s mother.  Mons is Bremphyr's father.  [[Mabmnoss]] is [[Mog]]'s wife.  Mog + Mabmnoss = Mons + M
+Mabnoss is Bremphyr/[[Weyland]]'s mother.  Mons is Bremphyr's father.  [[Mabmnoss]] is [[Mog]]'s wife.  [[Mog]] + [[Mabmnoss]] = Mons + M

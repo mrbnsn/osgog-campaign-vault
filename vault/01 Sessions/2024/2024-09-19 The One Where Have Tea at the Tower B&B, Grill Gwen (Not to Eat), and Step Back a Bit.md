@@ -74,17 +74,17 @@ S: What’s your relationship?
 
 G: I’m the housekeeper. I take care of things, he researches. I try to give the girls a good upbringing.
 
-Silas: Are the girls happy here?
+[[Silas]]: Are the girls happy here?
 
 G: I think so. I try to get them to be.
 
-Storr: Before you were housekeeper, what did you do?
+[[Storr]]: Before you were housekeeper, what did you do?
 
 G: I can’t remember that far back
 
 S: Have you traveled beyond this place?
 
-GL: What do you mean? I’ve traveled out into Nyth, made it out to the cave that once.
+GL: What do you mean? I’ve traveled out into [[Nyth]], made it out to the cave that once.
 
 S: No further than the cave?
 
@@ -140,7 +140,7 @@ B: Hey K, did you ruin anything? Did you get us kicked out? (savage)
 
 (A correction: Ser is taken with our spyglass, but he has been trying to form lenses himself, just not as successful as the spyglass that we have. It’s not like he’s never tried to play with magnification before. The quartzite crew was mining the stones for Ser.)
 
-Storr: When the girls were babies, did they all look that way from the beginning?
+[[Storr]]: When the girls were babies, did they all look that way from the beginning?
 
 G: Children’s hair color changes over time. It’s not like they were identical, they were very young and Churchillian.  
 
@@ -150,7 +150,7 @@ We discuss what our next moves are. We’ve found this “girl.”
 
 - Dm suggests we take stock and think who was involved, who sent us to the kid, we need to find out something about the kid, what do we have (we have some objects) This might be a good reset point so we can figure out what questions to ask. Fellowship phase would be appropriate, piecing together what we’ve seen. What is the quest we’re on?*
 
-One more question: Silas: Did the woman by the river have any insight into the girls?
+One more question: [[Silas]]: Did the woman by the river have any insight into the girls?
 
 G: Sometimes babies appear. Kids wash up on a river bank. I told her about it. Ang nodded and was thoughtful.
 
@@ -177,10 +177,10 @@ Guiding questions from our DM: We have some good world building hypotheses, but 
 
 - Hopps thought: Seems to be a supernatural being
 - [[Kelynnen]] nuggets: B asked her about [[Osgog]]. Her response: he's a mystery but he took after his mother (a compliment, O’s mother is [[Doldhelan]], whom K is aligned with)
-- Is [[The Abbot|Bryok]] a sibling of Osgog? (never answered) Hopps thought: he is.
+- Is [[The Abbot|Bryok]] a sibling of [[Osgog]]? (never answered) Hopps thought: he is.
 - She called him “shining prince”, a translation of his name. Why? Because he was inline to the throne, but he had made another choice.
-- Hopps thought: Bryok could have been [[The God King]] after [[Mons]]
-- What is Bryok’s intention with us as a party then? ***- How do his actions affect your answer to these last three questions? NB***
+- Hopps thought: [[Bryok]] could have been [[The God King]] after [[Mons]]
+- What is [[Bryok]]’s intention with us as a party then? ***- How do his actions affect your answer to these last three questions? NB***
 
       1. People/ideas we've encountered
 Big mysteries that seem very related but have no real information about:
@@ -190,15 +190,15 @@ Big mysteries that seem very related but have no real information about:
 
 Does Bryok not want there to be a god king?
 
-Does the [[Sun King]] want to be the god king?   ***- These last two seem like big questions.  NB***
+Does the [[Sun King]] want to be [[The God King]]?   ***- These last two seem like big questions.  NB***
 
 These are opposing motivations. Have we seen anything related to those motivations?
 
 [[The Black Water|The black water]]:
 
-- The [[The Black Lake of Osgog|lake]] is the source of the black water
+- The [[The Black Lake of Osgog|lake]] is the source of [[The Black Water]]
 - There may be spring beneath the lake
-- We’ve heard both of these narratives around the black water: 
+- We’ve heard both of these narratives around [[The Black Water]]: 
 
 1. the black water represents an ancient evil
 1. it’s trapping something down
@@ -214,9 +214,9 @@ Choice and the dead
 - Dm not sure what else we’ve heard about the dead
 - [[Branwen#A_Vision_From_the_Raven_Queen|Branwen’s “A Vision From the Raven Queen”]] - ***I did a really good job with this. NB***
 
-The DM defends Mons:
+The DM defends [[Mons]]:
 
-- I’ve been microaggressing against mons
+- I’ve been microaggressing against [[Mons]]
 - Lots of people don’t hate him in and around [[Monsoth]]
 - Invented the wheel, Apollo-ish figure
 - Music, medicine
@@ -224,16 +224,16 @@ The DM defends Mons:
 [[Mali]]
 
 - She wasn't there to bring Balz back, she was looking for the black water
-- What was her intent with [[Balthazar]] then?   ***- How much do you remember about her words?  What does Balthazar remember about his relationship with her?  NB***
+- What was her intent with [[Balthazar]] then?   ***- How much do you remember about her words?  What does [[Balthazar]] remember about his relationship with her?  NB***
 
       1. Our current position and questions
 We believe we’ve been sent here by our Abbot. Who is our opposition? What role could coming to this place play?
 
-Why would the Sun King be so interested in the black water? He wants to be a god king?  ***-The fact that you've repeated this about twenty times is telling. NB***
+Why would the [[Sun King]] be so interested in the black water? He wants to be a god king?  ***-The fact that you've repeated this about twenty times is telling. NB***
 
 The lake has been described as a prison, the black water has been described as an evil leaking out of it.
 
-Is the Sun King trying to acquire black water?  ***-How much does he know?   What happened to [[Mali]] when she drank some?  There was a related comment that someone made here about Osgog. NB*** 
+Is the [[Sun King]] trying to acquire black water?  ***-How much does he know?   What happened to [[Mali]] when she drank some?  There was a related comment that someone made here about [[Osgog]]. NB*** 
 
 Horns represent ancient wisdom. SK is seeking ancient wisdom which could help him ascend. 
 
@@ -249,9 +249,9 @@ Something was released in [[Mons and the God of Death]]. (A beast) There were fo
 Is the hammer the scepter?
 
 - The stone was found on a beach
-- [[Krambler]] gave the rock to the Abbot, later K found the hammer in the A’s enclave with a branch grasping the stone (there’s a drawing). ***------------->***
+- [[Krambler]] gave the rock to [[The Abbot]], later K found the hammer in the A’s enclave with a branch grasping the stone (there’s a drawing). ***------------->***
 - K keeps having dreams of roots in the earth grasping for things ***- What things? NB***
-- K had a dream in the Abbot’s cottage (“one of the great hammers”)
+- K had a dream in [[The Abbot]]’s cottage (“one of the great hammers”)
 - In Gorydth (the alpine bog) he showed the hammer to one of the stones (not the three) and the eyes blazed with desire
 - Those folk were imprisoned, and we thought maybe they wanted to get free with the hammer 
 - K’s poem: “[[Runic Messages#Krambler|what is the stone you hold]]”

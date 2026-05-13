@@ -3,7 +3,6 @@ title: "Bronze Items"
 type: item
 tags:
   - "item"
-  - "bronze"
 aliases:
   - "Bronze Items"
 last_edited: 2023-11-29

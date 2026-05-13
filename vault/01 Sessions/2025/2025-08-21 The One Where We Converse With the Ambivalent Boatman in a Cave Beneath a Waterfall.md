@@ -28,7 +28,7 @@ Bran: Did we do it?
 
 Only you can answer that.
 
-Storr: Where are we now?
+[[Storr]]: Where are we now?
 
 You’re in a cave behind a waterfall.
 
@@ -40,11 +40,11 @@ Does water connect the different places?
 
 Water connects many things.
 
-Storr: How long have we been gone?
+[[Storr]]: How long have we been gone?
 
 Not long as far as I’m concerned. (He’s very old, so really 🎵 time has no meaning🎵)
 
-The boatman is an older gentleman. ***<I miss the description>***
+[[The Boatman]] is an older gentleman. ***<I miss the description>***
 
 Storr asks about the four girls we found instead of just the one. Do you know who would have done this and why.
 
@@ -68,7 +68,7 @@ Storr talks of how the seasons changing in [[Nyth]]. Have you visited?
 
 Perhaps I did once. I was on a lake in which things were as you describe, but mostly I simply ferry travelers from one place to another, and dont travel much myself.
 
-Balz: This waterfall we jump from from Nyth above, fed from that same lake.
+Balz: This waterfall we jump from from [[Nyth]] above, fed from that same lake.
 
 Boatman nods. You might find that if you go outside this cave, the waterfall doesn’t fall quite as fall as you remember it, but water can have strange properties, especially when it connects one place top another. They say sap has to travel… (look this up)
 
@@ -82,7 +82,7 @@ The walls are rough, but this is a human cleared space. Not clear what the purpo
 
 I have never met her, but I have seen her footprints traveling from one place to another and wondered who was following those paths.
 
-Silas: Where were these paths?
+[[Silas]]: Where were these paths?
 
 It is somewhat hard to describe these to someone that rather like walking in the countryside and through a forest and coming across footprints of another traveler who leaves a scent behind or other evidence. If you travel enough paths, or come to enough crossroads, you come to recognize those things. 
 
@@ -92,7 +92,7 @@ There are many stories.
 
 Which one do you give credence to?
 
-The boatman talks about stories and how they influence people’s opinions and beliefs, but also how the stories influence those in the stories themselves. “And so I wonder whatever is beneath that lake, perhaps some call it GG enough so that what it is. Others call it a nameless evil. I’m not sure the name of it affects its nature, but the way it’s spoken about does.”
+[[The Boatman]] talks about stories and how they influence people’s opinions and beliefs, but also how the stories influence those in the stories themselves. “And so I wonder whatever is beneath that lake, perhaps some call it GG enough so that what it is. Others call it a nameless evil. I’m not sure the name of it affects its nature, but the way it’s spoken about does.”
 
 We share [[Osgog]] and the dragon.
 
@@ -102,7 +102,7 @@ If there is something large and incomprehensible to people, those things maybe g
 
 Did they call it a dragon because they didn’t know what elose to call it? (Dragon is a singular noun in this world) This thing is “Dragon”
 
-Bran: Did osgog build the dagon or did it already exist?
+Bran: Did [[Osgog]] build the dagon or did it already exist?
 
 All the stories I have heard told it is always his creation. Before boatman.
 
@@ -116,7 +116,7 @@ It’s a long term lend.
 
 Balz: Did the people name the dragon after the constellation or vice versa?
 
-I’ve always understood the constellation to be an image of osgog’s creation.
+I’ve always understood the constellation to be an image of [[Osgog]]’s creation.
 
 Balz: Watcher in the tower. Was that simply a watchtower or did it serve another function?
 
@@ -140,13 +140,13 @@ He finds the sentinels fascinating and while it see, perhaps that its news to hi
 
 Bran: In your travels, have you heard of that rift cause by [[Mons]] by some or Osgog by others? Who are the culprits?
 
-I have heard that both Mons and Osgog were responsible for that rift, that in each case someone was looking for an ancient power and that power proved too string. But whether it was either one, I’ve also heard that it was neither that were in the tower that did the digging. 
+I have heard that both [[Mons]] and Osgog were responsible for that rift, that in each case someone was looking for an ancient power and that power proved too string. But whether it was either one, I’ve also heard that it was neither that were in the tower that did the digging. 
 
 Balz: You had mentioned that Osgog had looked took closely at the darkness at the creature beneath the lake and it changed him? Did this occur at the lake or at the tower?
 
 It would be at that tower.
 
-Silas: You’ve told us the bear is one of the twins. I’ve come to understand that I am entwined with the great bear in more ways than i understand. If there was some particular action for me to take to awaken this bear, what might that be in your estimation?
+[[Silas]]: You’ve told us the bear is one of the twins. I’ve come to understand that I am entwined with the great bear in more ways than i understand. If there was some particular action for me to take to awaken this bear, what might that be in your estimation?
 
 - I think you would have to find him, first. 
 
@@ -155,7 +155,7 @@ Silas: Am I the Great Bear?
 - Well, at any rate… not yet. Lol
 - The Great Bear is always spoken about as a powerful being who in ancient times was subdued by the forces of mankind and who many say he will never arise to his full strength again because his time has passed. But his memory lingers on (CRANBERRIES) and there are those who still believe in him, so perhaps he still has some power.
 
-Silas: Seren said the bear will never awaken. Agree?
+Silas: [[Seren]] said the bear will never awaken. Agree?
 
 - That’s above my pay grade, I’m just a boatman.
 - If you travel and listen and remember what you hear, you gain certain insights. But I’m a listener and a gatherer of moss, not so much a doer and a shaker.

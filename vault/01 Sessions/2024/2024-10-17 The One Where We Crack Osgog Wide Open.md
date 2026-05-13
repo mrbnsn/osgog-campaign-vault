@@ -22,13 +22,13 @@ S would say they were all sent to watch for darkness. Long ago that was part of 
 
 Gwen would say in the time that she’s gotten to know us, especially [[Branwen]], she has not been entirely forthcoming when we first met. She didn’t just answer an ad in the paper. She understood that there was this tower and that S was up here looking for the stars acting as a watcher. She has sisters and they’ve heard the story and know the dangers associated with being these watchers. 
 
-There is a group of women who are…she is of the people of [[Doldhelan]] and [[Ceridwen]] and they are also watching albeit in a somewhat different way. She would say this to Branwen without S around. They are keeping their eyes on things as well because its gone poorly before. Her understanding was that long ago Osgog who has disappeared has sort of called for people to watch and be thoughtful of what was going on with this [[Moon King]].
+There is a group of women who are…she is of the people of [[Doldhelan]] and [[Ceridwen]] and they are also watching albeit in a somewhat different way. She would say this to [[Branwen]] without S around. They are keeping their eyes on things as well because its gone poorly before. Her understanding was that long ago [[Osgog]] who has disappeared has sort of called for people to watch and be thoughtful of what was going on with this [[Moon King]].
 
 Was the call to watch after the [[God of Death]] was slain?
 
 Gwen would say she wasn’t there for that, it happened a long time agp and can’t really remember what the order of things were. She’s heard many conflicting versions of this over teh years. 
 
-Osgog was a leader of the watchers?
+[[Osgog]] was a leader of the watchers?
 
 He more than others would have listened to his mother who would have been a chieftainess for Gwen.
 
@@ -70,23 +70,23 @@ He and [[Mother Night]] were king and queen together.
 
 Any info on Gorgomogg and [[Mabmnoss|Morianoth]]?
 
-Sometimes those are the names given to the Moon King and Mother Night and she’s not sure how?
+Sometimes those are the names given to the [[Moon King]] and [[Mother Night]] and she’s not sure how?
 
-We tell her about the god king story.
+We tell her about [[The God King]] story.
 
 G: They’re different traditions and may have came down differently. She’s not aware of transitions between the two. 
 
 (Ryan steps away)
 
-Branwen successfully, after help from Balz, heals a shadow point of [[Storr]]'s. 
+[[Branwen]] successfully, after help from Balz, heals a shadow point of [[Storr]]'s. 
 
 Balz recalls what happened during his vision at the island:
 > You stand by the stone that you are to “play” and you do so, feeling your hand move against the rough surface of the standing stone, feeling it vibrate below your palm, when suddenly you are alone on a hilltop lit only by the lit of a waning crescent moon, and the fickle stars.  You look on the ground, and see a dark shape on the ground.  You reach out to pick it up with the other hand still resting on the standing stone, and find a crude doll, made of strange black cloth, that moves with an unseen wind, or the flowing of slow cool water.  You recognize it from somewhere, but you’re not able to place it.  You think you hear a voice or perhaps the wind whisper *mollothek*… and turn to see if someone behind you spoke, but as you turn, your right hand leaves the stone, and you find yourself back on the island.
 [[Balthazar]] asks Gwen if "*mollothek*" means anything to her.  She says it means someone who is cursed.
 
-Storr asks Gwen if she knows about the tree/spring at the farm.  [[Beryan]] thinks she may be the girl and would make that sacrifice.  Gwen says: "That doesn't surprise her.  [[Henavek (man) & Beryan (woman)|Beryan]] has seen much of the cosmos in her travels. B is not one of the sisters.
+[[Storr]] asks Gwen if she knows about the tree/spring at the farm.  [[Beryan]] thinks she may be the girl and would make that sacrifice.  Gwen says: "That doesn't surprise her.  [[Henavek (man) & Beryan (woman)|Beryan]] has seen much of the cosmos in her travels. B is not one of the sisters.
 
-Storr’s exchange with Beryan:
+[[Storr]]’s exchange with Beryan:
 > 1.  After her dream she would have stealthily walked around the farm to see if she could actually find the tree and the spring.
 >
 > Yes, it's really there.
@@ -156,7 +156,7 @@ Gwen does not.
 
 Our world contains the black lake.
 
-She’s heard of the black lake as something that was used maybe to trap this Moon King ([[Gorgomog]]).
+She’s heard of the black lake as something that was used maybe to trap this [[Moon King]] ([[Gorgomog]]).
 
 She would not have heard of [[The Boatman]], she's heard of the black lake. Ok, you’ve got to come from somewhere. 
 
@@ -184,7 +184,7 @@ I think so, a long time ago.
 
 I think so, a long time.
 
-She has an image in her mind of Kevnis. A beautiful weaver. 
+She has an image in her mind of [[Kevnis]]. A beautiful weaver. 
 
 What kind of things were weaving?
 
@@ -196,9 +196,9 @@ A young boy named [[The Abbot|Bryok]].
 
 When the world was split apart, she doesn’t know where he ended up. He was the beloved child of [[Bremphyr]] and his wife.
 
-Do you want Mons or the God of Death to return?
+Do you want [[Mons]] or the [[God of Death]] to return?
 
-She has doubts as to the accuracy of that story. In terms of the return of Mons, (aside form the idea of a high king), the SK sure seems to be … nothing I’ve seen would tell me he’s Mons but he’s certainly trying to give that air. Ons was referenced as a King. I just hope SK stays away from us to do our own things. As far as Mons, I have strongly mixed feelings. As far as God of Death, we’re trying to prevent that catastrophe from happening again, cause that was a mess. 
+She has doubts as to the accuracy of that story. In terms of the return of [[Mons]], (aside form the idea of a high king), the SK sure seems to be … nothing I’ve seen would tell me he’s Mons but he’s certainly trying to give that air. Ons was referenced as a King. I just hope SK stays away from us to do our own things. As far as Mons, I have strongly mixed feelings. As far as [[God of Death]], we’re trying to prevent that catastrophe from happening again, cause that was a mess. 
 
 What is her true version of [[Mons and the God of Death]]?
 
@@ -206,13 +206,13 @@ It was sound like mons and his followers to take credit for something like that.
 
 Mons’ siblings, [[Ceridwen]] and [[Torval]], we don’t hear about them much. Would they have helped him defaeating this God of Death? Where are they now?
 
-She would say that they were string er than Mons for sure. And as such they never felt it was particular important to gather followers, etc. Who knows where they are? She hears of Ceridwen or another sister that isn’t identified that’s going around singing to things and giving names to things.
+She would say that they were string er than Mons for sure. And as such they never felt it was particular important to gather followers, etc. Who knows where they are? She hears of [[Ceridwen]] or another sister that isn’t identified that’s going around singing to things and giving names to things.
 
-Ceridwen, [[Doldhelan]], Morianoth, it’s all the same.
+[[Ceridwen]], [[Doldhelan]], [[Morianoth]], it’s all the same.
 
 Maybe.
 
-Torval we’ve heard nothing. He brought us fire! Do you know more than that?
+[[Torval]] we’ve heard nothing. He brought us fire! Do you know more than that?
 
 No.
 
@@ -220,7 +220,7 @@ Are these people still walking around? It sounds like they were around in your l
 
 Osgog vanished. Ceridwen, people may "see" her in a grove in the city by the lake. It’s been so long that I may not recognize her anymore.
 
-[[Kerenja]] is the name of Bremphyr’s wife. Gale was given to [[Mannix]] by [[Kerenja]].
+[[Kerenja]] is the name of [[Bremphyr]]’s wife. Gale was given to [[Mannix]] by [[Kerenja]].
 
 Are the towers also serving as seals against the darkness?
 
@@ -244,7 +244,7 @@ The tree on the island (do you know it?)
 
 She's heard of it.
 
-That symbol has been placed in a reverential way. We are starting to believe that the tree is part of a larger tree is the cradle and that those three lobes refer to the bear, the girl and the dragon? Does that make sense to you?
+That symbol has been placed in a reverential way. We are starting to believe that the tree is part of a larger tree is [[The Cradle]] and that those three lobes refer to the bear, the girl and the dragon? Does that make sense to you?
 
 It’s possible, she has seen that symbol without knowing what its meaning was. That could be it, seems possible, I don’t know. 
 
@@ -252,9 +252,9 @@ Have you seen the girls play this game?
 
 I don’t remember them seeing it, but I remember seeing them frolic. 
 
-We were told of Bryok being a foundling, but it seems he has parents? Bremphy and Kerenja?
+We were told of [[Bryok]] being a foundling, but it seems he has parents? Bremphy and [[Kerenja]]?
 
-In the breakup of everything, he was cast adrift without his parents, There was an understanding that he would return, and that she heard that he had. Osgog brought back the poem, but there was always an understanding that Bryok would return as well.
+In the breakup of everything, he was cast adrift without his parents, There was an understanding that he would return, and that she heard that he had. Osgog brought back the poem, but there was always an understanding that [[Bryok]] would return as well.
 
 We saw Bryok jump off a fountain and died.
 
@@ -284,7 +284,7 @@ Did Bryok hav any siblings?
 
 Not that she’s aware of
 
-Did Kevnis have any children
+Did [[Kevnis]] have any children
 
 Probably. There were guilds of weavers.
 
@@ -294,7 +294,7 @@ She doesn’t know.
 
 But Bryok doesn’t like him. 
 
-Silas posits taking all the girls with them. "Let's go girls!"
+[[Silas]] posits taking all the girls with them. "Let's go girls!"
 
 (There’s a whole thing that happens with Shania Twain.)
 
@@ -312,7 +312,7 @@ You would have to ask the girls. She has never pushed it. In some ways, it hasn�
 
 Who would try to obfuscate Bryok’s offspring? Who would plant three extra children in your home?
 
-It’s not the she hasn’t wondered. It’s not clear to her that regardless, she was going to the same things for them anyway. To her, she knows this prophecy that Osgog brought back to the oracle. We’re all awaiting the coming of this foundling. It has crossed her mind that any one of these children could be that foundling, but she was sort of waiting to see if there was any further sign as to who it could be. She also doesn’t know enough about what the kid is supposed to do or why they’re significant to know who might want to obfuscate that.
+It’s not the she hasn’t wondered. It’s not clear to her that regardless, she was going to the same things for them anyway. To her, she knows this prophecy that Osgog brought back to [[The Oracle]]. We’re all awaiting the coming of this foundling. It has crossed her mind that any one of these children could be that foundling, but she was sort of waiting to see if there was any further sign as to who it could be. She also doesn’t know enough about what the kid is supposed to do or why they’re significant to know who might want to obfuscate that.
 
 If you have a name of a thing you have power over it. If you don’t have a name, nothing can have that power over you (like Bryok’s “daughter”)
 
@@ -329,7 +329,7 @@ What are we doing next?
 - Talk to Beryan about inter cosmic travel.
 - Choose a girl, and:
    - Stay in [[Nyth]]
-   - Go back to the oracle
+   - Go back to the [[The Oracle|oracle]]
    - Travel through a well
    - Go back to the caves
    - Go to the city

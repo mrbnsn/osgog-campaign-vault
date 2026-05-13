@@ -10,4 +10,4 @@ contributors:
   - "SilasWoodhenge18"
 ---
 
-[[For May 30th session Bardh and the Fellowship Phase undertakings]]
+[[For May 30th session: Bardh and the Fellowship Phase undertakings]]

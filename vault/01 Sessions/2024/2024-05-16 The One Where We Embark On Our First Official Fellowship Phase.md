@@ -38,7 +38,7 @@ I don’t think anyone would come here. We only have [[Bardh]]? out there as som
 
 She asks where we come from? Is the red headed one okay? Honey, how are you feeling? I know we’re at high altitude here..
 
-Storr: It’s been a long journey. We lost a friend recently. Hard to answer. I don’t know if everything is alright. It’s been a long time since I have felt I have been in a safe place. Is this place as good as you think it is, if you’re willing to allow us to stay and rest?
+[[Storr]]: It’s been a long journey. We lost a friend recently. Hard to answer. I don’t know if everything is alright. It’s been a long time since I have felt I have been in a safe place. Is this place as good as you think it is, if you’re willing to allow us to stay and rest?
 
 We have an inn. Not my call really, but it seems like you’re asking for more than I as a local villager could offer.
 
@@ -54,7 +54,7 @@ Bal: the shops: what do they offer?
 
 What are you looking for?
 
-Storr: Is there a blacksmith or a weaponsmith we can visit to repair our weapons?
+[[Storr]]: Is there a blacksmith or a weaponsmith we can visit to repair our weapons?
 
 Absolutely
 
@@ -66,13 +66,13 @@ Bal: Anyone very learned? Intelligence? Barth is the wisest in town, his son is 
 
 Any inventors in town? Someone that’s interested in …. What is essentially science, the things that Bal has been studying, his findings?
 
-Bardh would hold some interest
+[[Bardh]] would hold some interest
 
-Silas: Anyone in tune with history? 
+[[Silas]]: Anyone in tune with history? 
 
-Bardh has written most of the history. 
+[[Bardh]] has written most of the history. 
 
-Silas: Lore? 
+[[Silas]]: Lore? 
 
 Gwagh knows the most about the forest. We keep her at arms length.
 
@@ -188,5 +188,5 @@ Bal: So appreciated.
 Does he know anyone else in town we should speak with? Any other points of interest?
 
 <<Missed this answer>>
-| We can take a long rest. We’ll talk more this week about what people’s goals are and making this fellowship phase happen between now and next week. What we all want to do under Bardh’s auspices. We could also continue talking to him, before or after having completed our undertakings. |  | In a fellowship phase, you refill points up to the number of people in the fellowship., and can potentially get more based on the patron. The abbot gave us a bonus. Other patrons may have other point bonuses. |
+| We can take a long rest. We’ll talk more this week about what people’s goals are and making this fellowship phase happen between now and next week. What we all want to do under Bardh’s auspices. We could also continue talking to him, before or after having completed our undertakings. |  | In a fellowship phase, you refill points up to the number of people in the fellowship., and can potentially get more based on the patron. [[The Abbot]] gave us a bonus. Other patrons may have other point bonuses. |
 |---|---|---|

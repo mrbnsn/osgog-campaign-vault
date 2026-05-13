@@ -3,22 +3,17 @@ title: "The Mornaswydh"
 type: lore
 tags:
   - "lore"
-  - "mornaswydh"
-  - "boatman"
 aliases:
   - "The Mornaswydh"
-  - "the Mornaswydh"
 last_edited: 2026-04-30
 contributors:
   - "Hoppsy"
 ---
 
-- /Mor-nas-noizth/*
-> ![[The purple elements aligned.png]]
+- /Mor-nas-noizth/*> > [!note] Image: `The purple elements aligned.png`
 > - This is a wayfinder of sorts. Perhaps you can use this to guide yourselves across the waters in the boat to find what you're looking for.*
 >
-> - -- [[The Boatman]]*
-The device is either an [alethiometer](https://hisdarkmaterials.fandom.com/wiki/Alethiometer), or an anti-kythera mechanism.
+> - -- [[The Boatman]]*The device is either an [alethiometer](https://hisdarkmaterials.fandom.com/wiki/Alethiometer), or an anti-kythera mechanism.
 
 A spreadsheet tracking our settings:
 
@@ -36,7 +31,7 @@ https://docs.google.com/spreadsheets/d/1VsowGpz8LbJVUlZ6f4rQ29vtvpXWsLvFzmeZ7AMl
 https://editor.p5js.org/mhopps/full/QmE9APJFb
 
 A/S, Z/X turn the dials
-![[Marzipan.jpg]]
+> [!note] Image: `Marzipan.jpg`
 
    1. Video describing how it works
 https://drive.google.com/file/d/1Am8lRXtZMG4eYlL282j8SxTH9tlAOd95/view?usp=drive_link
@@ -44,8 +39,7 @@ https://drive.google.com/file/d/1Am8lRXtZMG4eYlL282j8SxTH9tlAOd95/view?usp=drive
    1. Initial in game experience description
 As we move the two rings, it somehow has internal chimes in it, different chimes sound like the tonguedrum at different times as you turn the wheels.There are gemlike nodes around the inner circle:, orange gem has an asterisk pattern, blue has one line, purple has no lines. The middle piece is a sandollar but some sort of enamel has been added. Three circular pieces move interchangeable. You can hear internal chimes as you move it.
 
-Black of the dragon's body are stone. Teeth and eye are gold. Horns bronze. Wing silver. Claws are tarnished iron.
-> *This is a wayfinder so it will set your direction. I suspect that if you arrange it in a certain orientation and are consistent in following it, perhaps rather it will turn the boat around the world, it will turn the world around the boat. Follow the moon.*
+Black of the dragon's body are stone. Teeth and eye are gold. Horns bronze. Wing silver. Claws are tarnished iron.> *This is a wayfinder so it will set your direction. I suspect that if you arrange it in a certain orientation and are consistent in following it, perhaps rather it will turn the boat around the world, it will turn the world around the boat. Follow the moon.*
 >
 > - -- [[The Boatman]]*
 
@@ -59,7 +53,7 @@ Black of the dragon's body are stone. Teeth and eye are gold. Horns bronze. Wing
 
    - Other things to note:** We'll be journeying while using this
 
-   - Log entry:** [[2025-08-21 The One Where We Converse With the Ambivalent Boatman in a Cave Beneath a Waterfall#If We Didn't Already Know We Were Back in Osgog, We Do Now, Because We JOURNEY]]
+   - Log entry:** [[8/21/25 The One Where We Converse With the Ambivalent Boatman in a Cave Beneath a Waterfall#If We Didn't Already Know We Were Back in Osgog, We Do Now, Because We JOURNEY]]
 
       1. #2: Departing the rose stone island
    - Departing from:** Rose stone island
@@ -103,7 +97,7 @@ Black of the dragon's body are stone. Teeth and eye are gold. Horns bronze. Wing
 
    - Other things to note:** Ask about what we can tell about the season.   
 
-   - Log entry:** [[2025-12-18 The One Where We Part Ways with Myrthn and Nearly Lose Our Minds at Sea]]
+   - Log entry:** [[12/18/25 The One Where We Part Ways with Myrthn and Nearly Lose Our Minds at Sea]]
 
       1. #6 Stonehenge Island
    - Departing from:** Enchantresses + Centaurs.
@@ -115,7 +109,7 @@ Black of the dragon's body are stone. Teeth and eye are gold. Horns bronze. Wing
 We played Silas' Song, with poor rolls, and nothing happened. We suspect that we don't have enough information to interact with these successfully.  We should come back here.  
 
 We peace out.
-![[Image.png]]
+> [!note] Image: `Image.png`
 
       1. Storm Giant + Jessie Buckley
 #7 Blue Gem, Purple Lobe, Dragon Head - Storm Giant and Jessie B ===

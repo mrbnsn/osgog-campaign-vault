@@ -12,14 +12,14 @@ contributors:
 
 The [[Party Items|chess pieces]] were created for the wealthy and remind [[Silas]] of his father’s work. Couldn’t say that he specifically created them but they are made in that tradition, recognizable as from the same people that Silas' father would be making them for. Reserved for people of high status (not us), [[Silas]] would have always felt that they were something he had access to but were beyond his pay grade. The board is simple wood that’s painted. White pieces made from walrus tusk, dark pieces (red) are dyed tusks.
 
-![[Board At the Hut.png]]
+> [!note] Image: `Board At the Hut.png`
 
-![[ChessBoard Post Wind Monster Fight.png]]
+> [!note] Image: `ChessBoard Post Wind Monster Fight.png`
 
    1. Abbot's Hut
    1. After Wind Monster Fight
    1. On the shore of the Black Lake
-![[Game by the Black Lake.jpg]]
+> [!note] Image: `Game by the Black Lake.jpg`
 
       1. Description from the DM
 Bottom left: a charcoal black king surrounded by crimson pawns, with a ... is it white (?) king.  Is it charcoal?  Is it bleached tusk?

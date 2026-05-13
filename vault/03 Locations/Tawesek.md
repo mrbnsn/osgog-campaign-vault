@@ -3,9 +3,6 @@ title: "Tawesek"
 type: location
 tags:
   - "location"
-  - "well"
-  - "derwen"
-  - "bear-born"
 aliases:
   - "Tawesek"
 last_edited: 2024-01-05
@@ -15,9 +12,9 @@ contributors:
 
 A Monastery on a mountain four days march from [[Monsoth]]. It is composed of several buildings built on a high meadow.  There are gardens and terraces both natural and manmade. Above the monastery, the tree line ends abruptly into a clearing. The temple itself has a huge stone floor and wooden posts with exquisite detail. The room has an open view to the east, out of which one can see the ocean with something below the horizon. The mountain’s name is [[Men Myghtern]].
 
-The town of [[Kel]] is located in the valley.  It is a village that grew up in response to travel to the monastery and supplies food, etc.. to Tawesek.
+The town of [[Kel]] is located in the valley.  It is a village that grew up in response to travel to the monastery and supplies food, etc.. to Tawesek.
 
-The party arrives to find [[The Abbot|the Abbott]] [[The Abbot|Bryok]] in charge. After the [[The Abbott|Abbott]]’s death [[Tewlder]] is in charge.
+The party arrives to find [[The Abbott]] [[Bryok]] in charge. After the [[The Abbott|Abbott]]’s death [[Tewlder]] is in charge.
 
 Below the mountain there is a cave system.
 

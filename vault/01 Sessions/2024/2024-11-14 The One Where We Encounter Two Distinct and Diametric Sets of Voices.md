@@ -19,7 +19,7 @@ contributors:
 
 We approach and see if the last guy is still alive. [[Branwen]] stabalizes him for 1HP.
 
-Branwen says, “Fuck you for killing Koweth, but he’ll be back. You’re actions mean nothing.”
+[[Branwen]] says, “Fuck you for killing Koweth, but he’ll be back. You’re actions mean nothing.”
 
 He rolls, coming in and out of consciousness and says “I know a spy when I see one.”
 
@@ -38,11 +38,11 @@ He holds up his hand and there’s a ring on it. “I work for myself, and use w
    1. The First Set of [Spooky] Voices
 We loot them bodies. Strange armor is strange armor. No weapons. Armor is made from what seems like iron. Wizard has a bronze dagger, a ring with the same three twisted metals, no, instead on the staff he has a twisted braid of the metals on it, and 50 gold pieces. Carved wooden flute that looks a bit like the one that [[Mannix]] had. 
 
-K takes the wizard’s flute. Br joins in with her [[Bone Flute]] and Silas joins with his pan flute, playing the low melodies. As we do this we hear voices on the wind coming out of the forest. The mood changes from somber to dangerous, we feel as though we’re about to die.
+K takes the wizard’s flute. Br joins in with her [[Bone Flute]] and [[Silas]] joins with his pan flute, playing the low melodies. As we do this we hear voices on the wind coming out of the forest. The mood changes from somber to dangerous, we feel as though we’re about to die.
 
-We put our instruments away. The voices continue around us. It is noon currently. Branwen closes her eyes and opens her ears to listen to their voices (percep 18+0) These voices are strange to her, she does not feel a kinship with them. They seem menacing, she gets the sense that we have their attention. 
+We put our instruments away. The voices continue around us. It is noon currently. [[Branwen]] closes her eyes and opens her ears to listen to their voices (percep 18+0) These voices are strange to her, she does not feel a kinship with them. They seem menacing, she gets the sense that we have their attention. 
 
-Silas communes with nature. He feels the forest around him to be porous like a cheese grater, like swiss cheese, there are strange holes like things can travel from one place to another, not sure where the voices are coming from, but they seem to be filtering in from somewhere else like an overlap in the world. It’s freaky. The other places are dark to him. We don’t see any physical darkness, any more than would be in a dense forest under a canopy. 
+[[Silas]] communes with nature. He feels the forest around him to be porous like a cheese grater, like swiss cheese, there are strange holes like things can travel from one place to another, not sure where the voices are coming from, but they seem to be filtering in from somewhere else like an overlap in the world. It’s freaky. The other places are dark to him. We don’t see any physical darkness, any more than would be in a dense forest under a canopy. 
 
 We decide to leave the voices as they are in our current state.
 
@@ -55,7 +55,7 @@ Balz’s travel roll 14. We go up into a high mountain pass. It’s cold, and we
 4th event (screenshot): Scout (15+6) As we go up through the mountains, we see a rock outcrop that we think might afford a view and a better pathway forward. Silas climbs up but as he does, one of the stones rolls over and pins his leg, and so he’s stuck there for a while. The party finds him after a while, he;s bruised but okay. Fatigue saving throw increases by 1.
 ![[Screenshot 2024-11-14 at 9.53.29 PM.png]]
 
-Branwen heals Arthyden and Krambler a little bit. From the outcropping vantage point, we see more of the valley (screenshot) We spy an interesting structure on a distant hill top We move to go south of the 
+Branwen heals Arthyden and [[Krambler]] a little bit. From the outcropping vantage point, we see more of the valley (screenshot) We spy an interesting structure on a distant hill top We move to go south of the 
 ![[Screenshot 2024-11-14 at 9.56.13 PM.png]]
 
 ![[Screenshot 2024-11-14 at 9.58.17 PM.png]]
@@ -69,7 +69,7 @@ Branwen casts Comprehend Languages (21, WIS) She is immediately overwhelmed with
 
 Silas casts CWN. He becomes immediately aware of the stones. Picture this based on our player knowledge: these stones would be almost fungel, the mycelium down into the ground and spreading in these connected pathways, infiltrating the ground and the sky and going to paces unknown. Int he tangle, Silas would also struggle to comprehend it. He would get lost in the tangle and not necessarily be able to navigate it and be able to see it. 
 
-Krambler draws flutes (and notes) K rolls percep (27) He notices the same symbol in the symbols, [[The Cradle]]. We rehash the connections we had made with the symbol. Silas reminds of the symbol being a part of his past.
+[[Krambler]] draws flutes (and notes) K rolls percep (27) He notices the same symbol in the symbols, [[The Cradle]]. We rehash the connections we had made with the symbol. Silas reminds of the symbol being a part of his past.
 
 We rehash how music and song and tones have played into our [[Nyth]] experiences, specifically how the Lake of Voices stones worked and how we played songs there that had varying effects.
 

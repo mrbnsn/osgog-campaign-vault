@@ -47,7 +47,7 @@ B: We’re strangers. What are these troubled times? How does your presence male
 
 L: I’ve seen combat, I’ve seen the treachery of humans and tehre’s much turmoil in these lands, we know the world is changing at an ever increasing rate. You’ll find out more when you get to the city. Just here to make sure your stay on the boat is comfortable and enjoyable and that you arrive at your destination.
 
-B: When we spoke earlier, it seemsed you were especially curious about my horns. They were given to me by the sun king. What do you think about that?
+B: When we spoke earlier, it seemsed you were especially curious about my horns. They were given to me by the [[Sun King]]. What do you think about that?
 
 K is shocked as he hadn’t seen them yet. L looks at him and stammers and doesn’t know what to say.
 
@@ -59,7 +59,7 @@ L gets really uncomfortable and nervous. Stammering, “I’ve heard stories of 
 
 K looks really nervous and awkward.
 
-[[Storr]] puts it back in her bag. She talks about Mali and how she’s not with us anymore.
+[[Storr]] puts it back in her bag. She talks about [[Mali]] and how she’s not with us anymore.
 
 L steps back “You know, I mean no harm. I do’t appreciate this kind of behavior. Here we belief in justice and order and threats are no way to run a kingdom.
 
@@ -101,7 +101,7 @@ L: No its such a small place, no one’s ever heard it. It’s unlikely you’ve
 
 Kitto takes a big breath and looks over at us and goes back to steering.
 
-B and Storr and [[Silas]] head to the fore deck to chat. We decide to send K and Bran back to K to chat, since K was a sea-faring fellow and Bran is charismatic as fuck.
+B and [[Storr]] and [[Silas]] head to the fore deck to chat. We decide to send K and Bran back to K to chat, since K was a sea-faring fellow and Bran is charismatic as fuck.
 
 They go back to teh aft deck. K talks up the angle of being a seaman. Kr sees there are visible tattoos: one forearm has an anchor, and one with a mermaid in a heart that says MOM across it. Kr uses that as an in to talk about his tattoos. So he removes his shirt to show him his. As he does this, Kitto looks and sees them and his eyes get a little bit wide, the sea roughens a little, there are chimes on the wind, a mist comes up off of the water. Kitto is like, “What is that tattooed across your rippling pectorals?? You’re drawing the voices towards us, or perhaps the voices are written on you?”
 
@@ -117,13 +117,13 @@ We discuss our next approach with Kitto.
 
 Weshare our true suspicions. We can help him. We don’t trust L. No one here seems to. 
 
-He looks at us and says, “L is not alone. There is another on board below decks right now, and they’ve been sent by the sun king who is besieging the city as we speak. I don’t know what their plan for you is, but that’s where you’re being taken.”
+He looks at us and says, “L is not alone. There is another on board below decks right now, and they’ve been sent by the [[Sun King]] who is besieging the city as we speak. I don’t know what their plan for you is, but that’s where you’re being taken.”
 
 B: What can you tell us about this other passenger
 
 K: I don’t know, he stayed down below in my quarters the whole time. I really just saw him get on boar. He’s an older gentlemen with a beard and a pipe. I didn’t hear him speak.
 
-Storr wants to sneak down to the ship’s waurters. She remembers that ship’s quarters are pretty tight, K are down the same steps that L went down. Certainly possible to sneak down there, but you would have to be very stealthy in a boat like this. We put a pin in that plan.
+[[Storr]] wants to sneak down to the ship’s waurters. She remembers that ship’s quarters are pretty tight, K are down the same steps that L went down. Certainly possible to sneak down there, but you would have to be very stealthy in a boat like this. We put a pin in that plan.
 
 B: Kitto, I think that we should travel to teh center of the lake. Doesn’t have to be right now. Leave that to you. We understand you’re fearful, you’ve had your set oath. But as you can see, we carry the voices with us. We can’t guarantee safety, but we think you’ll come out better on the other side. We want to find a path to confront the sun king.
 
@@ -135,7 +135,7 @@ He shows some willingness to try going to the middle of the lake to cause some c
 
 L’s friend isn’t necessarily a secret, but they just received these two travelers. L is the spokesperson, they all know about the other fellow. We could mention this to L without issue. 
 
-We take the afternoon and speak to the crew. Silas and Arthen put on a bear show and do some tricks that Arthen knows to ingraciate them to the crew. We’re invited to a meal with Laden down below decks.
+We take the afternoon and speak to the crew. [[Silas]] and Arthen put on a bear show and do some tricks that Arthen knows to ingraciate them to the crew. We’re invited to a meal with Laden down below decks.
 
 [[Krambler]] can’t really smithy much on the boat.
 
@@ -149,7 +149,7 @@ B: what do you think about the rumours about the lake? Strange stuff happens. Wh
 
 C: The lake is certainly strange, and there are some strange powers and old ancient things, not sure how they all interact. But sure that getting to the bottom of it would be fascinating, valuable, enriching. 
 
-Silas: Have you thought about travelling to the center?
+[[Silas]]: Have you thought about travelling to the center?
 
 C: Fascinated at the prospect, but wary too. There are times that people can meddle with things beyond them and face dire consequences. I’ve seen some of the results of that.
 

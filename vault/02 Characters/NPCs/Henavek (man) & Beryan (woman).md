@@ -6,8 +6,6 @@ tags:
   - "npc"
 aliases:
   - "Henavek (man) & Beryan (woman)"
-  - "Beryan"
-  - "Henavek"
 last_edited: 2023-12-29
 contributors:
   - "SilasWoodhenge18"

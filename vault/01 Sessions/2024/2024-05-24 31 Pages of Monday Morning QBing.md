@@ -125,7 +125,7 @@ Mike Robinson:
 
 Nathaniel Blauss:
 
-    	You remember that there were certainly stories of the five children of [[Mons]], and that they were Osgog (healer), Bremphyr (smith), [[Rhiannon]] (horsewoman/sailor), [[Kevnis]] (weaver), and [[Crochenwen|Priweythva]] (potter).
+    	You remember that there were certainly stories of the five children of [[Mons]], and that they were [[Osgog]] (healer), [[Bremphyr]] (smith), [[Rhiannon]] (horsewoman/sailor), [[Kevnis]] (weaver), and [[Crochenwen|Priweythva]] (potter).
 
 Mike Robinson:
 
@@ -137,25 +137,25 @@ Michael Hopps:
 
 Nathaniel Blauss:
 
-    	Kerenja?
+    	[[Kerenja]]?
 
 Mike Robinson:
 
-    	And Rhiannon was a name inscribed on a sword or something?
+    	And [[Rhiannon]] was a name inscribed on a sword or something?
 
-    	Yeah Kerenja, sorry
+    	Yeah [[Kerenja]], sorry
 
 Michael Hopps:
 
-    	The sword is "Rhiannon's Gale" I think
+    	The sword is "[[Rhiannon]]'s Gale" I think
 
 Mike Robinson:
 
-    	Ah okay, so Rhiannon and Bremphyr must be tight
+    	Ah okay, so Rhiannon and [[Bremphyr]] must be tight
 
     	And [[Storr]] would probably like her
 
-    	Interesting that Osgog is a healer, and is associated with the black lake
+    	Interesting that [[Osgog]] is a healer, and is associated with the black lake
 
 Ryan Petti:
 
@@ -167,7 +167,7 @@ Mike Robinson:
 
 Ryan Petti:
 
-    	It's one of the four gifts mons children gave him
+    	It's one of the four gifts [[Mons]] children gave him
 
 Mike Robinson:
 
@@ -195,7 +195,7 @@ Ryan Petti:
 
 Mike Robinson:
 
-    	Sword of Darkness Edged in Light sounds like it came from Osgog: a healer associated with darkness, darkness contained by light?
+    	[[Sword of Darkness Edged in Light]] sounds like it came from Osgog: a healer associated with darkness, darkness contained by light?
 
     	Did Osgog create the prison?
 
@@ -203,7 +203,7 @@ Mike Robinson:
 
 Ryan Petti:
 
-    	Osgog didn't give Mons a gift though, he was missing.
+    	Osgog didn't give [[Mons]] a gift though, he was missing.
 
 Mike Robinson:
 
@@ -215,13 +215,13 @@ Michael Hopps:
 
     	Osgog (healer): a monster
 
-Bremphyr (smith):, Sword of Darkness Edged in Light
+Bremphyr (smith):, [[Sword of Darkness Edged in Light]]
 
-Rhiannon (horsewoman/sailor): Crown of Water
+Rhiannon (horsewoman/sailor): [[Crown of Water]]
 
-Kevnis (weaver): Cloak of Wind
+[[Kevnis]] (weaver): [[Cloak of Wind]]
 
-Priweythva (potter): Scepter of Stone
+[[Priweythva]] (potter): [[Scepter of Stone]]
 
     	How do you feel about this mapping?
 
@@ -249,13 +249,13 @@ Mike Robinson:
 
 Ryan Petti:
 
-    	Also, going back to the cultural interpretation bit, if Mons and the God of Death is man's telling of that story, to whom does The God King belong?
+    	Also, going back to the cultural interpretation bit, if [[Mons and the God of Death]] is man's telling of that story, to whom does [[The God King]] belong?
 
     	The GK does glorify the natural power of the wife quite a bit.
 
 Mike Robinson:
 
-    	The God King is a retelling from a different perspective?
+    	[[The God King]] is a retelling from a different perspective?
 
 Ryan Petti:
 
@@ -297,7 +297,7 @@ Mike Robinson:
 
 Ryan Petti:
 
-    	I resent the naming of Monsoth's Grove
+    	I resent the naming of [[Monsoth]]'s Grove
 
 Mike Robinson:
 
@@ -309,7 +309,7 @@ Ryan Petti:
 
     	I don't know, just not that
 
-    	Silas is like on whatever side the turtle and the sleeping bear are on
+    	[[Silas]] is like on whatever side the turtle and the sleeping bear are on
 
 Mike Robinson:
 
@@ -413,13 +413,13 @@ Nathaniel Blauss:
 
 Mike Robinson:
 
-    	One other thing to note which muddies the waters (heh) a bit with the Sun King: I'm not certain this is the case, but the torture and magic used on Balz seems to have resulted in his being possessed of "stone bones" like the Ancient Turtle
+    	One other thing to note which muddies the waters (heh) a bit with the [[Sun King]]: I'm not certain this is the case, but the torture and magic used on Balz seems to have resulted in his being possessed of "stone bones" like the Ancient Turtle
 
     	It could be that Balz already had those as part of him, though
 
 Michael Hopps:
 
-    	The monster Osgog created had horns.  The sun king experiments and makes humans with horns.  [[The Black Lake of Osgog]]...sun king interested in source of black stream...
+    	The monster Osgog created had horns.  The [[Sun King]] experiments and makes humans with horns.  [[The Black Lake of Osgog]]...sun king interested in source of black stream...
 
 Ryan Petti:
 
@@ -429,7 +429,7 @@ Mike Robinson:
 
     	Oh and those ancient bone stones are also connected to Dragons, as is Balz (motif of him being a dragon)
 
-    	Actually, Nate, can you answer that or no? Are Balthazar's ancient bones a result of the torture, or had he already had them?
+    	Actually, Nate, can you answer that or no? Are [[Balthazar]]'s ancient bones a result of the torture, or had he already had them?
 
 Ryan Petti:
 
@@ -439,7 +439,7 @@ Ryan Petti:
 
 Nathaniel Blauss:
 
-    	Balthazar would assume that he started as a "normal" human, and that anything different from that is a result of the "torture".
+    	[[Balthazar]] would assume that he started as a "normal" human, and that anything different from that is a result of the "torture".
 
 Mike Robinson:
 
@@ -457,7 +457,7 @@ Ryan Petti:
 
     	Re: our path forward, Silas' first two dreams may be of interest:
 
-    	http://osgog.mrobinson.us/index.php/Silas#Dreams
+    	http://osgog.mrobinson.us/index.php/[[Silas]]#Dreams
 
     	"The [[Elder Lands]]"
 
@@ -541,15 +541,15 @@ Michael Hopps:
 
     	Old brother found fire, gifted from a raven related entity.
 
-    	Weyland’s mother Morgan had a way with flames, and so their fire never went out.  She said she had fire in her heart, and all believed her.
+    	[[Weyland]]’s mother Morgan had a way with flames, and so their fire never went out.  She said she had fire in her heart, and all believed her.
 
 Mike Robinson:
 
-    	re: hourglass, I think I remember Mannix using it at camp one night and the sand flowed strangely
+    	re: hourglass, I think I remember [[Mannix]] using it at camp one night and the sand flowed strangely
 
 Michael Hopps:
 
-    	Weyland dreamed that he too had fire in his heart, and that he could create a fire that would not go out even greater than his mother’s, and that using it, the villagers would not need to defend themselves with sticks and stones anymore.  He dreamed that he could capture fire, and turn it into stone - hard and constant - and with that frozen fire, he could help his family and friends protect themselves. 
+    	[[Weyland]] dreamed that he too had fire in his heart, and that he could create a fire that would not go out even greater than his mother’s, and that using it, the villagers would not need to defend themselves with sticks and stones anymore.  He dreamed that he could capture fire, and turn it into stone - hard and constant - and with that frozen fire, he could help his family and friends protect themselves. 
 
 Mike Robinson:
 
@@ -575,7 +575,7 @@ Mike Robinson:
 
 Ryan Petti:
 
-    	Who probably live in a cabin on a lake in the elder lands
+    	Who probably live in a cabin on a lake in the [[Elder Lands]]
 
 Michael Hopps:
 
@@ -665,7 +665,7 @@ Ryan Petti:
 
 Nathaniel Blauss:
 
-    	Bardh would remind you that the motivation of characters in stories sometimes has more to do with the teller, rather than with whom the story is about.
+    	[[Bardh]] would remind you that the motivation of characters in stories sometimes has more to do with the teller, rather than with whom the story is about.
 
 Mike Robinson:
 
@@ -693,7 +693,7 @@ Ryan Petti:
 
 Michael Hopps:
 
-    	Bardh didn't know [[Foamflower]].  Just saying.  That's interesting and bugging me.
+    	[[Bardh]] didn't know [[Foamflower]].  Just saying.  That's interesting and bugging me.
 
     	And I'm still unclear on "Mother and Daughter, one and the same." When I rolled that 20 on Gale.
 
@@ -769,7 +769,7 @@ Ryan Petti:
 
     	From last night:
 
-Storr: Ever heard of the foundling?
+[[Storr]]: Ever heard of the foundling?
 
 The foundling?? Well, lots in stories, but if you talk about THE foundling, there;s one that came from royal lineage that left to go set a watch. This young prince walks off and then comes back and declare something, I don’t know.
 
@@ -813,11 +813,11 @@ Mike Robinson:
 
 Nathaniel Blauss:
 
-    	Branwen wouldn't know how to answer that.
+    	[[Branwen]] wouldn't know how to answer that.
 
 Mike Robinson:
 
-    	What color are Branwen's eyes? Purple, right?
+    	What color are [[Branwen]]'s eyes? Purple, right?
 
     	Obviously a very close connection with the eyes and the ravens
 
@@ -849,7 +849,7 @@ Mike Robinson:
 
     	Okay, hear me out
 
-    	The grove at Monsoth
+    	The grove at [[Monsoth]]
 
 Ryan Petti:
 
@@ -887,7 +887,7 @@ Mike Robinson:
 
     	Yes I believe you are right
 
-    	Mannix's girlfriend?
+    	[[Mannix]]'s girlfriend?
 
 Michael Hopps:
 
@@ -947,7 +947,7 @@ Mike Robinson:
 
 Michael Hopps:
 
-    	Ok, now regarding [[The Abbot]].  He was a prince across the sea, we think.  We think that Osgog is over there, ruling the roost.  Is the Abbot is one of Mons' children?
+    	Ok, now regarding [[The Abbot]].  He was a prince across the sea, we think.  We think that Osgog is over there, ruling the roost.  Is [[The Abbot]] is one of Mons' children?
 
 Mike Robinson:
 
@@ -955,7 +955,7 @@ Mike Robinson:
 
     	Brother to the sun king?
 
-    	Which element would the Abbott be, the
+    	Which element would [[The Abbott]] be, the
 
 Michael Hopps:
 
@@ -967,7 +967,7 @@ Mike Robinson:
 
 Michael Hopps:
 
-    	Kevnis, the weaver.
+    	[[Kevnis]], the weaver.
 
 Mike Robinson:
 
@@ -975,11 +975,11 @@ Mike Robinson:
 
 Bremphyr (smith):, Sword of Darkness Edged in Light
 
-Rhiannon (horsewoman/sailor): Crown of Water
+Rhiannon (horsewoman/sailor): [[Crown of Water]]
 
-Kevnis (weaver): Cloak of Wind
+Kevnis (weaver): [[Cloak of Wind]]
 
-Priweythva (potter): Scepter of Stone
+[[Priweythva]] (potter): [[Scepter of Stone]]
 
     	Priweythva is the other daughter?
 
@@ -1009,11 +1009,11 @@ Michael Hopps:
 
 Mike Robinson:
 
-    	I wonder if all of Mons' children are invested in this mystery of the black water
+    	I wonder if all of Mons' children are invested in this mystery of [[The Black Water]]
 
     	Wait, isn't Mons trapped under the black lake?
 
-    	Maybe Osgog believes the black water is a sign of the prison weakening, and is crossing the sea to try to reseal it?
+    	Maybe Osgog believes [[The Black Water]] is a sign of the prison weakening, and is crossing the sea to try to reseal it?
 
     	The black stream, that is; not the water itself
 
@@ -1039,13 +1039,13 @@ Ryan Petti:
 
 Mike Robinson:
 
-    	It does feel like the advent of the black lake coincides with the caging of Mog's balls
+    	It does feel like the advent of the black lake coincides with the caging of [[Mog]]'s balls
 
 Ryan Petti:
 
     	Though I do like the idea of Mogg's memories and mental capacity being trapped.
 
-    	 ​😂​ to “ It does feel like the advent of the black lake coincides with the caging of Mog's balls ” 
+    	 ​😂​ to “ It does feel like the advent of the black lake coincides with the caging of [[Mog]]'s balls ” 
 
 Mike Robinson:
 
@@ -1149,7 +1149,7 @@ Ryan Petti:
 
     	Not sure, maybe
 
-    	Musk was messing with something in the caves, and rumored to have caused the qukes
+    	[[Musk]] was messing with something in the caves, and rumored to have caused the qukes
 
     	 ​😮​ to “ (like radiation...) ” 
 
@@ -1169,7 +1169,7 @@ Ryan Petti:
 
 This smacks of the ending of The God King, where they lock away the 3 enchantresses. ” 
 
-    	Musk: Musk has always been “playing with fire”, Abbot always said that Musk was in touch with greater and deeper things, and we all have to suffer the consequences.
+    	[[Musk]]: Musk has always been “playing with fire”, Abbot always said that Musk was in touch with greater and deeper things, and we all have to suffer the consequences.
 
 Mike Robinson:
 
@@ -1187,7 +1187,7 @@ Mike Robinson:
 
     	I think we've guessed 5 including the sisters? But we could be completely wrong
 
-    	Part of me feels like the faces refer to something endemic to the world we're in; a reference to something. Perhaps star signs? Silas, you know of these. How many constellations do your people observe as significant to the machinations of the universe? What are those constellations? What traits do people born under those various signs possess?
+    	Part of me feels like the faces refer to something endemic to the world we're in; a reference to something. Perhaps star signs? Silas, you know of these. How many [[Constellations]] do your people observe as significant to the machinations of the universe? What are those [[Constellations]]? What traits do people born under those various signs possess?
 
 DM could maybe chime in here re: the stars/asterisms/constellations?
 
@@ -1213,7 +1213,7 @@ Michael Hopps:
 
 Mike Robinson:
 
-    	What are the Elder Lands?
+    	What are the [[Elder Lands]]?
 
 Michael Hopps:
 
@@ -1259,7 +1259,7 @@ Nathaniel Blauss:
 
 Ryan Petti:
 
-    	Geshwa: 13
+    	[[Geshwa]]: 13
 
 Mike Robinson:
 
@@ -1277,13 +1277,13 @@ Ryan Petti:
 
 Nathaniel Blauss:
 
-    	I think Bardh might tell you that that Geshwa story is a strange one.  That it feels very old to him, and that Icebeard and Honeywoman are two characters who only ever exist on the edges of stories, and he's never been sure if their appearances are actually connected or not.
+    	I think Bardh might tell you that that [[Geshwa]] story is a strange one.  That it feels very old to him, and that Icebeard and Honeywoman are two characters who only ever exist on the edges of stories, and he's never been sure if their appearances are actually connected or not.
 
     	You'd have heard vaguely of Elder lands, sort of like a we'd think of the place where fairy tales take place.
 
 Michael Hopps:
 
-    	The last lines of the tower poem make me think the Abbot is a mons spawn. 
+    	The last lines of the tower poem make me think [[The Abbot]] is a mons spawn. 
 
     	Bottom of the branches page.
 
@@ -1321,7 +1321,7 @@ Ryan Petti:
 
 Mike Robinson:
 
-    	So Morianoth was previously a blonde, and was changed by the dark enchantresses into her current form
+    	So [[Morianoth]] was previously a blonde, and was changed by the dark enchantresses into her current form
 
 Michael Hopps:
 
@@ -1329,13 +1329,13 @@ Michael Hopps:
 
 Mike Robinson:
 
-    	Related to the separation of Mog and Mabmnoss?
+    	Related to the separation of Mog and [[Mabmnoss]]?
 
     	They haven't spoken since that happened?
 
 Michael Hopps:
 
-    	Possible.  They tried to turn Mabmnoss against him in the god king tale.
+    	Possible.  They tried to turn [[Mabmnoss]] against him in the god king tale.
 
 Mike Robinson:
 
@@ -1421,9 +1421,9 @@ Mike Robinson:
 
     	Same person as Kerenja?
 
-    	Let's not forget the wise old woman in the village near Tawesek
+    	Let's not forget the wise old woman in the village near [[Tawesek]]
 
-    	She seemed to know the Abbott well
+    	She seemed to know [[The Abbott]] well
 
 Michael Hopps:
 
@@ -1451,7 +1451,7 @@ Bremphyr = Weylund
 
 Rhiannon = Kerenja, and is one and the same as Mabmnoss
 
-Kevnis = Foundling/Bryok/Abbot
+Kevnis = Foundling/[[Bryok]]/Abbot
 
 Mike Robinson:
 

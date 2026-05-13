@@ -20,19 +20,19 @@ We recall how the carving on the edge of the bowl reminds us of the writing we�
 
 We ask Carantok about the script. We came long ago, this is an ancient relic of long ago. He doesn’t necessarily understand how it works. He knows they congregate here and they perform some sort of ritual that he’s not a part of. He’s hesitant to enter here, and because they group and [[Silas]] got the blessing, he was willing. He’s not sure if it was here before or after they came. It’s a focus of the followers of the bear. 
 
-Storr posits that perhaps we consider returning to the village and talking more to the elders about the well.
+[[Storr]] posits that perhaps we consider returning to the village and talking more to the elders about the well.
 
-Silas recalls the words of the elders, that they don’t actually know how to use it. Whatever knowledge there was around it has been lost.
+[[Silas]] recalls the words of the elders, that they don’t actually know how to use it. Whatever knowledge there was around it has been lost.
 
-[[Krambler]] puts his bronze spear in the water. The blade seems to make the water bubble and boil, but the boiling does not rise to the surface. Hammer does not have the same effect.  Gale goes in. The image around the blade is not water, but rushing wind and storm, black ragged rushes of air. Silas dips the beechstaff in, the uncharred end. The ground of the forest spreads out from the staff and goes down into the ground. Rather than being a dead piece of beechwood, it becomes a healthy young tree under the surface. The charr on the other end appears as coal popping up off the surface of it and flame seems to reignite. 
+[[Krambler]] puts his bronze spear in the water. The blade seems to make the water bubble and boil, but the boiling does not rise to the surface. Hammer does not have the same effect.  Gale goes in. The image around the blade is not water, but rushing wind and storm, black ragged rushes of air. [[Silas]] dips the beechstaff in, the uncharred end. The ground of the forest spreads out from the staff and goes down into the ground. Rather than being a dead piece of beechwood, it becomes a healthy young tree under the surface. The charr on the other end appears as coal popping up off the surface of it and flame seems to reignite. 
 
-We don’t notice the three women while we experiment with our weapons, except when Krambler reveals the hammer, the crone seems interested. 
+We don’t notice the three women while we experiment with our weapons, except when [[Krambler]] reveals the hammer, the crone seems interested. 
 
 We record the runes in B’s notebook. 
 
 Silas takes an obsidian dagger and dips it in. We see it the blade disappears and in its place we see pure black, like an emptiness, and couple points of light appear. Moving the dagger around we get the sense that we’re looking into the night sky.
 
-Krambler puts on the Helm of the Mountain Goat, and dips his head in the water. Is seems like he’s putting his head up into a small patch of land, looking up at the stars, an open clearing about 100 feet across; standing in front of you is a woman dressed in black rags, similar to the night wind pattern drifting around Gale, and K hears a voice, a female voice echoing through, with no discernable origin, “no, he has come back to me already.” K attempts to ask the voice, “who has come back?” - it doesn’t seem that K is able to speak, but he hears the voice say something along the lines of, “you are not my champion, you have chosen another…for now…”  she turns, and walks, and very quickly takes the black rags/wind and spins into a mass of ravens that fly off into the sky. 
+[[Krambler]] puts on the Helm of the Mountain Goat, and dips his head in the water. Is seems like he’s putting his head up into a small patch of land, looking up at the stars, an open clearing about 100 feet across; standing in front of you is a woman dressed in black rags, similar to the night wind pattern drifting around Gale, and K hears a voice, a female voice echoing through, with no discernable origin, “no, he has come back to me already.” K attempts to ask the voice, “who has come back?” - it doesn’t seem that K is able to speak, but he hears the voice say something along the lines of, “you are not my champion, you have chosen another…for now…”  she turns, and walks, and very quickly takes the black rags/wind and spins into a mass of ravens that fly off into the sky. 
 
 Carantok keeps his distance from our proceedings, he’s not sure we want him involved.  He’s a little in awe, and finds it marvelous and miraculous, but the things we’re saying don’t mean a lot to him. He would be anxious around the metal weapons. 
 
@@ -41,9 +41,9 @@ Silas didn’t get the sense that the elders from the village were being cagey a
 Outstanding questions:
 
 - Show the runes to the [[Logan]]
-- Ask logan about what we saw. Had other rituals revealed similar visions?
+- Ask [[Logan]] about what we saw. Had other rituals revealed similar visions?
 
-We go find Logan and sit with him in a tree swing. Storr asks what the trees tell him. He says it’s all musical and you need to be very still to hear it.  
+We go find [[Logan]] and sit with him in a tree swing. [[Storr]] asks what the trees tell him. He says it’s all musical and you need to be very still to hear it.  
 
 Logan says they’re all trying to find the bear, but none of them know how it works. He goes down and stares into the well and feels its collection to the earth. Can you feel the flow of nature and the world around us, and the way that all things come into being in their right time and place. It’s when humans get arrogant and try to say, control and dictate rather than letting the bear do his work is when things go wrong. 
 

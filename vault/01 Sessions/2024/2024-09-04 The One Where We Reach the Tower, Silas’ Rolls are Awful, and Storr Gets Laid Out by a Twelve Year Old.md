@@ -19,13 +19,13 @@ We curl up under the trees, its’ a cool night, late october in the foothills.
 
 [[Branwen]] practices her leech craft on [[Silas]].
 
-Silas practices training Arthen. He’s now well trained as a suburban border collie. 
+[[Silas]] practices training Arthen. He’s now well trained as a suburban border collie. 
 
 Overnight we hear owls and some howling, which we wish were farther away.
 
 Light rain and fog in the morning.
 
-Branwen goes to chat with the woman.
+[[Branwen]] goes to chat with the woman.
 
 She stand sat he door and says Good morning! Did you sleep well?
 
@@ -41,9 +41,9 @@ B: A woman that was wise in the world once sang this to herself as she collected
 
 Woman: She looks at B, taps her on the hand, goes out to the garden and collects some things and gives them to B. (Her healer’s kit is now charged back up to its max, 10 uses) B sees tat there’s a plant near the back that has  died back just because it’s autumn. The leaves are green and dried. Blue and purple flowers. She takes some of those petals and puts them in a special puch and gives it to B and tells her it’s called “Bredydh”  "This is a special herb that you should have with you in your kit - but you shouldn't advertise your having it to other folks."  It's known for bringing good dreams to those who need it.
 
-Storr introduces herself. [[Angarad]] is her name.
+[[Storr]] introduces herself. [[Angarad]] is her name.
 
-Storr engages in conversation with her.
+[[Storr]] engages in conversation with her.
 
 A: The mountains that you come to as you follow the river do thrust far up into the sky. Perhaps that’s what you’re looking for?
 
@@ -53,7 +53,7 @@ A: I’m aware, but not of his emissaries have come to bother a little old woman
 
 S: We hope it stays that way. We don’t mean to bring any unnecessary attention to you.
 
-Silas asks how safe she feels here.
+[[Silas]] asks how safe she feels here.
 
 The forest is my home, I feel as safe within it as one should feel anywhere. When you understand a place, there becomes less reason to fear.
 
@@ -83,7 +83,7 @@ Why do you ask?
 
 Silas explains how they were separates as children.
 
-A: Amongst the mountains, there is a place named Twr-Seren, which is the tower of the stars, which is what your sister’s name means. And perhaps, do you suppose maybe that is her tower? 
+A: Amongst the mountains, there is a place named Twr-[[Seren]], which is the tower of the stars, which is what your sister’s name means. And perhaps, do you suppose maybe that is her tower? 
 
 Have you been to this tower?
 
@@ -115,9 +115,9 @@ She nods over in Silas and Arthen’s direction. “There’s one.” And she lo
 
 The tree is a [[Derwen Trees|derwen]].
 
-Storr, Silas and Angarad have several coy exchanges over who she meant by "there's one".  She provides no clarity, and just laughs at the questions.
+Storr, Silas and [[Angarad]] have several coy exchanges over who she meant by "there's one".  She provides no clarity, and just laughs at the questions.
 
-Branwen touches the derwen, hoping to listen to it and nature, and drown out the banter of the others.  The sound of the wind and the leaves comes into sharper focus, and she feels…better.
+[[Branwen]] touches the [[Derwen Trees|derwen]], hoping to listen to it and nature, and drown out the banter of the others.  The sound of the wind and the leaves comes into sharper focus, and she feels…better.
 
    1. We continue journeying
 ![[The complete journey to Twr-Seren.png]]
@@ -132,7 +132,7 @@ B rolls travel (19), succeeds. We’re climbing a path into the mountains. More 
 
 The Journey ends. 
 
-   1. The welcome at Twr-Seren
+   1. The welcome at Twr-[[Seren]]
 The tree is a ways off, a hard scramble to reach. We decide not to push our fatigue saving throw any more and just observe. From this distance, we can see its a pretty gnarled squat tree, beat up by the weather, autumn lives, twisted, strong, roots tangling down into the rock.
 
 We got go the door and knock. We hear footsteps. We;re being glared at by a girl of about 11 or 12, she's got long braided red heair that falls down her back. Jst standing there looking somewhat suspicious, and looks at us. 
@@ -348,6 +348,6 @@ We ascend the stairs.
 
 Next time/this week:
 
-- Balthazar checkin out that science shit
+- [[Balthazar]] checkin out that science shit
 - Will Branwen and Silas play chess one night? 
 - Look into ways to relieve exhaustion (Branwen's healing powers?)

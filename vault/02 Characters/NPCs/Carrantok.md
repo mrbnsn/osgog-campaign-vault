@@ -6,7 +6,6 @@ tags:
   - "npc"
 aliases:
   - "Carrantok"
-  - "Carantock"
 last_edited: 2023-12-29
 contributors:
   - "SilasWoodhenge18"

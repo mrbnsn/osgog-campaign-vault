@@ -29,9 +29,9 @@ M: There are other features here to explore. If we consult it again, maybe it wi
 We begin.
 
    1. We Buttonhook 'Em
-BUT what if we DON’T retreat? We discuss possibilities of tactics. Bran will head east and misty steo for maximum movement. Balz will also head east directly through the brambles and take a bit of damage. [[Storr]] will head south to the shore. [[Silas]] takes a couple bear swipes at one of the beasts and ki disengages south toward Storr.
+BUT what if we DON’T retreat? We discuss possibilities of tactics. Bran will head east and misty steo for maximum movement. Balz will also head east directly through the brambles and take a bit of damage. [[Storr]] will head south to the shore. [[Silas]] takes a couple bear swipes at one of the beasts and ki disengages south toward [[Storr]].
 
-Branwen heads west into a clearing. She sees a naturally gray and red colored watermelon looking stone with swiss cheese hollows.
+[[Branwen]] heads west into a clearing. She sees a naturally gray and red colored watermelon looking stone with swiss cheese hollows.
 
 Balz dashes and checks out the watermelon stone. It looks oxidized, iron inside it?  Weighs about 30 lbs.  
 
@@ -48,11 +48,11 @@ Balz:
 We got this metal stone.  We figure the blacksmith we seek would be interested in this material.  We decided to leave this location and head to the big boat.
 
    1. Our Journey Back to the Longship
-We journey back to the boat. We make slow progress. Silas finds a dry camp site under some hemlocks, some good kindling.
+We journey back to the boat. We make slow progress. [[Silas]] finds a dry camp site under some hemlocks, some good kindling.
 
 We start out again in the morning, following the river. Its pouring rain. We come to the top of a waterfall from the north. We hear the falls and see the mist rising over the edge. WE walk up to the stable rocks at the top. 
 
-Balz goes to the bottom and sees that there are many boulders at the bottom, so Silas and Bran jumping over is probably not a great idea. We examine the pool, The boulders seems to have broken off the edge. The pool is clear but turbulent. Behind the waterfall is a natural amphiteater curve. Doens’t look like there’s a csve, there’s room to fit, but no hidden space. 
+Balz goes to the bottom and sees that there are many boulders at the bottom, so [[Silas]] and Bran jumping over is probably not a great idea. We examine the pool, The boulders seems to have broken off the edge. The pool is clear but turbulent. Behind the waterfall is a natural amphiteater curve. Doens’t look like there’s a csve, there’s room to fit, but no hidden space. 
 
 We make radiohead puns for like, a while.
 

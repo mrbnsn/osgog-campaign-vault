@@ -15,7 +15,7 @@ contributors:
 
 Of note is that the enemies from last time may have been mirroring our own attacks. The “vegetation man” had a whip, and potentially could be [[Silas]].
 
-A fourth body has appeared, and looks remarkably like [[Krambler]]. The masked one does resemble Silas.
+A fourth body has appeared, and looks remarkably like [[Krambler]]. The masked one does resemble [[Silas]].
 
 The voices on the air are picking up now. It seems that they are weaving around the bodies. When we look at their features, they look like us, but versions of ourselves that we don’t want to be. We feel apprehension at seeing ourselves this way. It’s dark, nighttime, hard to see. Now we’re standing over a boulder on the ground. We’re unsure of what we’re seeing. We thought we were looking at these figures, but now they have been replaced with boulders. The voices start to fade
 
@@ -40,7 +40,7 @@ A Satyr.
 
 A centaur approaches. Why are you here?
 
-Silas tells them that they are travelers and mean no harm. We don’t know where we are headed or where we came from. 
+[[Silas]] tells them that they are travelers and mean no harm. We don’t know where we are headed or where we came from. 
 
 We’re following the old fault line.
 
@@ -78,7 +78,7 @@ Bal: 2 scars, from the past torture
 
 K: 3 scars
 
-Storr: 5 scars
+[[Storr]]: 5 scars
 
 Silas and [[Branwen]] have 0
 
@@ -124,9 +124,9 @@ We enter teh village. There’s water mill and a mill pond. A cottage off to the
 
 Folks go about their business, and don’t bother with us. The most tavern looking thing is the large building.
 
-In front of the building is a statue with some writing below it that we can’t decipher. Long enough that it looks like a snatch of poetry. The statue is of a male figure holding a quill. Krambler very discreetly taps it with his hammer. The statue does not ring. Branwen looks at the statue and says to herself I recognize your face, but she’s not sure from where.
+In front of the building is a statue with some writing below it that we can’t decipher. Long enough that it looks like a snatch of poetry. The statue is of a male figure holding a quill. [[Krambler]] very discreetly taps it with his hammer. The statue does not ring. [[Branwen]] looks at the statue and says to herself I recognize your face, but she’s not sure from where.
 
-Storr asks the nearest adult where they are. A middle aged matronly looking woman who is walking. She’s humming to herself. She says we’re in the village of Sibrwd (See-brewed)
+[[Storr]] asks the nearest adult where they are. A middle aged matronly looking woman who is walking. She’s humming to herself. She says we’re in the village of Sibrwd (See-brewed)
 
 Is there a village elder we can speak with? 
 
@@ -134,7 +134,7 @@ You can speak with me.
 
 Storr tells her our entire backstory and she looks very confused and asks if Storr is okay. 
 
-She says we’re in the land of Nyth. 
+She says we’re in the land of [[Nyth]]. 
 
 Kram: Who’s the statue
 

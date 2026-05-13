@@ -18,13 +18,13 @@ We burn two fellowship points to get a 14. (current total fellowship points: 5)
 
 Balz and [[Storr]] are in the center at the statue. [[Silas]], Bran and K at the farm. 
 
-Last night, Mowen seemed apprehensive, she wonders if he’s a young [[Gorgomog]]? Why did he bring [[Branwen]] with him? She’s anxious about Branwen's appearance, and about Balz’s status. Have two figures from mythology walked into her world? Are you those people or are you some aspect? 
+Last night, Mowen seemed apprehensive, she wonders if he’s a young [[Gorgomog]]? Why did he bring [[Branwen]] with him? She’s anxious about [[Branwen]]'s appearance, and about Balz’s status. Have two figures from mythology walked into her world? Are you those people or are you some aspect? 
 
 Now Mowen feels more at ease and connected to Balz. She is brought to a place to sort of convalesce. At the farm, bread and cheese for breakfast.  Recovering (?) from the night's activities.
 
-Storr and Balz chat about the events. Storr felt strange that she was being kept at bay, but is worried about how Balz feels about things, and if he’s okay if he ends up fathering a child He felt that the whole thing is larger than just him. He’s just there to serve a purpose, and is now free to go. He doesn’t have a sense one way or the other if his presence isn’t required.  Storr suggests that perhaps the both of them go to the barn and get some rest. 
+[[Storr]] and Balz chat about the events. [[Storr]] felt strange that she was being kept at bay, but is worried about how Balz feels about things, and if he’s okay if he ends up fathering a child He felt that the whole thing is larger than just him. He’s just there to serve a purpose, and is now free to go. He doesn’t have a sense one way or the other if his presence isn’t required.  Storr suggests that perhaps the both of them go to the barn and get some rest. 
 
-S & B go to the barn.  They got here early enough that we were all at the barn.  They all grab some breakfast - S+B just go to bed.  Bran and Silas understand what transpired last night with Balz.
+S & B go to the barn.  They got here early enough that we were all at the barn.  They all grab some breakfast - S+B just go to bed.  Bran and [[Silas]] understand what transpired last night with Balz.
 
    1. We Fumble The Council
 As we eat breakfast, a group arrives at the farm. Tarro, the husband we haven’t seen yet. Gov the blacksmith, Ween the brewer arrive with Tarro. They say they need to speak to us about what is going on. 
@@ -37,7 +37,7 @@ We choose intimidation to reveal much about ourselves and to try and overturn th
 
 Bran is our spokesperson and rolls a 23. 
 
-B: I’m sorry our appearance has startled you. You clearly recognize some wisdom and power in my friend Balz reminiscent of Gorg and mother night in me which seems to alarm you. However, mother night is i think just another facet of your Gwenethen. MN is a friend of Gorg interested in keeping the balance. You seem to fear death and the night and the darkness, but it’s all just a part of the cycle.
+B: I’m sorry our appearance has startled you. You clearly recognize some wisdom and power in my friend Balz reminiscent of Gorg and [[Mother Night]] in me which seems to alarm you. However, [[Mother Night]] is i think just another facet of your Gwenethen. MN is a friend of Gorg interested in keeping the balance. You seem to fear death and the night and the darkness, but it’s all just a part of the cycle.
 
 But who are you? Why are you here? Where di you come from?
 
@@ -61,9 +61,9 @@ Balz: Why do you think I should be walking with Gwenethen?
 
 Others: We can't help notice on of you looks like Mother Night.  With the harvest festival upon us, this is eerie.  
 
-Balz:  We could tell you of when we met Gorgomog, and your smith can mess around with the hammer during our stay.
+Balz:  We could tell you of when we met [[Gorgomog]], and your smith can mess around with the hammer during our stay.
 
-Others: You met Gorgomog?  Where, when and how?
+Others: You met [[Gorgomog]]?  Where, when and how?
 
 Balz: we are pretty sure he was him.  Island, split by night and day, moon and sun.  She controlled half the island, and he the other.  He had a farm, [[Mog]]'s farm.  Horned, jolly, made beer.  
 
@@ -73,20 +73,20 @@ Balz asks if he’s able to check in with Mowen. They will discuss. The four wil
 
 COUNCIL ENDS
 
-They return, and want to know if they can get to the Mog person, and how to get there. They ask us to stay confined to the farm for the five days so that they know where we are unless accompanied by the farmer. Gov is interested in the hammer, and wants free range on the hammer while we’re here. 
+They return, and want to know if they can get to the [[Mog]] person, and how to get there. They ask us to stay confined to the farm for the five days so that they know where we are unless accompanied by the farmer. Gov is interested in the hammer, and wants free range on the hammer while we’re here. 
 
 K (as Hopps) offers that he would like to be with Gov while he uses the hammer, and he is willing to acquiesce that request.
 
 The dudes abide. 
 
-We decide to augment Silas’s beechstaff with some of the obsidian we provided.
+We decide to augment [[Silas]]’s beechstaff with some of the obsidian we provided.
 
 Balz would still like to see Mowen if possible.
 
    1. Gorg, Gwen, and Mother Night Discussion
 They still believe that Balz and Bran might be these two entities and not realize it, so they’re still trying to figure out who we are. To them, Gorg and Gwen are married, age varies, sometimes young, sometimes an elderly couple living in a cottage. But they’re always growing things, always a garden. They are nurturing god and goddess and father and mother to the people of the town. They see them not as rulers, not controlling, no aristocracy, they more bring luck if you’re thoughtful and kind and generous, they might bring you luck. They won’t go to war or grant favor or special prowess. And its always the two of them. They would talk about mother night as an enchantress who might bewiutch Gorg especially, sort of a winter element of this. Gorg represents fertility and Mother Night (MN) comes in on a cold night and whisk him away. To them, MN and Gwen are different. 
 
-We discuss Gorgomogg and his situation. Mike R: Mog seemed to be under some enchantment. Maybe the other half of the island was occupied by MN, and he didn’t realize it. He said his wife was close by.
+We discuss Gorgomogg and his situation. Mike R: [[Mog]] seemed to be under some enchantment. Maybe the other half of the island was occupied by MN, and he didn’t realize it. He said his wife was close by.
 
 Mike H. mentions something about Gorg that negates Mike R’s idea from a story. But the stories are also told from a particular perspective.
 
@@ -99,7 +99,7 @@ Gov and K were successful in crafting an obsidian tipped beechstaff. (Details fo
 
 Balz is able to see Mowen. She gives him a “woven circlet of ripe wheat” that he can wear on his head. 
 
-Silas trains Arthen. Branwen extends her leechcraft capabilities. We share some of the items we’ve come across in our travels.
+Silas trains Arthen. [[Branwen]] extends her leechcraft capabilities. We share some of the items we’ve come across in our travels.
 
 We write with the quill, “casting a silver laced pattern…”
 

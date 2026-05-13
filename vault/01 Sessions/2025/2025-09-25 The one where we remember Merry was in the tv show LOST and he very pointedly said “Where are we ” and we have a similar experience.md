@@ -20,7 +20,7 @@ Manazoith… a new term. -> Mornaswydh  (Mor - NAZ - oith) ***-NPB***
 
 [[Storr]]: The rock was surrounded by briars.  Briars.  Rock. Bri-ock.  Byrok.   
 
-Storr: This island we last visited is a similar land pattern we’ve seen - circles, ranges enclosing an inner circle.
+[[Storr]]: This island we last visited is a similar land pattern we’ve seen - circles, ranges enclosing an inner circle.
 
 Examples surround this section.
 ![[The Island of Voices.png]]
@@ -28,20 +28,20 @@ Examples surround this section.
    1. Summary Corner with [[Balthazar]]
 ![[Balthazar in his library.jpg]]
 
-We set sail. We are once more on the open sea, and find ourselves on the second full day of the journey. [[Silas]], while rigging a tarp over the stern of the mast to shield his brethren from the rain; but alas, Arthen finds himself entangled with thick sailing rope and splashes into the water with a cannonball-worthy splash. He emerges wet, but with all of his pride. The next day, Silas finishes his tarping and we get a good night’s sleep huddled together for warmth. Some time passes. [[Krambler]] stands by the bow and recognizes the unmistakable sight of land in the distance. “Land ho!”
+We set sail. We are once more on the open sea, and find ourselves on the second full day of the journey. [[Silas]], while rigging a tarp over the stern of the mast to shield his brethren from the rain; but alas, Arthen finds himself entangled with thick sailing rope and splashes into the water with a cannonball-worthy splash. He emerges wet, but with all of his pride. The next day, [[Silas]] finishes his tarping and we get a good night’s sleep huddled together for warmth. Some time passes. [[Krambler]] stands by the bow and recognizes the unmistakable sight of land in the distance. “Land ho!”
 
-We land at the mouth of the river. We make our way slowly toward the lake. Flowers around the reeds here. The flowers are different, not in species but in beauty and proliferation. Some personal quests ensue. We’re back on the boat. Krambler once again calls “Land Ho!” and we see in the distance a series of rock islands.
+We land at the mouth of the river. We make our way slowly toward the lake. Flowers around the reeds here. The flowers are different, not in species but in beauty and proliferation. Some personal quests ensue. We’re back on the boat. [[Krambler]] once again calls “Land Ho!” and we see in the distance a series of rock islands.
 
    1. We Journey to... the Same Island?
 Our typical journey roles:
 
 Guide: Balz (Travel) - in charge
 
-Lookout: Krambler (Perception) - keeping watch
+Lookout: [[Krambler]] (Perception) - keeping watch
 
-Scout: Silas (Exploration) - finding new trails and camping spots
+Scout: [[Silas]] (Exploration) - finding new trails and camping spots
 
-Hunter: Storr (Hunting) - finding food
+Hunter: [[Storr]] (Hunting) - finding food
 
 Supervisor: [[Branwen]] (Riddle) - avoiding responsibility
 
@@ -81,9 +81,9 @@ Bran sneaks onto the island with cloak to scope the stone. Like the spoon, there
 We sail back to the shore and try to bring the boat back to our longship. Probably not worth the portage with the waterfall and all, so we leave it.
 
    1. We're Off Again
-We get back to the boat. Night falls. Silas shows up with his staff, and Branwen gets in later.
+We get back to the boat. Night falls. Silas shows up with his staff, and [[Branwen]] gets in later.
 
-We journey back to the boat. Branwen takes a few falls.  
+We journey back to the boat. [[Branwen]] takes a few falls.  
 
 We journey away from the island.
 

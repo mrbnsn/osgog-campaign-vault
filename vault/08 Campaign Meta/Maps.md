@@ -10,12 +10,12 @@ contributors:
   - "SilasWoodhenge18"
 ---
 
-![[Continent.jpg]]
+> [!note] Image: `Continent.jpg`
 
-![[River Travel.jpg]]
+> [!note] Image: `River Travel.jpg`
 
-![[99B54F8D-FF16-432A-A27E-1416E41629E4 1 105 c.jpg]]
+> [!note] Image: `99B54F8D-FF16-432A-A27E-1416E41629E4 1 105 c.jpg`
 
-![[Annotated map of Nyth.png]]
+> [!note] Image: `Annotated map of Nyth.png`
 
 The maps we've been able to capture.

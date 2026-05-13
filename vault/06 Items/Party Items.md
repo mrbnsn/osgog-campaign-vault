@@ -3,9 +3,6 @@ title: "Party Items"
 type: item
 tags:
   - "item"
-  - "mornaswydh"
-  - "boatman"
-  - "raven"
 aliases:
   - "Party Items"
 last_edited: 2026-05-10
@@ -18,12 +15,12 @@ The golden compass from [[The Boatman]], [[The Mornaswydh|the *mornaswydh*]]*.*
 
    1. The "Krammer"
 A hammer left in the [[The Abbott|Abbott's]] alcove, and taken by [[Krambler]], made from his "lucky stone".
-![[Hammer.png]]
+> [!note] Image: `Hammer.png`
 
 - [[Krambler]] chose this over a mandocello.
 
    1. [[Rhiannon]]'s Gale
-![[Rhiannon's Gale.jpg]]
+> [!note] Image: `Rhiannon's Gale.jpg`
 
 [[Mannix|Gale]] - a sword [[Mannix]] was given by a former love.
 
@@ -64,7 +61,7 @@ A goat skull from the side of ***[[Men Myghtern]]*** - formerly Agiocochook - tu
    1. Other
 Obsidian from ***[[Battles|Fire Knights]]***
 
-Water from puddle made by the dead ***[[Battles|Water Knights]] *** that we then jumped into the get to [[Ancient Tree|the tree]].
+Water from puddle made by the dead ***[[Battles|Water Knights]] *** that we then jumped into the get to [[Ancient Tree|the tree]].
 
 A silver and gold feather/ quill from [[the Haunted Tower]].
 
@@ -73,10 +70,10 @@ You've heard of gifts to [[Religions#The "Children of Mons" and ... ?|Mons from 
 
 You posit that of Mons' four gifts, you may have several:
 
-      - The [[Crown of Water]] -> Mannix Helmet
+      - The [[Crown of Water]] -> Mannix Helmet
 
-      - The [[Cloak of Wind]] -> [[Branwen]]/Cricket's cloak
+      - The [[Cloak of Wind]] -> [[Branwen]]/Cricket's cloak
 
-      - The [[Scepter of Stone]] -> Krambler's hammer
+      - The [[Scepter of Stone]] -> Krambler's hammer
 
-      - The Sword of Darkness, Edged in Light -> Rhiannon's Gale
+      - The Sword of Darkness, Edged in Light -> Rhiannon's Gale

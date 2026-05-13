@@ -21,17 +21,17 @@ And so we engage in our own happenings with the DM.
 
 Things that the party did:
 
-Storr decides to seek out Branwen and Silas. She stands up and sees Branwen talking to the elder and goes over there.
+[[Storr]] decides to seek out [[Branwen]] and [[Silas]]. She stands up and sees [[Branwen]] talking to the elder and goes over there.
 
 Branwen goes to talk to Rhian. - *This conversation didn't yield anything very fruitful.  This village worships Gwenethen and [[Gorgomog]], and don't seem to make the connection to [[Mabmnoss|Morianoth]], that Branwen figures is pretty obvious.*
 
-Silas sneaks away from Branwen successfully with Arthen. They make their way outside to gaze a the stars. Silas poaches some brew from the tap and offers some to Arthen. They find a pile of gristle and bone and fat and feathers leftover from rending the dinner meat and Arthen indulges himself. Silas then proceeds to “decorate” Arthen in feathers and grease. They sneak some more brew and make their way back inside, trying to get to the stage in the far corner without anyone noticing. The extra beer though hasn’t helped, and they cause a small cacophony upon reentry.
+[[Silas]] sneaks away from Branwen successfully with Arthen. They make their way outside to gaze a the stars. Silas poaches some brew from the tap and offers some to Arthen. They find a pile of gristle and bone and fat and feathers leftover from rending the dinner meat and Arthen indulges himself. Silas then proceeds to “decorate” Arthen in feathers and grease. They sneak some more brew and make their way back inside, trying to get to the stage in the far corner without anyone noticing. The extra beer though hasn’t helped, and they cause a small cacophony upon reentry.
 
 [[Krambler]] (fill in stuff here)
 
 Balz is conversing with Mowen courteously, if a little apprehensively. 
 
-Silas and Arthen make a scene coming back in. Arthen is covered in feathers and grease. Krambler goes over to Silas to help. The three make a break for the stage, drunk, dirty and disruptive.  Branwen casts darkness on the corner they’re in. Everyone in the place is shocked and scared at this sudden darkness and they retreat to the far corner.
+Silas and Arthen make a scene coming back in. Arthen is covered in feathers and grease. [[Krambler]] goes over to Silas to help. The three make a break for the stage, drunk, dirty and disruptive.  Branwen casts darkness on the corner they’re in. Everyone in the place is shocked and scared at this sudden darkness and they retreat to the far corner.
 
 K tries Prestidigitation in the face of B’s darkness, and can’t do it. He’s freaked. 
 
@@ -68,7 +68,7 @@ B: We will stay close by our friend. I assume they are doing this inside?
 
 R: No, they are returning to the boulder. No one is allowed to approach. You must return to the farm and may not interrupt this. If you are looking for our help, you should respect my word.
 
-B: side-eyes storr
+B: side-eyes [[Storr]]
 
 S: puts a hand on B’s shoulder “I am Balz’s sworn protector. Where he goes, I go. You must swear no harm, will come to him. You have my apologies for the disruption.
 
@@ -77,7 +77,7 @@ R: I can take you close, but not to it.
       - * Other things happen that Ryan missed. ****
 
    1. The Stay At the Farm
-Branwen returns to the hall to find Silas, Arthen and Krambler. B helps Silas up. S, A, K and B make our way to the farm. Silas and Arthen bath themselves in the running stream by the farm.
+Branwen returns to the hall to find Silas, Arthen and [[Krambler]]. B helps Silas up. S, A, K and B make our way to the farm. Silas and Arthen bath themselves in the running stream by the farm.
 
 There's a little bit of apprehension and anxiety with the farmers given the events of the evening. A little stand-offishness. 
 

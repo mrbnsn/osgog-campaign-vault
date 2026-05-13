@@ -13,7 +13,7 @@ contributors:
   - "SilasWoodhenge18"
 ---
 
-We rehash. Balz stayed with [[Silas]]. Silas gets a shiny new wool hat.
+We rehash. Balz stayed with [[Silas]]. [[Silas]] gets a shiny new wool hat.
 
 [[Branwen]]: Lookout
 
@@ -21,7 +21,7 @@ We rehash. Balz stayed with [[Silas]]. Silas gets a shiny new wool hat.
 
 Balz: Guide
 
-Silas: Scout
+[[Silas]]: Scout
 
 We make our way downhill. Balz find s a good rout. Silas though tired is able to lead through thickets. Large lake, stony, not particularly deep, lichen, crusted rocks, boulders 50 ft offshore sticking up. Can see across the way, two low hill to the north north east. Off to the east is our best guess where this lake flows out. A rounded hill off to the west, sort of alone. Aroundthe lake is marshy and bushy not a lot of topsail. The western hill appears to have some meadow growth rising up above the tree line.
 
@@ -29,11 +29,11 @@ Lake seems about a mile long. We can see the other side, but not with total clar
 
 Silas seems drawn to the western hill. We go.
 
-We make good progress. We get to the edge of tlake. We can see the forest climb the hill and we start hearing something. As we get into the fortst he hear noises that sound like voices. It sounds like wind and grating rock. Branwen thinks we’re hearing the lullabye song (the song that beckoned Bran out of the pyre. Crickets mother would hum it to him. [[The Boatman|Boatman]] played it on [[Mannix]]’s flute. [[Kelynnen]] was singing it while picking herbs.) as we approach the hill. 
+We make good progress. We get to the edge of tlake. We can see the forest climb the hill and we start hearing something. As we get into the fortst he hear noises that sound like voices. It sounds like wind and grating rock. [[Branwen]] thinks we’re hearing the lullabye song (the song that beckoned Bran out of the pyre. Crickets mother would hum it to him. [[The Boatman|Boatman]] played it on [[Mannix]]’s flute. [[Kelynnen]] was singing it while picking herbs.) as we approach the hill. 
 
 We’re hearing multiple sounds and voices, one in particular that’s not too far away to the north, one rising and falling. 
 
-Would Storr recognize any from the bird island?
+Would [[Storr]] recognize any from the bird island?
 
 The Gale song was a song that one of the bird’s sang, which we do not hear now. 
 
@@ -47,7 +47,7 @@ The beings in the woods don't seem to respond to the hill moving.
 
 The breathing does not feel panicked.
 
-Branwen wants to play her flute with the song ([[Cricket]]'s lullaby).  Rolls a 12.  Silas feels there is a calming with the added music.
+[[Branwen]] wants to play her flute with the song ([[Cricket]]'s lullaby).  Rolls a 12.  Silas feels there is a calming with the added music.
 
 Silas communes with nature.  Wants to figure out what's going on under the ground.  If there's anything alive, intelligent, etc.  Whatever is below this mound is sleeping fitfully, and is NOT well.  The thing is "exhausted".  It's powerful, but there are many presences around the hill.
 
@@ -57,7 +57,7 @@ Some debate about what to do next.  Go to the source of the voices, stay on this
 
 We decide to head out to the "head" of the sleeping bear.  The hills are meadow, surrounded by forest.
 
-Storr consults Kleghein as they walk - it's excited and nervous.
+[[Storr]] consults Kleghein as they walk - it's excited and nervous.
 
 Silas casts commune with nature, no new news.
 

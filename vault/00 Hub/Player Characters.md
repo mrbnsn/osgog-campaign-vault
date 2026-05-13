@@ -30,7 +30,7 @@ Seven travellers drawn together at [[Monsoth]] and bound — willingly or not �
 Kidnapped as a child and experimented on, [[Balthazar]] bears horns and burn scars as testament to his "training." He carries a broken horn as a personal talisman — broken off in a moment of self-loathing — through which he occasionally hears distant voices. His mission, given at release: find the source of the [[The Black Water]].
 
 **Key connections:** [[Mali]] (cruel handler), [[Storr]] (first friend), [[The God King]] (distant tormentor), [[Mannix]] (wooden armour), [[Mog]] (visions)
-**Conspiracy notes:** Balthazar's Thoughts
+**Conspiracy notes:** [[Balthazar]]'s Thoughts
 **Shadow scar:** yes — see [[2024-05-09 The One Where We Meet The Limb Entity and (Some Of Us) Receive Our Shadow Scars]]
 
 ---

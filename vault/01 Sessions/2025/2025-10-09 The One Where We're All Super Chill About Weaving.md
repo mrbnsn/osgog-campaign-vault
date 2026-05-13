@@ -21,9 +21,9 @@ The party seems interested in joining in with the weaving and the singing.  Deba
 
 Balz asks Canstal if we can hang out a bit.  He says it's cool.
 
-Branwen sits and reaches for spare rushes, and tentatively asks if she could help out.
+[[Branwen]] sits and reaches for spare rushes, and tentatively asks if she could help out.
 
-A man and a woman offer to show her some pointers.  Branwen starts weaving, rolls a 5, and gets some condescending "youll get there honey" comments, but Branwen fiercely perseveres.
+A man and a woman offer to show her some pointers.  [[Branwen]] starts weaving, rolls a 5, and gets some condescending "youll get there honey" comments, but Branwen fiercely perseveres.
 
 [[Storr]] walks over to some huts.  She is looking for a reverence for bees, like the bear village.  Is the a "Bee village"?  They seem like bees in hives, nothing extraordinary.
 
@@ -35,19 +35,19 @@ This island is great to smell the ocean, listen to the wind and concentrate on o
 
 Balz stands apart from the group and wants to hum to the wind.  (rolls old lore at 21..) he's able to feel out some melodies and harmonies, and contributes to the sound.  The woman who is skeptical of B and K's weaving, and eyes another woman, seems to approve, and pats Branwen on the knee.
 
-[some discussion about the cradle - the 3 lobed symbol we keep seeing.  [[Silas]] recalls "playing cradle". A bit of a manuever of a game.  The girls also played this at the tower.
+[some discussion about [[The Cradle]] - the 3 lobed symbol we keep seeing.  [[Silas]] recalls "playing cradle". A bit of a manuever of a game.  The girls also played this at the tower.
 
-Bran asks what the cradle symbol means to her.  She doesn't know the full meaning but it brings her peace.  THat spot is more meditative than other, feel connected to the ground air and ocean.  Connected to the natural world.  To get away from people.
+Bran asks what [[The Cradle]] symbol means to her.  She doesn't know the full meaning but it brings her peace.  THat spot is more meditative than other, feel connected to the ground air and ocean.  Connected to the natural world.  To get away from people.
 
 Balz posits this place is connected to the sea, given the manta ray constellation.
 
-Storr asks about "gettign away from people"  who are you getting away from?  Reply: lived in a bustling port, left to the islands in the west.  A long time ago. 
+[[Storr]] asks about "gettign away from people"  who are you getting away from?  Reply: lived in a bustling port, left to the islands in the west.  A long time ago. 
 
 S: Do you have any children here?  Response, there are younger folks here.  No babies.
 
 Balz: is there a name for the manta ray constellation.  Reply: yes, hold on….The Great Ray. Moredhen.  More-Evan. 
 
-Storr asks about the story of [[Gwedhen]].  Response, not really.  Sounds like a familiar fairy tale. 
+[[Storr]] asks about the story of [[Gwedhen]].  Response, not really.  Sounds like a familiar fairy tale. 
 
 Brawn asks the name of the port city, no one knows this city - unfamiliar.
 
@@ -57,13 +57,13 @@ Storr - what else besides weaving?  Some normal daily tasks, gotta live.
 
 Storr - you know [[Sun King]]? Nope
 
-Branwen - [[Torval]], [[Ceridwen]], [[Mons]]?  Not the names, but the figures.  God King, inventor of the wheel, sure.  Ceridwen - names of things - that's what we listen to and capture in our weaving.  A wordless weaving.
+Branwen - [[Torval]], [[Ceridwen]], [[Mons]]?  Not the names, but the figures.  God King, inventor of the wheel, sure.  [[Ceridwen]] - names of things - that's what we listen to and capture in our weaving.  A wordless weaving.
 
 Bran likes this line of thought - the voices, capturing the wind.  ANotes that her fingers are clumsy, her mind worn from travel, but she's very interested in the craft.  Might we stay with you an extended amount of time to recover, and learn their craft.
 
 Kanstal says "we should talk at elevensies."
 
-Silas finds the most awkward member of the weaving circle.  A dark haired boy, humming to himself.  Darting eyes.  Big eyed stare when Silas and Bear sit down. 
+[[Silas]] finds the most awkward member of the weaving circle.  A dark haired boy, humming to himself.  Darting eyes.  Big eyed stare when [[Silas]] and Bear sit down. 
 
 S: "It's rough out there, huh?" (Persuasion 2)
 

@@ -3,11 +3,6 @@ title: "Traditions we know about and how they might interpret various stories, p
 type: lore
 tags:
   - "lore"
-  - "gorg-gwen"
-  - "three-women"
-  - "sisterhood"
-  - "bear-born"
-  - "osgog-dragon"
 aliases:
   - "Traditions we know about and how they might interpret various stories, poems, etc.."
 last_edited: 2026-05-10
@@ -20,7 +15,7 @@ contributors:
 | Mons' followers |  |  |
 | Silas' druidfolk |  |  |
 | Bear people |  |  |
-| [[The Abbot|The Abbott]] and [[Tawesek]] |  |  |
+| [[The Abbott]] and [[Tawesek]] |  |  |
 | Gorg and Gwa(e)nethen village |  |  |
 | The sisterhood ([[Kelynnen|Kelynnen,]] Gwen at the tower, [[Seren]]) |  |  |
 | Caer [[Osgog]] |  |  |

@@ -14,13 +14,13 @@ contributors:
 [[Circles, Sacred Groves, and Wells]]: We've seen a bunch of these.
 
 [[Lake of the Eye of Night]]: A perfectly circular lake in the far north of the continent.
-![[Continent.jpg]]
+> [!note] Image: `Continent.jpg`
 
    1. Phase One: [[Noorglass]]
 - [[Noorglass]]: The continent we started on, where [[Monsoth]] is located.
 - [[Monsoth]]: The main settlement in our area, and where we begin our quest.
 - [[Tawesek]]: [[The Abbot]]'s Monastery
-- [[Trenewydh]]: The town we went to that appeared randomly in the valley, and where [[The Abbot|the Abbott]] died.
+- [[Trenewydh]]: The town we went to that appeared randomly in the valley, and where [[The Abbott]] died.
 - [[Din Menydh|Din Methyn]]: The fortified hillfort of the Bear People
 - [[Celliwig]]: The forest village / forest grove where we met [[Logan]]
 - [[The Haunted Tower|The Dark Tower]]: The tower where we purged the watcher from the shadow, and where we find a bunch of weird stuff that Nathaniel says is important.
@@ -30,7 +30,7 @@ contributors:
 
    1. The In-between: [[Gwrydh]]
    1. Phase Two: [[Nyth]]
-![[99B54F8D-FF16-432A-A27E-1416E41629E4 1 105 c.jpg]]
+> [!note] Image: `99B54F8D-FF16-432A-A27E-1416E41629E4 1 105 c.jpg`
 
 [[The Poet's Rest|Sibrwd/The Poet's Rest]]
 
@@ -59,4 +59,4 @@ contributors:
 | Blue | 3 Weaver's Island |  | Trenoweth + Crater Island (Orm) |  |
 
    1. Other Maps
-![[River Travel.jpg]]
+> [!note] Image: `River Travel.jpg`
