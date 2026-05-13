@@ -15,7 +15,7 @@ contributors:
 
 Blacksmit: This is a strange tool, where di you get it?
 
-Storr: A gift from a friend. Can’t tell you much about it. Thought you might be an expert.
+[[Storr]]: A gift from a friend. Can’t tell you much about it. Thought you might be an expert.
 
 He spins it around. “It’s balanced very well. I could probably use it. Not sure I’d want to, my hammer and I have been through a lot together.”
 
@@ -57,11 +57,11 @@ It’s always *early summer* here.
 
 We follow the path into the woods, [[Branwen]] knocks on the door, [[Kelynnan]] answers.
 
-We heard this other woman may have saw a man and  child in the winter lands.  Branwen has strange look and carries a bird, this is weird to this woman.  She wants to know what kind of connection they have?  Branwen stares blankly.
+We heard this other woman may have saw a man and  child in the winter lands.  [[Branwen]] has strange look and carries a bird, this is weird to this woman.  She wants to know what kind of connection they have?  Branwen stares blankly.
 
 She wants to know why we are here - Branwen explains we are looking for the man and the child; it would have been long ago.  We want to know if she can remember anyone who matches this description.  
 
-Branwen critically persuades Kelynnen!
+Branwen critically persuades [[Kelynnen]]!
 
 She says, “Yes, I met a strange person while I was going up to collect some herbs from the hills at the edge of spring. He told me a story about having found a child but at that point, having given the child away. It was a long time ago."
 
@@ -78,7 +78,7 @@ We’ve seen some terrible stuff on the way over here. How is the traveling betw
 It’s wild country, but if you’re clever and know the way, you should be okay. I’ve never had a problem.
 
    1. Council is in session
-Branwen is our spokesperson. We’re asking her for Kelynnan to accompany us, as a guide, up to the spot where she saw Musk. We’re offering to accompany her and potentially escorting her back to the village.
+Branwen is our spokesperson. We’re asking her for Kelynnan to accompany us, as a guide, up to the spot where she saw [[Musk]]. We’re offering to accompany her and potentially escorting her back to the village.
 
 Branwen succeeds in the Persuasion roll, using her own inspiration advantage.
 
@@ -96,7 +96,7 @@ We’ll have time for that on the journey.
 
 I’d rather like to know something about my companions before I head off into the woods. 
 
-Silas steps forward and introduces himself, and Arthen. Branwen again implores that we are trying to right the balance of the world.
+[[Silas]] steps forward and introduces himself, and Arthen. Branwen again implores that we are trying to right the balance of the world.
 
 Branwen rolls again, and SUCCEEDS. 
 
@@ -108,7 +108,7 @@ Should we leave in the morning?
 
 Yes, let’s gather some things and leave in the morning.
 
-We ask if we may stay at her home. She invites Branwen in, but says Bal and Storr are not welcome, they have “marks” that she’s not comfortable with. Silas and Arthen can stay outside. Krambler can sleep on the bench. 
+We ask if we may stay at her home. She invites Branwen in, but says Bal and Storr are not welcome, they have “marks” that she’s not comfortable with. Silas and Arthen can stay outside. [[Krambler]] can sleep on the bench. 
 
 Any other points of interest?
 

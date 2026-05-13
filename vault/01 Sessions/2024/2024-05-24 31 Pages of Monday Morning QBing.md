@@ -203,7 +203,7 @@ Mike Robinson:
 
 Ryan Petti:
 
-    	Osgog didn't give [[Mons]] a gift though, he was missing.
+    	[[Osgog]] didn't give [[Mons]] a gift though, he was missing.
 
 Mike Robinson:
 
@@ -467,7 +467,7 @@ Michael Hopps:
 
 Mike Robinson:
 
-    	Is the sun king trying to find a suitable candidate for a new dragon, or someone to act as a vessel for the monster's return?
+    	Is the [[Sun King]] trying to find a suitable candidate for a new dragon, or someone to act as a vessel for the monster's return?
 
 Nathaniel Blauss:
 
@@ -639,7 +639,7 @@ Michael Hopps:
 
 Mike Robinson:
 
-    	So a bit confusing, though. Bremphyr works in harmony with nature to create, but his goal is to arm men against nature?
+    	So a bit confusing, though. [[Bremphyr]] works in harmony with nature to create, but his goal is to arm men against nature?
 
 Michael Hopps:
 
@@ -705,7 +705,7 @@ Mike Robinson:
 
     	Names*
 
-    	But then again, Mabnoss had two daughters with Mons
+    	But then again, Mabnoss had two daughters with [[Mons]]
 
     	So maybe it's more of a trait or aspect passed on to children?
 
@@ -721,7 +721,7 @@ Mike Robinson:
 
 Nathaniel Blauss:
 
-    	These are stories Balthazar at least as heard of (I guess I should make a chart of who knows which ones).
+    	These are stories [[Balthazar]] at least as heard of (I guess I should make a chart of who knows which ones).
 
     	But it would be hard to know who's take you were getting.
 
@@ -795,7 +795,7 @@ Nathaniel Blauss:
 
 Michael Hopps:
 
-    	Mike, Bardh mentioned a sword named Gale, so I whipped it out.  He told us it was forged by Mons' son, Bremphyr. 
+    	Mike, [[Bardh]] mentioned a sword named Gale, so I whipped it out.  He told us it was forged by Mons' son, Bremphyr. 
 
 I was alarmed that I may be wielding a sword of Mons, rather than [[Mabmnoss]].
 
@@ -959,7 +959,7 @@ Mike Robinson:
 
 Michael Hopps:
 
-    	And Weyland/Bremfyr
+    	And [[Weyland]]/Bremfyr
 
 Mike Robinson:
 
@@ -975,7 +975,7 @@ Mike Robinson:
 
 Bremphyr (smith):, [[Sword of Darkness Edged in Light]]
 
-Rhiannon (horsewoman/sailor): [[Crown of Water]]
+[[Rhiannon]] (horsewoman/sailor): [[Crown of Water]]
 
 [[Kevnis]] (weaver): [[Cloak of Wind]]
 
@@ -1187,7 +1187,7 @@ Mike Robinson:
 
     	I think we've guessed 5 including the sisters? But we could be completely wrong
 
-    	Part of me feels like the faces refer to something endemic to the world we're in; a reference to something. Perhaps star signs? Silas, you know of these. How many [[Constellations]] do your people observe as significant to the machinations of the universe? What are those [[Constellations]]? What traits do people born under those various signs possess?
+    	Part of me feels like the faces refer to something endemic to the world we're in; a reference to something. Perhaps star signs? [[Silas]], you know of these. How many [[Constellations]] do your people observe as significant to the machinations of the universe? What are those [[Constellations]]? What traits do people born under those various signs possess?
 
 DM could maybe chime in here re: the stars/asterisms/[[Constellations]]?
 
@@ -1201,7 +1201,7 @@ Ryan Petti:
 
     	(the IRL column was really just my own curiosity and doesn't have any bearing (pun) on the game)
 
-    	I did ask what constellations were in the sky when we were at the prison, but I think that answer still needs to be provided
+    	I did ask what [[Constellations]] were in the sky when we were at the prison, but I think that answer still needs to be provided
 
 Nathaniel Blauss:
 
@@ -1217,7 +1217,7 @@ Mike Robinson:
 
 Michael Hopps:
 
-    	I put together a Gods section in Branwen's Branches.  Please peruse. 
+    	I put together a Gods section in [[Branwen]]'s Branches.  Please peruse. 
 
     	http://osgog.mrobinson.us/index.php/Branwen%27s_Branches#Gods:~:text=we%20shall%20go%E2%80%9D.-,Gods,-%5Bedit%20%7C
 
@@ -1255,7 +1255,7 @@ Nathaniel Blauss:
 
     	That's for [[Geshwa]].
 
-    	And then anyone could roll for Elder Lands.
+    	And then anyone could roll for [[Elder Lands]].
 
 Ryan Petti:
 
@@ -1335,7 +1335,7 @@ Mike Robinson:
 
 Michael Hopps:
 
-    	Possible.  They tried to turn [[Mabmnoss]] against him in the god king tale.
+    	Possible.  They tried to turn [[Mabmnoss]] against him in [[The God King]] tale.
 
 Mike Robinson:
 
@@ -1427,7 +1427,7 @@ Mike Robinson:
 
 Michael Hopps:
 
-    	[[Kerenja]].  Gave Gale to [[Mannix]]... Kerenja == Rhiannon?
+    	[[Kerenja]].  Gave Gale to [[Mannix]]... [[Kerenja]] == Rhiannon?
 
 Mike Robinson:
 
@@ -1451,7 +1451,7 @@ Bremphyr = Weylund
 
 Rhiannon = Kerenja, and is one and the same as [[Mabmnoss]]
 
-Kevnis = Foundling/[[Bryok]]/Abbot
+[[Kevnis]] = Foundling/[[Bryok]]/Abbot
 
 Mike Robinson:
 

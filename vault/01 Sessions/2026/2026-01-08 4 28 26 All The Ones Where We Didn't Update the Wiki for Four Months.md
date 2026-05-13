@@ -47,8 +47,8 @@ WE FIGHT
 - The mage centaur has a sword and can do like 3 things in one turn.
 - [[Silas]] gets hit BAD and drops to zero, automatically bearing out
 - [[Branwen]] takes out Gale and sing a song (Brid song) and [[Branwen]] is surrounded in a purple aura of ravens. The centaur encompassed in the aura is now frightened of her. 
-- [[Krambler]] falls. [[Branwen]] falls. Silas in bear form gets down to 1.
-- Storr uses the INFLUENCE action to convince the mage that they don’t want to fight.
+- [[Krambler]] falls. [[Branwen]] falls. [[Silas]] in bear form gets down to 1.
+- [[Storr]] uses the INFLUENCE action to convince the mage that they don’t want to fight.
 - Silas as the bear, hears Storr’s plea, and places his staff on the ground
 
 COMBAT ENDS
@@ -150,7 +150,7 @@ We emerge.
 
 The tree to the left is gigantic. We’re surrounded by craggy walls of stone. The sky appears to be dusk. We see three women hanging out. They acknowledge us, but standing very still around the water, watching.
 
-One looks remarkably like if Storr and Branwen had a baby. Storr hits on Branwen, Branwen kind of returns the favor, but says she doesn’t want it.
+One looks remarkably like if Storr and [[Branwen]] had a baby. Storr hits on Branwen, Branwen kind of returns the favor, but says she doesn’t want it.
 
 We pause for the evening.
 
@@ -284,7 +284,7 @@ W: Is ***[[Osgog]]***
 
 We discuss [[Osgog]] and his mother ([[Doldhelan]]/[[Doldhelan|Noswaith]]), and [[Osgog]] and the Dragon.
 
-Silas’s note: There is a sisterhood of [[Doldhelan]] and [[Ceridwen]] (kelynnyn, Gwen at the tower, probably [[Seren]]. If Osgog’s mother is truly still trapped, we would have an interest in freeing her. If these three have their names back, maybe they could help free her. 
+Silas’s note: There is a sisterhood of [[Doldhelan]] and [[Ceridwen]] (kelynnyn, Gwen at the tower, probably [[Seren]]. If [[Osgog]]’s mother is truly still trapped, we would have an interest in freeing her. If these three have their names back, maybe they could help free her. 
 
 Ok, big theories coming together.
 
@@ -521,7 +521,7 @@ JB: HmmMmm, but feeling the wind and not listening to us a lot. This is a good, 
 
 AND WE NOTICE A FUCKING CRADLE IN THE STONES UNDER HER 
 
-Silas proposes that we do the Cradle game with JB in the center of the circle while standing over the symbol.
+Silas proposes that we do [[The Cradle]] game with JB in the center of the circle while standing over the symbol.
 
 JB: You can call me Gwynys.
 
@@ -624,7 +624,7 @@ Percep, 12: He’s capturing images and they’re coming fast, but in one moment
 
 Bran: 
 
-Bran has had visions of a dancing woman before (as Cricket)
+Bran has had visions of a dancing woman before (as [[Cricket]])
 
 We Journey
 

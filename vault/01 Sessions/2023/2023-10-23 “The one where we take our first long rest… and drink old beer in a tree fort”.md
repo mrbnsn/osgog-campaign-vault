@@ -31,7 +31,7 @@ They saw we could rest for a long rest!  During the 5 days, we rest so but don�
 
 [[Storr]] learns some things about how to ride a bear.  She’s not yet a bear rider but knows some stuff.  Balz would have been listening to his horn.
 
-Of note - [[Silas]] does not turn into a short faced bear.  He’s smaller than a short faced bear but he’s not like a brown or black bear.  Just a generic bear.  Silas doesn’t know what Arthen is, species wise.  We all think he is likely a young giant short faced bear, like what we’ve seen in the village and what’s out in the wilderness.
+Of note - [[Silas]] does not turn into a short faced bear.  He’s smaller than a short faced bear but he’s not like a brown or black bear.  Just a generic bear.  [[Silas]] doesn’t know what Arthen is, species wise.  We all think he is likely a young giant short faced bear, like what we’ve seen in the village and what’s out in the wilderness.
 
 The talk with Silas gave the elders insight into the ancient bonds of hospitality - they send Corantokwith us as a guide; but not bears.  They haven’t a bear to SPEAR (I meant that to be a joke dammit Ryan).  They know they came from the continent from which the [[Sun King]] resides long, long ago.  They’ve stayed in the forest looking for him for a long long time.
 
@@ -67,7 +67,7 @@ Silas: What else do you know about the bear?
 
 [[Storr]]: What do people do here?
 
-Logan: We just get together at the soltices.  We feast and we sing to the bear some go down to the well and see if there’s anything coming through.
+[[Logan]]: We just get together at the soltices.  We feast and we sing to the bear some go down to the well and see if there’s anything coming through.
 
 B: Very curious of the well and its means of communication
 
@@ -181,7 +181,7 @@ W: We’re not concerned with you. We have larger concerns.
 
 They’re interested that we’re looking for the child, it’s intriguing as a concept, considering us to be small and that the child is quite a bit larger than us.
 
-Storr: How do we open the passageway?
+[[Storr]]: How do we open the passageway?
 
 W: We have seen no reason to reopen it.
 

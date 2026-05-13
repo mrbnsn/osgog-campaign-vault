@@ -17,7 +17,7 @@ Balz weaved the wind. Bran played the flute (referencing songs at creation)
 
 Ives loves the texture of things. [[Silas]]: When did it start? He’s not even very conscious of it. He’s always just sort of touching things and running his fingers through things. Not sure, always been tactile. They would all talk about the task at hand “I weave baskets, I weave cloth.” It’s not so much a science, but an art. 
 
-Silas hangs with Ives.  Ives spends a lot of time with the goats.  So does silas. 
+[[Silas]] hangs with Ives.  Ives spends a lot of time with the goats.  So does silas. 
 
 “If you have no problems, get a goat”
 
@@ -29,7 +29,7 @@ Silas also learns the knitting and weaving of wool and is able to create a prett
 
 We talk as a party on what our next steps. [[Storr]] would like to take the hammer and learn more about how to use it in concert with the wind and the weaving. We could possibly also take a basket with us and “fuck around and find out” about how to use the hammer with it. 
 
-Storr presents the hammer. “What do you think?”
+[[Storr]] presents the hammer. “What do you think?”
 
 “This is a tool of more use than most. I suspect it can do many things.”
 
@@ -51,7 +51,7 @@ Storr has a climber’s kit.
 
 Silas and Arthen hang back and keep the boat running. Not too keen on encroaching on the space of a giant bird.
 
-Branwen and Storr pack their weapons and leave everything else. In short: it’s lady’s night (morning)
+[[Branwen]] and Storr pack their weapons and leave everything else. In short: it’s lady’s night (morning)
 
 Storr is top rope, but peels off and falls back into the water and takes some damage. Storr makes it the second time. Branwen falls as well, but not as far and takes not as much damage.
 
@@ -77,7 +77,7 @@ Bran is going to advance slowly with Koweth, walking slowly, humming her ([[Cric
 
 Songs that Bran knows:
 
-Song heard at her birth, Cricket’s lullabye
+Song heard at her birth, [[Cricket]]’s lullabye
 
 Song in Gale that one of the birds played on the island (bird song)
 
@@ -101,7 +101,7 @@ Why did we come her Storr?
 
 It’s a giant raven! I figured you’d want to come here!)
 
-I’ve been tasked with mother night to be her eyes and ears. Has he seen anything on the night wind that she should know?
+I’ve been tasked with [[Mother Night]] to be her eyes and ears. Has he seen anything on the night wind that she should know?
 
 Raven hops up. “I come from the night that has no mother. I’m older than your puny human thoughts.” The raven hops down and grabs Storr’s implements, and manages to grab them.
 

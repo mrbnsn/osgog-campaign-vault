@@ -30,7 +30,7 @@ The area is weirdly silent. No animal sounds.
 
 A tone sounds.
 
-Silas steps closer to the rock, carefully with Arthen following.
+[[Silas]] steps closer to the rock, carefully with Arthen following.
 ![[Screenshot 2024-04-18 at 10.07.05 PM.png]]
 
 The rock itself is a statue of a robed woman. 
@@ -51,12 +51,12 @@ Silas continues into the water, getting waste deep. The back of the statue could
 
 Silas travels out to an island in the water, without a problem. The island is a collection of statues similar to the one we came from. Three are closest to me with their backs to me. Silas skirts around to look at their faces.
 
-Krambler and [[Storr]] remain by the first solitary statue, and Krambler takes out his hammer. This first statue’s eyes flash open, and he feels her powerful desire for the hammer. 
+[[Krambler]] and [[Storr]] remain by the first solitary statue, and Krambler takes out his hammer. This first statue’s eyes flash open, and he feels her powerful desire for the hammer. 
 
 Krambler and [[Storr]] make their way over to where Silas stands by the three statues together.
 ![[Screenshot 2024-04-18 at 10.11.35 PM.png]]
 
-Storr sees his own face as an ancient woman. Silas has been conversing with another that appears to him as his sister. Krambler sees [[The Abbot|the Abbott]]’s daughter. These are the child, the crone and the woman.
+[[Storr]] sees his own face as an ancient woman. Silas has been conversing with another that appears to him as his sister. Krambler sees [[The Abbot|the Abbott]]’s daughter. These are the child, the crone and the woman.
 
 [[Seren]] tells Silas that they are in a dungeon. She says you have wandered here, perhaps as a warning. They are not trapped here, they are the jailers. We do have the choice to leave this place. She’s not sure why we are here, other than that this is the path we chose. 
 

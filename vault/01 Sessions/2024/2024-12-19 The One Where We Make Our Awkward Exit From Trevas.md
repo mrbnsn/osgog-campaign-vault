@@ -45,7 +45,7 @@ We’re not from [[Nyth]], we came from a way through some dark ways, tunnels be
 
 What do you all want with us?
 
-[[Storr]]: We want to rest for a period of time and not disturb you all. We stumbled upon thi village and didn’t seek you out. We were set upon by the SK’s minions. We just need to lick our wounds and and continue on. Storr rolls persuasion (8 then we reroll to 13 then we reroll for a 6) Having failed, we decide to succeed with woe.
+[[Storr]]: We want to rest for a period of time and not disturb you all. We stumbled upon thi village and didn’t seek you out. We were set upon by the SK’s minions. We just need to lick our wounds and and continue on. [[Storr]] rolls persuasion (8 then we reroll to 13 then we reroll for a 6) Having failed, we decide to succeed with woe.
 
 They’re not super impressed with Storr’s comment. They look to B & B. "Look, it’s fine you're coming from these other places and you want to stay. We don’t want to get involved in SK, we don’t want him here. We know there are roving bands around us and we’d rather that they stay away from us but can’t help notice that a man with horns, we go through all of this festivity to put horns and a crown on someone, but now you have arrived. We’re trying to figure out what this means. You’ve arrived not with Gwenethen but with [[Mother Night]] who brought darkness into our hall. 
 
@@ -83,7 +83,7 @@ We decide to augment [[Silas]]’s beechstaff with some of the obsidian we provi
 
 Balz would still like to see Mowen if possible.
 
-   1. Gorg, Gwen, and Mother Night Discussion
+   1. Gorg, Gwen, and [[Mother Night]] Discussion
 They still believe that Balz and Bran might be these two entities and not realize it, so they’re still trying to figure out who we are. To them, Gorg and Gwen are married, age varies, sometimes young, sometimes an elderly couple living in a cottage. But they’re always growing things, always a garden. They are nurturing god and goddess and father and mother to the people of the town. They see them not as rulers, not controlling, no aristocracy, they more bring luck if you’re thoughtful and kind and generous, they might bring you luck. They won’t go to war or grant favor or special prowess. And its always the two of them. They would talk about mother night as an enchantress who might bewiutch Gorg especially, sort of a winter element of this. Gorg represents fertility and Mother Night (MN) comes in on a cold night and whisk him away. To them, MN and Gwen are different. 
 
 We discuss Gorgomogg and his situation. Mike R: [[Mog]] seemed to be under some enchantment. Maybe the other half of the island was occupied by MN, and he didn’t realize it. He said his wife was close by.
@@ -103,7 +103,7 @@ Balz is able to see Mowen. She gives him a “woven circlet of ripe wheat” tha
 
 We write with the quill, “casting a silver laced pattern…”
 
-[[Silas]] and [[Branwen]] play chess while smoking Copin’s pipe. Silas (18) obliterates Bran (8).
+[[Silas]] and [[Branwen]] play chess while smoking Copin’s pipe. [[Silas]] (18) obliterates Bran (8).
 
 We long rest. The village is there to see us off. 
 
@@ -132,6 +132,6 @@ First event: Storr the hunter (18) Terrible misfortune. Fatigue saving throw: +3
 
 Next path check: 18. Three hexes away. We;ve made it to a source of one stream between two hills adn continue moving through a forest. Mountains to the south. More hills, grassland off to the east.
 
-Lookout (Branwen) Fatigue saving throw +1 (Mishap?). Bran thinks she hears the band of SK soldiers. She spends an afternoon hiding, never quite sure if they’ve caught up with us. Exhausting day trying to dodge and stay under cover and keep bill happy. 
+Lookout ([[Branwen]]) Fatigue saving throw +1 (Mishap?). Bran thinks she hears the band of SK soldiers. She spends an afternoon hiding, never quite sure if they’ve caught up with us. Exhausting day trying to dodge and stay under cover and keep bill happy. 
 
 Path: 18, three hexes. We see a town on the horizon. Silas: 6, mishap. Fatigue saving throw + 2. Storr is climbing some rocks to catch a goat and we follow. We get a view of what’s around. We burn a day for the detour. We’re in the foothills of the mountains, pretty rocky. This town is a walled town at the end of the river, quite wide at this point. The town is strongly gated and protects one end of the bridge.

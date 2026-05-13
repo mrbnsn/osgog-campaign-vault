@@ -151,7 +151,7 @@ We head downstairs. It’s pretty dark (we roll dex, the descent was touch and g
 
 [[Storr]], Balz, Bran sleep on the couches.
 
-Silas goes back up to the roof to sleep.
+[[Silas]] goes back up to the roof to sleep.
 
 Those in the great room wake up, smelling something sweet. Light through the windows. Bustling from behind the door where the biscuits came from.
 
@@ -163,7 +163,7 @@ Gwen says breakfast will be done in a jiffy.
 
 B waits a jiffy.
 
-G pulls out some muffins and asks Branwen if she would like her to assign someone to butter her muffin.
+G pulls out some muffins and asks [[Branwen]] if she would like her to assign someone to butter her muffin.
 
 Four bleary eyed young girls come trooping through the door with various levels of low enthusiasm. G tells the girls to give us muffins. The red headed girl gives B a muffin.
 

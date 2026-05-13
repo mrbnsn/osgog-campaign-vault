@@ -20,4 +20,4 @@ After our dealings in [[Tawesek]], the party would retrospectively think it odd 
 >
 > - ...harsh, strange, and beautiful.  Like her.*
 >
-> - She had told him about the frozen star at the side of the path. “Yes,” Bryok said, “a frozen star.  She would be drawn by that, I think.”*
+> - She had told him about the frozen star at the side of the path. “Yes,” [[Bryok]] said, “a frozen star.  She would be drawn by that, I think.”*

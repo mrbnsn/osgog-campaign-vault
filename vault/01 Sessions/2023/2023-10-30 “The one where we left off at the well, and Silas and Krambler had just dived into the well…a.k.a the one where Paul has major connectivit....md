@@ -55,7 +55,7 @@ We show him the runes. “Puh. I’ve seen them enough. They’re elegant.”
 
 K got after it, went on a little hunt and found a male moose - borrowed some ranged weaponry, took that sucker down! Moose steaks all around, fellas! [[Krambler]] finds some nice seasoning possibilities, some wild ginger and such. This is gonna be a delicious dinner - everyone’s quite pleased. 
 
-Silas would like to take Arthen with him into the Western woods, and while they’re out and about he’s gonna attempt to “wild shape” and see what happens…do do doooo…Ok. 
+[[Silas]] would like to take Arthen with him into the Western woods, and while they’re out and about he’s gonna attempt to “wild shape” and see what happens…do do doooo…Ok. 
 
 [[Storr]] is gonna talk to Corantok about more bear riding lessons… (roll a couple of D20’s?  For 33 don’t mind that!).
 
@@ -71,7 +71,7 @@ We approach the tower area. Silas sneak into some cover and throws his cave ston
 
 We sneak up to the boundary and all three of us trip. Carantock is like “Who are these people? I mean, in the name of the bear.”
 
-We regroup and remember what the elders told Silas about the tower. We enter: Storr, Silas, Arthen, [[Krambler]]. There are two fireplaces on either side. It is dark in here but our eyes adjust. There’s a spiral staircase going up in the middle. Five statues are arranged against the other end.
+We regroup and remember what the elders told Silas about the tower. We enter: [[Storr]], Silas, Arthen, [[Krambler]]. There are two fireplaces on either side. It is dark in here but our eyes adjust. There’s a spiral staircase going up in the middle. Five statues are arranged against the other end.
 
 Three male statues and two female statues. 
 
@@ -95,7 +95,7 @@ Not much on the floor to examine. The door has been knocked off. The hinges are 
 
 The center’s staff is also made of the same material of the statue. Looks like the base of a tree. All made of stone, but the staff is made to represent wood. The head of the staff is branching out like it was torn out of the ground. The pouches are small, any one is not bigger than a fist, carrying varying items. 10 or 12 of them. A bunch of stuff tied off. 
 
-We advance up the stairs: Silas, Arthen, Krambler, Storr.
+We advance up the stairs: Silas, Arthen, [[Krambler]], Storr.
 
 We see a fireplace to the north.  Four bookshelves around the chamber. The books look old, so old that we would be fearful of destroying them if handled. Braziers are scattered around the room against the walls. 
 

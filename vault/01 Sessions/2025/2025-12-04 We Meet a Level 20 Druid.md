@@ -53,7 +53,7 @@ K, Br and Balz sing along.
 Balz asks about the [[Sun King]]. The distinction is that SK equates himself with the sun, bringing justice, whereas this guy worships and loves the sun.
 
    1. Query: Silas' Great Bear Vision
-Silas asks him about the great bear and the vision. The images i get in his speech are humans create pestilence part, there’s a night moon kingdom, there’s a “invention separate mind” part (a notion of a mind apart, a thought process that is separate, exiled, that’s it’s creating something dark that he’s not a big fan of.), there’s an “old one supporting the world”, using the phrase “koth onan”, a proper noun, he says something about “Dry night”, and then “dreaming everything everywhere” and then gives Arthen an extra pet, grabs him by the jowels a little, gets in his face and says, “Aren’t you little one?”
+[[Silas]] asks him about the great bear and the vision. The images i get in his speech are humans create pestilence part, there’s a night moon kingdom, there’s a “invention separate mind” part (a notion of a mind apart, a thought process that is separate, exiled, that’s it’s creating something dark that he’s not a big fan of.), there’s an “old one supporting the world”, using the phrase “koth onan”, a proper noun, he says something about “Dry night”, and then “dreaming everything everywhere” and then gives Arthen an extra pet, grabs him by the jowels a little, gets in his face and says, “Aren’t you little one?”
 
 There are a series of places where he’s screeching (separate mind portion), marking harsh noises. To Silas’ mind those parts are grating, a sing-song gone wrong, whereas other speech is straight sing-songy.
 
@@ -65,7 +65,7 @@ We recall the “two times” or “events” or man: [[2024-08-29 The One Where
 
 Connection between the [[Moon King]] and the bear?
 
-When Silas was growing up in the druid folkd, the moon king wouldn’t be mentioned as part of their teachings. [[Mons]] followers are terrified of being trapped in this world as slaves (like the dead), purgatory, whereas the druid outlook is that you’re just part of nature. 
+When Silas was growing up in the druid folkd, the [[Moon King]] wouldn’t be mentioned as part of their teachings. [[Mons]] followers are terrified of being trapped in this world as slaves (like the dead), purgatory, whereas the druid outlook is that you’re just part of nature. 
 
 Maybe the bear was trying to communicate to Silas that maybe the MK is keeping him asleep. 
 

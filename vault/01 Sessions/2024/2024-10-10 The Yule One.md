@@ -48,7 +48,7 @@ Based on that answer, we agree to take Yule.
 
 Potential post-yule infiltration of the SK’s ranks. We start taking their clothing and armor in the interest of disguising ourselves and sneaking into the city. How does the emerging magic play into this? Could we use magic in that way? Maybe the old woman in the forest can manage something?
 
-Speak with the dead option? DM: It’s on the table for a discussion, possibly a Branwen abilityx. 
+Speak with the dead option? DM: It’s on the table for a discussion, possibly a [[Branwen]] abilityx. 
 
 We talk about inventory.
 
@@ -94,7 +94,7 @@ We need to determine what our next step is, and then we can unlock more about Ba
 
 [[Silas]] asks the blonde girl about the game, she says it’s called “playing cradle”, the person in the middle is in [[The Cradle]] and spin around them. Just a gesture, no words. He thought he saw them playing this upon waking. [[The Cradle]] is also the name of the symbol we found in front of the tree of seasons, which [[2024-08-08 The One Where Silas and Balz Contemplate Trees|Silas has also seen in henges in his homeland]].  
 
-Silas asks Gwen about the honey. She has hives tucked down near the back entrance of the tower. Some of the bees presumably head down to the forest, other search out alpine plants. Always kind of fascinated by bees and beekeeping. Honey is so nourishing and delicious and loves the process of beekeeping.  Bears don’t come up this far. Only interested in crawling up into a cave. Silas expresses interested in seeing the hives. She does, gross woven skips. Gwen ahsn’t heard of of other sources of honey or bees? Not particularly. 
+[[Silas]] asks Gwen about the honey. She has hives tucked down near the back entrance of the tower. Some of the bees presumably head down to the forest, other search out alpine plants. Always kind of fascinated by bees and beekeeping. Honey is so nourishing and delicious and loves the process of beekeeping.  Bears don’t come up this far. Only interested in crawling up into a cave. Silas expresses interested in seeing the hives. She does, gross woven skips. Gwen ahsn’t heard of of other sources of honey or bees? Not particularly. 
 
    1. Temperature of who’s our girl
 [[Storr]]: Blonde

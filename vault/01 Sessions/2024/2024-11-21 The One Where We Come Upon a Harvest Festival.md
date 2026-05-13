@@ -101,7 +101,7 @@ I like bears. Bears beets goats. I have a bear.
 
 They are surprised.
 
-Look he’s trained. Silas shows how he’s trained.
+Look he’s trained. [[Silas]] shows how he’s trained.
 
 SIlas: I will keep helmet on.
 

@@ -23,7 +23,7 @@ As Balz mentioned, [[Branwen]] decides to dives into the water and swims across 
 
 [[Branwen]] meanwhile arrives back to shore, looking ragged (she has taken one level of exhaustion. She tells us she got hit upside the head.
 
-Branwen’s report:
+[[Branwen]]’s report:
 
 Arrived at the island, rose briars. Cut through rolling intimidation. As she got through the briars, she heard a sound, or two,and they converged together into two figures approached. 10 - 15 feet tall, humanoid, moving slowly but deliberately toward her. She said hi. They swung a fist. There is strength and power. The smell is earthy. Things are dirty and earthy. Was it a giant that was rolling around in a briar batch? Maybe. Hit once, missed twice. And she gtfo of there. As she left, she realized the briards were moving, seemingly searching for her. 
 
@@ -33,9 +33,9 @@ Branwen sits by the fire that we made. We agree to stay put for the next 24 hour
 
 We discuss how to approach the island and why these entities might have been hostile. Maybe Br’s hacking at the thickets was the provocation. S, Balz, Si, and K build a raft by lashing logs together. [[Silas]] (nat 20 let’s go), Balz: 6, [[Storr]]: 7.
 
-[[Silas]] gets together a bunch of sticks, making layers, getting things going. [[Storr]] is kind of helpful, but Silas is like, just let me do it or listen to what I’m saying. Balz and [[Storr]] eventually resort to talking about how they are like pirates and goofing off. Silas is getting annoyed and progress is taking long. At the end of the day, we have a raft. Parts are secure, parts are less secure. Silas is huffing around. He suspects the raft will probably make it to the island, but everything will probably not be dry given the raft we’ve created. It is also rainy and foggy. 
+[[Silas]] gets together a bunch of sticks, making layers, getting things going. [[Storr]] is kind of helpful, but [[Silas]] is like, just let me do it or listen to what I’m saying. Balz and [[Storr]] eventually resort to talking about how they are like pirates and goofing off. Silas is getting annoyed and progress is taking long. At the end of the day, we have a raft. Parts are secure, parts are less secure. Silas is huffing around. He suspects the raft will probably make it to the island, but everything will probably not be dry given the raft we’ve created. It is also rainy and foggy. 
 
-Balz plans to lie prostrate perpendicular to the boards. Storr poses like washington crossing the delaware.
+Balz plans to lie prostrate perpendicular to the boards. [[Storr]] poses like washington crossing the delaware.
 
    1. Our Drenched Mourning Sojourn and Ensuing Em-battle-sment
 We short rest. Br feels better (no exhaustion) and uses a hit die.

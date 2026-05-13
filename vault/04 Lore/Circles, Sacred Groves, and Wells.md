@@ -15,7 +15,7 @@ contributors:
 - Twelve Spoked Wheel: the Inn the party started at
 
    1. [[Foamflower]]
-- The grove the Boy, Kenza and his crew found between the 3 hills of Monsoth surrounded with 12 varying trees
+- The grove the Boy, Kenza and his crew found between the 3 hills of [[Monsoth]] surrounded with 12 varying trees
 
    1. [[Lake of the Eye of Night|The Eye of Night]]
 The circular lake in the far north of the continent.

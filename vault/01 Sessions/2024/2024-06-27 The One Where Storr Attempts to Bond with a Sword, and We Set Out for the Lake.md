@@ -43,7 +43,7 @@ Tal: Confused by the question.
 
 Bal: Moon will be full in a few days?  Should we try again with teh sword in a few days?
 
-Tal: It's up to the sword, but he was talking to the moon on Storr's behalf.  This place is better than a port-a-potty for asking for a lifelong bond.
+Tal: It's up to the sword, but he was talking to the moon on [[Storr]]'s behalf.  This place is better than a port-a-potty for asking for a lifelong bond.
 
 The water here is very fresh mountain water, clear and strong current.  Great water.  Much like [[The Abbot]]'s water.  In terms of it's purity, harkening straight of the rock.
 

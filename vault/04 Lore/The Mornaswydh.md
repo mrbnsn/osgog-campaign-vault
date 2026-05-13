@@ -89,7 +89,7 @@ Black of the dragon's body are stone. Teeth and eye are gold. Horns bronze. Wing
    - Log entry:**
 
       1. #5 Departing [[Myrthn]]'s Island - 3 Enchantresses + Centaurs Island
-   - Departing from:** Island where we came upon the bear mound, the animal singers and Myrthn the ultra-druid
+   - Departing from:** Island where we came upon the bear mound, the animal singers and [[Myrthn]] the ultra-druid
 
    - Device alignment:** **Green lobe**, **purple gem**, dragon head
 

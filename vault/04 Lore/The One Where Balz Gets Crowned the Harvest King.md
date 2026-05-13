@@ -34,7 +34,7 @@ K asks around about a blacksmith, there is one, Gov.
 
 Could also ask around about a cartogrpaher, they woudln’t know what tat means, but they are a stationary people. Know the local geography, but not too much beyond that. One or two have gone to the city. 
 
-[[Silas]] would like to ask around about the entertainment for tonight. Two crotchety guys with fiddles who were stomping around, Abner and Cobern. Silas asks about the open mic situation. It’s sort of an open door. Join in the music. Silas isn’t having it. He wants his party and the flute chorus. [[Branwen]] actively hates what Silas is saying, and successfully intimidates him into submission. He now needs to seek her approval for the next couple hours. 
+[[Silas]] would like to ask around about the entertainment for tonight. Two crotchety guys with fiddles who were stomping around, Abner and Cobern. [[Silas]] asks about the open mic situation. It’s sort of an open door. Join in the music. Silas isn’t having it. He wants his party and the flute chorus. [[Branwen]] actively hates what Silas is saying, and successfully intimidates him into submission. He now needs to seek her approval for the next couple hours. 
 
 Balz does have his hood down. Folks though are just kind of going about their business. B is getting looks, but they’re hard to categorize. He’s getting noticed, but doesn’t know what they’re thinking. Balz puts his hood back up for now.
 
@@ -68,7 +68,7 @@ Anything special about tonight’s feast?
 
 It’s always excited to crown the king and queen. We haven’t had someone with actual horns show up before.
 
-We move onto the blacksmith. Storr stays at the hall to hobknob.
+We move onto the blacksmith. [[Storr]] stays at the hall to hobknob.
 
 We see a well appointed shop, he knows from his own father’s trade. Hasd a shop up int he valley by Taweasek. His dad’s was more haphazard. This shop is well put together. He;s fixing some farm implements. 
 
@@ -140,7 +140,7 @@ The sun sets. The townsflok lift them aloft and walk back with the two of them t
 
 Balz and Mowen are seated in a place of honor on a special table up high. Everyone else enjoys the feast.
 
-Silas drinks. Branwen switches to water. Balz has a lot of thing being brought to him. Folks are excited to hang with him. Do a shot! Initially Balz is a little wary, but as time went on, he’s getting to be more and more into it. Mowen is trepidatious but also intrigued. She’s trying to be friendly, but there’s an age difference, he’s not from the town. Storr’s ears are smoking meanwhile. 
+Silas drinks. [[Branwen]] switches to water. Balz has a lot of thing being brought to him. Folks are excited to hang with him. Do a shot! Initially Balz is a little wary, but as time went on, he’s getting to be more and more into it. Mowen is trepidatious but also intrigued. She’s trying to be friendly, but there’s an age difference, he’s not from the town. Storr’s ears are smoking meanwhile. 
 
 Silas and Balz do a shot out of Silas’ helmet and Balz horn respectively.
 

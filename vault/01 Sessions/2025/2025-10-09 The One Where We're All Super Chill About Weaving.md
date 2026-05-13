@@ -33,7 +33,7 @@ A man and a woman offer to show her some pointers.  [[Branwen]] starts weaving, 
 
 This island is great to smell the ocean, listen to the wind and concentrate on other things.
 
-Balz stands apart from the group and wants to hum to the wind.  (rolls old lore at 21..) he's able to feel out some melodies and harmonies, and contributes to the sound.  The woman who is skeptical of B and K's weaving, and eyes another woman, seems to approve, and pats Branwen on the knee.
+Balz stands apart from the group and wants to hum to the wind.  (rolls old lore at 21..) he's able to feel out some melodies and harmonies, and contributes to the sound.  The woman who is skeptical of B and K's weaving, and eyes another woman, seems to approve, and pats [[Branwen]] on the knee.
 
 [some discussion about [[The Cradle]] - the 3 lobed symbol we keep seeing.  [[Silas]] recalls "playing cradle". A bit of a manuever of a game.  The girls also played this at the tower.
 
@@ -55,7 +55,7 @@ Brawn asks the name of the port city, no one knows this city - unfamiliar.
 
 [[Storr]] - what else besides weaving?  Some normal daily tasks, gotta live.
 
-Storr - you know [[Sun King]]? Nope
+[[Storr]] - you know [[Sun King]]? Nope
 
 Branwen - [[Torval]], [[Ceridwen]], [[Mons]]?  Not the names, but the figures.  God King, inventor of the wheel, sure.  [[Ceridwen]] - names of things - that's what we listen to and capture in our weaving.  A wordless weaving.
 
@@ -81,7 +81,7 @@ Isolde: right…
 
 Isolde: Questioning look at Branwen, who shrugs.
 
-Silas: wanna talk about stars? (asking about the great bear and the lesser bear and the dragon curling between them.)
+[[Silas]]: wanna talk about stars? (asking about the great bear and the lesser bear and the dragon curling between them.)
 
 Isolde: Nope.  No dragon, bears or whatever.
 

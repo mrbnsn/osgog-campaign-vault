@@ -105,7 +105,7 @@ The guard master says it’s been a longtime since we’ve hosted anyone outside
 
 How do you get from there to here?
 
-We went through a cave in our world and emerged in Nyth.
+We went through a cave in our world and emerged in [[Nyth]].
 
 We’ve heard tell of other lands. Are they real? We know the water falls. No one we know has gone over and returned. We don’t know where it goes. Presumably something could back from that place. We don’t know where that place is.
 

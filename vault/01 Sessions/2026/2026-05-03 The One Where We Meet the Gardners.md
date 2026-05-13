@@ -34,7 +34,7 @@ S:	Who?
 
 [[Storr]]:   "she came for his body" physically?  Or?  She's a legend, a deity.
 
-Mag:    Yes, she came and took his body.  Royalty, not deity.
+[[Mag]]:    Yes, she came and took his body.  Royalty, not deity.
 
 S: 	We've heard of [[Bremphyr]] and Karenja, as gods.
 
@@ -58,7 +58,7 @@ Tending the garden.   Long time, but feels like no time has passed.
 
 Mag:	it felt appropriate to mark where he'd been with a tree.
 
-Storr: 	Why [[Derwen Trees]]?
+[[Storr]]: 	Why [[Derwen Trees]]?
 
 Mag: 	They tend the [[Derwen Trees]] to honor [[Mother Night]].
 

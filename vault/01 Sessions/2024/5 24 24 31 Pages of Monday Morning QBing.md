@@ -125,7 +125,7 @@ Mike Robinson:
 
 Nathaniel Blauss:
 
-    	You remember that there were certainly stories of the five children of [[Mons]], and that they were Osgog (healer), Bremphyr (smith), [[Rhiannon]] (horsewoman/sailor), [[Kevnis]] (weaver), and [[Priweythva]] (potter).
+    	You remember that there were certainly stories of the five children of [[Mons]], and that they were [[Osgog]] (healer), [[Bremphyr]] (smith), [[Rhiannon]] (horsewoman/sailor), [[Kevnis]] (weaver), and [[Priweythva]] (potter).
 
 Mike Robinson:
 
@@ -137,11 +137,11 @@ Michael Hopps:
 
 Nathaniel Blauss:
 
-    	Kerenja?
+    	[[Kerenja]]?
 
 Mike Robinson:
 
-    	And Rhiannon was a name inscribed on a sword or something?
+    	And [[Rhiannon]] was a name inscribed on a sword or something?
 
     	Yeah Kerenja, sorry
 
@@ -167,7 +167,7 @@ Mike Robinson:
 
 Ryan Petti:
 
-    	It's one of the four gifts mons children gave him
+    	It's one of the four gifts [[Mons]] children gave him
 
 Mike Robinson:
 
@@ -195,7 +195,7 @@ Ryan Petti:
 
 Mike Robinson:
 
-    	Sword of Darkness Edged in Light sounds like it came from Osgog: a healer associated with darkness, darkness contained by light?
+    	[[Sword of Darkness Edged in Light]] sounds like it came from Osgog: a healer associated with darkness, darkness contained by light?
 
     	Did Osgog create the prison?
 
@@ -217,11 +217,11 @@ Michael Hopps:
 
 Bremphyr (smith):, Sword of Darkness Edged in Light
 
-Rhiannon (horsewoman/sailor): Crown of Water
+Rhiannon (horsewoman/sailor): [[Crown of Water]]
 
-Kevnis (weaver): Cloak of Wind
+[[Kevnis]] (weaver): [[Cloak of Wind]]
 
-Priweythva (potter): Scepter of Stone
+[[Priweythva]] (potter): [[Scepter of Stone]]
 
     	How do you feel about this mapping?
 
@@ -249,7 +249,7 @@ Mike Robinson:
 
 Ryan Petti:
 
-    	Also, going back to the cultural interpretation bit, if Mons and the God of Death is man's telling of that story, to whom does The God King belong?
+    	Also, going back to the cultural interpretation bit, if [[Mons and the God of Death]] is man's telling of that story, to whom does [[The God King]] belong?
 
     	The GK does glorify the natural power of the wife quite a bit.
 
@@ -297,7 +297,7 @@ Mike Robinson:
 
 Ryan Petti:
 
-    	I resent the naming of Monsoth's Grove
+    	I resent the naming of [[Monsoth]]'s Grove
 
 Mike Robinson:
 
@@ -309,7 +309,7 @@ Ryan Petti:
 
     	I don't know, just not that
 
-    	Silas is like on whatever side the turtle and the sleeping bear are on
+    	[[Silas]] is like on whatever side the turtle and the sleeping bear are on
 
 Mike Robinson:
 
@@ -413,7 +413,7 @@ Nathaniel Blauss:
 
 Mike Robinson:
 
-    	One other thing to note which muddies the waters (heh) a bit with the Sun King: I'm not certain this is the case, but the torture and magic used on Balz seems to have resulted in his being possessed of "stone bones" like the Ancient Turtle
+    	One other thing to note which muddies the waters (heh) a bit with the [[Sun King]]: I'm not certain this is the case, but the torture and magic used on Balz seems to have resulted in his being possessed of "stone bones" like the Ancient Turtle
 
     	It could be that Balz already had those as part of him, though
 
@@ -429,7 +429,7 @@ Mike Robinson:
 
     	Oh and those ancient bone stones are also connected to Dragons, as is Balz (motif of him being a dragon)
 
-    	Actually, Nate, can you answer that or no? Are Balthazar's ancient bones a result of the torture, or had he already had them?
+    	Actually, Nate, can you answer that or no? Are [[Balthazar]]'s ancient bones a result of the torture, or had he already had them?
 
 Ryan Petti:
 
@@ -541,11 +541,11 @@ Michael Hopps:
 
     	Old brother found fire, gifted from a raven related entity.
 
-    	Weyland’s mother Morgan had a way with flames, and so their fire never went out.  She said she had fire in her heart, and all believed her.
+    	[[Weyland]]’s mother Morgan had a way with flames, and so their fire never went out.  She said she had fire in her heart, and all believed her.
 
 Mike Robinson:
 
-    	re: hourglass, I think I remember Mannix using it at camp one night and the sand flowed strangely
+    	re: hourglass, I think I remember [[Mannix]] using it at camp one night and the sand flowed strangely
 
 Michael Hopps:
 
@@ -575,7 +575,7 @@ Mike Robinson:
 
 Ryan Petti:
 
-    	Who probably live in a cabin on a lake in the elder lands
+    	Who probably live in a cabin on a lake in the [[Elder Lands]]
 
 Michael Hopps:
 
@@ -665,7 +665,7 @@ Ryan Petti:
 
 Nathaniel Blauss:
 
-    	Bardh would remind you that the motivation of characters in stories sometimes has more to do with the teller, rather than with whom the story is about.
+    	[[Bardh]] would remind you that the motivation of characters in stories sometimes has more to do with the teller, rather than with whom the story is about.
 
 Mike Robinson:
 
@@ -769,7 +769,7 @@ Ryan Petti:
 
     	From last night:
 
-Storr: Ever heard of the foundling?
+[[Storr]]: Ever heard of the foundling?
 
 The foundling?? Well, lots in stories, but if you talk about THE foundling, there;s one that came from royal lineage that left to go set a watch. This young prince walks off and then comes back and declare something, I don’t know.
 
@@ -813,7 +813,7 @@ Mike Robinson:
 
 Nathaniel Blauss:
 
-    	Branwen wouldn't know how to answer that.
+    	[[Branwen]] wouldn't know how to answer that.
 
 Mike Robinson:
 
@@ -947,7 +947,7 @@ Mike Robinson:
 
 Michael Hopps:
 
-    	Ok, now regarding [[The Abbot]].  He was a prince across the sea, we think.  We think that Osgog is over there, ruling the roost.  Is the Abbot is one of Mons' children?
+    	Ok, now regarding [[The Abbot]].  He was a prince across the sea, we think.  We think that Osgog is over there, ruling the roost.  Is [[The Abbot]] is one of Mons' children?
 
 Mike Robinson:
 
@@ -955,7 +955,7 @@ Mike Robinson:
 
     	Brother to the sun king?
 
-    	Which element would the Abbott be, the
+    	Which element would [[The Abbott]] be, the
 
 Michael Hopps:
 
@@ -1009,7 +1009,7 @@ Michael Hopps:
 
 Mike Robinson:
 
-    	I wonder if all of Mons' children are invested in this mystery of the black water
+    	I wonder if all of Mons' children are invested in this mystery of [[The Black Water]]
 
     	Wait, isn't Mons trapped under the black lake?
 
@@ -1039,7 +1039,7 @@ Ryan Petti:
 
 Mike Robinson:
 
-    	It does feel like the advent of the black lake coincides with the caging of Mog's balls
+    	It does feel like the advent of the black lake coincides with the caging of [[Mog]]'s balls
 
 Ryan Petti:
 
@@ -1071,7 +1071,7 @@ Ryan Petti:
 
 Michael Hopps:
 
-    	The Boatman said this: All human beings contain a measure of goodness. Below the lake is trapped the symbol of evil created by men, because men created it to move it away from themselves. And so the lake was made to keep that evil out of the world, yet it still exists and it would be better if it stayed there and does not escape.
+    	[[The Boatman]] said this: All human beings contain a measure of goodness. Below the lake is trapped the symbol of evil created by men, because men created it to move it away from themselves. And so the lake was made to keep that evil out of the world, yet it still exists and it would be better if it stayed there and does not escape.
 
 Mike Robinson:
 
@@ -1149,7 +1149,7 @@ Ryan Petti:
 
     	Not sure, maybe
 
-    	Musk was messing with something in the caves, and rumored to have caused the qukes
+    	[[Musk]] was messing with something in the caves, and rumored to have caused the qukes
 
     	 ​😮​ to “ (like radiation...) ” 
 
@@ -1187,7 +1187,7 @@ Mike Robinson:
 
     	I think we've guessed 5 including the sisters? But we could be completely wrong
 
-    	Part of me feels like the faces refer to something endemic to the world we're in; a reference to something. Perhaps star signs? Silas, you know of these. How many constellations do your people observe as significant to the machinations of the universe? What are those constellations? What traits do people born under those various signs possess?
+    	Part of me feels like the faces refer to something endemic to the world we're in; a reference to something. Perhaps star signs? Silas, you know of these. How many [[Constellations]] do your people observe as significant to the machinations of the universe? What are those constellations? What traits do people born under those various signs possess?
 
 DM could maybe chime in here re: the stars/asterisms/constellations?
 
@@ -1259,7 +1259,7 @@ Nathaniel Blauss:
 
 Ryan Petti:
 
-    	Geshwa: 13
+    	[[Geshwa]]: 13
 
 Mike Robinson:
 
@@ -1321,7 +1321,7 @@ Ryan Petti:
 
 Mike Robinson:
 
-    	So Morianoth was previously a blonde, and was changed by the dark enchantresses into her current form
+    	So [[Morianoth]] was previously a blonde, and was changed by the dark enchantresses into her current form
 
 Michael Hopps:
 
@@ -1329,7 +1329,7 @@ Michael Hopps:
 
 Mike Robinson:
 
-    	Related to the separation of Mog and Mabmnoss?
+    	Related to the separation of Mog and [[Mabmnoss]]?
 
     	They haven't spoken since that happened?
 
@@ -1421,7 +1421,7 @@ Mike Robinson:
 
     	Same person as Kerenja?
 
-    	Let's not forget the wise old woman in the village near Tawesek
+    	Let's not forget the wise old woman in the village near [[Tawesek]]
 
     	She seemed to know the Abbott well
 
@@ -1451,7 +1451,7 @@ Bremphyr = Weylund
 
 Rhiannon = Kerenja, and is one and the same as Mabmnoss
 
-Kevnis = Foundling/Bryok/Abbot
+Kevnis = Foundling/[[Bryok]]/Abbot
 
 Mike Robinson:
 

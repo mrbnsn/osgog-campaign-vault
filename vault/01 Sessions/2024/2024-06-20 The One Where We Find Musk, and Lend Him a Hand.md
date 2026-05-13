@@ -95,7 +95,7 @@ Off to the left is the mouth of a cave, down inside is some firelight. No signs 
 
 He looks up, sees us, and he looks down and has a raven in his hand.
 
-Branwen: You there man, that bird belongs to me. Is he okay?
+[[Branwen]]: You there man, that bird belongs to me. Is he okay?
 
 The man holds up the bird. B takes it. Koweth looks up and shakes his head. Has a wound on the same side of his head that she felt. She strokes him because he’s a good boy.
 
@@ -109,7 +109,7 @@ I don’t know,. Why are you here? What brought you here?
 
 He’s twitchy and overwhelmed. It didn’t appear that he was being threatening toward the bird. 
 
-Storr: What happened to the bird?
+[[Storr]]: What happened to the bird?
 
 I heard a splash, and the sentinels keep a watch. 
 
@@ -179,7 +179,7 @@ K does sense that he’s being authentic. K has met him before, and he was alway
 
 Bran: You gave away the child to a stranger with a kind face?
 
-Musk: He saw the people walking through the cafe with her, it seemed wrong, he called out in fear to the stone, which has never answered before. K could imagine him asking something of the rock. Then the rock answered and he was flabbergasted.
+[[Musk]]: He saw the people walking through the cafe with her, it seemed wrong, he called out in fear to the stone, which has never answered before. K could imagine him asking something of the rock. Then the rock answered and he was flabbergasted.
 
 B: Aside from your familial connection, what's the significance of the child?
 
@@ -209,7 +209,7 @@ We want to find your niece.
 
 Okay, why?
 
-Because Bryok tasked us with it. (21 roll)
+Because [[Bryok]] tasked us with it. (21 roll)
 
 We have convinced him (we’ve succeeded the two required successes) He’s amenable to us staying here and to whatever knowledge here. B secondarily asks about the names of some things (sidebar during the week)
 

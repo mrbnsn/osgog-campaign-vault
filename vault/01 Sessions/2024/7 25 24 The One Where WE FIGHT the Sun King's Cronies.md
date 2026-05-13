@@ -25,9 +25,9 @@ We loot those bodies. Laden has some nice enough armor; Same with the sword and 
 
 Copin has a sweet long clay pipe. Some medicinal herbs (herbalists kit). He has a key to the quarters. No letters. Copin has a ring that doesn’t necessarily look valuable, but a twining of 3 different metals.Copin has a branze knife. Laden’s weapons were also bronze. 
 
-Branwen shoves Laden’s sock in Copin’s mouth. 
+[[Branwen]] shoves Laden’s sock in Copin’s mouth. 
 
-Storr goes topside. Some crew is hiding by the bowsprit. Keto is still manning the helm, looking around. Arthen and Bill are hanging out looking at the mist. Crew seems okay, but unnerved. Storr asks if everyone’s okay. They look, and are unsure. Keto says “What just happened?”
+[[Storr]] goes topside. Some crew is hiding by the bowsprit. Keto is still manning the helm, looking around. Arthen and Bill are hanging out looking at the mist. Crew seems okay, but unnerved. Storr asks if everyone’s okay. They look, and are unsure. Keto says “What just happened?”
 
 S: Keto, come with me. 
 

@@ -21,7 +21,7 @@ B goes and looks at the thing in the middle of the space. The top of the tower i
 
 There’s a patch of the milky in the pool, and a part of it seems to be missing the shape of a raven. The stars are so dense that the “[[Constellations]]” could be the gaps. B’s eye is drawn to the raven shaped gap. 
 
-We all walk over to the pool. [[Storr]] looks in and sees a constellation of stars, not gaps: a bird shape seeming to fly along the course of the milky way, spread wings, long neck. Balz sees a twisting shape, long tail, small body, sitting between the two shapes he knows as the greater and lesser bear. [[Silas]] is looking at the bear. K sees a bird seeming to rise and pause in midair as if about to dive (a kingfisher.)  These are stationary in the sky, as stars are. All of these are "regular" star constellations, except the Raven is a dark spot in the "milky way". 
+We all walk over to the pool. [[Storr]] looks in and sees a constellation of stars, not gaps: a bird shape seeming to fly along the course of the milky way, spread wings, long neck. Balz sees a twisting shape, long tail, small body, sitting between the two shapes he knows as the greater and lesser bear. [[Silas]] is looking at the bear. K sees a bird seeming to rise and pause in midair as if about to dive (a kingfisher.)  These are stationary in the sky, as stars are. All of these are "regular" star [[Constellations]], except the Raven is a dark spot in the "milky way". 
 
 <Raven, Phoenix, Dragon, Bear, Kingfisher>
 
@@ -59,7 +59,7 @@ S: Yes, but I may be distracted. (He is immediately distracted, N’s performanc
 
 Balz explains the strange goings on. “We’re looking for a kidnapped child. Also told by an [[The Oracle|oracle]] that we should seek out this place in particular and that it would be important for us to come here.”
 
-S: ORACLE??
+S: [[The Oracle|ORACLE]]??
 
 B: Just someone that can vaguely see things that occur in the future.
 
@@ -110,7 +110,7 @@ No, but Gwen keeps bees (the old woman we met here)
 
 (Hopps mentions one of [[Cricket]]’s dreams: “And again you are lifted yet higher, and you see that the stars look down upon the earth, and each star is a figure with black wings and black cloak holding lanterns of various colors.  And each peers down.  And you fall back to sleep.”)
 
-Branwen talks to Ser and tries to impart about the bees and the stars, and a vision that the stars are lanterns held by figures, watching down upon us.  Branwen asks if they have any thoughts as to what the stars ARE.
+[[Branwen]] talks to Ser and tries to impart about the bees and the stars, and a vision that the stars are lanterns held by figures, watching down upon us.  Branwen asks if they have any thoughts as to what the stars ARE.
 
 Ser: I don’t know what the stars are!
 
@@ -130,7 +130,7 @@ Balz: If you wouldn’t mind, we’d love to shelter here. You’re welcome to u
 
 S: You’ll have to talk to Gwenynen.
 
-Branwen tells Silas that the raven haired girl knows a song he might be interested in. It’s the song that Silas knows from his folk, the women going down to the river.
+Branwen tells [[Silas]] that the raven haired girl knows a song he might be interested in. It’s the song that Silas knows from his folk, the women going down to the river.
 
 https://drive.google.com/file/d/1TA6-RfCIyNMSOzrfmhdeQ0hB0Y-7G4qP/view?usp=sharing
 
@@ -148,7 +148,7 @@ We talk about potentially taking K’s shit and (LET MY [[Krambler]] GOOOOO) let
 
 We head downstairs. It’s pretty dark (we roll dex, the descent was touch and go). We don’t see light under the doors. We get down to the great room. Fire has died down, no real signs of life at this juncture, pretty quiet. 
 
-Storr, Balz, Bran sleep on the couches.
+[[Storr]], Balz, Bran sleep on the couches.
 
 Silas goes back up to the roof to sleep.
 
@@ -178,7 +178,7 @@ B says, ‘I understand you keep bees”
 
 G: I do.
 
-B tells the story of Geshwa over tea. G makes tea for her and herself. They sit by a window with a lovely view down through the valley.
+B tells the story of [[Geshwa]] over tea. G makes tea for her and herself. They sit by a window with a lovely view down through the valley.
 
 G says she always liked that one.
 

@@ -33,7 +33,7 @@ We head to the main entrance so as to not look shady. There are guards, both men
 
 We approach. There’s a portcullis. Four guards, two men, two women. All dressed in blue. Not heavily armored. We see an insignia of a silver harp on a blue background.
 
-“Hello, travellers, what brings you to Taymar?”
+“Hello, travellers, what brings you to [[Taymar]]?”
 
 We’d like to rest, we are weary, and discover more about your city.
 
@@ -53,7 +53,7 @@ Bill and the raven are okay to enter.
 
 We enter. The path is about 10 feet across. There are buildings on either side, wooden beams and plaster style. Immediately inside there is a four way intersection.
 
-Storr asks about an inn and food.
+[[Storr]] asks about an inn and food.
 
 You’d have to go towards the barracks, straight through to the far gate. We go that direction. We come to another portcullis with a couple other guards.
 
@@ -79,7 +79,7 @@ You can see the mist from the bridge, but a closer look is going to be too dange
 
 They’re waiting for us to tell them our story.
 
-We decide to keep it simple, and say we are travelers and not from Nyth and are trying to get back home.
+We decide to keep it simple, and say we are travelers and not from [[Nyth]] and are trying to get back home.
 
 Not from Nyth? How did you get here? (Professional pushback, because we got in and they’re watching the river.)
 
@@ -89,7 +89,7 @@ We agree.
 
 We are led up to the barracks.  It's late afternoon.  We end the journey.  Fatigue Saving Throws coming up…
 
-We all take multiple levels except for Krambler.
+We all take multiple levels except for [[Krambler]].
 
    1. The Night Sounds and the Guard Interrogation
 We crash for the night. We take a short rest. As we listen to the river rushing by and the wind in the tight cleft in the mountains. Not sure where the wind is coming from, eerie tonal sounds, ethereal, in a minor key. More noticeable at night. Can still hear it in the morning, but more faint.
@@ -116,7 +116,7 @@ It’s been a long time, we’re tired and desperate, trying to get home.
 
 So you’re going to die?
 
-Silas offers that they had found his sister, whom he trusts, in Nyth after they had been separated as children, and she was the one to suggest that we seek out this waterfall to bring us home.
+[[Silas]] offers that they had found his sister, whom he trusts, in Nyth after they had been separated as children, and she was the one to suggest that we seek out this waterfall to bring us home.
 
 They decide that perhaps they’ve gotten as much information as they could from us.
 
@@ -182,7 +182,7 @@ They want to know how these connections between these worlds exist.
 
 Sidebar: we don’t know why these connections exist. They seem to have more information than we did arriving here. They’re aware of the existence of two worlds. Perhaps we can talk about Gorg and Gwenethen and [[Mother Night]], as those are figures we've heard in our own stories but have also come across folk in Nyth that know them. 
 
-We mention Gorg and Gwen, and Mother Night. They perk up at this. They ask if our travels have anything to do with those figures. K notices then that as they talk about the three of them, they’;re looking a little more intently at Branwen (Balz is being ignored for now.) They’re trying to see if we have any alignment with the names we just mentioned. And if our travel is connected.
+We mention Gorg and Gwen, and [[Mother Night]]. They perk up at this. They ask if our travels have anything to do with those figures. K notices then that as they talk about the three of them, they’;re looking a little more intently at [[Branwen]] (Balz is being ignored for now.) They’re trying to see if we have any alignment with the names we just mentioned. And if our travel is connected.
 
 Branwen expresses her unapologetic patronage to MN. The rest of us distance ourselves from this idea, with Silas saying that he holds no opposition to Branwen's alignment, but for himself he feels he may be more in tune with the ideals of Gwenethen.
 

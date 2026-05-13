@@ -162,7 +162,7 @@ This runic key was found inside a chest at the [[Ancient Tree|humongous, ancient
 
 - “As the dead loose their grip”* - direct reference to the dead we encountered in the circle and how they were waning
 
-   1. The message Cricket sees in the trees reflected in the fountain at [[Celliwig]]
+   1. The message [[Cricket]] sees in the trees reflected in the fountain at [[Celliwig]]
 > *Tell the Traitor:*
 >
 > - My festival approaches, like you*

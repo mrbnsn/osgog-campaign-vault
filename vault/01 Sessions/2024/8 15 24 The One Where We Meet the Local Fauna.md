@@ -15,7 +15,7 @@ contributors:
 
 Balz wants to search around the stone circle for any evidence about what might have been used for those groves. Something that was set into a notch that reached the tree. Looking for evidence to support that theory. (9 perception) doesn’t see anything that fits into the grooves. As B walks over to one stone, he thinks it doesn’t look like as good way for something to be held there. Grooves are four to six inches wide, 2 feet wide vertically. Rocks inner surfaces are flat. Outer surfaces are natural. Groove starts at belly button height and goes to your head. Seems like something has been rubbing against these spots over time.
 
-Storr requests that [[Krambler]] sits on the stone. (Perc, 19) K feels like he’s at the center of a nexus of voices and the tattoos on his body feel to him like they’re flowing a little, flowing in song, but right now he can’t hear it, but he feels like this is where the voices come from, or at least made to speak. So he would be pretty interested in doing something with that, in trying to see if he could speak to those voices. K, having stone sense, walks over to a stone and he investigates the groove and sees that it’s a were-mark(?) in the stone. He sees that the flat side has been dressed crudely. He takes his hand and puts it into the grooves and we hear a sound like the low notes of a mandocello being played with a bow.
+[[Storr]] requests that [[Krambler]] sits on the stone. (Perc, 19) K feels like he’s at the center of a nexus of voices and the tattoos on his body feel to him like they’re flowing a little, flowing in song, but right now he can’t hear it, but he feels like this is where the voices come from, or at least made to speak. So he would be pretty interested in doing something with that, in trying to see if he could speak to those voices. K, having stone sense, walks over to a stone and he investigates the groove and sees that it’s a were-mark(?) in the stone. He sees that the flat side has been dressed crudely. He takes his hand and puts it into the grooves and we hear a sound like the low notes of a mandocello being played with a bow.
 
 Storr talks to Balz, and says he wants K to take Kleghien and try to attune with it.
 
@@ -75,9 +75,9 @@ Balz speculates on the stone and sitting on it… (perc, 17)
 
 The goose has settled down with the reeds. The path through the reeds is about the size of the goose.
 
-Branwen asks the goose to sit on the stone. The goose looks nervous about the prospect, but B is persuasive (25). G looks around at us and up at the sky and lets out a couple of nervous plantive soundsing honks, and scuttles away back over outside the stone circle to se if anything happens.
+[[Branwen]] asks the goose to sit on the stone. The goose looks nervous about the prospect, but B is persuasive (25). G looks around at us and up at the sky and lets out a couple of nervous plantive soundsing honks, and scuttles away back over outside the stone circle to se if anything happens.
 
-Silas sits on the stone, attempting to connect to the feminine presences, He is able to .. he feels an inarticulate presence, as he sits, he leans back and feels like he’s being embraced by the tree. Like it’s a comforting, protective, feminine presence. Reminded of his mother, a mothering impulse, and as he does that, another shape comes out of the mist and lands flying in one of the branches of the trees in the summer section and the large red and orange plumed bird lands and squawks at the goose. The goose honks bank and seems somewhat reassured that this bird is here. They chatter back and forth in a bird language. A very large bird. Somewhat high up, perched in the tree.
+[[Silas]] sits on the stone, attempting to connect to the feminine presences, He is able to .. he feels an inarticulate presence, as he sits, he leans back and feels like he’s being embraced by the tree. Like it’s a comforting, protective, feminine presence. Reminded of his mother, a mothering impulse, and as he does that, another shape comes out of the mist and lands flying in one of the branches of the trees in the summer section and the large red and orange plumed bird lands and squawks at the goose. The goose honks bank and seems somewhat reassured that this bird is here. They chatter back and forth in a bird language. A very large bird. Somewhat high up, perched in the tree.
 
 Branwen calls up to the bird and it sort of looks at her with a certain level of sternness, not angry, but something liek a regal presence. And twitters back to B that she doesn’t nec understand, and then goes back to looking out at the world. The birds seems like the bird is being very aware of protocol, B just didn’t understand the bird. 
 
@@ -149,7 +149,7 @@ Em, because it’s the saddest of keys. Jk, the raven would not pick one note ne
 
 Would you like to hear some music?
 
-Silas recalls the story of Icebeard and the Honey Woman, how he found a woman in the snow who calls to mind Morianoth. There are bees and honey in that story.
+Silas recalls the story of Icebeard and the Honey Woman, how he found a woman in the snow who calls to mind [[Morianoth]]. There are bees and honey in that story.
 
 We ask the raven if the woman that comes to the stone is the Honey Woman. 
 

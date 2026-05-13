@@ -92,6 +92,6 @@ Br has a flash, an revelation: Mother and daughter, one and the same. Maybe one 
 
 [[Bremphyr]] is Mabnoss’ son. This sword was forged by my lady’s son, adn feels right in her hand.
 
-Is Mons another name from Mogg?
+Is [[Mons]] another name from Mogg?
 
-Mabnoss is [[Bremphyr]]/[[Weyland]]'s mother.  Mons is Bremphyr's father.  [[Mabmnoss]] is [[Mog]]'s wife.  [[Mog]] + [[Mabmnoss]] = Mons + M
+Mabnoss is [[Bremphyr]]/[[Weyland]]'s mother.  Mons is [[Bremphyr]]'s father.  [[Mabmnoss]] is [[Mog]]'s wife.  [[Mog]] + [[Mabmnoss]] = Mons + M

@@ -76,7 +76,7 @@ As she says this, a stark silhouette appears off to the northeast and approaches
 
 B: What ho stranger?
 
-A voice like storr’s: Why should I trust voices calling to me from the dark? Speak! Who are you?
+A voice like [[Storr]]’s: Why should I trust voices calling to me from the dark? Speak! Who are you?
 
 B: We are travelers that are here by happenstance. (We introduce ourselves). What is your name?
 

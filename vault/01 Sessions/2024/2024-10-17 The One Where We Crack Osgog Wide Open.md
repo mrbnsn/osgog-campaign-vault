@@ -101,7 +101,7 @@ Balz recalls what happened during his vision at the island:
 >
 > Very calmly, and with understanding.
 >
-> - Storr would have asked her about the tree and spring; do they exist (this is after Storr tries to locate it on her own)?  Storr would have, in a manner in which to earn trust, described the trees and spring the party has encountered and marveled at how special they were.
+> - [[Storr]] would have asked her about the tree and spring; do they exist (this is after Storr tries to locate it on her own)?  Storr would have, in a manner in which to earn trust, described the trees and spring the party has encountered and marveled at how special they were.
 >
 > She would say, yes, they do exist. And that she knows that there are many such places.
 >
@@ -176,7 +176,7 @@ Is he a poet?
 
 No, he’s a healer.
 
-You knew Osgog?
+You knew [[Osgog]]?
 
 I think so, a long time ago.
 
@@ -202,7 +202,7 @@ She has doubts as to the accuracy of that story. In terms of the return of [[Mon
 
 What is her true version of [[Mons and the God of Death]]?
 
-It was sound like mons and his followers to take credit for something like that. Something happened. She’s heard about the darkness escaping and one of the towers falling, but whether or not Mons could pull that off by himself, he wasn’t one to listen to a power to be able to do that.
+It was sound like [[Mons]] and his followers to take credit for something like that. Something happened. She’s heard about the darkness escaping and one of the towers falling, but whether or not Mons could pull that off by himself, he wasn’t one to listen to a power to be able to do that.
 
 Mons’ siblings, [[Ceridwen]] and [[Torval]], we don’t hear about them much. Would they have helped him defaeating this [[God of Death]]? Where are they now?
 
@@ -266,7 +266,7 @@ Not specifically. There is some communication between worlds. You are from a wor
 
 Did you know what his return would entail? The people of Trenewydth seemed to understand what he was doing and react immediately almost ceremonially.
 
-She has aways lived in the hinterlands and hasn't been close to civilization. “The eternal city” Bryok was given a choice and death had something to do with it so the fact that he came back and chose death, she wouldn’t necessarily  understand what had happened but there’s a certain logic to it.
+She has aways lived in the hinterlands and hasn't been close to civilization. “The eternal city” [[Bryok]] was given a choice and death had something to do with it so the fact that he came back and chose death, she wouldn’t necessarily  understand what had happened but there’s a certain logic to it.
 
 Why was Bryok called the shining price?
 
@@ -316,7 +316,7 @@ It’s not the she hasn’t wondered. It’s not clear to her that regardless, s
 
 If you have a name of a thing you have power over it. If you don’t have a name, nothing can have that power over you (like Bryok’s “daughter”)
 
-We talk more about the names of things. Ceridwen and others would not have given names to things, they would have discovered what the were, as if the things allowed their names to become known.
+We talk more about the names of things. [[Ceridwen]] and others would not have given names to things, they would have discovered what the were, as if the things allowed their names to become known.
 
 So which is our girl?
 

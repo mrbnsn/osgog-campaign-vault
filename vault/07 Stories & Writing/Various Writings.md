@@ -15,13 +15,13 @@ contributors:
 - [[How Old Brother Found Fire]]
    - Everyone has heard a version of this except [[Storr]].  Not as much detail, and probably just the part about someone named [[Torval]] getting fire from a mountain top.
 - [[Weyland]]
-   - Crickett, Balthazar, [[Mannix]], and [[Krambler]] may have heard versions of this, but it is mostly just a folk tale.
+   - Crickett, [[Balthazar]], [[Mannix]], and [[Krambler]] may have heard versions of this, but it is mostly just a folk tale.
 - [[Mons and the God of Death]]
-   - Crickett, Balthazar, Mannix, and Krambler would have heard this as a religious story in and around [[Monsoth]].
+   - Crickett, Balthazar, [[Mannix]], and [[Krambler]] would have heard this as a religious story in and around [[Monsoth]].
 - [[Geshwa]]
    - This one is new to everyone, though you may be able to roll Old Lore to get more info.
 - [[Foamflower]]
-   - Crickett, Mannix, and Krambler would have heard this one in and around Monsoth.
+   - Crickett, Mannix, and Krambler would have heard this one in and around [[Monsoth]].
 - [[The Red Blade (Illuminated Manuscript Story)]]
    - Balthazar has heard this one.  Crickett, Mannix, and Krambler would need to roll to see if they've heard it.
 
@@ -31,7 +31,7 @@ contributors:
 - [[The God King]]
    - This is one Balthazar, [[Silas]] can roll Old Lore on.
 
-Told by [[Silas]] in Sibrwd to Bardh and the Company
+Told by [[Silas]] in Sibrwd to [[Bardh]] and the Company
 
 - [[Gwedhen]]
 

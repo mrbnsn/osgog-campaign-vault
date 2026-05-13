@@ -39,7 +39,7 @@ The Gale song was a song that one of the bird’s sang, which we do not hear now
 
 We head up the hill. We emerge from the forest and climb the steep but rounded hill. We can take in the view of the whole island from here. Low hills to the NE. South, the hills we entered over. A little lump to the west. We can see spots of movement at the forest edges, not bustle, but a few shapes coming from a couple directions that just move and stop. An intelligent movement coming from the forest to stand there. 
 
-Silas finds the whole hill heaving up and down, and feels a presence.  He can trade a mental stat from his bear to a physical point to human, or something.  The human gets smarter, the bear gets smarter.  
+[[Silas]] finds the whole hill heaving up and down, and feels a presence.  He can trade a mental stat from his bear to a physical point to human, or something.  The human gets smarter, the bear gets smarter.  
 
 The rest of the party does feel the hill moving.  The voices singing are getting stronger.
 

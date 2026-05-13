@@ -72,7 +72,7 @@ Balz: This waterfall we jump from from [[Nyth]] above, fed from that same lake.
 
 Boatman nods. You might find that if you go outside this cave, the waterfall doesn’t fall quite as fall as you remember it, but water can have strange properties, especially when it connects one place top another. They say sap has to travel… (look this up)
 
-Storr: Why did you choose to come here?
+[[Storr]]: Why did you choose to come here?
 
 I had a premonition that you would find me. You say that you were falling for a long time, but it was not a struggle to get here before you. 
 
@@ -140,7 +140,7 @@ He finds the sentinels fascinating and while it see, perhaps that its news to hi
 
 Bran: In your travels, have you heard of that rift cause by [[Mons]] by some or [[Osgog]] by others? Who are the culprits?
 
-I have heard that both [[Mons]] and Osgog were responsible for that rift, that in each case someone was looking for an ancient power and that power proved too string. But whether it was either one, I’ve also heard that it was neither that were in the tower that did the digging. 
+I have heard that both [[Mons]] and [[Osgog]] were responsible for that rift, that in each case someone was looking for an ancient power and that power proved too string. But whether it was either one, I’ve also heard that it was neither that were in the tower that did the digging. 
 
 Balz: You had mentioned that Osgog had looked took closely at the darkness at the creature beneath the lake and it changed him? Did this occur at the lake or at the tower?
 
@@ -166,7 +166,7 @@ Bran: Who is the other twin
 
 Storr pulls out her katana and nonchalantly prods the fire embers. [[The Boatman]] gives everyone the “this lady with you?” look.
 
-Silas: Can you tell us how the bees, the great bear and the mother tree are connected?
+[[Silas]]: Can you tell us how the bees, the great bear and the mother tree are connected?
 
 - I can only tell you that they always seem to be. Whatever is happening with the bees is ancient, and lingers in stories. But it’s not something that I understand.
 
