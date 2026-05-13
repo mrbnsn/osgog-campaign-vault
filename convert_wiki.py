@@ -204,6 +204,17 @@ def wikitext_to_markdown(text: str, title: str = "") -> str:
     # HTML tags
     text = re.sub(r"<br\s*/?>", "\n", text, flags=re.IGNORECASE)
     text = re.sub(r"<hr\s*/?>", "---", text, flags=re.IGNORECASE)
+
+    # Blockquotes: convert each line inside to > prefix
+    def blockquote_to_md(m):
+        inner = m.group(1).strip()
+        return "\n".join(
+            ("> " + line) if line.strip() else ">"
+            for line in inner.split("\n")
+        )
+    text = re.sub(r"<blockquote[^>]*>(.*?)</blockquote>",
+                  blockquote_to_md, text, flags=re.DOTALL | re.IGNORECASE)
+
     text = re.sub(r"</?(?:div|span|p|center|small|big|s|del|ins|u|tt|code|pre|ref)[^>]*>",
                   "", text, flags=re.IGNORECASE)
     text = re.sub(r"<ref[^>]*/?>", "", text, flags=re.IGNORECASE)
