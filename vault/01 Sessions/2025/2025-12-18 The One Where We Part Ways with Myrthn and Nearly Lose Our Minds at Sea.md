@@ -23,7 +23,7 @@ Myrthin: in much the same way in what he’s communicating, not a 1:1 translatio
 
 The Hopps’ lost at trivia. 
 
-Mythyn’s aspiring druid advice to Silas: He would be sort of indicating… there are two things, two wys to go. He would be getting the sense that he was saying: pay more attention to the others. Getting the sense that he was talking about some sort of mysterious, obscure that would be pushing Silas to get outside of his comfort zone. Creation is a little bit broader than he suspects. 
+Mythyn’s aspiring druid advice to [[Silas]]: He would be sort of indicating… there are two things, two wys to go. He would be getting the sense that he was saying: pay more attention to the others. Getting the sense that he was talking about some sort of mysterious, obscure that would be pushing Silas to get outside of his comfort zone. Creation is a little bit broader than he suspects. 
 
       1. The Three Songs of Ultradruid
 Balz: Looking for an indication of what sorts of settings would his song be appropriate for? What effect does it have?
@@ -87,7 +87,7 @@ M has a lot of ideas, but the answer would be no. We’d get the sense that this
 
 He might indicate that he could get you away from here, but he doesn’t have much interest in going further than that. 
 
-Storr asks about the stones, and how we’ve seen these before. Are they all connected. 
+[[Storr]] asks about the stones, and how we’ve seen these before. Are they all connected. 
 
 Snatches of melody, leaning more heavily toward the piano tune, but we’d be hearing a lot about the “others” to the extent that if he had a name for the stones, they would be called “singers”, and the rest he;s coming out with is ago, depth, otherwordlyness, awe. He has an enormous amount of respect for the stones, where he is talking to everything, everything has a soul, he’s talking about stones having soul, not nec these stones, we’d have a hard time translating..his speech is amorphous. 
 

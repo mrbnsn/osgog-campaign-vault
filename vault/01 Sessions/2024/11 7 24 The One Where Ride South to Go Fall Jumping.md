@@ -16,11 +16,11 @@ contributors:
 
 Beryan: The [[Sun King]]’s reach grows deeper. He is not hard to find. I have seen his tracks all across my travels. He has many followers. While he has not gained the title that he seeks, be wary of a face to face confrontation.
 
-Br: Who is the sun king?
+Br: Who is the [[Sun King]]?
 
 Beryan: I’m convinced he’s a mortal man, but like me he has found his way into the [[Elder Lands]].
 
-These are the elder lands?
+These are the [[Elder Lands]]?
 
 Yes, this is the elder lands
 
@@ -47,13 +47,13 @@ We tell Beryan about [[The Oracle]] and the one eyed blacksmith at the grave of 
 [[The Boatman]] is able to ferry you there.  I think you need to leap over the falls of the edge of the world.  
 
    1. We journey
-We journey.> Scout (Exploration) - Silas (+6)
+We journey.> Scout (Exploration) - [[Silas]] (+6)
 >
 > Look-out (perception) - [[Krambler]] (+4)
 >
-> Hunter (Hunting)  Storr (+3)
+> Hunter (Hunting)  [[Storr]] (+3)
 >
-> Guide (Travel) Balthazar (+4)We ask Beryan about the path due south. 
+> Guide (Travel) [[Balthazar]] (+4)We ask Beryan about the path due south. 
 
 She says the forest in that area that is known for singing with sinister voices.
 
@@ -79,7 +79,7 @@ WE FIGHT.
 - Storr grapples one of the armored dudes
 - Silas mauls the wizard to death
 - Storr attempts to toss one of the guards over the side of the bridge, but can’t do it. Instead, she drags him across the bridge, so…
-- Branwen can hit him with [[Rhiannon]]’s gale, which she does, and she unleashes a gust of wind 50 FEET LONG
+- [[Branwen]] can hit him with [[Rhiannon]]’s gale, which she does, and she unleashes a gust of wind 50 FEET LONG
 - One of the guards goes over the side, but manages to wade up back into the fight. He dies anyway.
 - The other guard is "still looking rather hale" so we call it for the night.
 TO BE CONTINUED...

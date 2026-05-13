@@ -40,7 +40,7 @@ Most of the paper in the drawers it appears to be a ledger. Balz could say it lo
 
 There’s another chest that is locked and [[Storr]] does not have the key.
 
-Storr tosses the cot. On the table are a couple of place settings. A rack on the wall has some food and supplies.
+[[Storr]] tosses the cot. On the table are a couple of place settings. A rack on the wall has some food and supplies.
 
 Storr summons the Keto to make sure they’re not going through too much of his stuff. 
 
@@ -212,10 +212,10 @@ WE FIGHT
 - We hit Copyn a couple times, then he disappears and a water elemental shows up.
 - [[Branwen]] throws on [[Cricket]]’s cloak, but can’t see the wizard anywhere
 - Copyn reappears across the island
-- Silas tries to paralyze a bunch of water and it does’t work for some reason
+- [[Silas]] tries to paralyze a bunch of water and it does’t work for some reason
 - [[Branwen]]’s commands Copyn to move closer
 - Storr takes out Copyn, yea-fatally.
 - Silas gives his new bronze shortsword a try, but then says fuck it and bears out, managing to hold onto his beechstaff
-- Branwen smashes a column of water with Gale with a crit
+- [[Branwen]] smashes a column of water with Gale with a crit
 - Silas whacks the water with his stick a few times, takes a serious beating, and loses his bear HP
 - Storr takes out a water elemental solo with amazing bronze katana rolls

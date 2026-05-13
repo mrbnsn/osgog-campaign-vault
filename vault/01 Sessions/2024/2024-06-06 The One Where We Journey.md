@@ -90,11 +90,11 @@ We make our way to the inn.
 
 We have trouble determining what we need. There’s talk of accommodating the bear, but [[Silas]] assures everyone that the two of them can sleep outside. We dcide on the three Bs: beer, bed, burger. Not in that order. The innkeeper goes off makes that happen.
 
-The inn isn’t particularly crowded. [[Storr]] doesn’t seem to notice anyone giving them the side eye. Storr is somehow already hammered (it’s the hot weather, she’s a winter woman). People see that we’re there, but they don’t seem concerned. No one’s watching us.
+The inn isn’t particularly crowded. [[Storr]] doesn’t seem to notice anyone giving them the side eye. [[Storr]] is somehow already hammered (it’s the hot weather, she’s a winter woman). People see that we’re there, but they don’t seem concerned. No one’s watching us.
 
 Avel is our server. 
 
-Everyone turns in. Silas and Arthen are under the stars.
+Everyone turns in. [[Silas]] and Arthen are under the stars.
 
 We cross the large bridge from the inn over the river to a center island. Some of the huts are standing on pillars over the water. Pretty marshy. Elevated wooden walkways. People are out and about, going their business, setting traps, paddle boats, some folks had been hunting in the woods nearby.
 

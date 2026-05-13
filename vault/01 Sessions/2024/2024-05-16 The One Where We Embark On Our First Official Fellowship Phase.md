@@ -121,7 +121,7 @@ You tell me you’re going to find a better place, with the river and orchards. 
 
 He talks about the “stank” on the weiss, how it goes “good” not “bad.” “It’s always high summer in Sibrwd”
 
-As Bal speaks, he lets slip the “black water” That makes Bardh hesitate.
+As Bal speaks, he lets slip the “black water” That makes [[Bardh]] hesitate.
 | For the Introduction roll, Bal rolls Perception. We get a 9 and a 10 with advantage, then we decide to use [[The Abbot|the Abbott]] patron ability, which lets us roll again, which results in a crit (21). Having exceeded the DC by at least 5, we also can reroll up to two failed ability checks during  the council interaction. |
 |---|
 K: Any good dance moves?

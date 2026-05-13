@@ -18,7 +18,7 @@ contributors:
 - [[Fellowship Phases]]
    - [[Undertakings]]
       - [Gather rumours](http://[[Osgog]].mrobinson.us/index.php/Undertakings#Gathering_rumours)
-      - [Heal shadow scars](http://osgog.mrobinson.us/index.php/Undertakings#Heal_scars_(long_fellowship_phase_only))
+      - [Heal shadow scars](http://[[Osgog]].mrobinson.us/index.php/Undertakings#Heal_scars_(long_fellowship_phase_only))
       - Meet a patron
       - Ponder storied and figured maps
       - Recount a story

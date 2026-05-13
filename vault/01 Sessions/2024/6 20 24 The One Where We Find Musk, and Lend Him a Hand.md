@@ -19,9 +19,9 @@ Kallynnen says she’s stood up here but not explored.
 
 [[Storr]] wades out to the rock. There’s another drop off below the twin falls.
 
-Storr swims back to get the spyglass and goes back to the rock. He looks through the spyglass, and sees some detail on close rocks, then looks up. He sees that there are hills in the distance, and that we indeed took the right path. It makes sense why Kellennen came here. There’s ample foraging opportunity.
+[[Storr]] swims back to get the spyglass and goes back to the rock. He looks through the spyglass, and sees some detail on close rocks, then looks up. He sees that there are hills in the distance, and that we indeed took the right path. It makes sense why Kellennen came here. There’s ample foraging opportunity.
 
-[[Branwen]] sees through Koweth’s eyes, Koweth flies directly down the chasm over the falls. Branwen feels a sudden pain in her head as he cross the furthest fall.
+[[Branwen]] sees through Koweth’s eyes, Koweth flies directly down the chasm over the falls. [[Branwen]] feels a sudden pain in her head as he cross the furthest fall.
 
 We cross back the way we came.  It’s thick, we make slow progress.
 
@@ -45,9 +45,9 @@ Another centaur takes up a post on the other side of the river with a bow and ar
 
 “Who are you to make accusations?”
 
-“We wwere tasked by a man named [[Bryok]] to find Musk”
+“We wwere tasked by a man named [[Bryok]] to find [[Musk]]”
 
-“You were coming into a sacred (not quite the right word) place, Those who would enter **Kosoleth** with respect and honor, and you are in the process of being judged. So I ask you again, why do you come to this place? Why do you seek this person? How are you that have a right to come to this place?
+“You were coming into a sacred (not quite the right word) place, Those who would enter **[[Kosoleth]]** with respect and honor, and you are in the process of being judged. So I ask you again, why do you come to this place? Why do you seek this person? How are you that have a right to come to this place?
 
 “We fear that mistakes are being repeated, and we seek the child and Musk to solve it”
 
@@ -81,7 +81,7 @@ Have you seen a haggard man?
 
 No answer. 
 
-Silas scales down the rock face (5 ft) with Arthen into the water.
+[[Silas]] scales down the rock face (5 ft) with Arthen into the water.
 
 Silas looks up river. The centaurs are still stationed above us. There’s now a visible flat spot below a rock wall further up river that we couldn’t see before.
 
@@ -121,7 +121,7 @@ Musk?
 
 That sounds right.
 
-Do you remember Bryok
+Do you remember [[Bryok]]
 
 He snaps and looks at you and his eyes widen
 

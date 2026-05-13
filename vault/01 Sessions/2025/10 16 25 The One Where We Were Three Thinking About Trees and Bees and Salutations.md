@@ -13,19 +13,19 @@ contributors:
 
 ™ is note taking.  Take it for what it’s worth, I’m doing my best.
 
-Recap!  We weaved with these guys ([[Branwen]]/Hopps).  We learned about the giant raven, things that are smoked on the island, and friends made along the way. We were welcomed into the community and strides were made into the community.  Branwen ingratiated herself with a willingness to learn weaving and singing as did Balz.  [[Silas]] had a hat conversation with a stoner.
+Recap!  We weaved with these guys ([[Branwen]]/Hopps).  We learned about the giant raven, things that are smoked on the island, and friends made along the way. We were welcomed into the community and strides were made into the community.  [[Branwen]] ingratiated herself with a willingness to learn weaving and singing as did Balz.  [[Silas]] had a hat conversation with a stoner.
 
 After council we got permission to stay for a long rest.  The mornings spent weaving baskets, the afternoons they tend their own garden (metaphorically) and chores.  [[Storr]] was going to pivot into smithing (borrowing Kramblers hammer); Branwen wanted to learn to capture the voices in the baskets; Balz wanted to use the quill to translate the voices on the wind or just go with a stream of consciousness interpreting the voices on the wind.
 
 Lunch had, council done, bellies filled and tea time happened.  The afternoon session begins… what are we doing?
 
-Silas will follow Eaves to check on the goats.
+[[Silas]] will follow Eaves to check on the goats.
 
 Branwen will go crash to shed her exhaustion and focus on recovery for a day then spend the 5 days weaving
 
 Branwen heads to the bee hive, tapped out.  First night packing it in…. Prima nocta
 
-Balz and Storr, what they doing?
+Balz and [[Storr]], what they doing?
 
 Balz - will see where he can help out during this time and be hospitable.
 
@@ -68,11 +68,11 @@ Storr has an urge to borrow [[Krambler]]'s hammer.  She offers to make repairs 
 
 Balz is intrigued by weaving voices into the basket, the process, the verbs that go into the basket.  He approaches Isilde, figuring the words will come to him, if he can build the basket.  Less about the writing and more about the weaving.  He rolls slight of hand, old lor and perception (12 13 12).  Hes making progress.  He believes that he could capture sound, sometimes, but not sure how he did it.  Unconscious competence.  
 
-Branwen, having slept and heard the flute in the evening, is interested in the voices in the wind and basket but decides to trust in Balz that he’s got the voices in the basket and pursues the flute path.  She recalls she has [[Mannix]]’s flute and wants to go play it.  She seeks Cerdthoriath who played the flute in the evening.  Cerdthoriath, red hair and green eyed, she always hums and sing to herself. You can tell her mood and the air and sea around her based on how she’s singing - she is in sympathy with what’s around her.  Branwen perceives (7) and old lores (20) and natures (5) and performs (6) her way into Certh’s graces.  As they do this together she asks Branwen what music she’s played or what songs mean something to her?  Where did the flute come from?  The flute from [[The Boatman]] (who acquired it from Mannix), and she plays the tune the Boatman played at her birth and what [[Kelynnen]] hummed while harvesting plants.  It’s the same song.  Same song was played (haltingly, by Hopps on a guitar) on the spinning tree island.
+Branwen, having slept and heard the flute in the evening, is interested in the voices in the wind and basket but decides to trust in Balz that he’s got the voices in the basket and pursues the flute path.  She recalls she has [[Mannix]]’s flute and wants to go play it.  She seeks Cerdthoriath who played the flute in the evening.  Cerdthoriath, red hair and green eyed, she always hums and sing to herself. You can tell her mood and the air and sea around her based on how she’s singing - she is in sympathy with what’s around her.  Branwen perceives (7) and old lores (20) and natures (5) and performs (6) her way into Certh’s graces.  As they do this together she asks Branwen what music she’s played or what songs mean something to her?  Where did the flute come from?  The flute from [[The Boatman]] (who acquired it from [[Mannix]]), and she plays the tune [[The Boatman]] played at her birth and what [[Kelynnen]] hummed while harvesting plants.  It’s the same song.  Same song was played (haltingly, by Hopps on a guitar) on the spinning tree island.
 
 The tune is… Dun dun dun dun dun dun dun dun dun dun. Dun.  (They were all the same song… [[Cricket]]’s Lullaby)  
 
-Upon playing that, the song is recognized as an lullaby but an old song.  The flute came from the Boatman and heard it came from Cricket who gave himself to [[Mother Night]] in her creation.  This is all very intriguing to Certh (the notion of Mother Night).  Certh wants to know more about the Boatman (as do we all).  Branwen tells her he’s appeared a few times in their journey and her experience is limited to the rest of the party.  But he’s guided them to locations that seemed fantastic and different from their original world.  He’s old beyond reckoning and very *powerful*.  Certh asks and is allowed to borrow the flute.  She starts playing a song (Bird Song) and says the flute, that song is somehow woven into the flutes fibers.  Whoever made it had deft fingers.  It’s a beautiful instrument… treasure it.  Branwen perceives (15) as the song is played that Branwen senses or feels that ***Gale*** is perking up it’s ears (if swords had ears) when the song is played… things get Halberdy.  Don't look the flute, just at Branwen’s breasts.
+Upon playing that, the song is recognized as an lullaby but an old song.  The flute came from the Boatman and heard it came from [[Cricket]] who gave himself to [[Mother Night]] in her creation.  This is all very intriguing to Certh (the notion of [[Mother Night]]).  Certh wants to know more about the Boatman (as do we all).  Branwen tells her he’s appeared a few times in their journey and her experience is limited to the rest of the party.  But he’s guided them to locations that seemed fantastic and different from their original world.  He’s old beyond reckoning and very *powerful*.  Certh asks and is allowed to borrow the flute.  She starts playing a song (Bird Song) and says the flute, that song is somehow woven into the flutes fibers.  Whoever made it had deft fingers.  It’s a beautiful instrument… treasure it.  Branwen perceives (15) as the song is played that Branwen senses or feels that ***Gale*** is perking up it’s ears (if swords had ears) when the song is played… things get Halberdy.  Don't look the flute, just at Branwen’s breasts.
 
 Certh is unsure what to say but she should speak to Cantspell (his name) as he is wise.  She will.  Branwen comes to think that these songs, as they are often talked about in terms of magic and creation myths, thinks along that bent.  Maybe the whole world is a song.  Not a song created by men, only heard, no the wind, from creation.  IN hearing Certh’s words, Branwen would come to believe that most songs are an unconscious imitation of this thing.  Certh can see that there’s something there, the origin is elsewhere.  Song (not specifically this song) is involved in creation.
 

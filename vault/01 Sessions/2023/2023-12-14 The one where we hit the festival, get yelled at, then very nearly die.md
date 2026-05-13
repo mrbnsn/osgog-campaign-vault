@@ -63,11 +63,11 @@ Crowd: We’re wary of travelers bearing tokens of power. (said with an edge of 
 
 K shapes the water back to the fountain with his weird finger magic.
 
-The person that had been talking to Silas strides over to [[Storr]] and [[Cricket]] and points to [[Krambler]] and questions him. Who are you? Where have you come from?
+The person that had been talking to [[Silas]] strides over to [[Storr]] and [[Cricket]] and points to [[Krambler]] and questions him. Who are you? Where have you come from?
 
 Man: This city has long been hidden to outsiders. How have you got here and what are your intentions? Are you the ones you accosted our boats 6 days ago?
 
-Storr: (not sure what she said here)
+[[Storr]]: (not sure what she said here)
 
 Man: You are not welcome here. Go back to where you came from.
 
@@ -79,7 +79,7 @@ Man: Whoever you are you’re not here by our leave. Go. Go now.
 
 The lavender sheen that [[Cricket]] says he’s been seeing goes up the grand staircase in front of us. Elaborately carved railings. Marble is carved to look like branches and forest. As we reach the top we see the grand boulevard heading to the north east.
 
-We continue to follow cricket. The crowd peaters out as we reach a square and turn back west.
+We continue to follow [[Cricket]]. The crowd peaters out as we reach a square and turn back west.
 
    1. [[The Boatman]] leads us back to the stone circle
 We’re circling back toward the stone circle. We come to a square and there is a figure standing there. It’s [[NPCs#The Boatman|The Boatman]].

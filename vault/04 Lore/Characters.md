@@ -20,7 +20,7 @@ contributors:
    - [[Branwen's Branches]]
    - A mysterious women who appeared out of the smoke of [[Cricket]]'s funeral pyre.
    - So far, the biggest thing my character has accomplished is: 
-      - Stepping out from Cricket's funeral pyre, having existed elsewhere for an indeterminant amount of time.
+      - Stepping out from [[Cricket]]'s funeral pyre, having existed elsewhere for an indeterminant amount of time.
    - At the moment, the biggest thing my character wants to do is:
       - Puzzle out the beliefs, motivations and values of her patron and Queen, [[Mabmnoss]].  
    - The biggest thing my character is wondering about is:

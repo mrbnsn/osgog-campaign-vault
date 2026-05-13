@@ -59,7 +59,7 @@ The forest is my home, I feel as safe within it as one should feel anywhere. Whe
 
 [[Silas]] says he understands more than she knows. But in light of the recent threat at the city, he offers her the Better Obsidian Dagger in case things go sour. 
 
-She takes it and spins it around with a dexterity you don’t expect, she takes it and drags it against her hand, a little bit of blood beading up. She puts her hand to her mouth, looking at [[Silas]]. She puts pressure on it. Still looks at Silas.
+She takes it and spins it around with a dexterity you don’t expect, she takes it and drags it against her hand, a little bit of blood beading up. She puts her hand to her mouth, looking at [[Silas]]. She puts pressure on it. Still looks at [[Silas]].
 
 S: Have you seen weapons like this before?
 
@@ -115,7 +115,7 @@ She nods over in Silas and Arthen’s direction. “There’s one.” And she lo
 
 The tree is a [[Derwen Trees|derwen]].
 
-Storr, Silas and [[Angarad]] have several coy exchanges over who she meant by "there's one".  She provides no clarity, and just laughs at the questions.
+[[Storr]], Silas and [[Angarad]] have several coy exchanges over who she meant by "there's one".  She provides no clarity, and just laughs at the questions.
 
 [[Branwen]] touches the [[Derwen Trees|derwen]], hoping to listen to it and nature, and drown out the banter of the others.  The sound of the wind and the leaves comes into sharper focus, and she feels…better.
 
@@ -349,5 +349,5 @@ We ascend the stairs.
 Next time/this week:
 
 - [[Balthazar]] checkin out that science shit
-- Will Branwen and Silas play chess one night? 
+- Will [[Branwen]] and Silas play chess one night? 
 - Look into ways to relieve exhaustion (Branwen's healing powers?)

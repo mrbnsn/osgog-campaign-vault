@@ -157,7 +157,7 @@ B: Respectfully, you seem that you’ve seen some years and have seen many thing
 
 As B says this, C gets a glint in his eye, as if he knows something we don’t. C chuckles and says something like “Yes yes, well, we’ll see” 
 
-Storr meanwhile gets up and stealthily moves to the doorway of the quarters. Storr tries the door handle and finds that it is locked. Storr goes out interrupts, and apologizes, asking about a privy.
+[[Storr]] meanwhile gets up and stealthily moves to the doorway of the quarters. Storr tries the door handle and finds that it is locked. Storr goes out interrupts, and apologizes, asking about a privy.
 
 L: No no, here you just sort of hang over the edge. 
 
@@ -199,7 +199,7 @@ B: Who are the wicked?
 
 L: The wicked are those that fight against the movement of progress and would prolong human suffering by their own greed or selfishness. 
 
-Silas: Do you travel much? See the mountains? Lakes? Tundras?
+[[Silas]]: Do you travel much? See the mountains? Lakes? Tundras?
 
 L Prefers the __ to a howling wilderness of danger and chaos, danger and uncertaity. 
 

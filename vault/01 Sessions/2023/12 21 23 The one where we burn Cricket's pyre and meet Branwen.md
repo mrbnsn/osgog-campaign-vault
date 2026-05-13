@@ -15,7 +15,7 @@ The party tries to feed [[Cricket]] water from the bowl in the stone circle, but
 
 [[The Boatman]] is here. There are townspeople approaching.
 
-[[Storr]] asks if the boatman can save Cricket.
+[[Storr]] asks if [[The Boatman]] can save [[Cricket]].
 
 B: I cannot reverse someone’s choice
 
@@ -27,7 +27,7 @@ S:l Can anyone save him?
 
 B: Not here, but honor his sacrifice.
 
-The townspeople approach. Storr gives himself and [[Krambler]] a healing potion.
+The townspeople approach. [[Storr]] gives himself and [[Krambler]] a healing potion.
 
 Bal: Why are they coming up here?
 
@@ -55,9 +55,9 @@ The group is unsure if they should put him on a pyre immediately
 
 Storr says some good words about why we need to let go. We could take Koweth with us and any other items of value he would want us to have. 
 
-Krambler and Bal go to find wood.  
+[[Krambler]] and Bal go to find wood.  
 
-Silas sits and communes and tried to locate and Koweth, but senses he’s not close, and perhaps not in this world anymore.
+[[Silas]] sits and communes and tried to locate and Koweth, but senses he’s not close, and perhaps not in this world anymore.
 
 B asks if he can see the flute. Storr is unsure, but hands it over.
 
@@ -91,7 +91,7 @@ We see a figure among us with dark hair. We don’t recognize this person. The s
 
 The woman approaches Krambler and takes Gale from him. “And here I become death, destoryer of worlds. 
 
-Silas asks her name. She says “**[[Branwen]]**” Silas offers her a cloak, but she refuses and goes and takes Cricket’s cloak. She does not know Mannix.
+Silas asks her name. She says “**[[Branwen]]**” Silas offers her a cloak, but she refuses and goes and takes Cricket’s cloak. She does not know [[Mannix]].
 
 Bal: What do you know of Cricket
 
@@ -105,7 +105,7 @@ Silas hands her one.
 
 Bal: huddles with the party.
 
-Boatman holds out the flute to Branwen. “I believe this is yours”
+Boatman holds out the flute to [[Branwen]]. “I believe this is yours”
 
 We give Branwen scale mail and a wood shield. She focus her energy on it. It glows and she sheaths it. 
 

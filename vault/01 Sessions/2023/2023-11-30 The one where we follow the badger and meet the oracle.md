@@ -43,7 +43,7 @@ Further up the shoreline, we see some folks preparing to head out to the city wa
 > They look at eachother, they back away and converse. P: “Tonight is the night of the festival and its not a good night for you to be there.”
 >
 > S: Would tomorrow be better?
-We try to communicate to [[Storr]] from the bushes that we should make our way into the city, but not with these folks. They’re skeptical, they eye [[Storr]], and then start rowing out across the river. The badger runs over to [[Silas]] and gives Storr some looks. Once the men disappear, [[Mochyn]] pads along the trail again and we follow.
+We try to communicate to [[Storr]] from the bushes that we should make our way into the city, but not with these folks. They’re skeptical, they eye [[Storr]], and then start rowing out across the river. The badger runs over to [[Silas]] and gives [[Storr]] some looks. Once the men disappear, [[Mochyn]] pads along the trail again and we follow.
 
 We come to a manmade inlet with stone piers. Across the inlet is a set of stone stairs, probably going up the side of the second waterfall. There’s some apparati (pullies, ropes, etc)  used to carry loads up and down the slope. There are boats here. The badger starts nosing toward the boats.
 
@@ -67,7 +67,7 @@ A narrow alley heads off to the east, there seems to be some green space there. 
 
 At one point, the badger slows down. We’ve come to a crossroads. [[Mochyn]] peaks around the corner and heads to the right. Storr looks to the left. We have come out to the main thoroughfare. To our left, there is an open square, past which is are the main docks on the other side of the city. [[Mochyn]] is looking at us anxiously. A narrow path heads off in front of us. Off to the SW, the terrain is lower. The badger wants to head off toward a city gate and a bridge that leads to the smaller structure where [[The Black Water]] is coming from. The festival noises are in the other direction.
 
-Mochyn continues over the bridge. Throughout our travels, there’s not much for [[Cricket]] to read. 
+[[Mochyn]] continues over the bridge. Throughout our travels, there’s not much for [[Cricket]] to read. 
 
 We cross the bridge and enter the smaller structure. There's an open square in front of us. It’s quiet here. We continue.
 
@@ -156,7 +156,7 @@ Most folks remember the first horned beings that came up over the mountains and 
 >
 > BOATMAN: I always heard the people say that [[Mons]] defeated it. 
 >
-> (*Balthazar says something here that I missed.)* 
+> (*[[Balthazar]] says something here that I missed.)* 
 >
 > Bo: Ah yes, they do tend to blame that on [[Osgog]].
 >
@@ -179,7 +179,7 @@ We offer for him to join us. "No I stay in the boat."
 
 We approach the stairs. They’re single file, lit by candle light.
 
-Party order: Storr, [[Silas]], [[Krambler]], Cricket, Balthazar
+Party order: Storr, [[Silas]], [[Krambler]], [[Cricket]], Balthazar
 
 Arthen retreats back to the boat.
 

@@ -144,7 +144,7 @@ K looses his patience and tries to hit [[The Boatman]], but the rest of the part
    1. Heading back to the city
 Koweth returns outside the cottage. He did not find a boulder. The city is still festivaling. Tehre was a temple, but nothing large with a boulder. To the north,m he saw a stone circle in the woods. A couple of castles, and forticfications on some of the smaller islands, and saw in the quiet quarter where [[The Black Water]] entered was quiet, there was reveling and a festival elsewhere but not in that space. 
 
-We go outside and tell [[The Boatman]] our choice: to continue on our path. It would seem that your path leads back to the city, to the stone circle that your friend described. And you my friend (to Cricket) have been shown the path and can divine the way.
+We go outside and tell [[The Boatman]] our choice: to continue on our path. It would seem that your path leads back to the city, to the stone circle that your friend described. And you my friend (to [[Cricket]]) have been shown the path and can divine the way.
 
 Cricket goes in for a hug, and it is the burliest and most comforting hug. Ravens feathers in his hair. “Go with luck my son”
 

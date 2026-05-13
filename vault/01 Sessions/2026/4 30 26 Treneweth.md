@@ -16,4 +16,4 @@ contributors:
 
 We wrapped up our conversation with Orm, and headed over to the city.  Upon entering, we coat-checked our weapons, receiving a blue token.  [[Branwen]] hid her sword (pact-weapon). We walked to the center of the city.  Went toward the gate with tall wild ragged mountains through it.  We found the temple, and [[Jacca]].  
 
-We ended with the start of a Jacca council.
+We ended with the start of a [[Jacca]] council.

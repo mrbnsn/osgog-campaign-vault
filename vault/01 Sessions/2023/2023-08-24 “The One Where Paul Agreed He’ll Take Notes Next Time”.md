@@ -49,7 +49,7 @@ Rambler - what about the bronze from the forge?
 
 Balz - says something poignant
 
-[[Mannix]] would have said that the smith god, which sounds like Weyland, is depicted as having one eye.  Maybe this is how the smith god lost his eye?  There’s a mythological archetype pounding in a crazy forge with one eye…
+[[Mannix]] would have said that the smith god, which sounds like [[Weyland]], is depicted as having one eye.  Maybe this is how the smith god lost his eye?  There’s a mythological archetype pounding in a crazy forge with one eye…
 
 [[Krambler]]’s dream… it’s in [[Mannix]]’s helmet.  It contains the sound of moonlight
 
@@ -73,7 +73,7 @@ As [[Storr]] looks at Gale - the blade is steel, the red may be copper and NOT b
 
 [[Krambler]] recognize the flame patterns in Gale are similar to his tattoos.  In terms of style.  
 
-[[Storr]] thinks [[Krambler]] should carry Gale.  She passes the sword onto Krambler.
+[[Storr]] thinks [[Krambler]] should carry Gale.  She passes the sword onto [[Krambler]].
 
 The party journey’s on…
 

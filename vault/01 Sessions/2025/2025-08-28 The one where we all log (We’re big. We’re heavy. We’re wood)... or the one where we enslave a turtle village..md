@@ -59,7 +59,7 @@ We head down to the lake.
 
 Balz finds a path (rolls 11) - make it down towards where the river and lake meet.  No issues.  Took longer, mid afternoon by time we get there.
 
-At the lake shore - Silas perceives (dirty 20 - insert flute sounds) fairly flat island, not so many trees.  About a ½ mile across.  Bushy, flowers, maybe thickets.  A rise of 30 feet or so above the water.
+At the lake shore - [[Silas]] perceives (dirty 20 - insert flute sounds) fairly flat island, not so many trees.  About a ½ mile across.  Bushy, flowers, maybe thickets.  A rise of 30 feet or so above the water.
 
 There doesn’t immediately appear to be a boat on the shore. Island is a few hundred yards from the shore. There is a shore due north east across on the other side from where we stand. We estimate we won’t be able to reach the shore by dusk, so we agree to travel and camp.
 ![[Our traversal through day 2.png]]
@@ -84,7 +84,7 @@ We continue journeying. Balz picks a great route, and we make it. It’s foggy w
 
 The stars the previous night did not have the same locations as [[Nyth]] or our home. Coming to the  end of day 2, we get to another point around the lake, we don’t see another spot that’s close given the fog. 
 
-Storr brings up summoning a duck which she could use beast sense on to see through their eyes and fly out to the island to get a sense as to what’s on the island.  Silas is concerned about using a 3rd level spell slot to summon a single small animal for the purpose; there’s nothing near us that Storr can talk to.  Balz’s primeval awareness may apply in this situation (*he can sense fey, celestials, etc*) as we don’t know if there’s creatures within a mile of where we are.  Balz tries to sense the presence of one of these creatures and…gets the sense that the landscape has the latent ability to become conscious. It could be the island, or it could be elsewhere, primeval awareness can’t locate exactly where this is coming from.  
+[[Storr]] brings up summoning a duck which she could use beast sense on to see through their eyes and fly out to the island to get a sense as to what’s on the island.  Silas is concerned about using a 3rd level spell slot to summon a single small animal for the purpose; there’s nothing near us that Storr can talk to.  Balz’s primeval awareness may apply in this situation (*he can sense fey, celestials, etc*) as we don’t know if there’s creatures within a mile of where we are.  Balz tries to sense the presence of one of these creatures and…gets the sense that the landscape has the latent ability to become conscious. It could be the island, or it could be elsewhere, primeval awareness can’t locate exactly where this is coming from.  
 
 We discuss (at length) what other animals we could conjure, and really ride that barrel.
 

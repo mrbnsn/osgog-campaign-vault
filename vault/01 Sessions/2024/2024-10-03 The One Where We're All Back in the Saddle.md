@@ -81,7 +81,7 @@ RedHG: Yeah two guys had suns on them, but they seemed like assholes.
 
 Br: goes to distract the folks at the door.
 
-RHG takes Storr, [[Silas]], Balz and Arthen out the back way.
+RHG takes [[Storr]], [[Silas]], Balz and Arthen out the back way.
 
 Idiots: Open the door in the name of the [[Sun King]]?
 

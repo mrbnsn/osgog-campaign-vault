@@ -54,7 +54,7 @@ B: I think they come out of curiosity. It’s not everyday we have visitors ente
 
 The group is unsure if they should put him on a pyre immediately
 
-Storr says some good words about why we need to let go. We could take Koweth with us and any other items of value he would want us to have. 
+[[Storr]] says some good words about why we need to let go. We could take Koweth with us and any other items of value he would want us to have. 
 
 [[Krambler]] and Bal go to find wood.  
 
@@ -78,7 +78,7 @@ Storr holds it out to [[The Boatman]] but he says to keep it and use it.
 
 Everyone says or does something in honor.
 
-The flames rage up. The townsfolk are watching and seem confused and overwhelmed. They look to everyone trying to piece something together. Once the fire is raging, the boatman pulls out the flute and plays it. He begins playing the song [[Cricket]] started playing the other night. The smoke billows up and around. Some of it is goung up into the sky. The wind shifts and the smoke is blowing around us and at the foot of what was formerly the tree and we see something in it.
+The flames rage up. The townsfolk are watching and seem confused and overwhelmed. They look to everyone trying to piece something together. Once the fire is raging, [[The Boatman]] pulls out the flute and plays it. He begins playing the song [[Cricket]] started playing the other night. The smoke billows up and around. Some of it is goung up into the sky. The wind shifts and the smoke is blowing around us and at the foot of what was formerly the tree and we see something in it.
 
 A female voice comes through the smoke:
 
@@ -94,7 +94,7 @@ The woman approaches [[Krambler]] and takes Gale from him. “And here I become 
 
 [[Silas]] asks her name. She says “**[[Branwen]]**” [[Silas]] offers her a cloak, but she refuses and goes and takes [[Cricket]]’s cloak. She does not know [[Mannix]].
 
-Bal: What do you know of Cricket
+Bal: What do you know of [[Cricket]]
 
 Br:  Nothing.
 
@@ -112,7 +112,7 @@ We give [[Branwen]] scale mail and a wood shield. She focus her energy on it. It
 
 [[Branwen]] requests the ever burning rook pendant.
 
-Silas asks if the townspeople are entertained.
+[[Silas]] asks if the townspeople are entertained.
 
 “We are mystified”
 
@@ -142,7 +142,7 @@ B: I do have some skill as a healer. Can I offer you my expertise?
 
 Storr buys in. He asks her to lie down. He takes a cup of water from the basin. Under his cloak he has pouches. He heals us all (we all tka e short rest and roll a d10)
 
-Branwen sees a lavender path through a triathlon and we seen a plane and its night.
+[[Branwen]] sees a lavender path through a triathlon and we seen a plane and its night.
 
 Storr: is [[The Black Water]] still holding back what its meant to keep back?
 

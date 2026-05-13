@@ -17,7 +17,7 @@ The island itself may be turning, so the tree may be the source powering the sea
 
 [[Branwen]] might be being cagey, just in the way that she doesn't know us very us, which would make sense to us. Other characters have been together for a long time, and are open with eachother, high level of trust. We do feel trust her and feel close to her, just because she came from [[Cricket]].
 
-Branwen asks if the the stone at the base of the tree was an "altar stone", a sacrificial altar, but doesn't get that sense. It's more of a place to sit and think. We don't hear anything in terms of voices ("sounds on the wind.") The voices are silent now that we're here.
+[[Branwen]] asks if the the stone at the base of the tree was an "altar stone", a sacrificial altar, but doesn't get that sense. It's more of a place to sit and think. We don't hear anything in terms of voices ("sounds on the wind.") The voices are silent now that we're here.
 
 Branwen sits on the stone. As she does, there's a slight breeze. We hear the bees. She sees the flat inner sides of the stones facing her.
 
@@ -31,18 +31,18 @@ In terms of time (is this a clock of some kind?): This place doesn't necessarily
 
 The cluster of stones on the water's edge is there naturally, not hewn.
 
-Silas communes with nature, places a hand on the tree, focuses on the tree and it's possible connection to myth (the woman, the bear.) Trying to sense what's underneath.> As large as the tree is, I can feel the roots delving very deep. Get the sense that this tree is the tip of a larger tree that goes deep beyond knowing. Almost hear a gnawing, can sense a lot of activity that I'm not aware or privy to. Can feel the presence of a female energy as being positive and supportive and nurturing. No bearish indications at this time. The gnawing seems natural (squirrels, etc) and not nefarious. Tree is alive and not static. Feel myself quickly pulled into the larger scope. The bees close at hand, the apples, the seasonal movement.Other trees we've seen: 1. the grove in Monsoth (all different species) 2. Stone turtle grove (all beech) 3. The tree at the monastery ([[Derwen Trees|derwen]], which we planted) 4. The dream tree (which we never recognized the species of)
+[[Silas]] communes with nature, places a hand on the tree, focuses on the tree and it's possible connection to myth (the woman, the bear.) Trying to sense what's underneath.> As large as the tree is, I can feel the roots delving very deep. Get the sense that this tree is the tip of a larger tree that goes deep beyond knowing. Almost hear a gnawing, can sense a lot of activity that I'm not aware or privy to. Can feel the presence of a female energy as being positive and supportive and nurturing. No bearish indications at this time. The gnawing seems natural (squirrels, etc) and not nefarious. Tree is alive and not static. Feel myself quickly pulled into the larger scope. The bees close at hand, the apples, the seasonal movement.Other trees we've seen: 1. the grove in [[Monsoth]] (all different species) 2. Stone turtle grove (all beech) 3. The tree at the monastery ([[Derwen Trees|derwen]], which we planted) 4. The dream tree (which we never recognized the species of)
 
 Are apples trees sacred? [[Mannix]] confirms that the apple tree was one of the 12 in Monsoth.
 
 Are there powerful versions like this one of each of the twelve species out there? The beech was a grove, not a single tree. Balz theory: each tree may represent a deity or god.
 
-A review of the derwen:
+A review of the [[Derwen Trees|derwen]]:
 
 - We were given a sapling that we planted at the temple
 - [[Dama]] identified it for us
 - At the north end of [[Raven Island]] (where we met Mogg) there was a derwen grove
-- At the center of that grove was the pool that Mannix almost drowned in
+- At the center of that grove was the pool that [[Mannix]] almost drowned in
 - Lavender flowers were blooming around the pool
 - This pool was more of a spring, a curated pool. There was water there already, someone adjusted it to make it more accessible
 - The grass next to the spring had been pushed down as if someone had been laying threre a moment ago
@@ -90,4 +90,4 @@ Balz asks about the other side of the tree, looking for anything unnatural or de
 
 Balz asks Silas if he remembers the symbol at all (21) Silas does remember it. He would have seen it in the henges. Would not have understood it, and would not have been explained. But definitely recognizes it. He thinks his folk called it "[[The Cradle]]" Was it a part of the ritual?
 
-Balz asks about [[Tewlder]]'s drawings. The symbol would not have been a part of them. Tewlder's sketches are of natural imagery. He worked on ships like [[Krambler]]. Shells, mussels, clams, sea urchins, stars. Those and making them into simpler shapes, "geometrizing."
+Balz asks about [[Tewlder]]'s drawings. The symbol would not have been a part of them. [[Tewlder]]'s sketches are of natural imagery. He worked on ships like [[Krambler]]. Shells, mussels, clams, sea urchins, stars. Those and making them into simpler shapes, "geometrizing."

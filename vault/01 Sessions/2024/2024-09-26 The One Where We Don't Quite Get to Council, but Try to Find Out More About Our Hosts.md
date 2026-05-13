@@ -153,13 +153,13 @@ The girls tire of [[Branwen]]'s 'god questions'.  We've entered the awkward fami
 
 The RavenHG stares at [[Silas]], the Blonde and Red head turn to him.  The [[Glasses Girl]] comments on the weather in the valley.
 
-[[Branwen]] offers the RavenHG the [[Bone Flute]].  She takes it and plays it *really well*.  We feel transported to… we start hearing rain.  A gentle rain storm.  MOstly a sensory memory - safe and comfortable listening to rain at night.  (Branwen notes that the last person to play that flute so well was the [[The Boatman|Boatman]])
+[[Branwen]] offers the RavenHG the [[Bone Flute]].  She takes it and plays it *really well*.  We feel transported to… we start hearing rain.  A gentle rain storm.  MOstly a sensory memory - safe and comfortable listening to rain at night.  ([[Branwen]] notes that the last person to play that flute so well was the [[The Boatman|Boatman]])
 
 [[Glasses Girl]]: clouds have wafted up, and it's raining outside now.
 
 [[Silas]] was always reminded of morning mist by that song.
 
-Storr: Do the girls like to play chess?
+[[Storr]]: Do the girls like to play chess?
 
 Storr offers up a game of chess.
 
@@ -167,7 +167,7 @@ Blonde: We haven’t played it before, can you teach us?
 
 Storr explains chess to these girls and plays a game.
 
-The girls crush the barbarian. Storr plays black. The bleached wood queen, they make good use of and wipe Silas out. 
+The girls crush the barbarian. Storr plays black. The bleached wood queen, they make good use of and wipe [[Silas]] out. 
 
 Storr: You’ve never played this?
 

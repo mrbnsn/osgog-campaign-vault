@@ -185,7 +185,7 @@ Guiding questions from our DM: We have some good world building hypotheses, but 
       1. People/ideas we've encountered
 Big mysteries that seem very related but have no real information about:
 
-- [[Silas]] and the sleeping [[Bears|bear]] (B asks if [[Silas]] has anything to tell us, Silas will need to reflect)
+- [[Silas]] and the sleeping [[Bears|bear]] (B asks if [[Silas]] has anything to tell us, [[Silas]] will need to reflect)
 - There was a second one….  ***I think this was the Tower. NB***
 
 Does [[Bryok]] not want there to be a god king?
@@ -229,7 +229,7 @@ The DM defends [[Mons]]:
       1. Our current position and questions
 We believe we’ve been sent here by our Abbot. Who is our opposition? What role could coming to this place play?
 
-Why would the [[Sun King]] be so interested in the black water? He wants to be a god king?  ***-The fact that you've repeated this about twenty times is telling. NB***
+Why would the [[Sun King]] be so interested in [[The Black Water]]? He wants to be a god king?  ***-The fact that you've repeated this about twenty times is telling. NB***
 
 The lake has been described as a prison, the black water has been described as an evil leaking out of it.
 
@@ -275,7 +275,7 @@ Fireside chat topics for next time:
 - What are they trying to use us for?
 - How does that relate to where we are right now?
 - What do we have that can help us?
-- What are B and [[Storr]]’s thoughts on Mons?
+- What are B and [[Storr]]’s thoughts on [[Mons]]?
 - Conflict? Sides? What do we see?
 - How do these gifts of Mons’ children fit in?
 - The [[Sun King]] wants to come into power. Generalize that more.

@@ -29,9 +29,9 @@ We see the stone at the bottom of the well through the water.
 
 We talk of maybe this message coming from the [[Sun King]] (“traitor”). In that case, maybe he’s summoning some monster to fight us?
 
-B recalls [[Runic Messages#Monster Tree|another message]] here from [[The Abbott]] that also calls him “traitor”. If this message is from the Abbott then, the “hearty friend” may reference [[Bears|the bear]].
+B recalls [[Runic Messages#Monster Tree|another message]] here from [[The Abbott]] that also calls him “traitor”. If this message is from [[The Abbott]] then, the “hearty friend” may reference [[Bears|the bear]].
 
-Using his new-found ability, Cricket decodes the letters written around the rim of the bowl:> *...casting a silver-laced pattern of light and dark over the planes of my body...*After some discussion we try to swirl the water with [[Party Items|Gale]] (light and dark, sun and moon, bronze and iron, which Gale is made of)
+Using his new-found ability, [[Cricket]] decodes the letters written around the rim of the bowl:> *...casting a silver-laced pattern of light and dark over the planes of my body...*After some discussion we try to swirl the water with [[Party Items|Gale]] (light and dark, sun and moon, bronze and iron, which Gale is made of)
 
 We see [[Party Items|a feather]] in the water. Cricket picks it up. It appears to made out of metal - silver and gold. It’s a quill pen. Koweth identifies the feather as one made to look like a bird.
 
@@ -47,13 +47,13 @@ B takes down some sketches of the statues. We guess that the one eyed smithy wit
 
 Cricket and [[Silas]] [[Chess Games|chess]].
 
-In the morning, Storr asks Carrantock about bear riding (he doesn't get much information.)
+In the morning, [[Storr]] asks Carrantock about bear riding (he doesn't get much information.)
 
 We decide to head up river on the eastern shore. Some of us fall in the river while others pull us up through the water. 
 
 We go up the river and come to a “[[Mysterious Places (and Some Less Mysterious)|stone]] trilithon”. There’s a paw sticking out around the stone. It’s a badger; it approaches us. Storr throws dried moose meat. He loves it. He sits on his haunches and snacks, looking at us. 
 
-Silas speaks with the badger, and the badger speaks:
+[[Silas]] speaks with the badger, and the badger speaks:
 
 His name is [[NPCs#Mochyn|Mochyn]]. “I was sent to give aid.”
 

@@ -33,7 +33,7 @@ Balz - will see where he can help out during this time and be hospitable.
 There are 9 people there.
 
 1. Kanstall - sort of leader.  He’s talking about heading down hill where the goats are to collect rushes to make baskets.  He's a basket(case) guy.
-1. the woman closest to Branwen.  She’s heading to her beehive to her loom and will take goat wool that Eaves keep to weave cloth.
+1. the woman closest to [[Branwen]].  She’s heading to her beehive to her loom and will take goat wool that Eaves keep to weave cloth.
 1. Another woman - younger, she has a flute.  Going to play some music close to the ocean, listening to the wind.
 1. Younger woman - Isolda - young one, takes some rushes that are there and head up the stairs to the peak and keep making baskets.
 1. And others we didn’t talk about (yet)...
@@ -54,7 +54,7 @@ In the evening the party does…
 
 [[Storr]] goes up to the peak and listens to the music they are making
 
-Balz joins Storr, imbibes in some honey mead and looks to sit in.  It’s not boisterous.
+Balz joins [[Storr]], imbibes in some honey mead and looks to sit in.  It’s not boisterous.
 
 - Storr claps along to the music (Performance rolls a 2 and can’t find time)
 - Balz would lend some humming; continuing what he had done earlier in the day when he was by himself.  With the full chorus.  (Performance Rolls a 8)

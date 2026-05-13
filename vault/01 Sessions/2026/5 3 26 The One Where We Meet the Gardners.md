@@ -19,12 +19,12 @@ We go into the woods, that seem bigger and deeper than they should be.  We ente
 
 We long rest.  Meet Afon, ropey arms, sinewy.  Tends gardens.  Deilin, young woman helping out.  Apprentice.
 
-Jacca, Coid, Afon, Deilin and Mag, are the 5.
+[[Jacca]], Coid, Afon, Deilin and [[Mag]], are the 5.
 
 During the rest, we each ask a question of the gardners.
 
    1. [[Storr]] has some questions for Mag
-Storr.  What happened after we left - what happened to his body, etc?
+[[Storr]].  What happened after we left - what happened to his body, etc?
 
 Mag:	His mother came to claim him. 
 
@@ -60,14 +60,14 @@ Mag:	it felt appropriate to mark where he'd been with a tree.
 
 Storr: 	Why [[Derwen Trees]]?
 
-Mag: 	They tend the Derwen trees to honor [[Mother Night]].
+Mag: 	They tend the [[Derwen Trees]] to honor [[Mother Night]].
 
    1. Balthezar also has questions for Mag
 Balz:  More about the [[Derwen]].  Are they connected to THE tree?  Do you know what I'm talking about?
 
-Mag:  It's my belief that the Derwen, or a forest of one, is beautiful, provides shelter, etc.  Mother of the forest.  When you've seen something like that ….THE Tree is the derwen tree.  Seeing them from sapling to hollowed out shelter is something .  A perfect symbol for one who gives and takes.
+Mag:  It's my belief that the [[Derwen Trees|Derwen]], or a forest of one, is beautiful, provides shelter, etc.  Mother of the forest.  When you've seen something like that ….THE Tree is the derwen tree.  Seeing them from sapling to hollowed out shelter is something .  A perfect symbol for one who gives and takes.
 
-B 	Mother night. 
+B 	[[Mother Night]]. 
 
 Mag: 	Yes.
 

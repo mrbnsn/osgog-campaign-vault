@@ -14,14 +14,14 @@ contributors:
 1. We Dock and Ascend
 So far there’s nothing to say. We arrive at the island, and tie up to an iron mooring. We disembark and start up the stairs. As we ascend, the steps continue up as we begin to see a path heading up; mostly turf and grass, the rock is steep on either side of the path (at the start). 
 
-[[Storr]], [[Silas]], Rambler, [[Branwen]] and Balz (in that order) ascend the steps, and see a path that leads up into the mountain. Storr trips on a rock and falls on her left knee, got a little bit of a limp as she makes it up to the call with the rest of the party. 
+[[Storr]], [[Silas]], Rambler, [[Branwen]] and Balz (in that order) ascend the steps, and see a path that leads up into the mountain. [[Storr]] trips on a rock and falls on her left knee, got a little bit of a limp as she makes it up to the call with the rest of the party. 
 
 Strong winds. We smell the ocean everywhere. So windy. We get to a fork in the path. We go west. It’s pretty steep, and somewhat treacherous. About halfway up we all basically need to sit down because we’re exhausted. [[Krambler]] slips and bangs up his right shin pretty badly, got a limp to match Storr. After a little break we continue on up to a flat spot, where we hear the wind whistling in the cracks. There’s a 3 foot wall around the edges, we notice a large stone in the center of the flat spot. 
 
 The center flagstone has the same three lobed symbol that we saw at the Island of Voices. The space feels ceremonial.
 
    1. Silas’ Jaunt Eastward
-Silas and Arthen take the east side of the island, intending to skirt along the coast. He gets down to the junction and goes around the small hillock to the east. Path is laid stone, not soil. Steep, water flowing down would fall far. Trail splits again, one goes along the across the larger hill, the other is created by stone pillars that goes along the backside of the hill, three feet apart, vary in height depending on the terrain. Arthen and S choose the backside pillar path. Arthen has a couple close calls, but he’s okay. After 100 yards, we;re back on a flat ledge, then a very steep stone staircase up to another terrace. We hear low singing as we approach, slow, gregorian chant like, long, drawn out notes, not unlike Eric Whitacre’s “Alleluia”. We pause and retreat, noting the location to share with the group, back across the pillars and return the group,
+[[Silas]] and Arthen take the east side of the island, intending to skirt along the coast. He gets down to the junction and goes around the small hillock to the east. Path is laid stone, not soil. Steep, water flowing down would fall far. Trail splits again, one goes along the across the larger hill, the other is created by stone pillars that goes along the backside of the hill, three feet apart, vary in height depending on the terrain. Arthen and S choose the backside pillar path. Arthen has a couple close calls, but he’s okay. After 100 yards, we;re back on a flat ledge, then a very steep stone staircase up to another terrace. We hear low singing as we approach, slow, gregorian chant like, long, drawn out notes, not unlike Eric Whitacre’s “Alleluia”. We pause and retreat, noting the location to share with the group, back across the pillars and return the group,
 
    1. Storr’s Jaunt Westward
    1. Back at Camp
@@ -48,4 +48,4 @@ We approach the birdman, Kanstal.
 
 Kanstal - more like CanStall, AMMIRITE?  He isn't super forthcoming with information and is rather indifferent to our presence.  He's focused on weaving - because that's what he does. ALL DAY.  They certainly aren't hostile with us, and don't really react to our…oddities (we have a bear, a horned human, and a [[Mother Night]] look alike, so we usually get some looks).
 
-Branwen is thinking that spending some time with these craftsfolk could be fruitful - learn a new skill, make something with our hands, and maybe even sneak another short rest in to clear our exhaustion.  Furthermore, the voices on the wind are loud here.  She'd like to craft, and listen.  And learn to sing with them.
+[[Branwen]] is thinking that spending some time with these craftsfolk could be fruitful - learn a new skill, make something with our hands, and maybe even sneak another short rest in to clear our exhaustion.  Furthermore, the voices on the wind are loud here.  She'd like to craft, and listen.  And learn to sing with them.

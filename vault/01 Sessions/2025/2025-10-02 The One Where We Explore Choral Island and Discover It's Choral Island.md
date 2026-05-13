@@ -39,7 +39,7 @@ We wake, and head to the singing dias. We get to the branch and take the eastern
 
 We continue. Our cover might be blown. 
 
-We come across a few flat surfaces and some bee enclosures. We definitely hear Whitacre on the wind. [[Storr]], Silas, K, Bran, Balz is our marching order. We come to the backside of one of these bee hives. People humming and chanting just on the other side. We would need to weave our way through the hives to get there.  
+We come across a few flat surfaces and some bee enclosures. We definitely hear Whitacre on the wind. [[Storr]], [[Silas]], K, Bran, Balz is our marching order. We come to the backside of one of these bee hives. People humming and chanting just on the other side. We would need to weave our way through the hives to get there.  
 
 We come around the corner and we see a group of people, 9, 5 men, 4 women, sitting in a circle. All wearing versions of blue gray brown cloth, all worn, billowy, same cloth but different among them, multiple pieces, not robes. They span a variety of ages.  Rushes on the ground. They’re on a flagged terrace, similar to ours. Bee hive style huts surrounding them on three sides. Splints in front to them, some rushes, some wood splints. They do have woven bee skips as well. They’re all making baskets of various shapes of sizes. The harrier has landed in front of one of them. He’s weaving, but also paying attention to the bird.
 

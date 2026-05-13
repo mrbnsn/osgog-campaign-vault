@@ -17,7 +17,7 @@ But one year, [[Mons]] looked to them, and said: *We are wise in the ways of gro
 
 And the seedlings emerged in good time, and began to unfurl their delicate leaves, but just as the seedlings of their crop emerged from the womb of the earth, a great and bitter wind flowed down from the dark mountains to the north, and all the new made leaves froze.  The people of the village walked out of their humble mud huts, and looked in despair at the fields with their dusting of snow, for as the Sun rose over the hills, the light warmed the plants and the ice in their veins melted, and they fell to the ground.
 
-And the people of the valley looked at their shining chieftain, and said “Lord Mons, what shall we do?  We have done as you bade, and planted early and all of our seeds are now wasted, and we will surely starve.”
+And the people of the valley looked at their shining chieftain, and said “Lord [[Mons]], what shall we do?  We have done as you bade, and planted early and all of our seeds are now wasted, and we will surely starve.”
 
 And Mons looked at them, and said “We will find a way, but in the meantime I will go into the mountains and find the demon that brought this fell wind, and we will live in confidence that this will never happen again.”
 

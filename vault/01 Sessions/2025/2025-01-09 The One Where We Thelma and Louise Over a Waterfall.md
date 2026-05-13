@@ -66,7 +66,7 @@ We walk through and it gets very dark. Ahead of us the cave opens out a little, 
 
 We follow him down, at times we hear voices and shapes of bodies but when we look we see just rock. Can’t tell if we’re really hearing and seeing these things. Mostly we’re able to keep up, but hte re are times when he disappears. We follow by sound. Not sure if he’s lost us, but we keep going down. We’re feeling more and more moisture. A mist comes up the passageway. We find ourselves in an opening, small dome, 15 ft across, 9 ft ceiling, a rough floor we’ve come down to and there’s an opening through which we see darkness, but there’s spray coming through. He sits down and looks at us, sits down and looks almost sad with his eyebrows.
 
-We suspect this might be [[The Black Water]]. Storr unsheaths Klegh and activates the 2nd rune, which sheds moonlight. We see that the floor has an arc that goes through this arc. Still ahrd to see what’s going on, but we do see some lights out there. 
+We suspect this might be [[The Black Water]]. [[Storr]] unsheaths Klegh and activates the 2nd rune, which sheds moonlight. We see that the floor has an arc that goes through this arc. Still ahrd to see what’s going on, but we do see some lights out there. 
 
 Storr approaches the dog with Kl drawn and approaches the edge. As our eyes adjust it seems like we’re seeing night sky, with the [[Constellations]] that we’ve seen elsewhere, and we sense that we can see the waterfall off to the left of us. We’re on almost a balcony. The dog comes and he sits down next to storr and looks up at her,, looks out, looks back at her, barks, and runs out into the night sky and slowly disappears as he goes. 
 

@@ -34,7 +34,7 @@ contributors:
 - [[Broggy]]: A ruffian we [[Battles#Ruffians on the Road to Tawesek|fight on the road]] to [[Tawesek]].
 - [[Dama]]: An Herbalist we met in [[Kel]] who helped us learn a few words.
 - [[Den]]: A guard at [[Tawesek]] who took us up to see [[The Abbott]]
-- [[Tewlder]]: A craftsman of Tawesek. Married to the Abbott's daughter.
+- [[Tewlder]]: A craftsman of [[Tawesek]]. Married to [[The Abbott]]'s daughter.
 - [[The Red Blade (NPC)|The Red Blade]]: A fighter we met in [[Mysterious Places (and Some Less Mysterious)#Trenewydh|Trenewydh]].
 - [[Mag]]: A gardener who snuck out of [[Trenewydh]] to give us the sapling.
 

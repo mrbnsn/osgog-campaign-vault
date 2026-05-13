@@ -97,11 +97,11 @@ THE FOUNDLING - Written in runic in charcoal!
 
 [[Storr]] examines the scratches on the walls. He suspects they aren’t just a bear scratching at the wall, they are deep, and in stone. The way things look, a bear could have been here and messed the place up. Though, it does look like the disturbance happened a long time ago.
 
-B takes a rubbing of the space below the writing, and does get some texture but no writing. Cricket/B thinks, it seems strange that the staircase stops here, but we definitely saw four levels to this tower. We look out the window and see that there is in fact a remaining story.
+B takes a rubbing of the space below the writing, and does get some texture but no writing. [[Cricket]]/B thinks, it seems strange that the staircase stops here, but we definitely saw four levels to this tower. We look out the window and see that there is in fact a remaining story.
 
 Cricket sends Koweth. There’s a huge capstone at the top, 30 to 40 feet across, solid rock. The ceiling has stone arches with stone slabs laid across. Nothing seems like an obvious way through. Cricket bangs around to try and hear an echo to determine hollow spaces. He hears echos, but nothing obvious of a passageway.
 
-Storr moves the wardrobe and sees only stone wall. Storr flips the bed, no boogeyman. 
+[[Storr]] moves the wardrobe and sees only stone wall. Storr flips the bed, no boogeyman. 
 
 The desk is a big table, covered in dust, a couple of books, sheafs of paper. Cricket blows off the dust. He sees two places where hands would be. The paper has writing on it.,
 
@@ -123,7 +123,7 @@ On the “shadow’s” turn, he goes for [[Silas]], screams, we all become frig
 
 On its next turn, it seems to flow into [[Silas]], and doesn’t seem to know who he is. On the shadow’s next turn, he ([[Silas]]) attacks Storr with the bronze katana.
 
-On Storr’s turn, he drags the Silas Shadow into the well and holds his head underwater. 12 seconds go by with Silas’ head underwater. Cricket screams “THE POWER OF CHRIST COMPELS YOU”, twice. 18 seconds. He escapes, but Storr grapples him again and dunks him. 12 seconds.  
+On Storr’s turn, he drags the [[Silas]] Shadow into the well and holds his head underwater. 12 seconds go by with Silas’ head underwater. Cricket screams “THE POWER OF CHRIST COMPELS YOU”, twice. 18 seconds. He escapes, but Storr grapples him again and dunks him. 12 seconds.  
 
 Cricket puts on his cloak, and nails the d8 roll. He sees in the space of Silas  a pale figure being buffetted and swirled around in this darkness. He doesn’t necessarily look thrilled to be where he is. The shdaow is possessing him. Silas, a shadow, and a man, all layered over him. Silas is on the outside, the shadow, and then the man on the inside. Storr continues to hold Silas under. 18 seconds.
 

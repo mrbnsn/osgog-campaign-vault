@@ -69,7 +69,7 @@ The goose looks at us and says “sad”
 
 We play an E7. It stands up and flaps again and wanders over to the east side of the island down toward the east side of the cove. Goose takes a drink.
 
-Storr's apple. As long as she was watching it, it seems like it was the same as when she left it. With the goose activity, we went back and couldn’t find it anymore.
+[[Storr]]'s apple. As long as she was watching it, it seems like it was the same as when she left it. With the goose activity, we went back and couldn’t find it anymore.
 
 Balz speculates on the stone and sitting on it… (perc, 17)
 

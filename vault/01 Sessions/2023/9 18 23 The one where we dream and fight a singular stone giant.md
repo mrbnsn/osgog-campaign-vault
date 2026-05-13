@@ -19,7 +19,7 @@ We all feel the tree has bound itself up with the spirit of a young woman that s
 
 Individually:
 
-Silas could talk about this mossy slumbering bear.
+[[Silas]] could talk about this mossy slumbering bear.
 
 [[Krambler]] is feeling the roots spreading out and holding things and feeling the strain.  It reaches deep into the earth,  drinks deeply from the well, while the branches stretch upward into the sky.
 
@@ -33,7 +33,7 @@ B reads the story of [[Geshwa]]:
 
 We travel. 
 
-We find an interesting spot where there is a lot of animal activity. Silas finds a spot where they could hide. Silas and Cricket (with the longbow) hide, waiting for game, while others hang back. Cricket is trying to verify if the water level is rising. He’s hearing rocks grinding together. The rock rises out of the water, shaking itself off and lets out a bellow, like a rock bellowing. 
+We find an interesting spot where there is a lot of animal activity. Silas finds a spot where they could hide. Silas and [[Cricket]] (with the longbow) hide, waiting for game, while others hang back. Cricket is trying to verify if the water level is rising. He’s hearing rocks grinding together. The rock rises out of the water, shaking itself off and lets out a bellow, like a rock bellowing. 
 
 [[The Stone Giant (Battle)|WE FIGHT]].
 

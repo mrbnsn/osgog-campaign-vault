@@ -27,4 +27,4 @@ We fight bears: large. 5 feet high at the shoulder. Not the typical bears we’v
 
 We fight and win. [[Silas]] in conversation with the bear cub figured out that the bear goes by Arthen.
 
-Storr skinned the female bear (not well) and is carrying the pelt in her pack.
+[[Storr]] skinned the female bear (not well) and is carrying the pelt in her pack.

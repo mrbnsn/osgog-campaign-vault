@@ -51,11 +51,11 @@ We depart in the morning. Weather is partly cloudy, wind but no whitecaps.
 
 [[Storr]] has a climber’s kit. 
 
-Silas and Arthen hang back and keep the boat running. Not too keen on encroaching on the space of a giant bird.
+[[Silas]] and Arthen hang back and keep the boat running. Not too keen on encroaching on the space of a giant bird.
 
 [[Branwen]] and [[Storr]] pack their weapons and leave everything else. In short: it’s lady’s night (morning)
 
-[[Storr]] is top rope, but peels off and falls back into the water and takes some damage. Storr makes it the second time. [[Branwen]] falls as well, but not as far and takes not as much damage.
+[[Storr]] is top rope, but peels off and falls back into the water and takes some damage. [[Storr]] makes it the second time. [[Branwen]] falls as well, but not as far and takes not as much damage.
 
 Storr makes it up the next pitch, and so does [[Branwen]]. 
 
@@ -63,7 +63,7 @@ Last pitch for Storr, and she nails it. She gets over the lip and ties off. [[Br
 
 Skree, boulders, low bushes. It’s noontime.
 
-Storr’s on the look out for animal remains. Branwen considers fucking around and finding out with her raven, but says, “Fuck it, let’s juts found out,” and they go. 
+Storr’s on the look out for animal remains. [[Branwen]] considers fucking around and finding out with her raven, but says, “Fuck it, let’s juts found out,” and they go. 
 
 They head uphill. As they get closer, we hear some rustling in the nest, some noise. 
 

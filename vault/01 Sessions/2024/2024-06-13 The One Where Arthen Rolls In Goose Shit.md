@@ -78,7 +78,7 @@ We’ve seen some terrible stuff on the way over here. How is the traveling betw
 It’s wild country, but if you’re clever and know the way, you should be okay. I’ve never had a problem.
 
    1. Council is in session
-Branwen is our spokesperson. We’re asking her for [[Kelynnen|Kelynnan]] to accompany us, as a guide, up to the spot where she saw [[Musk]]. We’re offering to accompany her and potentially escorting her back to the village.
+[[Branwen]] is our spokesperson. We’re asking her for [[Kelynnen|Kelynnan]] to accompany us, as a guide, up to the spot where she saw [[Musk]]. We’re offering to accompany her and potentially escorting her back to the village.
 
 Branwen succeeds in the Persuasion roll, using her own inspiration advantage.
 
@@ -128,7 +128,7 @@ So [[Storr]], [[Silas]], Arthen, Bal and Kramb have the afternoon off.  They hea
 >
 > The mother comes out and Branwen diffuses, and the mother says Why are you scaring the children?
 >
-> Silas apologies and says Arthen is a good boy and scritches him, but Arthen jumps off the gangway into something gross.
+> [[Silas]] apologies and says Arthen is a good boy and scritches him, but Arthen jumps off the gangway into something gross.
 >
 > B tries to explain that the bear and the druid is work in progress. Silas jumps down off the gangway and tries to grapple the bear. 
 >
@@ -152,7 +152,7 @@ So [[Storr]], [[Silas]], Arthen, Bal and Kramb have the afternoon off.  They hea
 >
 > [[Storr]] is suspicious and knocks on the door and tries to ask if “everything is okay” to the mother. She says “Yes, thank you, good day”
 >
-> Storr asks B if she can have Koweth do a lap around the building to see if there’s something off. Storr seems to think there’s something wrong. See if there’s anything wrong or someone else with. (B can see through the raven’s eyes and hear what he hears, always obeys commands) Kowethi doesn’t really see much, nothing out of the ordinary. No one standing next to a window. K doesn’t see a good place to peak in. Koweth sees the tops of heads of two little girls, whispering. Not odd, just playing. One of the boys playing with some blocks upstairs in the attic space. A couple of small beds up there. Don’t see the fourth kid, not sure if the boy is inside or not. The mother is chopping veggies in the kitchen.
+> [[Storr]] asks B if she can have Koweth do a lap around the building to see if there’s something off. Storr seems to think there’s something wrong. See if there’s anything wrong or someone else with. (B can see through the raven’s eyes and hear what he hears, always obeys commands) Kowethi doesn’t really see much, nothing out of the ordinary. No one standing next to a window. K doesn’t see a good place to peak in. Koweth sees the tops of heads of two little girls, whispering. Not odd, just playing. One of the boys playing with some blocks upstairs in the attic space. A couple of small beds up there. Don’t see the fourth kid, not sure if the boy is inside or not. The mother is chopping veggies in the kitchen.
 >
 > Out of the sky, we see something falling at great speed. We hear a noise, someone yelling from far away, it gets louder and louder. Then the body slams into the water, it’s [[Mannix]]. Just kidding.
 >

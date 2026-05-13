@@ -30,9 +30,9 @@ It is an old huge tree, but we also have a sensation that we’ve grown very sma
 
 [[Branwen]] touches the tree. [[Branwen]] feels a barrier trying to raech into it and isn’t successful. K touches a stone. This is a stone that was shaped with intention and almost inconceivable how long ago that happened. When K compares it to anything he’s worked with, it doesn’t make sense. 
 
-Storr puts a hand on Kelghein to see how she feels. The sword is looking around and feels pretty comfortable, not paying attention to Storr, but to whats happening here, like looking for a kindred spirit
+[[Storr]] puts a hand on Kelghein to see how she feels. The sword is looking around and feels pretty comfortable, not paying attention to Storr, but to whats happening here, like looking for a kindred spirit
 
-Silas steps up to the center stone, and tries to commune with the intention of determining a link between this place and the bear and how to leverage that connection. He goes to do it, hands on the stone, concentrating on the markings.
+[[Silas]] steps up to the center stone, and tries to commune with the intention of determining a link between this place and the bear and how to leverage that connection. He goes to do it, hands on the stone, concentrating on the markings.
 
 The group sees him doing this. To them, his consciousness disappears. He goes limp and it’s a little freaky, kind of back when K touched the tree, but less fraught and violent. Silas’ body is calm but there’s an extended period of time where he;s not there. 
 

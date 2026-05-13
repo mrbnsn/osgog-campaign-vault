@@ -80,7 +80,7 @@ WE FIGHT.
 - Kramb goes down and starts making saves
 - [[Storr]] grapples one of the armored dudes
 - [[Silas]] mauls the wizard to death
-- Storr attempts to toss one of the guards over the side of the bridge, but can’t do it. Instead, she drags him across the bridge, so…
+- [[Storr]] attempts to toss one of the guards over the side of the bridge, but can’t do it. Instead, she drags him across the bridge, so…
 - [[Branwen]] can hit him with [[Rhiannon]]’s gale, which she does, and she unleashes a gust of wind 50 FEET LONG
 - One of the guards goes over the side, but manages to wade up back into the fight. He dies anyway.
 - The other guard is "still looking rather hale" so we call it for the night.

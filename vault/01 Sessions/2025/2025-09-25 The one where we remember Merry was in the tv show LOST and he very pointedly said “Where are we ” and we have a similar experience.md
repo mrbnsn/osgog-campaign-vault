@@ -81,7 +81,7 @@ Bran sneaks onto the island with cloak to scope the stone. Like the spoon, there
 We sail back to the shore and try to bring the boat back to our longship. Probably not worth the portage with the waterfall and all, so we leave it.
 
    1. We're Off Again
-We get back to the boat. Night falls. Silas shows up with his staff, and [[Branwen]] gets in later.
+We get back to the boat. Night falls. [[Silas]] shows up with his staff, and [[Branwen]] gets in later.
 
 We journey back to the boat. [[Branwen]] takes a few falls.  
 

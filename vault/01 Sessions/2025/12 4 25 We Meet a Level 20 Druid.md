@@ -16,9 +16,9 @@ contributors:
 
 [[Storr]] remembers “the dead losing their grip” in relation to circular landforms/stone circles/henges that we’ve seen in the past. In and around [[Monsoth]], these henges were typically met with a small amount of fright and misgivings.
 
-Branwen's theory: Sometime ago, [[The God King|(See The God King)]] [[Morianoth]] transitioned from an Artemis, Goddess of the hunt, sort of figure to the Night Queen. Branwen thinks that Morianoth did *something* to combat an evil, and locked that evil away deep in the earth, where the dead are *somehow* employed in keeping this evil locked away.  In the process, Morianoth had to tap into the power of the dead, and *somehow* became the Night Queen, queen of death.  Lots of *somethings* and *somehows* in there, but us mere mortals can't really fathom this shit, right?  
+[[Branwen]]'s theory: Sometime ago, [[The God King|(See The God King)]] [[Morianoth]] transitioned from an Artemis, Goddess of the hunt, sort of figure to the Night Queen. Branwen thinks that [[Morianoth]] did *something* to combat an evil, and locked that evil away deep in the earth, where the dead are *somehow* employed in keeping this evil locked away.  In the process, Morianoth had to tap into the power of the dead, and *somehow* became the Night Queen, queen of death.  Lots of *somethings* and *somehows* in there, but us mere mortals can't really fathom this shit, right?  
 
-More thinking on this.  We know [[Gorgomog]] is the [[Moon King]], god of the dead, and we've heard that he's trapped beneath the lake.  The Bear isn't the Moon King.  Perhaps the Moon King put a spell on the Bear to subdue the threats of the wild to mankind?
+More thinking on this.  We know [[Gorgomog]] is the [[Moon King]], god of the dead, and we've heard that he's trapped beneath the lake.  The Bear isn't the [[Moon King]].  Perhaps the Moon King put a spell on the Bear to subdue the threats of the wild to mankind?
 
    1. We Meet the Mysterious Druidic Stranger
 We wake. 
@@ -28,13 +28,13 @@ There’s a figure across from us at the top of the stairs. Mumbling to himself 
 
 Can Koweth help? Not sure
 
-Storr can speak with animals to try and comprehend what he’s saying. She would be hearing him speak not nonsense. Her general idea is that he’s greeting the morning, talking about strangers, and a whole host of other things that she can’t grasp – he’s talking about a lot.
+[[Storr]] can speak with animals to try and comprehend what he’s saying. She would be hearing him speak not nonsense. Her general idea is that he’s greeting the morning, talking about strangers, and a whole host of other things that she can’t grasp – he’s talking about a lot.
 
 Storr wants to approach and say good morning. He puts out a hand toward her to shush gently, and keeps going. Storr’s 5 perception roll equates to her feeling like he’s being condescending and she’s a little annoyed. She squeezes the hilt of her sword in place in frustration.
 
 K plays a note. He keeps going with what he’s doing, but looks over and says “good job” with his face.
 
-Arthen goes over after chatting with Silas. He gives A big eyes, and does a come here kind of thing. He continues talking while scratching Arthen and Arthen gets the dog foot thing going on. Sometimes it seems like he’s talking to Arthen in a baby voice. A is very quickly at ease. He may have slight of handed something in Arthen’s mouth that he was pleased to devour. 
+Arthen goes over after chatting with [[Silas]]. He gives A big eyes, and does a come here kind of thing. He continues talking while scratching Arthen and Arthen gets the dog foot thing going on. Sometimes it seems like he’s talking to Arthen in a baby voice. A is very quickly at ease. He may have slight of handed something in Arthen’s mouth that he was pleased to devour. 
 
 Silas approaches the stranger. The stranger motions for Silas to be quiet. The sun is now fully awake, and the stranger raises his face in rapture to the rays.
 
@@ -63,7 +63,7 @@ Moon King is often depicted in [[Mons]] in shadow with horns.
 
 Connection between the Moon King and the bear?
 
-When Silas was growing up in the druid folkd, the moon king wouldn’t be mentioned as part of their teachings. Mons followers are terrified of being trapped in this world as slaves (like the dead), purgatory, whereas the druid outlook is that you’re just part of nature. 
+When Silas was growing up in the druid folkd, the moon king wouldn’t be mentioned as part of their teachings. [[Mons]] followers are terrified of being trapped in this world as slaves (like the dead), purgatory, whereas the druid outlook is that you’re just part of nature. 
 
 Maybe the bear was trying to communicate to Silas that maybe the MK is keeping him asleep. 
 

@@ -42,7 +42,7 @@ Glasses is still confused. Council ends. We have succeeded, but at what cost?
 
 [[Branwen]] is quietly melting down, sitting in a chair. Gwen walks over and gives her a hug. “Sometimes things are more complicated than they seem, but that doesn’t mean the things you’ve seen aren’t real. Would you like some tea?
 
-Branwen: Are you going to tell me what the honey means? Otherwise, you can fuck right off.
+[[Branwen]]: Are you going to tell me what the honey means? Otherwise, you can fuck right off.
 
 Gwen: Honey is the fuel of creation.
 
@@ -114,7 +114,7 @@ B: beyond the purview of ….  Something was foretold , carries a significance. 
 
 B: this place is very safe, been here a long long long time.  Spread my branches over wind and rain and protected my children.  Other places are possibly safe.  
 
-Storr: express SK threat, is safe here?  How can we travel quickly?
+[[Storr]]: express SK threat, is safe here?  How can we travel quickly?
 
 Storr rolls a FUCKING NAT 20 in persuasion
 
