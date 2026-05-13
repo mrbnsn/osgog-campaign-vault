@@ -49,7 +49,8 @@ osgog/
 │   ├── quartz.config.ts    ← site configuration
 │   └── quartz.layout.ts    ← layout configuration
 ├── .github/workflows/
-│   └── deploy.yml          ← GitHub Actions deployment pipeline
+│   ├── deploy.yml          ← GitHub Actions deployment pipeline
+│   └── sync.yml            ← Automated daily wiki sync
 ├── sync.py                 ← One-command weekly sync (see below)
 ├── convert_wiki.py         ← MediaWiki XML → Obsidian Markdown
 ├── fix_frontmatter.py      ← Fix YAML quote issues post-conversion
@@ -61,17 +62,12 @@ osgog/
 
 ---
 
-## Weekly sync workflow
+## Sync workflow
 
 The wiki at http://osgog.mrobinson.us is the source of truth for campaign
-content. Roughly once a week, run the sync script — it handles everything
-from download through to opening a pull request for review.
-
-### Step 1 — Run the sync script
-
-```powershell
-python sync.py
-```
+content. Syncing is fully automated — a GitHub Actions workflow runs every
+night at 2am UTC, pulls the latest wiki content, and pushes any changes
+directly to `main`, which triggers a fresh site deploy.
 
 `sync.py` does the following in sequence:
 
@@ -83,32 +79,32 @@ python sync.py
 | 4 | Fixes any YAML frontmatter quoting issues | `fix_frontmatter.py` |
 | 5 | Auto-links entity mentions in note bodies | `autolink.py` |
 | 6 | Reports any unresolved wikilinks to review | `find_ghost_nodes.py` |
-| 7 | Creates a `sync/YYYY-MM-DD` branch, commits, pushes, and opens a PR | *(built-in)* |
 
-**Options:**
+If there are no changes since the last sync, the workflow exits silently
+with no commit.
+
+### Trigger a sync manually
+
+To sync immediately without waiting for the nightly run, go to:
+
+**Actions → Daily Wiki Sync → Run workflow**
+
+at https://github.com/mrbnsn/osgog-campaign-vault/actions
+
+### Run the sync locally
 
 ```powershell
-python sync.py --no-fetch   # skip XML download, use existing dump
-python sync.py --no-pr      # skip git/PR step (sync files only)
+python sync.py            # full sync (fetches from wiki + commits + pushes)
+python sync.py --no-fetch # skip XML download, use existing dump
+python sync.py --no-pr    # sync files only, skip git step
 ```
 
-### Step 2 — Review the PR
+### Fix ghost nodes (if any)
 
-The script will print a URL like:
-
-```
-PR ready for review: https://github.com/mrbnsn/osgog-campaign-vault/pull/N
-```
-
-Open it, review the diff, and merge when satisfied. GitHub Actions will
-deploy the updated site automatically once the PR is merged to `main`.
-
-### Step 3 — Fix ghost nodes (if any)
-
-If `sync.py` reported unresolved wikilinks, fix them in Obsidian after
-merging (create the missing note, or add the right alias to an existing one).
+If the sync reported unresolved wikilinks, fix them in Obsidian
+(create the missing note, or add the right alias to an existing one).
 Re-run `python find_ghost_nodes.py` to confirm they're resolved, then commit
-the fix in a new PR or directly on main.
+directly to `main`.
 
 ---
 
@@ -128,9 +124,9 @@ Open http://localhost:8080/ in your browser.
 ## Scripts reference
 
 ### `sync.py`
-The main entry point for the weekly sync workflow. Orchestrates all the
-steps below in sequence and opens a GitHub pull request at the end.
-See the [Weekly sync workflow](#weekly-sync-workflow) section above for full details.
+The main entry point for the sync workflow. Orchestrates all the steps below
+in sequence. Normally runs automatically via GitHub Actions, but can also be
+run locally. See the [Sync workflow](#sync-workflow) section above for full details.
 
 ### `convert_wiki.py`
 Converts a MediaWiki XML export into Obsidian-flavoured Markdown. Classifies
@@ -185,8 +181,8 @@ python find_ghost_nodes.py
 
 ## Deployment
 
-Deployment is fully automated — merging a PR to `main` triggers GitHub Actions,
-which:
+Deployment is fully automated — any push to `main` (including the nightly sync)
+triggers GitHub Actions, which:
 
 1. Rewrites `baseUrl` to `mrbnsn.github.io/osgog-campaign-vault`
 2. Builds the site with `npx quartz build`
