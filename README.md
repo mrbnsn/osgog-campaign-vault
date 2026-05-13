@@ -7,6 +7,27 @@ A MediaWiki-backed D&D campaign wiki, published as a static website via
 
 ---
 
+## First-time setup
+
+Requirements: [Node.js](https://nodejs.org/) 22+, Python 3.11+,
+[GitHub CLI (`gh`)](https://cli.github.com/)
+
+```powershell
+# 1. Clone the repo
+git clone https://github.com/mrbnsn/osgog-campaign-vault.git
+cd osgog-campaign-vault
+
+# 2. Install Quartz dependencies (only needed once, or after Quartz updates)
+cd quartz
+npm install
+cd ..
+
+# 3. Authenticate the GitHub CLI (only needed once)
+gh auth login
+```
+
+---
+
 ## Repository structure
 
 ```
@@ -29,6 +50,7 @@ osgog/
 │   └── quartz.layout.ts    ← layout configuration
 ├── .github/workflows/
 │   └── deploy.yml          ← GitHub Actions deployment pipeline
+├── sync.py                 ← One-command weekly sync (see below)
 ├── convert_wiki.py         ← MediaWiki XML → Obsidian Markdown
 ├── fix_frontmatter.py      ← Fix YAML quote issues post-conversion
 ├── autolink.py             ← Auto-wrap entity mentions in [[wikilinks]]
@@ -42,7 +64,8 @@ osgog/
 ## Weekly sync workflow
 
 The wiki at http://osgog.mrobinson.us is the source of truth for campaign
-content. Roughly once a week, run the sync script and push to deploy.
+content. Roughly once a week, run the sync script — it handles everything
+from download through to opening a pull request for review.
 
 ### Step 1 — Run the sync script
 
@@ -50,60 +73,64 @@ content. Roughly once a week, run the sync script and push to deploy.
 python sync.py
 ```
 
-This does everything in one shot:
-1. Fetches all page titles from the MediaWiki API
-2. Downloads a full XML export via Special:Export
-3. Converts XML → Obsidian Markdown
-4. Fixes YAML frontmatter quoting issues
-5. Auto-links entity mentions in note bodies
-6. Reports any unresolved wikilinks to review
+`sync.py` does the following in sequence:
 
-If you already have a fresh XML dump and want to skip the download:
+| # | What | Script |
+|---|------|--------|
+| 1 | Fetches all page titles from the MediaWiki API | *(built-in)* |
+| 2 | Downloads a full XML export via `Special:Export` | *(built-in)* |
+| 3 | Converts the XML into Obsidian Markdown files | `convert_wiki.py` |
+| 4 | Fixes any YAML frontmatter quoting issues | `fix_frontmatter.py` |
+| 5 | Auto-links entity mentions in note bodies | `autolink.py` |
+| 6 | Reports any unresolved wikilinks to review | `find_ghost_nodes.py` |
+| 7 | Creates a `sync/YYYY-MM-DD` branch, commits, pushes, and opens a PR | *(built-in)* |
 
-```powershell
-python sync.py --no-fetch
-```
-
-### Step 2 — Review changes and ghost nodes
-
-Check what changed:
+**Options:**
 
 ```powershell
-git diff --name-only
-git status --short
+python sync.py --no-fetch   # skip XML download, use existing dump
+python sync.py --no-pr      # skip git/PR step (sync files only)
 ```
 
-New files appear as `?? vault/...`, modified files as `M vault/...`.
+### Step 2 — Review the PR
 
-If `sync.py` reported any unresolved wikilinks, fix them in Obsidian
-before committing (create the missing note, or add the right alias to
-an existing one), then re-run `python find_ghost_nodes.py` to confirm.
+The script will print a URL like:
 
-### Step 3 — Preview locally
+```
+PR ready for review: https://github.com/mrbnsn/osgog-campaign-vault/pull/N
+```
+
+Open it, review the diff, and merge when satisfied. GitHub Actions will
+deploy the updated site automatically once the PR is merged to `main`.
+
+### Step 3 — Fix ghost nodes (if any)
+
+If `sync.py` reported unresolved wikilinks, fix them in Obsidian after
+merging (create the missing note, or add the right alias to an existing one).
+Re-run `python find_ghost_nodes.py` to confirm they're resolved, then commit
+the fix in a new PR or directly on main.
+
+---
+
+## Local preview
+
+To preview the site locally before or after a sync:
 
 ```powershell
 cd quartz
 npx quartz build --serve
 ```
 
-Open http://localhost:8080/ and spot-check the changed pages.
-
-### Step 4 — Commit and push
-
-```powershell
-git add vault/
-git commit -m "Sync wiki export YYYY-MM-DD"
-git push
-```
-
-GitHub Actions picks up the push and deploys automatically. Watch progress at:
-https://github.com/mrbnsn/osgog-campaign-vault/actions
-
-The deployment takes about 2–3 minutes.
+Open http://localhost:8080/ in your browser.
 
 ---
 
 ## Scripts reference
+
+### `sync.py`
+The main entry point for the weekly sync workflow. Orchestrates all the
+steps below in sequence and opens a GitHub pull request at the end.
+See the [Weekly sync workflow](#weekly-sync-workflow) section above for full details.
 
 ### `convert_wiki.py`
 Converts a MediaWiki XML export into Obsidian-flavoured Markdown. Classifies
@@ -130,7 +157,7 @@ Scans all vault notes for plain-text mentions of known entities (characters,
 locations, lore, battles, items) and wraps them in `[[wikilinks]]`. Uses
 entity names and aliases from the `02–06` folders as its source list.
 
-Always run `--dry-run` first and review the proposed changes.
+Always run `--dry-run` first when running manually to review proposed changes.
 
 ```powershell
 python autolink.py --dry-run   # preview
@@ -156,35 +183,18 @@ python find_ghost_nodes.py
 
 ---
 
-## Local development
-
-Requirements: [Node.js](https://nodejs.org/) 22+, Python 3.11+
-
-```powershell
-# First time only — install Quartz dependencies
-cd quartz
-npm install
-
-# Build and serve
-npx quartz build --serve
-# → http://localhost:8080/
-```
-
-The `baseUrl` in `quartz/quartz.config.ts` is set to `mrbnsn.github.io` for
-local use. The CI pipeline rewrites it to the full sub-path before deploying.
-
----
-
 ## Deployment
 
-Deployment is fully automated. Push any commit to `main` and GitHub Actions:
+Deployment is fully automated — merging a PR to `main` triggers GitHub Actions,
+which:
 
 1. Rewrites `baseUrl` to `mrbnsn.github.io/osgog-campaign-vault`
-2. Runs `npx quartz build --directory <path-to-vault>`
-3. Uploads `quartz/public/` as a Pages artifact
-4. Deploys to https://mrbnsn.github.io/osgog-campaign-vault/
+2. Builds the site with `npx quartz build`
+3. Deploys to https://mrbnsn.github.io/osgog-campaign-vault/
 
-The workflow is defined in `.github/workflows/deploy.yml`.
+The workflow is defined in `.github/workflows/deploy.yml`. Deployment takes
+about 2–3 minutes. Watch progress at:
+https://github.com/mrbnsn/osgog-campaign-vault/actions
 
 ---
 
@@ -210,4 +220,11 @@ If a session was written directly in Obsidian (not on the wiki):
 3. Run `python tag_sessions.py` to apply thematic tags if the session title
    matches any existing patterns.
 4. Run `python autolink.py` to wire up entity mentions.
-5. Commit and push.
+5. Create a branch, commit, and open a PR:
+   ```powershell
+   git checkout -b add-session-YYYY-MM-DD
+   git add vault/
+   git commit -m "Add session YYYY-MM-DD"
+   git push -u origin add-session-YYYY-MM-DD
+   gh pr create --base main
+   ```

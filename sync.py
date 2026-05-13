@@ -2,31 +2,38 @@
 """
 sync.py — One-command weekly wiki sync.
 
-Steps:
-  1. Fetch all page titles from the MediaWiki API
-  2. Download full XML export via Special:Export
-  3. Convert XML → Obsidian Markdown  (convert_wiki)
-  4. Fix YAML frontmatter quoting      (fix_frontmatter)
-  5. Auto-link entity mentions         (autolink)
-  6. Report any unresolved wikilinks   (find_ghost_nodes)
+What it does:
+  1. Fetches all page titles from the MediaWiki API
+  2. Downloads a full XML export via Special:Export
+  3. Converts XML → Obsidian Markdown  (convert_wiki)
+  4. Fixes YAML frontmatter quoting      (fix_frontmatter)
+  5. Auto-links entity mentions          (autolink)
+  6. Reports any unresolved wikilinks    (find_ghost_nodes)
+  7. Creates a git branch, commits vault changes, pushes, and opens a PR
 
 Usage:
-    python sync.py               # full sync (downloads fresh XML)
+    python sync.py               # full sync
     python sync.py --no-fetch    # skip download, use existing XML dump
+    python sync.py --no-pr       # skip git/PR step (sync files only)
 """
 
+import json
+import subprocess
 import sys
-import urllib.request
 import urllib.parse
+import urllib.request
+from datetime import date
 from pathlib import Path
 
 # ── Config ────────────────────────────────────────────────────────────────────
 
-WIKI_BASE  = "http://osgog.mrobinson.us"
-REPO_ROOT  = Path(__file__).resolve().parent
-XML_FILE   = REPO_ROOT / "black-lake-osgog-wiki-dump.xml"
+WIKI_BASE = "http://osgog.mrobinson.us"
+REPO_ROOT = Path(__file__).resolve().parent
+XML_FILE  = REPO_ROOT / "black-lake-osgog-wiki-dump.xml"
+GITHUB_REPO = "mrbnsn/osgog-campaign-vault"
 
 NO_FETCH = "--no-fetch" in sys.argv
+NO_PR    = "--no-pr"    in sys.argv
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
 
@@ -34,6 +41,10 @@ def banner(step: int, total: int, title: str) -> None:
     print(f"\n{'─' * 60}")
     print(f"  Step {step}/{total}: {title}")
     print(f"{'─' * 60}")
+
+
+def run_git(args: list[str]) -> subprocess.CompletedProcess:
+    return subprocess.run(["git"] + args, cwd=REPO_ROOT, check=True)
 
 
 # ── Step 1 + 2: Fetch XML dump ────────────────────────────────────────────────
@@ -52,7 +63,6 @@ def fetch_all_page_titles() -> list[str]:
     while True:
         query = urllib.parse.urlencode(params)
         with urllib.request.urlopen(f"{url}?{query}") as resp:
-            import json
             data = json.loads(resp.read())
         titles.extend(p["title"] for p in data["query"]["allpages"])
         cont = data.get("continue", {}).get("apcontinue")
@@ -71,8 +81,10 @@ def download_xml(titles: list[str]) -> None:
         "action": "submit",
     }).encode()
     url = f"{WIKI_BASE}/index.php/Special:Export"
-    req = urllib.request.Request(url, data=payload,
-                                 headers={"Content-Type": "application/x-www-form-urlencoded"})
+    req = urllib.request.Request(
+        url, data=payload,
+        headers={"Content-Type": "application/x-www-form-urlencoded"},
+    )
     with urllib.request.urlopen(req) as resp:
         XML_FILE.write_bytes(resp.read())
 
@@ -97,13 +109,11 @@ def step_convert() -> None:
 # ── Step 4: Fix frontmatter ───────────────────────────────────────────────────
 
 def step_fix_frontmatter() -> None:
-    from fix_frontmatter import main as fix_main
-    # Patch globals so it uses our vault and skips backups
     import fix_frontmatter as fm_mod
-    fm_mod.VAULT      = REPO_ROOT / "vault"
-    fm_mod.DRY_RUN    = False
-    fm_mod.NO_BACKUP  = True
-    fix_main()
+    fm_mod.VAULT     = REPO_ROOT / "vault"
+    fm_mod.DRY_RUN   = False
+    fm_mod.NO_BACKUP = True
+    fm_mod.main()
 
 
 # ── Step 5: Autolink ──────────────────────────────────────────────────────────
@@ -115,13 +125,14 @@ def step_autolink() -> None:
 
 # ── Step 6: Ghost nodes ───────────────────────────────────────────────────────
 
-def step_ghost_nodes() -> None:
+def step_ghost_nodes() -> bool:
+    """Returns True if there are unresolved links (warning, not a blocker)."""
     from find_ghost_nodes import find_ghosts
     unresolved = find_ghosts()
     if not unresolved:
         print("  No unresolved wikilinks.")
-        return
-    print(f"  {len(unresolved)} unresolved wikilink(s) — review before committing:\n")
+        return False
+    print(f"  {len(unresolved)} unresolved wikilink(s) found:\n")
     for target in sorted(unresolved, key=lambda t: (-len(unresolved[t]), t)):
         sources = unresolved[target]
         print(f"    [[{target}]]  ({len(sources)} ref(s))")
@@ -129,12 +140,83 @@ def step_ghost_nodes() -> None:
             print(f"      <- {s}")
         if len(sources) > 2:
             print(f"      ... and {len(sources) - 2} more")
+    print("\n  These won't block the PR — fix them in Obsidian after merging if needed.")
+    return True
+
+
+# ── Step 7: Git branch + PR ───────────────────────────────────────────────────
+
+def step_git_pr(today: str) -> None:
+    # Must be on main
+    current = subprocess.run(
+        ["git", "rev-parse", "--abbrev-ref", "HEAD"],
+        capture_output=True, text=True, cwd=REPO_ROOT,
+    ).stdout.strip()
+    if current != "main":
+        print(f"  WARNING: currently on branch '{current}', not 'main'.")
+        print("  Switch to main first, or commit manually.")
+        return
+
+    # Any vault changes to commit?
+    diff = subprocess.run(
+        ["git", "status", "--porcelain", "vault/"],
+        capture_output=True, text=True, cwd=REPO_ROOT,
+    ).stdout.strip()
+    if not diff:
+        print("  No changes in vault/ — nothing to commit.")
+        return
+
+    # Pick a unique branch name
+    branch = f"sync/{today}"
+    existing = subprocess.run(
+        ["git", "branch", "--list", f"sync/{today}*"],
+        capture_output=True, text=True, cwd=REPO_ROOT,
+    ).stdout.strip()
+    if existing:
+        branch = f"sync/{today}-{len(existing.splitlines()) + 1}"
+
+    try:
+        print(f"  Creating branch {branch}...")
+        run_git(["checkout", "-b", branch])
+        run_git(["add", "vault/"])
+        run_git(["commit", "-m", f"Sync wiki export {today}"])
+
+        print(f"  Pushing to origin/{branch}...")
+        run_git(["push", "-u", "origin", branch])
+
+        # Create PR via gh CLI
+        try:
+            result = subprocess.run(
+                [
+                    "gh", "pr", "create",
+                    "--title", f"Sync wiki export {today}",
+                    "--body", (
+                        "Automated weekly sync from MediaWiki export.\n\n"
+                        "Please review the changes below before merging to `main`."
+                    ),
+                    "--base", "main",
+                ],
+                capture_output=True, text=True, cwd=REPO_ROOT, check=True,
+            )
+            print(f"  PR ready for review: {result.stdout.strip()}")
+        except FileNotFoundError:
+            print("  gh CLI not found — create a PR manually at:")
+            print(f"  https://github.com/{GITHUB_REPO}/compare/{branch}")
+        except subprocess.CalledProcessError as e:
+            print(f"  PR creation failed: {e.stderr.strip()}")
+            print(f"  Branch '{branch}' was pushed — open a PR manually.")
+
+    finally:
+        # Always return to main
+        subprocess.run(["git", "checkout", "main"], cwd=REPO_ROOT, capture_output=True)
+        print("  Returned to main.")
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 def main() -> None:
-    total = 5 if NO_FETCH else 6
+    today = date.today().strftime("%Y-%m-%d")
+    total = (5 if NO_FETCH else 6) + (0 if NO_PR else 1)
     step  = 1
 
     if not NO_FETCH:
@@ -156,12 +238,22 @@ def main() -> None:
 
     banner(step, total, "Check for unresolved wikilinks")
     step_ghost_nodes()
+    step += 1
+
+    if not NO_PR:
+        banner(step, total, "Commit, push, and open PR")
+        step_git_pr(today)
 
     print(f"\n{'─' * 60}")
-    print("  Sync complete. Review any ghost nodes above, then:")
-    print("    git add vault/")
-    print('    git commit -m "Sync wiki export YYYY-MM-DD"')
-    print("    git push")
+    if NO_PR:
+        print("  Sync complete. Commit and push when ready:")
+        print("    git checkout -b sync/" + today)
+        print("    git add vault/")
+        print(f'    git commit -m "Sync wiki export {today}"')
+        print("    git push -u origin sync/" + today)
+    else:
+        print("  Done. Merge the PR on GitHub when you're happy with the changes.")
+        print(f"  {' https://github.com/' + GITHUB_REPO + '/pulls'}")
     print(f"{'─' * 60}\n")
 
 
