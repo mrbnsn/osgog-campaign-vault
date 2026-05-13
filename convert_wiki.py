@@ -469,7 +469,7 @@ def parse_and_convert():
         if out_path.exists():
             existing = out_path.read_text(encoding="utf-8", errors="replace")
             m = re.search(r"^last_edited:\s*(\S+)", existing[:600], re.MULTILINE)
-            if m and m.group(1) == date_str:
+            if m and m.group(1) == timestamp[:10]:
                 title_to_path[title] = str(out_path.relative_to(VAULT_ROOT))
                 continue
 
