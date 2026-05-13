@@ -41,9 +41,11 @@ jobs:
 
       - name: Debug build output
         run: |
-          echo "=== quartz/content root ===" && ls $GITHUB_WORKSPACE/quartz/content | head -10
-          echo "=== quartz/public root ===" && ls $GITHUB_WORKSPACE/quartz/public | head -10
-          echo "=== baseUrl in config ===" && grep baseUrl $GITHUB_WORKSPACE/quartz/quartz.config.ts
+          echo "=== content root (all) ===" && ls $GITHUB_WORKSPACE/quartz/content
+          echo "=== index.md present? ===" && ls $GITHUB_WORKSPACE/quartz/content/index.md 2>&1
+          echo "=== HTML files in public ===" && find $GITHUB_WORKSPACE/quartz/public -name "*.html" | head -20
+          echo "=== public root ===" && ls $GITHUB_WORKSPACE/quartz/public
+          echo "=== baseUrl ===" && grep baseUrl $GITHUB_WORKSPACE/quartz/quartz.config.ts
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
