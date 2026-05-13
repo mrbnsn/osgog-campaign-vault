@@ -40,10 +40,10 @@ Bran pulls out the boneflute and plays the bird song on it. The scene changes, n
 WE FIGHT
 
 1. Our rolls are terrible. A 6 starts.
-1. On its turn, the bear HOWLS. One claw swipe at [[Storr]], another at Kramb, a chomp at Silas, all hits,
+1. On its turn, the bear HOWLS. One claw swipe at [[Storr]], another at Kramb, a chomp at [[Silas]], all hits,
 1. [[Balthazar]] is highly effective between two attacks, sneak attack, colossus slayer and Hunter’s Mark.
 1. On its next turn it roars out a CONE OF BLACKNESS. K takes 32 DAMAGE. K goes down.
-1. Branwen manages to shove the bear off the cliff finally! With Thunder!
+1. [[Branwen]] manages to shove the bear off the cliff finally! With Thunder!
 1. Bear on bear violence takes him down, and he collapses into a shadowy heap, leaving Silas with a foul taste in his mouth.
 
 We felt a presence of evil to the bst of our knowledge. This was bad, unnatural. Something was not right. We wouldn’t necessarily equate this to a black water situation.

@@ -58,7 +58,7 @@ K and Bran are exhausted level 2 from the last journey.
    1. We Go Back
 We make slow progress journeying up the river. Balz gets off track a couple times journeying up the river. It’s mid afternoon before we get to the shore. It’s fall. Threatening clouds, spitting, patches of drizzle moving through. 
 
-Casting commune with nature, Silas feels some fey elemental presence out on the island, different entities moving around out there, not sure how many
+Casting commune with nature, [[Silas]] feels some fey elemental presence out on the island, different entities moving around out there, not sure how many
 
 K looks through the spyglass. We don’t see the remnants of our previous blunders. We do hear the wind and the water oscillating between two tones. The interval is a major second. F# and G#.
 

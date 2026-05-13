@@ -23,7 +23,7 @@ Tal: You feel you are worthy of those who smithed it?
 
 T: I'm aware of ways to ask a blade to take on a bearer.  If you'd like to attempt this, when the moon comes out, we can stand in the waterfall and see what happens.
 
-Storr agrees.  They go to the falls, under the moon.  Tal speaks in a language you don't understand, talking to the moon.  The result of the ritual is "NOT BONDED" but not disadvantage.  Storr is close, but not quite there. 
+[[Storr]] agrees.  They go to the falls, under the moon.  Tal speaks in a language you don't understand, talking to the moon.  The result of the ritual is "NOT BONDED" but not disadvantage.  Storr is close, but not quite there. 
 
 [[Branwen]]: Why is this place sacred to you?
 
@@ -73,7 +73,7 @@ Another event 1 day out. Target: [[Silas]]. [[Silas]] and Arthen are trying to f
 
 Bal gets us to our destination. We make it to the lake shore and find a decent camping spot. 
 
-Silas takes 2 levels of exhaustion (speed halved)
+[[Silas]] takes 2 levels of exhaustion (speed halved)
 
 We’re at the shore of the Lake of Voices, Swirling mass of mist and fog starts a couple 100 yards offshore. We have no boat.
 
@@ -85,7 +85,7 @@ Storr looks through the spyglass. There’s merchant vessel, a bunch of goods. T
 
 [[Branwen]] hails them (rather successfully) There’s communication. We want to get a ride. They send a row boat over to talk to us on the shore. Storr can identify nthat the one they were looking to does come over in the boat.
 
-Branwen continues the convo witht he person. It becomes clear (and storr could indicate) that this guy is leading the discussion and he seems by very persuaded by B and says “Yeah, absolutely.”
+[[Branwen]] continues the convo witht he person. It becomes clear (and storr could indicate) that this guy is leading the discussion and he seems by very persuaded by B and says “Yeah, absolutely.”
 
 Ladder is the man’s name. He is happy to provide with passage, they are headed back to the city. 
 

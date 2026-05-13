@@ -27,7 +27,7 @@ The black lake… the elders have never been but know someone who’s seen’t. 
 
 They saw we could rest for a long rest!  During the 5 days, we rest so but don’t do much.  We can learn some things and the people are rather mellow.  They hunt, gather food, and keep watch at night.  We don’t see anything offensive happen to the village but we hear wolves and the angry bears out in the wild.
 
-Silas looks to a person to help construct a pack that he can wear in both forms.  It’s doable - it happens.
+[[Silas]] looks to a person to help construct a pack that he can wear in both forms.  It’s doable - it happens.
 
 [[Storr]] learns some things about how to ride a bear.  She’s not yet a bear rider but knows some stuff.  Balz would have been listening to his horn.
 
@@ -57,7 +57,7 @@ He says what’s up?  [[Logan]] has lived there most of his life.  He doesn’t 
 
 There’s space for us to rest.  [[Logan]] wanders off muttering to himself
 
-We call Logan back and ask him about the voices in the forest. They tell him the goings on in the forest, tree fights. [[Cricket]] asks about bees, sometimes he here’s about them, like the bees are active again and something is going on.
+We call [[Logan]] back and ask him about the voices in the forest. They tell him the goings on in the forest, tree fights. [[Cricket]] asks about bees, sometimes he here’s about them, like the bees are active again and something is going on.
 
 B describes the tree at the monastery, what he knows about it. He says the trees talk of a mother tree, that sounds a bit like the one you’re speaking of. He doesn’t always understand what they talk about, but the mother tree, the bees and the great bear are all part of one thing.
 
@@ -91,7 +91,7 @@ L: Animals always run amuck. If you’re clever about it, you can avoid em. I ce
 
 We go to the dwelling that Logan pointed out. We find a cask of beer, some potatoes and lard and WE FEAST.
 
-Storr gets more bear riding lessons from Coriander.  
+[[Storr]] gets more bear riding lessons from Coriander.  
 
 There’s no logs anywhere, as they don’t typically write, but parse runes. 
 
@@ -161,7 +161,7 @@ The women close their eyes and lean their heads back and listen to the music he�
 
 Koweth jumps in. The reflections dissipate. He cleans his feathers and splashes about.
 
-Krambler spelunks up the waterfall and finds nothing out of the ordinary. 
+[[Krambler]] spelunks up the waterfall and finds nothing out of the ordinary. 
 
 Silas examines the crone and her cloak. She looks gray, an unnatural palor. The cloak is weave and fabric. All gray. 
 

@@ -151,7 +151,7 @@ Michael Hopps:
 
 Mike Robinson:
 
-    	Ah okay, so Rhiannon and [[Bremphyr]] must be tight
+    	Ah okay, so [[Rhiannon]] and [[Bremphyr]] must be tight
 
     	And [[Storr]] would probably like her
 
@@ -195,7 +195,7 @@ Ryan Petti:
 
 Mike Robinson:
 
-    	[[Sword of Darkness Edged in Light]] sounds like it came from Osgog: a healer associated with darkness, darkness contained by light?
+    	[[Sword of Darkness Edged in Light]] sounds like it came from [[Osgog]]: a healer associated with darkness, darkness contained by light?
 
     	Did Osgog create the prison?
 
@@ -215,7 +215,7 @@ Michael Hopps:
 
     	Osgog (healer): a monster
 
-Bremphyr (smith):, [[Sword of Darkness Edged in Light]]
+[[Bremphyr]] (smith):, [[Sword of Darkness Edged in Light]]
 
 Rhiannon (horsewoman/sailor): [[Crown of Water]]
 
@@ -419,7 +419,7 @@ Mike Robinson:
 
 Michael Hopps:
 
-    	The monster Osgog created had horns.  The [[Sun King]] experiments and makes humans with horns.  [[The Black Lake of Osgog]]...sun king interested in source of black stream...
+    	The monster Osgog created had horns.  The [[Sun King]] experiments and makes humans with horns.  [[The Black Lake of Osgog]]...[[Sun King]] interested in source of black stream...
 
 Ryan Petti:
 
@@ -483,7 +483,7 @@ Mike Robinson:
 
 Michael Hopps:
 
-    	Mons sailed across the sea to this continent.  So his children would have been back in the old world.  Osgog and others could still be back there.
+    	[[Mons]] sailed across the sea to this continent.  So his children would have been back in the old world.  Osgog and others could still be back there.
 
 Mike Robinson:
 
@@ -553,7 +553,7 @@ Michael Hopps:
 
 Mike Robinson:
 
-    	And we are pretty sure Weyland/Morgan are Brenwydh/Mabnoss, right?
+    	And we are pretty sure [[Weyland]]/Morgan are Brenwydh/Mabnoss, right?
 
 Michael Hopps:
 
@@ -669,7 +669,7 @@ Nathaniel Blauss:
 
 Mike Robinson:
 
-    	Silas, do your people have any oral traditions or sayings related to this natural harmony?
+    	[[Silas]], do your people have any oral traditions or sayings related to this natural harmony?
 
 Nathaniel Blauss:
 
@@ -713,9 +713,9 @@ Mike Robinson:
 
 Nathaniel Blauss:
 
-    	So, the stories in Balthazar's book would not be attributed to an author.  They were scribed and illuminated at [[Tawesek]] by one of the artisans.
+    	So, the stories in [[Balthazar]]'s book would not be attributed to an author.  They were scribed and illuminated at [[Tawesek]] by one of the artisans.
 
-    	Balthazar would have heard of Bardh as a great poet from antiquity.
+    	Balthazar would have heard of [[Bardh]] as a great poet from antiquity.
 
 Mike Robinson:
 
@@ -823,7 +823,7 @@ Mike Robinson:
 
     	And the ever-burning ember
 
-    	And interesting that Branwen was "born" like a phoenix, during a festival ostensibly for Mabnoss
+    	And interesting that [[Branwen]] was "born" like a phoenix, during a festival ostensibly for Mabnoss
 
     	Was it foretold? Did the festival serve as a herald for her coming?
 
@@ -935,7 +935,7 @@ Mike Robinson:
 
 Michael Hopps:
 
-    	I wonder how Mannix's hourglass behaves in these different layers...
+    	I wonder how [[Mannix]]'s hourglass behaves in these different layers...
 
 Mike Robinson:
 
@@ -973,19 +973,19 @@ Mike Robinson:
 
     	Osgog (healer): a monster
 
-Bremphyr (smith):, Sword of Darkness Edged in Light
+Bremphyr (smith):, [[Sword of Darkness Edged in Light]]
 
 Rhiannon (horsewoman/sailor): [[Crown of Water]]
 
-Kevnis (weaver): [[Cloak of Wind]]
+[[Kevnis]] (weaver): [[Cloak of Wind]]
 
 [[Priweythva]] (potter): [[Scepter of Stone]]
 
-    	Priweythva is the other daughter?
+    	[[Priweythva]] is the other daughter?
 
 Ryan Petti:
 
-    	Based on these gifts, I'm willing to bet that Ploy is the prevelant card game in Monsoth.
+    	Based on these gifts, I'm willing to bet that Ploy is the prevelant card game in [[Monsoth]].
 
 Michael Hopps:
 
@@ -1161,7 +1161,7 @@ That’s a good question. Did Osgog summon a monster or did he find something an
 
     	Mons "slew" this "monster", which could be trapping it, somehow.
 
-This smacks of the ending of The God King, where they lock away the 3 enchantresses.
+This smacks of the ending of [[The God King]], where they lock away the 3 enchantresses.
 
 Ryan Petti:
 
@@ -1169,7 +1169,7 @@ Ryan Petti:
 
 This smacks of the ending of The God King, where they lock away the 3 enchantresses. ” 
 
-    	[[Musk]]: Musk has always been “playing with fire”, Abbot always said that Musk was in touch with greater and deeper things, and we all have to suffer the consequences.
+    	[[Musk]]: [[Musk]] has always been “playing with fire”, Abbot always said that Musk was in touch with greater and deeper things, and we all have to suffer the consequences.
 
 Mike Robinson:
 
@@ -1189,7 +1189,7 @@ Mike Robinson:
 
     	Part of me feels like the faces refer to something endemic to the world we're in; a reference to something. Perhaps star signs? Silas, you know of these. How many [[Constellations]] do your people observe as significant to the machinations of the universe? What are those [[Constellations]]? What traits do people born under those various signs possess?
 
-DM could maybe chime in here re: the stars/asterisms/constellations?
+DM could maybe chime in here re: the stars/asterisms/[[Constellations]]?
 
 Ryan Petti:
 
@@ -1231,7 +1231,7 @@ Ryan Petti:
 
 Nathaniel Blauss:
 
-    	Are the Ice Beard/Honey Woman and Elder Lands questions addressed to me?
+    	Are the Ice Beard/Honey Woman and [[Elder Lands]] questions addressed to me?
 
 Mike Robinson:
 
@@ -1329,7 +1329,7 @@ Michael Hopps:
 
 Mike Robinson:
 
-    	Related to the separation of Mog and [[Mabmnoss]]?
+    	Related to the separation of [[Mog]] and [[Mabmnoss]]?
 
     	They haven't spoken since that happened?
 
@@ -1419,7 +1419,7 @@ Michael Hopps:
 
 Mike Robinson:
 
-    	Same person as Kerenja?
+    	Same person as [[Kerenja]]?
 
     	Let's not forget the wise old woman in the village near [[Tawesek]]
 
@@ -1449,7 +1449,7 @@ Osgog = sun king
 
 Bremphyr = Weylund
 
-Rhiannon = Kerenja, and is one and the same as Mabmnoss
+Rhiannon = Kerenja, and is one and the same as [[Mabmnoss]]
 
 Kevnis = Foundling/[[Bryok]]/Abbot
 
@@ -1465,7 +1465,7 @@ Mike Robinson:
 
     	Maybe the old woman in the village?
 
-    	Can't think of any references to pottery. Was there a gift from the Abbott related to pottery?
+    	Can't think of any references to pottery. Was there a gift from [[The Abbott]] related to pottery?
 
 Michael Hopps:
 

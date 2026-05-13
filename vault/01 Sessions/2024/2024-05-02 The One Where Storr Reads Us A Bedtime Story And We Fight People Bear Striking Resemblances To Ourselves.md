@@ -48,7 +48,7 @@ Did we notice any [[Constellations]] in the sky? Nate will get back to us.  Late
 
 She makes a noise that is uninterpretable.
 
-Storr recalls the basin with the writing. There was a hand that reached out for [[Krambler]]’s hammer. Is the western statue that wanted the hammer the same as the hand coming from the basin?
+[[Storr]] recalls the basin with the writing. There was a hand that reached out for [[Krambler]]’s hammer. Is the western statue that wanted the hammer the same as the hand coming from the basin?
 
 [[Silas]] asks [[Seren]] if we can find these prisoners. She says others have done so to their disadvantage.
 

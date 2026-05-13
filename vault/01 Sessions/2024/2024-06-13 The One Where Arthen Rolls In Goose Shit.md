@@ -59,7 +59,7 @@ We follow the path into the woods, [[Branwen]] knocks on the door, [[Kelynnan]] 
 
 We heard this other woman may have saw a man and  child in the winter lands.  [[Branwen]] has strange look and carries a bird, this is weird to this woman.  She wants to know what kind of connection they have?  [[Branwen]] stares blankly.
 
-She wants to know why we are here - Branwen explains we are looking for the man and the child; it would have been long ago.  We want to know if she can remember anyone who matches this description.  
+She wants to know why we are here - [[Branwen]] explains we are looking for the man and the child; it would have been long ago.  We want to know if she can remember anyone who matches this description.  
 
 Branwen critically persuades [[Kelynnen]]!
 
@@ -118,7 +118,7 @@ Any shrines? Offerings to entities?
 
 She looks at B and everyone else and we get the sense that maybe she’s not willing to talk about that with everyone.
 
-So Storr, Silas, Arthen, Bal and Kramb have the afternoon off.  They head to the funky house on the river. Branwen, too, as she'll hang with Kelynnan tonight.
+So [[Storr]], [[Silas]], Arthen, Bal and Kramb have the afternoon off.  They head to the funky house on the river. Branwen, too, as she'll hang with Kelynnan tonight.
 
       1. FISHER WIFE AND KIDS
 

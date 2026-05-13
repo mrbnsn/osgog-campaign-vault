@@ -27,7 +27,7 @@ Ives loves the texture of things. [[Silas]]: When did it start? He’s not even 
 
 Halberd asks permission to use those proverbs.  (Nice.)
 
-Silas also learns the knitting and weaving of wool and is able to create a pretty excellent felt hat, although doesn’t see deeper into the process. 
+[[Silas]] also learns the knitting and weaving of wool and is able to create a pretty excellent felt hat, although doesn’t see deeper into the process. 
 
 We talk as a party on what our next steps. [[Storr]] would like to take the hammer and learn more about how to use it in concert with the wind and the weaving. We could possibly also take a basket with us and “fuck around and find out” about how to use the hammer with it. 
 
@@ -53,11 +53,11 @@ We depart in the morning. Weather is partly cloudy, wind but no whitecaps.
 
 Silas and Arthen hang back and keep the boat running. Not too keen on encroaching on the space of a giant bird.
 
-[[Branwen]] and Storr pack their weapons and leave everything else. In short: it’s lady’s night (morning)
+[[Branwen]] and [[Storr]] pack their weapons and leave everything else. In short: it’s lady’s night (morning)
 
 Storr is top rope, but peels off and falls back into the water and takes some damage. Storr makes it the second time. [[Branwen]] falls as well, but not as far and takes not as much damage.
 
-Storr makes it up the next pitch, and so does Branwen. 
+Storr makes it up the next pitch, and so does [[Branwen]]. 
 
 Last pitch for Storr, and she nails it. She gets over the lip and ties off. Branwen also makes it. 
 

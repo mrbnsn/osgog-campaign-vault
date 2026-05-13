@@ -46,7 +46,7 @@ We’re following the old fault line.
 
 [[Storr]] casts speaks to animals and talks directly to the Satyr.
 
-Satyr speaks to the Centaur. The centaur speaks back to Silas
+Satyr speaks to the Centaur. The centaur speaks back to [[Silas]]
 
 We know where you are. We know what path you’re on. But why would you search out the darkness? 
 
@@ -132,7 +132,7 @@ Is there a village elder we can speak with?
 
 You can speak with me.
 
-Storr tells her our entire backstory and she looks very confused and asks if Storr is okay. 
+[[Storr]] tells her our entire backstory and she looks very confused and asks if Storr is okay. 
 
 She says we’re in the land of [[Nyth]]. 
 

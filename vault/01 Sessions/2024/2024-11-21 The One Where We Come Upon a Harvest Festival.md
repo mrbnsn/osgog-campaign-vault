@@ -91,7 +91,7 @@ We want to be earnest and ingratiate ourselves to these folk. Br rolls persuasio
 
 [[Silas]] asks if he needs to take his helmet off. (He rolls a 9 persuasion) The folk say that, yes , he can if it makes him comfortable. We are comfortable with horns here, so yes. They seem to think that [[Silas]] is a little slow, like an idiot brother.
 
-Silas: I am smart. I just want to know
+[[Silas]]: I am smart. I just want to know
 
 Of course you are. Do you like goats?
 

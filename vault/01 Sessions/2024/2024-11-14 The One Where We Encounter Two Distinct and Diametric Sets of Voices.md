@@ -52,10 +52,10 @@ We decide to leave the voices as they are in our current state.
 Balz’s travel roll 14. We go up into a high mountain pass. It’s cold, and we do make it through. We see valley’s ahead of us and we start downhill again. After a couple days up there…
 ![[Screenshot 2024-11-14 at 9.48.33 PM.png]]
 
-4th event (screenshot): Scout (15+6) As we go up through the mountains, we see a rock outcrop that we think might afford a view and a better pathway forward. Silas climbs up but as he does, one of the stones rolls over and pins his leg, and so he’s stuck there for a while. The party finds him after a while, he;s bruised but okay. Fatigue saving throw increases by 1.
+4th event (screenshot): Scout (15+6) As we go up through the mountains, we see a rock outcrop that we think might afford a view and a better pathway forward. [[Silas]] climbs up but as he does, one of the stones rolls over and pins his leg, and so he’s stuck there for a while. The party finds him after a while, he;s bruised but okay. Fatigue saving throw increases by 1.
 ![[Screenshot 2024-11-14 at 9.53.29 PM.png]]
 
-Branwen heals Arthyden and [[Krambler]] a little bit. From the outcropping vantage point, we see more of the valley (screenshot) We spy an interesting structure on a distant hill top We move to go south of the 
+[[Branwen]] heals Arthyden and [[Krambler]] a little bit. From the outcropping vantage point, we see more of the valley (screenshot) We spy an interesting structure on a distant hill top We move to go south of the 
 ![[Screenshot 2024-11-14 at 9.56.13 PM.png]]
 
 ![[Screenshot 2024-11-14 at 9.58.17 PM.png]]
@@ -83,7 +83,7 @@ We attempt to mimic the tones we hear on the wind. We roll performance (B: 16, K
 
 We play Branwen’s song (perf, 11) She plays it, we all look to the sun as it comes through the clouds, takes on the late afternoon golden color. We feel some fatigue in our limbs and think, “It’s be nice to sit on these stones and rest and have a beer 
 
-Krambler tries to discern anything about the stones, anything he would recognize. Standing stones, longer in one axis. Personalities in each stone. Would be able to recognize each individually by their uniqueness. There;s no strong draw to any of them. K would see a connection to their singing and the movement in his tattoos. Struck by a connection there that he can’t interpret directly. Different stones would speak to different parts of that. 
+[[Krambler]] tries to discern anything about the stones, anything he would recognize. Standing stones, longer in one axis. Personalities in each stone. Would be able to recognize each individually by their uniqueness. There;s no strong draw to any of them. K would see a connection to their singing and the movement in his tattoos. Struck by a connection there that he can’t interpret directly. Different stones would speak to different parts of that. 
 
 Silas plays his song on the pan flute (14) with the intention of paying reverence to the song of his past but also recognizing that it has come up in their recent interactions adn to see if it has any effect here.  He sees some clouds, mist down in the valley and it lifts up and we get socked in on this gentle mist and we feel it in our clothes and we start getting damp from that. While he’s playing, the weather shifts a little and when I stop, there’s some breaks in the clouds. 
 

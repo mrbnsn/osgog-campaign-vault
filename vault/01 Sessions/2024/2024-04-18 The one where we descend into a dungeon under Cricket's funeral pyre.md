@@ -22,7 +22,7 @@ We feel that something is strange, but not ominous. There’s no sense of where 
 
 This area feels strange, but also real. The colors seem super saturated. Feels magical, but we’re definitely present, and here. 
 
-[[Silas]] wades out into the water with Arthen up to his knees. Mineral soil in the surface of organic matter. Bottom is mucky. The dots out in the water are the points of stones, gray rock, somewhat jagged, covered in lichen and maybe moss. Water is cold, very clear. Silas sends ripples out, but they die out rather quickly. The surface calms, and the stars and the sky reflect very clearly. 
+[[Silas]] wades out into the water with Arthen up to his knees. Mineral soil in the surface of organic matter. Bottom is mucky. The dots out in the water are the points of stones, gray rock, somewhat jagged, covered in lichen and maybe moss. Water is cold, very clear. [[Silas]] sends ripples out, but they die out rather quickly. The surface calms, and the stars and the sky reflect very clearly. 
 
 The area is weirdly silent. No animal sounds.
 
@@ -37,7 +37,7 @@ The rock itself is a statue of a robed woman.
 
 Silas feels eerie. Not what he expected. Almost convinced it was a rock before, and as he approached may have changed into this statue. Two tones sound.
 
-[[Krambler]] and [[Storr]] join. Krambler, the stone expert, examines the statue. He’s convinced it’s not manmade. Looking for marks of making. There aren’t any. Has not been crafted of tools he knows of. Strangly like the earth has thrusted up this structure.
+[[Krambler]] and [[Storr]] join. [[Krambler]], the stone expert, examines the statue. He’s convinced it’s not manmade. Looking for marks of making. There aren’t any. Has not been crafted of tools he knows of. Strangly like the earth has thrusted up this structure.
 
 Silas communes with nature, targeting the statue, trying… His awareness pushes outwards. Very nearby, he feels a number of glowing spots. Most of them a purple. Three are close by to the south east that are other colors. Hard to identify what the colors are, dark and old. Awareness pushes out again. He feels the hill we’re in. Higher points, one to the north, one to the south east. Out. Rolling downs, very wild. Off to the north, off to the north,. People travel on a line running southwest to northeast.
 
@@ -51,7 +51,7 @@ Silas continues into the water, getting waste deep. The back of the statue could
 
 Silas travels out to an island in the water, without a problem. The island is a collection of statues similar to the one we came from. Three are closest to me with their backs to me. Silas skirts around to look at their faces.
 
-Krambler and Storr remain by the first solitary statue, and Krambler takes out his hammer. This first statue’s eyes flash open, and he feels her powerful desire for the hammer. 
+Krambler and [[Storr]] remain by the first solitary statue, and Krambler takes out his hammer. This first statue’s eyes flash open, and he feels her powerful desire for the hammer. 
 
 Krambler and Storr make their way over to where Silas stands by the three statues together.
 ![[Screenshot 2024-04-18 at 10.11.35 PM.png]]

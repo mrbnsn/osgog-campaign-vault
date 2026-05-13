@@ -52,7 +52,7 @@ We follow them back down to the tower and through the greenspace. There’s a cl
 
 “This would be my suggested path. Are you prepared? Your guide waits just inside. 
 
-Storr: We need our armaments.
+[[Storr]]: We need our armaments.
 
 He smirks and says, “Sure.” and calls to a guard, and they run off to grab them. They return with our affects.
 

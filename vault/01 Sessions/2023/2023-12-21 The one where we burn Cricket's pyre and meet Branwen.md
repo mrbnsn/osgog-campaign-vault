@@ -40,7 +40,7 @@ Monk lady has a couple of ice daggers that seem like they are melting. The armor
 
 [[Silas]] posts up behind [[The Boatman]]. He saks him to help them with the crowd, to which he nods. The others hide. [[Storr]] stays by Crickets body.
 
-The approach. [[The Boatman]] puts up a hand. They stop. He looks to Storr.
+The approach. [[The Boatman]] puts up a hand. They stop. He looks to [[Storr]].
 
 B: Do your people not send off they’re honored dead by flame?
 
@@ -48,7 +48,7 @@ S: We do.
 
 B: Perhaps this friend of yours could be honored in the same way.
 
-Storr asks the townsfolk who they are. They look to the boatman, he says no, and they look back.
+Storr asks the townsfolk who they are. They look to [[The Boatman]], he says no, and they look back.
 
 B: I think they come out of curiosity. It’s not everyday we have visitors entering through standing stones.
 
@@ -88,11 +88,11 @@ A female voice comes through the smoke:
 
 - Then I heard the music of a flute coming from the fire, and I recognized a tune - though I knew not from whence I knew it.  I approached the fire, and feeling no heat from it, I stepped into the flame, and was consumed and all went black.  And I felt that I rose up into the sky in a swirling tumult, and suddenly felt my feet on the ground, and felt my eyes and opened them, and found myself standing here amongst you.*
 
-We see a figure among us with dark hair. We don’t recognize this person. The smoke clears and we see a young woman, named, in the smoke, dark black hair, violet eyes, cricket’s age-ish.
+We see a figure among us with dark hair. We don’t recognize this person. The smoke clears and we see a young woman, named, in the smoke, dark black hair, violet eyes, [[Cricket]]’s age-ish.
 
 The woman approaches [[Krambler]] and takes Gale from him. “And here I become death, destoryer of worlds. 
 
-[[Silas]] asks her name. She says “**[[Branwen]]**” Silas offers her a cloak, but she refuses and goes and takes Cricket’s cloak. She does not know [[Mannix]].
+[[Silas]] asks her name. She says “**[[Branwen]]**” [[Silas]] offers her a cloak, but she refuses and goes and takes Cricket’s cloak. She does not know [[Mannix]].
 
 Bal: What do you know of Cricket
 
@@ -110,7 +110,7 @@ Boatman holds out the flute to [[Branwen]]. “I believe this is yours”
 
 We give [[Branwen]] scale mail and a wood shield. She focus her energy on it. It glows and she sheaths it. 
 
-Branwen requests the ever burning rook pendant.
+[[Branwen]] requests the ever burning rook pendant.
 
 Silas asks if the townspeople are entertained.
 

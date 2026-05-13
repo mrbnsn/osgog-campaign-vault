@@ -58,7 +58,7 @@ Bal relates that [[The Abbot]] has been referred to us as the foundling, and [[T
 
 [[Bardh]] reads [[Foamflower]].
 
-Bardh: This is storytelling. You seem to be taking it as verifiable truth. Motif of a seer. There are people out there that can see more than others. It seems magicalk to some, but it’s just perception.
+[[Bardh]]: This is storytelling. You seem to be taking it as verifiable truth. Motif of a seer. There are people out there that can see more than others. It seems magicalk to some, but it’s just perception.
 
 Heard of [[The Waterfall City]]?
 
@@ -86,11 +86,11 @@ Gale does connect to Br, and you’re questioning in terms of your lady and [[Mo
 
 He went with his mother, not his father. We don’t know who Mons’ wife was.
 
-Br wanted to know if this creation from Mons son is a comfort or an abomination. It was created by [[Bremphyr]]. Mons wants to control, the other way is allowing nature to flourish.
+Br wanted to know if this creation from [[Mons]] son is a comfort or an abomination. It was created by [[Bremphyr]]. Mons wants to control, the other way is allowing nature to flourish.
 
 Br has a flash, an revelation: Mother and daughter, one and the same. Maybe one of Mobnoss’s daughters, 
 
-Bremphyr is Mabnoss’ son. This sword was forged by my lady’s son, adn feels right in her hand.
+[[Bremphyr]] is Mabnoss’ son. This sword was forged by my lady’s son, adn feels right in her hand.
 
 Is Mons another name from Mogg?
 

@@ -115,7 +115,7 @@ No, but Gwen keeps bees (the old woman we met here)
 
 Ser: I don’t know what the stars are!
 
-We look through the spyglass at our constellations.
+We look through the spyglass at our [[Constellations]].
 
 In the field of view, there are a couple of places that kind of maybe see a couple different points, we’re looking at the bright spots, and we can sort of see a separation of light,  but it’s not as obvious as the one the girl pointed out. We can’t see individual constellations through the telescope, we really can only see one star at a time. 
 
@@ -131,11 +131,11 @@ Balz: If you wouldn’t mind, we’d love to shelter here. You’re welcome to u
 
 S: You’ll have to talk to Gwenynen.
 
-Branwen tells [[Silas]] that the raven haired girl knows a song he might be interested in. It’s the song that [[Silas]] knows from his folk, the women going down to the river.
+[[Branwen]] tells [[Silas]] that the raven haired girl knows a song he might be interested in. It’s the song that [[Silas]] knows from his folk, the women going down to the river.
 
 https://drive.google.com/file/d/1TA6-RfCIyNMSOzrfmhdeQ0hB0Y-7G4qP/view?usp=sharing
 
-Silas asks glasses if she knows the song as well. “She’s always singing it. It’s the only sound she makes.”
+[[Silas]] asks glasses if she knows the song as well. “She’s always singing it. It’s the only sound she makes.”
 
 Silas asks B to ask her about the song. She starts humming again and doesn’t seem inclined to answer.
 

@@ -22,7 +22,7 @@ Lunch had, council done, bellies filled and tea time happened.  The afternoon se
 
 [[Silas]] will follow Eaves to check on the goats.
 
-Branwen will go crash to shed her exhaustion and focus on recovery for a day then spend the 5 days weaving
+[[Branwen]] will go crash to shed her exhaustion and focus on recovery for a day then spend the 5 days weaving
 
 Branwen heads to the bee hive, tapped out.  First night packing it in…. Prima nocta
 
@@ -42,7 +42,7 @@ Balz will help Isolda carry her things while she weaves.  Sits quietly on the pe
 
 [[Storr]] perceives (12) that they are safe.  Her sense is that they are not a violent threat to the party; they can’t throw harder than her or the party.  Confident that her friends can handle themselves with this group
 
-Storr is going to travel to the western peak that looks down on the crow's nest.  She wants to observe the nest (eggs, bones, etc).  She rolls an investigation. (13)  Doesn' t see a raven.  She determines that it isn't abandoned.  It's an active nest.
+[[Storr]] is going to travel to the western peak that looks down on the crow's nest.  She wants to observe the nest (eggs, bones, etc).  She rolls an investigation. (13)  Doesn' t see a raven.  She determines that it isn't abandoned.  It's an active nest.
 
 Balz rolls perception. (10)  He sees that Isilda is using a real art in her weaving.  She is at Paul McCartney's peak intuition, but for weaving wind into the basket.Balz is in awe, like, wow, I didn't know a person could be that good at this.  He realizes that its easy to think of a basket of an object, but that object is actually a series of verbs.  He sees the effort in the object.  Balz is seeing that the things in the world are a result of many processes, many verbs go into making that thing.
 

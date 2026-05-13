@@ -62,7 +62,7 @@ We encountered them again in [[Celliwig]] in the well, then again in the dungeon
 
 [[Moon King]]. “The god of the dead” Like Hades.
 
-From the [description given by the bear people](http://osgog.mrobinson.us/index.php/10/16/23_%E2%80%9CThe_Gang_%E2%80%9CDOESN%E2%80%99T%E2%80%9D_Burn_Down_the_House_(or_how_we_insulted_a_group_of_people_without_meaning_to)%E2%80%9D#:~:text=At%20night%20there%E2%80%99s,the%20river%20flows%E2%80%A6):
+From the [description given by the bear people](http://[[Osgog]].mrobinson.us/index.php/10/16/23_%E2%80%9CThe_Gang_%E2%80%9CDOESN%E2%80%99T%E2%80%9D_Burn_Down_the_House_(or_how_we_insulted_a_group_of_people_without_meaning_to)%E2%80%9D#:~:text=At%20night%20there%E2%80%99s,the%20river%20flows%E2%80%A6):
 > At night there’s a shadow from long ago, must beware at night to protect from said darkness…striving to be watchful more than anything else. They are fearful at night, **the Night King of Darkness, “King of the Moon,” brought great destruction and evil**…they keep a closer watch at night - flowed down out of the North and into the East…[[Silas]] asks about the origins, they say there’s an old Tower - but they feel that the evil’s origin is the Black Lake to the North, the source of [[The Black Water]].
 Does it have any interaction with raven queen? [[Mother Night]]? 
 
@@ -95,7 +95,7 @@ Balz recalls what happened during his vision at the island:
 >
 > I mean, it's an old twisted tree.  A pear, in this case.
 >
-> 2. I'm not sure if the judging she felt was actual or just in her dream (*sometimes in my dreams I'm mad at Ruth for things that didn't happen in reality but I feel it but that doesn't make it real*).  So chalking it up to the dream... Storr would have found Beryan and told her about the dream.
+> 2. I'm not sure if the judging she felt was actual or just in her dream (*sometimes in my dreams I'm mad at Ruth for things that didn't happen in reality but I feel it but that doesn't make it real*).  So chalking it up to the dream... [[Storr]] would have found Beryan and told her about the dream.
 >
 > - Storr would have taken note of how Beryan reacted to her telling her about the dream
 >
@@ -139,7 +139,7 @@ Balz recalls what happened during his vision at the island:
 >
 > Sometimes she thinks that she is the girl.  To make the tree happy, should would certainly be willing to make that sacrifice.
 >
-> Branwen asks is Gwen has heard of Norglass. Gwen has bnot heard specifically of that place. But she would say that long ago the owrlf was fractored into many pieces and this is the part she is on.
+> [[Branwen]] asks is Gwen has heard of Norglass. Gwen has bnot heard specifically of that place. But she would say that long ago the owrlf was fractored into many pieces and this is the part she is on.
 Why was it fractured and by what?
 
 G: It was done to contain the evil and that after the escape that we’re describing from the tower, that the world was broken sort of compartmentalize things.
@@ -198,13 +198,13 @@ When the world was split apart, she doesn’t know where he ended up. He was the
 
 Do you want [[Mons]] or the [[God of Death]] to return?
 
-She has doubts as to the accuracy of that story. In terms of the return of [[Mons]], (aside form the idea of a high king), the SK sure seems to be … nothing I’ve seen would tell me he’s Mons but he’s certainly trying to give that air. Ons was referenced as a King. I just hope SK stays away from us to do our own things. As far as Mons, I have strongly mixed feelings. As far as [[God of Death]], we’re trying to prevent that catastrophe from happening again, cause that was a mess. 
+She has doubts as to the accuracy of that story. In terms of the return of [[Mons]], (aside form the idea of a high king), the SK sure seems to be … nothing I’ve seen would tell me he’s [[Mons]] but he’s certainly trying to give that air. Ons was referenced as a King. I just hope SK stays away from us to do our own things. As far as Mons, I have strongly mixed feelings. As far as [[God of Death]], we’re trying to prevent that catastrophe from happening again, cause that was a mess. 
 
 What is her true version of [[Mons and the God of Death]]?
 
 It was sound like mons and his followers to take credit for something like that. Something happened. She’s heard about the darkness escaping and one of the towers falling, but whether or not Mons could pull that off by himself, he wasn’t one to listen to a power to be able to do that.
 
-Mons’ siblings, [[Ceridwen]] and [[Torval]], we don’t hear about them much. Would they have helped him defaeating this God of Death? Where are they now?
+Mons’ siblings, [[Ceridwen]] and [[Torval]], we don’t hear about them much. Would they have helped him defaeating this [[God of Death]]? Where are they now?
 
 She would say that they were string er than Mons for sure. And as such they never felt it was particular important to gather followers, etc. Who knows where they are? She hears of [[Ceridwen]] or another sister that isn’t identified that’s going around singing to things and giving names to things.
 
@@ -218,7 +218,7 @@ No.
 
 Are these people still walking around? It sounds like they were around in your lifetime. 
 
-Osgog vanished. Ceridwen, people may "see" her in a grove in the city by the lake. It’s been so long that I may not recognize her anymore.
+Osgog vanished. [[Ceridwen]], people may "see" her in a grove in the city by the lake. It’s been so long that I may not recognize her anymore.
 
 [[Kerenja]] is the name of [[Bremphyr]]’s wife. Gale was given to [[Mannix]] by [[Kerenja]].
 
@@ -256,7 +256,7 @@ We were told of [[Bryok]] being a foundling, but it seems he has parents? Bremph
 
 In the breakup of everything, he was cast adrift without his parents, There was an understanding that he would return, and that she heard that he had. Osgog brought back the poem, but there was always an understanding that [[Bryok]] would return as well.
 
-We saw Bryok jump off a fountain and died.
+We saw [[Bryok]] jump off a fountain and died.
 
 She doesn’t know the details but she had heard that he returned and died.
 

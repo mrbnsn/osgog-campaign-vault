@@ -69,7 +69,7 @@ Balz goes up to observe the stars. We talk about what the next month or so looks
    1. The battle of the bureaucrats
 Loud banging on the door the next morning. Gwen sends red head down to see what’s going on. She disappears and comes back up and she’s like, “There are 3 people down there they seem really annoying. They’re looking for you assholes, but I dind’t tell them anything cause I’m a fucking gangster.
 
-Storr gives her [[Cricket]]’s longbow. She looks to Storr and says, “Cool.”
+[[Storr]] gives her [[Cricket]]’s longbow. She looks to Storr and says, “Cool.”
 
 Balz: What did they look like.
 
@@ -81,7 +81,7 @@ RedHG: Yeah two guys had suns on them, but they seemed like assholes.
 
 Br: goes to distract the folks at the door.
 
-RHG takes Storr, Silas, Balz and Arthen out the back way.
+RHG takes Storr, [[Silas]], Balz and Arthen out the back way.
 
 Idiots: Open the door in the name of the [[Sun King]]?
 

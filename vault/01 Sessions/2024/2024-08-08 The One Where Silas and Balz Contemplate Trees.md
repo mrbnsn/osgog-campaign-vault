@@ -54,7 +54,7 @@ A review of the [[Derwen Trees|derwen]]:
 
 The trees in the twelve:
 
-- Derwen
+- [[Derwen Trees|Derwen]]
 - Copper beech
 - Apple
 - Cherry
@@ -89,7 +89,7 @@ Thinking of Kleighein, this does seem like "a place of power" Who should try it?
 
 Balz has Copyn's ring: 3 braided metals: silver, gold and iron. (Similar to the symbol?)
 
-Silas goes to the cluster of walks and perceives (12). These are naturally occurring boulders. Seems possible that they would have been placed here. Hard to tell. Don't see anything related to why Copyn would have sought them out. They would provide good cover.
+[[Silas]] goes to the cluster of walks and perceives (12). These are naturally occurring boulders. Seems possible that they would have been placed here. Hard to tell. Don't see anything related to why Copyn would have sought them out. They would provide good cover.
 
 Balz does a lap around the island to see if anything catches his eye. (15) It's verdant, rocks peeking out, a lot of grass. It's healthy. Not a lot of movement. Can see tracks from the fight. Not a lot else. Bees would come into the spring section. Do see evidence of -- roll nature please, 12 -- see in the bay where the reeds have been pushed down, like a duck or a goose pushing through reeds, except it was something really large, so maybe a boat. Maybe an otter, or a bird. No footsteps or keel marks. Relatively fresh. Probably not the person that made the "lived in" marks on the stone. The water depth is shallow and doesn't drop off too much except in the cove.
 

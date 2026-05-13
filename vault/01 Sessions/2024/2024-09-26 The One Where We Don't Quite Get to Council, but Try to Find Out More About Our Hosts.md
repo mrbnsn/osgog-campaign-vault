@@ -108,7 +108,7 @@ G: I didn’t build it. You would have to ask Serethor. (she saw an ad in the pa
 
 G: Gotta talk to him.
 
-Storr: Good time to talk to him?
+[[Storr]]: Good time to talk to him?
 
 G: Give him a few hours.
 
@@ -144,14 +144,14 @@ B: You guys like [[Mons]] up in here?
 
 Gwen rolls her eyes.  Girl with glasses gets big eyes, looks around.  Blonde girl sighs impatiently.  The red-head looks annoyed and frustrated.  The RHG looks at [[Branwen]] squint eyed and returns to humming.
 
-The girls tire of Branwen's 'god questions'.  We've entered the awkward family politics talk-zone.
+The girls tire of [[Branwen]]'s 'god questions'.  We've entered the awkward family politics talk-zone.
 
    1. We play music and games with the girls
 [[Silas]] takes out his pan flute.  He's never realized he has a pan flute, but it turns out he's proficient in playing one, so he probably has one.
 
 [[Silas]] plays the song from his youth, that has been hummed by the raven haired girl.  
 
-The RavenHG stares at Silas, the Blonde and Red head turn to him.  The [[Glasses Girl]] comments on the weather in the valley.
+The RavenHG stares at [[Silas]], the Blonde and Red head turn to him.  The [[Glasses Girl]] comments on the weather in the valley.
 
 Branwen offers the RavenHG the [[Bone Flute]].  She takes it and plays it *really well*.  We feel transported to… we start hearing rain.  A gentle rain storm.  MOstly a sensory memory - safe and comfortable listening to rain at night.  (Branwen notes that the last person to play that flute so well was the [[The Boatman|Boatman]])
 

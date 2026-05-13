@@ -185,10 +185,10 @@ Guiding questions from our DM: We have some good world building hypotheses, but 
       1. People/ideas we've encountered
 Big mysteries that seem very related but have no real information about:
 
-- Silas and the sleeping [[Bears|bear]] (B asks if Silas has anything to tell us, Silas will need to reflect)
+- [[Silas]] and the sleeping [[Bears|bear]] (B asks if Silas has anything to tell us, Silas will need to reflect)
 - There was a second one….  ***I think this was the Tower. NB***
 
-Does Bryok not want there to be a god king?
+Does [[Bryok]] not want there to be a god king?
 
 Does the [[Sun King]] want to be [[The God King]]?   ***- These last two seem like big questions.  NB***
 
@@ -200,7 +200,7 @@ These are opposing motivations. Have we seen anything related to those motivatio
 - There may be spring beneath the lake
 - We’ve heard both of these narratives around [[The Black Water]]: 
 
-1. the black water represents an ancient evil
+1. [[The Black Water]] represents an ancient evil
 1. it’s trapping something down
 
 [[The Boatman|Boatman]] and [[The Oracle]]
@@ -220,7 +220,7 @@ The DM defends [[Mons]]:
 - Lots of people don’t hate him in and around [[Monsoth]]
 - Invented the wheel, Apollo-ish figure
 - Music, medicine
-- (Silas would not be swayed be these treaties in defense of Mons)
+- (Silas would not be swayed be these treaties in defense of [[Mons]])
 [[Mali]]
 
 - She wasn't there to bring Balz back, she was looking for the black water
@@ -256,7 +256,7 @@ Is the hammer the scepter?
 - Those folk were imprisoned, and we thought maybe they wanted to get free with the hammer 
 - K’s poem: “[[Runic Messages#Krambler|what is the stone you hold]]”
 
-What’s the next global step back from the conflict between SK and the Abbot?
+What’s the next global step back from the conflict between SK and [[The Abbot]]?
 
 What are we going to do next?
 
@@ -275,10 +275,10 @@ Fireside chat topics for next time:
 - What are they trying to use us for?
 - How does that relate to where we are right now?
 - What do we have that can help us?
-- What are B and Storr’s thoughts on Mons?
+- What are B and [[Storr]]’s thoughts on Mons?
 - Conflict? Sides? What do we see?
 - How do these gifts of Mons’ children fit in?
-- The Sun King wants to come into power. Generalize that more.
+- The [[Sun King]] wants to come into power. Generalize that more.
 - How will he do it? Why is he doing it?
 - Are these people aligned with our side of this conflict? Not just heard of the people we’ve run into.
 

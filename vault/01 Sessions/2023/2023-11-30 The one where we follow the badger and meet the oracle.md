@@ -43,7 +43,7 @@ Further up the shoreline, we see some folks preparing to head out to the city wa
 > They look at eachother, they back away and converse. P: “Tonight is the night of the festival and its not a good night for you to be there.”
 >
 > S: Would tomorrow be better?
-We try to communicate to Storr from the bushes that we should make our way into the city, but not with these folks. They’re skeptical, they eye Storr, and then start rowing out across the river. The badger runs over to [[Silas]] and gives Storr some looks. Once the men disappear, [[Mochyn]] pads along the trail again and we follow.
+We try to communicate to [[Storr]] from the bushes that we should make our way into the city, but not with these folks. They’re skeptical, they eye Storr, and then start rowing out across the river. The badger runs over to [[Silas]] and gives Storr some looks. Once the men disappear, [[Mochyn]] pads along the trail again and we follow.
 
 We come to a manmade inlet with stone piers. Across the inlet is a set of stone stairs, probably going up the side of the second waterfall. There’s some apparati (pullies, ropes, etc)  used to carry loads up and down the slope. There are boats here. The badger starts nosing toward the boats.
 
@@ -65,7 +65,7 @@ We’re amidst mostly residences. Not so many shops. A few are three stories. Th
 
 A narrow alley heads off to the east, there seems to be some green space there. We continue.
 
-At one point, the badger slows down. We’ve come to a crossroads. Mochyn peaks around the corner and heads to the right. Storr looks to the left. We have come out to the main thoroughfare. To our left, there is an open square, past which is are the main docks on the other side of the city. Mochyn is looking at us anxiously. A narrow path heads off in front of us. Off to the SW, the terrain is lower. The badger wants to head off toward a city gate and a bridge that leads to the smaller structure where [[The Black Water]] is coming from. The festival noises are in the other direction.
+At one point, the badger slows down. We’ve come to a crossroads. [[Mochyn]] peaks around the corner and heads to the right. Storr looks to the left. We have come out to the main thoroughfare. To our left, there is an open square, past which is are the main docks on the other side of the city. Mochyn is looking at us anxiously. A narrow path heads off in front of us. Off to the SW, the terrain is lower. The badger wants to head off toward a city gate and a bridge that leads to the smaller structure where [[The Black Water]] is coming from. The festival noises are in the other direction.
 
 Mochyn continues over the bridge. Throughout our travels, there’s not much for [[Cricket]] to read. 
 
@@ -136,8 +136,8 @@ The man is dressed all in black. He is old and strong. Feathers in his hair.
 >
 > P: Do the people that go to see the [[The Oracle|oracle]] come back?
 >
-> B: The people that go to see the oracle do come back, presumably changed.
-Cricket recalls a message about [[Runic Messages#Cricket|“The story of daughter and mother - one and the same”]] We don't know who TW’s mother is, who [[The Abbot|the Abbott]]..ahem…bedded. 
+> B: The people that go to see [[The Oracle]] do come back, presumably changed.
+[[Cricket]] recalls a message about [[Runic Messages#Cricket|“The story of daughter and mother - one and the same”]] We don't know who TW’s mother is, who [[The Abbot|the Abbott]]..ahem…bedded. 
 
 We climb down to the boat. The badger nodes to [[The Boatman]] and retreats to the side of the cottage.
 
@@ -147,9 +147,9 @@ We climb down to the boat. The badger nodes to [[The Boatman]] and retreats to t
 
 (I missed his answer)
 
-The boat looks sea worthy. Flat bottomed. Not so fast, but also not a long distance to travel. The boatman gets in and stands in the middle to row.
+The boat looks sea worthy. Flat bottomed. Not so fast, but also not a long distance to travel. [[The Boatman]] gets in and stands in the middle to row.
 
-Storr asks how he knows other like Balthazar. 
+Storr asks how he knows other like [[Balthazar]]. 
 
 Most folks remember the first horned beings that came up over the mountains and attacked the city. He’s met others, but he recants the story of this being having been [[Mons and the God of Death|riding a chariot pulled by two goats]]. 
 > BALTHAZAR: What became of this monster?
@@ -172,7 +172,7 @@ Most folks remember the first horned beings that came up over the mountains and 
 >
 > Bo: That’s a good question. Did [[Osgog]] summon a monster or did he find something ancient that was beyond the imagination of most people and therefore called it a monster because they were afraid.
 
-   1. The Oracle
+   1. The [[The Oracle|Oracle]]
 He pulls the boat up to a large flat stone. He braces the boat so we can all climb out. As we look, this island is twenty feet across. A pile of rocks with earth and grass growing over the top. There is a portal of stones with a hole that you walk through and past that is a staircase going down into the island.
 
 We offer for him to join us. "No I stay in the boat."
@@ -188,7 +188,7 @@ The staircase opens into a stone chamber. There a small child dressed in rags si
 >
 > C: We don’t know what we’re here for. We just learned of your existence today.
 >
-> O: I am the voice of osgog. People come to me and dont always walk away happy.
+> O: I am the voice of [[Osgog]]. People come to me and dont always walk away happy.
 >
 > B: How many questions can we ask?
 >

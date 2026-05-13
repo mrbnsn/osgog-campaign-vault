@@ -38,7 +38,7 @@ He ties up his boat and methodically buttons it up, walks back and looks at us, 
 
 We settle in for the night. [[Cricket]] and [[Silas]] play chess. [[Storr]] and B spar. We let the badger be (we don’t see or know where he is.)
 
-Cricket fucks around with [[Mannix]]'s flute, as he somberly reflects on his lost brother.  He rediscovers a melody.  Just a few notes, but the memory of it is flooding back.  Reminds me of my mother putting me to sleep.
+[[Cricket]] fucks around with [[Mannix]]'s flute, as he somberly reflects on his lost brother.  He rediscovers a melody.  Just a few notes, but the memory of it is flooding back.  Reminds me of my mother putting me to sleep.
 
 Cricket asks K to tinker with..his dagger?
 
@@ -139,7 +139,7 @@ Many lakes have springs.
 
 K looses his patience and tries to hit [[The Boatman]], but the rest of the party blocks, but we get the point
 
-(We are welcome to sidebar with the Nathaniel as the boatman)
+(We are welcome to sidebar with the Nathaniel as [[The Boatman]])
 
    1. Heading back to the city
 Koweth returns outside the cottage. He did not find a boulder. The city is still festivaling. Tehre was a temple, but nothing large with a boulder. To the north,m he saw a stone circle in the woods. A couple of castles, and forticfications on some of the smaller islands, and saw in the quiet quarter where [[The Black Water]] entered was quiet, there was reveling and a festival elsewhere but not in that space. 
@@ -152,9 +152,9 @@ Cricket goes in for a hug, and it is the burliest and most comforting hug. Raven
 
 [[Silas]] Robert Redford nods at him as a sign of respect. He says, “Little Bear.”
 
-Storr says goodbye as well.
+[[Storr]] says goodbye as well.
 
-The path downward goes more quickly as the path in. We make it back down in two days. We go down the strem, other streams join and the river becomes wider, as we get close to the small enclosed area with the city walls, the river goes around the wall, but the black water goes throuhg the gateway around dusk.
+The path downward goes more quickly as the path in. We make it back down in two days. We go down the strem, other streams join and the river becomes wider, as we get close to the small enclosed area with the city walls, the river goes around the wall, but [[The Black Water]] goes throuhg the gateway around dusk.
 
 From outside the city, we dont see fireworks. From inside, we do see fireworks. They’re still festivaling. 
 

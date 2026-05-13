@@ -22,7 +22,7 @@ Last night, Mowen seemed apprehensive, she wonders if he’s a young [[Gorgomog]
 
 Now Mowen feels more at ease and connected to Balz. She is brought to a place to sort of convalesce. At the farm, bread and cheese for breakfast.  Recovering (?) from the night's activities.
 
-[[Storr]] and Balz chat about the events. [[Storr]] felt strange that she was being kept at bay, but is worried about how Balz feels about things, and if he’s okay if he ends up fathering a child He felt that the whole thing is larger than just him. He’s just there to serve a purpose, and is now free to go. He doesn’t have a sense one way or the other if his presence isn’t required.  Storr suggests that perhaps the both of them go to the barn and get some rest. 
+[[Storr]] and Balz chat about the events. [[Storr]] felt strange that she was being kept at bay, but is worried about how Balz feels about things, and if he’s okay if he ends up fathering a child He felt that the whole thing is larger than just him. He’s just there to serve a purpose, and is now free to go. He doesn’t have a sense one way or the other if his presence isn’t required.  [[Storr]] suggests that perhaps the both of them go to the barn and get some rest. 
 
 S & B go to the barn.  They got here early enough that we were all at the barn.  They all grab some breakfast - S+B just go to bed.  Bran and [[Silas]] understand what transpired last night with Balz.
 
@@ -47,7 +47,7 @@ What do you all want with us?
 
 Storr: We want to rest for a period of time and not disturb you all. We stumbled upon thi village and didn’t seek you out. We were set upon by the SK’s minions. We just need to lick our wounds and and continue on. Storr rolls persuasion (8 then we reroll to 13 then we reroll for a 6) Having failed, we decide to succeed with woe.
 
-They’re not super impressed with Storr’s comment. They look to B & B. "Look, it’s fine you're coming from these other places and you want to stay. We don’t want to get involved in SK, we don’t want him here. We know there are roving bands around us and we’d rather that they stay away from us but can’t help notice that a man with horns, we go through all of this festivity to put horns and a crown on someone, but now you have arrived. We’re trying to figure out what this means. You’ve arrived not with Gwenethen but with mother night who brought darkness into our hall. 
+They’re not super impressed with Storr’s comment. They look to B & B. "Look, it’s fine you're coming from these other places and you want to stay. We don’t want to get involved in SK, we don’t want him here. We know there are roving bands around us and we’d rather that they stay away from us but can’t help notice that a man with horns, we go through all of this festivity to put horns and a crown on someone, but now you have arrived. We’re trying to figure out what this means. You’ve arrived not with Gwenethen but with [[Mother Night]] who brought darkness into our hall. 
 
 B: There is no next harvest without night.
 
@@ -99,11 +99,11 @@ Gov and K were successful in crafting an obsidian tipped beechstaff. (Details fo
 
 Balz is able to see Mowen. She gives him a “woven circlet of ripe wheat” that he can wear on his head. 
 
-Silas trains Arthen. [[Branwen]] extends her leechcraft capabilities. We share some of the items we’ve come across in our travels.
+[[Silas]] trains Arthen. [[Branwen]] extends her leechcraft capabilities. We share some of the items we’ve come across in our travels.
 
 We write with the quill, “casting a silver laced pattern…”
 
-Silas and Branwen play chess while smoking Copin’s pipe. Silas (18) obliterates Bran (8).
+Silas and [[Branwen]] play chess while smoking Copin’s pipe. Silas (18) obliterates Bran (8).
 
 We long rest. The village is there to see us off. 
 
