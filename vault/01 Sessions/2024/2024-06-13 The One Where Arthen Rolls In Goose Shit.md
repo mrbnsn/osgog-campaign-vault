@@ -57,7 +57,7 @@ It’s always *early summer* here.
 
 We follow the path into the woods, [[Branwen]] knocks on the door, [[Kelynnan]] answers.
 
-We heard this other woman may have saw a man and  child in the winter lands.  [[Branwen]] has strange look and carries a bird, this is weird to this woman.  She wants to know what kind of connection they have?  Branwen stares blankly.
+We heard this other woman may have saw a man and  child in the winter lands.  [[Branwen]] has strange look and carries a bird, this is weird to this woman.  She wants to know what kind of connection they have?  [[Branwen]] stares blankly.
 
 She wants to know why we are here - Branwen explains we are looking for the man and the child; it would have been long ago.  We want to know if she can remember anyone who matches this description.  
 
@@ -108,7 +108,7 @@ Should we leave in the morning?
 
 Yes, let’s gather some things and leave in the morning.
 
-We ask if we may stay at her home. She invites Branwen in, but says Bal and Storr are not welcome, they have “marks” that she’s not comfortable with. Silas and Arthen can stay outside. [[Krambler]] can sleep on the bench. 
+We ask if we may stay at her home. She invites Branwen in, but says Bal and [[Storr]] are not welcome, they have “marks” that she’s not comfortable with. [[Silas]] and Arthen can stay outside. [[Krambler]] can sleep on the bench. 
 
 Any other points of interest?
 
@@ -160,12 +160,12 @@ So Storr, Silas, Arthen, Bal and Kramb have the afternoon off.  They head to the
 
 Everyone makes their way back to where they’re staying instead of harassing this poor family anymore. Storr goes to the inn. Silas and Br go back to Kallynnen’s. Silas wild shapes and heads into the woods with Arthen for training. Br and K will discuss things. Storr wants to try and communicate with Kleghan (her sentient sword).
 
-Kelynnan informs us that Musk might be up along the tributary that heads toward the edge of spring.
+Kelynnan informs us that [[Musk]] might be up along the tributary that heads toward the edge of spring.
 
       1. WE BEGIN A JOURNEY (road trippin!)
 We do have advantage on pathfinding checks because of the maps undertaking.
 
-Also we advantage on the journey table rolls as well because we have Kelynnen with us.
+Also we advantage on the journey table rolls as well because we have [[Kelynnen]] with us.
 
 Roles
 

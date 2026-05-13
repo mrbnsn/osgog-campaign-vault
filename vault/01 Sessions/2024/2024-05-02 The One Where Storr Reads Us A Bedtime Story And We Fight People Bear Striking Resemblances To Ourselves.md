@@ -44,11 +44,11 @@ This lake is much smaller and very shallow. More of an alpine bog than a lake.
 
 Did we notice any [[Constellations]] in the sky? Nate will get back to us.  Late Sept early Oct sky.
 
-Storr questions the old crone (ancient version of herself): “The figure to our west, who is that?”
+[[Storr]] questions the old crone (ancient version of herself): “The figure to our west, who is that?”
 
 She makes a noise that is uninterpretable.
 
-Storr recalls the basin with the writing. There was a hand that reached out for Krambler’s hammer. Is the western statue that wanted the hammer the same as the hand coming from the basin?
+Storr recalls the basin with the writing. There was a hand that reached out for [[Krambler]]’s hammer. Is the western statue that wanted the hammer the same as the hand coming from the basin?
 
 [[Silas]] asks [[Seren]] if we can find these prisoners. She says others have done so to their disadvantage.
 
@@ -92,7 +92,7 @@ Highlights
 - Man looks uncomfortably like Bal
 - Bal takes down the man, and he feels a waried curiosity
 - Storr’s twin seems to take opportunity attracts whenever she’s attacked
-- Storr tries to impart upon a now beared-out Silas that the bear should not attack her
+- Storr tries to impart upon a now beared-out [[Silas]] that the bear should not attack her
 - Someone else shows up (a horned being) and rushes over with a whip
 - The green guy grapples the bear with vegetation
 - At one point he takes out an obsidian dagger

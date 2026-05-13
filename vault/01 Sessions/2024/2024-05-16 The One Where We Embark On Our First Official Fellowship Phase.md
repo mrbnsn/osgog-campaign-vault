@@ -54,7 +54,7 @@ Bal: the shops: what do they offer?
 
 What are you looking for?
 
-Storr: Is there a blacksmith or a weaponsmith we can visit to repair our weapons?
+[[Storr]]: Is there a blacksmith or a weaponsmith we can visit to repair our weapons?
 
 Absolutely
 
@@ -70,9 +70,9 @@ Any inventors in town? Someone that’s interested in …. What is essentially s
 
 [[Silas]]: Anyone in tune with history? 
 
-Bardh has written most of the history. 
+[[Bardh]] has written most of the history. 
 
-Silas: Lore? 
+[[Silas]]: Lore? 
 
 Gwagh knows the most about the forest. We keep her at arms length.
 

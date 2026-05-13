@@ -23,7 +23,7 @@ The magic in the world… the elders would recognize what we’ve seen as legend
 
 They are familiar with both elemental and natural magic.  The henge, the one we came across with the spirits and where we laid [[Mannix]] to rest (RIP Tim).  There are more in the region and though not evil they are respectful of them.  They have a sympathy for them… something about a death cult that they were involved in regarding the spirits we saw inside.  But these things, the henges themselves, are intrinsically interesting but more related to ancestry.  So the elders are more interested in the natural world than ancestral knowledge.
 
-The black lake… the elders have never been but know someone who’s seen’t. A young squirrelly person came across it.  There lies a city there and Silas would have known of this city around this lake.  They talked about it sitting at the pass of a waterfall where [[The Black Water]] emanates from… the city’s name is not known.
+The black lake… the elders have never been but know someone who’s seen’t. A young squirrelly person came across it.  There lies a city there and [[Silas]] would have known of this city around this lake.  They talked about it sitting at the pass of a waterfall where [[The Black Water]] emanates from… the city’s name is not known.
 
 They saw we could rest for a long rest!  During the 5 days, we rest so but don’t do much.  We can learn some things and the people are rather mellow.  They hunt, gather food, and keep watch at night.  We don’t see anything offensive happen to the village but we hear wolves and the angry bears out in the wild.
 
@@ -55,7 +55,7 @@ We meet the caretaker, [[Logan]] the hermit.  We are invited in.  Or up.
 
 He says what’s up?  [[Logan]] has lived there most of his life.  He doesn’t get along with people that much.  He stays there with the trees.  It’s nice to have someone come by while he’s talking to the forest… it talks back all the time.  you  can hear whispers on the wind?  Silas does his Silas things and thanks him for welcoming us.  He doesn’t want to clean up after us, so don’t mess it up.
 
-There’s space for us to rest.  Logan wanders off muttering to himself
+There’s space for us to rest.  [[Logan]] wanders off muttering to himself
 
 We call Logan back and ask him about the voices in the forest. They tell him the goings on in the forest, tree fights. [[Cricket]] asks about bees, sometimes he here’s about them, like the bees are active again and something is going on.
 
@@ -81,7 +81,7 @@ B: You don’t speak through the well? Do you receive communication?
 
 L: Hard to say, not sure how it works. A way to talk to something far away. Some see visions. I feel connected when I am near it. 
 
-Storr: Can you ride a bear.
+[[Storr]]: Can you ride a bear.
 
 L: No, no need. I like to snuggle but you gotta respect ‘em.
 
@@ -153,11 +153,11 @@ B: Is the bear the son and the missing child is the daughter?
 
 Women: They can’t won’t clarify.
 
-Krambler: traces the edge of the bowl in an attempt to make it sing.
+[[Krambler]]: traces the edge of the bowl in an attempt to make it sing.
 
 The women close their eyes and lean their heads back and listen to the music he’s creating and seem to be enjoying satisfaction from the music he’s creating.
 
-Cricket: Why didn’t they tell us about the child and the bear before? Why the new information through the bowl?
+[[Cricket]]: Why didn’t they tell us about the child and the bear before? Why the new information through the bowl?
 
 Koweth jumps in. The reflections dissipate. He cleans his feathers and splashes about.
 

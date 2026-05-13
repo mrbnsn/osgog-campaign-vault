@@ -56,7 +56,7 @@ Bal relates that [[The Abbot]] has been referred to us as the foundling, and [[T
 
 [[Bardh]] recognized versions of all the stories except [[Foamflower]].
 
-Bardh reads [[Foamflower]].
+[[Bardh]] reads [[Foamflower]].
 
 Bardh: This is storytelling. You seem to be taking it as verifiable truth. Motif of a seer. There are people out there that can see more than others. It seems magicalk to some, but it’s just perception.
 
@@ -82,11 +82,11 @@ Br wonders if Mabnoss and [[Mons]] are not on the same page and how this sword f
 
 We do a series of rolls, and burn the rest of our fellowship points.
 
-Gale does connect to Br, and you’re questioning in terms of your lady and Mons, you recognize you feel that the maker of this blade had two parents, and that ultimately the choice was to harness or to direct the nature of the metal in the blade without controlling it.
+Gale does connect to Br, and you’re questioning in terms of your lady and [[Mons]], you recognize you feel that the maker of this blade had two parents, and that ultimately the choice was to harness or to direct the nature of the metal in the blade without controlling it.
 
 He went with his mother, not his father. We don’t know who Mons’ wife was.
 
-Br wanted to know if this creation from Mons son is a comfort or an abomination. It was created by Bremphyr. Mons wants to control, the other way is allowing nature to flourish.
+Br wanted to know if this creation from Mons son is a comfort or an abomination. It was created by [[Bremphyr]]. Mons wants to control, the other way is allowing nature to flourish.
 
 Br has a flash, an revelation: Mother and daughter, one and the same. Maybe one of Mobnoss’s daughters, 
 

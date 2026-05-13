@@ -27,7 +27,7 @@ We cross back the way we came.  It’s thick, we make slow progress.
 
 As we move, we notice someone is standing above us in the trees above us on a boulder.
 
-Branwen says hello
+[[Branwen]] says hello
 
 He looks down at us. “Who are you that disturb the peace of [[Kosoleth]]?”
 
@@ -49,7 +49,7 @@ Another centaur takes up a post on the other side of the river with a bow and ar
 
 “You were coming into a sacred (not quite the right word) place, Those who would enter **[[Kosoleth]]** with respect and honor, and you are in the process of being judged. So I ask you again, why do you come to this place? Why do you seek this person? How are you that have a right to come to this place?
 
-“We fear that mistakes are being repeated, and we seek the child and Musk to solve it”
+“We fear that mistakes are being repeated, and we seek the child and [[Musk]] to solve it”
 
 He looks at us. He tells us a riddle.
 
@@ -63,7 +63,7 @@ He makes some hand signals to the other centaur, and she disappears into the woo
 
 He stands and looks, and waits. And says: “I will watch your progress.” and steps back, disappears, but we sense that he is still watching.”
 
-Storr offers the longbow to Branwen. She says “No thank you”
+[[Storr]] offers the longbow to Branwen. She says “No thank you”
 
 [[Silas]] sees some ripples in the pool that seems like there might be something down there.
 
@@ -83,7 +83,7 @@ No answer.
 
 [[Silas]] scales down the rock face (5 ft) with Arthen into the water.
 
-Silas looks up river. The centaurs are still stationed above us. There’s now a visible flat spot below a rock wall further up river that we couldn’t see before.
+[[Silas]] looks up river. The centaurs are still stationed above us. There’s now a visible flat spot below a rock wall further up river that we couldn’t see before.
 
 We move slowly toward this shelf.
 
@@ -167,7 +167,7 @@ I couldn’t get back. I fled and was lost in the stones.
 
 Would you go back if you could?
 
-I would like to speak again with Bryok.
+I would like to speak again with [[Bryok]].
 
 We tell him the story of Bryok.
 

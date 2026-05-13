@@ -21,7 +21,7 @@ We rehash. Balz stayed with [[Silas]]. [[Silas]] gets a shiny new wool hat.
 
 Balz: Guide
 
-Silas: Scout
+[[Silas]]: Scout
 
 We make our way downhill. Balz find s a good rout. Silas though tired is able to lead through thickets. Large lake, stony, not particularly deep, lichen, crusted rocks, boulders 50 ft offshore sticking up. Can see across the way, two low hill to the north north east. Off to the east is our best guess where this lake flows out. A rounded hill off to the west, sort of alone. Aroundthe lake is marshy and bushy not a lot of topsail. The western hill appears to have some meadow growth rising up above the tree line.
 
@@ -47,7 +47,7 @@ The beings in the woods don't seem to respond to the hill moving.
 
 The breathing does not feel panicked.
 
-Branwen wants to play her flute with the song ([[Cricket]]'s lullaby).  Rolls a 12.  Silas feels there is a calming with the added music.
+[[Branwen]] wants to play her flute with the song ([[Cricket]]'s lullaby).  Rolls a 12.  Silas feels there is a calming with the added music.
 
 Silas communes with nature.  Wants to figure out what's going on under the ground.  If there's anything alive, intelligent, etc.  Whatever is below this mound is sleeping fitfully, and is NOT well.  The thing is "exhausted".  It's powerful, but there are many presences around the hill.
 
@@ -57,7 +57,7 @@ Some debate about what to do next.  Go to the source of the voices, stay on this
 
 We decide to head out to the "head" of the sleeping bear.  The hills are meadow, surrounded by forest.
 
-Storr consults Kleghein as they walk - it's excited and nervous.
+[[Storr]] consults Kleghein as they walk - it's excited and nervous.
 
 Silas casts commune with nature, no new news.
 

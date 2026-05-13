@@ -117,13 +117,13 @@ We discuss our next approach with Kitto.
 
 Weshare our true suspicions. We can help him. We don’t trust L. No one here seems to. 
 
-He looks at us and says, “L is not alone. There is another on board below decks right now, and they’ve been sent by the sun king who is besieging the city as we speak. I don’t know what their plan for you is, but that’s where you’re being taken.”
+He looks at us and says, “L is not alone. There is another on board below decks right now, and they’ve been sent by the [[Sun King]] who is besieging the city as we speak. I don’t know what their plan for you is, but that’s where you’re being taken.”
 
 B: What can you tell us about this other passenger
 
 K: I don’t know, he stayed down below in my quarters the whole time. I really just saw him get on boar. He’s an older gentlemen with a beard and a pipe. I didn’t hear him speak.
 
-Storr wants to sneak down to the ship’s waurters. She remembers that ship’s quarters are pretty tight, K are down the same steps that L went down. Certainly possible to sneak down there, but you would have to be very stealthy in a boat like this. We put a pin in that plan.
+[[Storr]] wants to sneak down to the ship’s waurters. She remembers that ship’s quarters are pretty tight, K are down the same steps that L went down. Certainly possible to sneak down there, but you would have to be very stealthy in a boat like this. We put a pin in that plan.
 
 B: Kitto, I think that we should travel to teh center of the lake. Doesn’t have to be right now. Leave that to you. We understand you’re fearful, you’ve had your set oath. But as you can see, we carry the voices with us. We can’t guarantee safety, but we think you’ll come out better on the other side. We want to find a path to confront the sun king.
 
@@ -149,7 +149,7 @@ B: what do you think about the rumours about the lake? Strange stuff happens. Wh
 
 C: The lake is certainly strange, and there are some strange powers and old ancient things, not sure how they all interact. But sure that getting to the bottom of it would be fascinating, valuable, enriching. 
 
-Silas: Have you thought about travelling to the center?
+[[Silas]]: Have you thought about travelling to the center?
 
 C: Fascinated at the prospect, but wary too. There are times that people can meddle with things beyond them and face dire consequences. I’ve seen some of the results of that.
 

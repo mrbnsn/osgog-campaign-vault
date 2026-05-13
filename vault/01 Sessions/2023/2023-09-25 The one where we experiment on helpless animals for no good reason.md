@@ -53,12 +53,12 @@ Insights gained:
 
 - [[The Abbott]]’s water helps in healing damage dealt by poison resulting from a black water creature.
 - [[The Black Water]] didn’t make it stronger necessarily, but more dexterous
-- The physical wounds from from a strike were poisonous - the black water got into her wound
-   - When the Abbott’s water is poured on the wound, the black water seems to leach out from the wound.
+- The physical wounds from from a strike were poisonous - [[The Black Water]] got into her wound
+   - When [[The Abbott]]’s water is poured on the wound, the black water seems to leach out from the wound.
 - What else?
 
 B collects some of the black blood that fell from the squirrel. After a time, the black blood separated into normal blood and black water.
 
-Storr throws the squirrel into the fire. There’s a foul smell. We see some things dripping off of it and after a minute, we see what we would have of a normal squirrel. 
+[[Storr]] throws the squirrel into the fire. There’s a foul smell. We see some things dripping off of it and after a minute, we see what we would have of a normal squirrel. 
 
 Storr initiates a desire to learn how to read.

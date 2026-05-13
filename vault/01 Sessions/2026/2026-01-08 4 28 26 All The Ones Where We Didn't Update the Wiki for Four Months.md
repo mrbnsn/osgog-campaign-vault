@@ -26,7 +26,7 @@ We don’t hear the noises anymore. The terrain is ocean-smoothed cobble, smooth
 
 [[Storr]]: These could be centaurs, like the sentries. 
 
-[[Silas]] is our tracker (Nature, 18). [[Silas]] leads with Arthen and Storr behind. We track most of the morning. Goes through some dense forest. Guessing that its hoof prints. Eventually it peters out, forest grows back in around it. As time goes on, they grow less distinct.  Not sure what to make of it. Silas says it looks horse-ish. There are multiple animals. At least 3, but not totally sure. Could be more but probably not less. 
+[[Silas]] is our tracker (Nature, 18). [[Silas]] leads with Arthen and [[Storr]] behind. We track most of the morning. Goes through some dense forest. Guessing that its hoof prints. Eventually it peters out, forest grows back in around it. As time goes on, they grow less distinct.  Not sure what to make of it. [[Silas]] says it looks horse-ish. There are multiple animals. At least 3, but not totally sure. Could be more but probably not less. 
 
 It does seem we are following the tracks in the same direction they were traveling. Silas does notice that the tracks should be fresher here but they’re not, which seems strange, like the forest is involved. The forest does seem primeval.
 
@@ -47,7 +47,7 @@ WE FIGHT
 - The mage centaur has a sword and can do like 3 things in one turn.
 - Silas gets hit BAD and drops to zero, automatically bearing out
 - [[Branwen]] takes out Gale and sing a song (Brid song) and [[Branwen]] is surrounded in a purple aura of ravens. The centaur encompassed in the aura is now frightened of her. 
-- Krambler falls. Branwen falls. Silas in bear form gets down to 1.
+- [[Krambler]] falls. [[Branwen]] falls. Silas in bear form gets down to 1.
 - Storr uses the INFLUENCE action to convince the mage that they don’t want to fight.
 - Silas as the bear, hears Storr’s plea, and places his staff on the ground
 
@@ -237,7 +237,7 @@ White hair looks at Branwen.  Says: your past is lost, is it not?
 
    - Everything goes fuzzy for Branwen. Her eyes are open, but she isn’t seeing what’s around her. She experiences feeling herself suddenly in a greyscale world, and slowly realizing she’s on a boat, a small boat, rocking on a black sea. As she feels the boat move on the waves, she sees the shore come in and out of focus, far away. She feels a lot of pain in her throat, and finds she is drenched in blood. A familiar voice says from behind, This is the land you now inhabit.**
 
-   - The boat runs aground and Branwen steps out. She sees the [[The Boatman|Boatman]] and recognizes him. Memories flood back, and she recognizes herself as Cricket. She undergoes the same process that caused her to undergo her original transformation, and emerges, still Branwen, but with all of Cricket’s memories and the certain knowledge that it was [[The Boatman]] that carried her across the water. She finds herself back at the edge of the pool.**
+   - The boat runs aground and Branwen steps out. She sees the [[The Boatman|Boatman]] and recognizes him. Memories flood back, and she recognizes herself as [[Cricket]]. She undergoes the same process that caused her to undergo her original transformation, and emerges, still Branwen, but with all of Cricket’s memories and the certain knowledge that it was [[The Boatman]] that carried her across the water. She finds herself back at the edge of the pool.**
 
       - Storr’s Take…***
 
@@ -280,7 +280,7 @@ R: We told you we heard of someone
 
 B: And we told you his name–
 
-W: Is ***osgog***
+W: Is ***[[Osgog]]***
 
 We discuss osgog and his mother ([[Doldhelan]]/[[Doldhelan|Noswaith]]), and Osgog and the Dragon.
 
@@ -302,9 +302,9 @@ Osgog remembers the 3's names, according to the 3, themselves.
 
 Storr posits the compass is symbol of her failure.
 
-Silas’ note: Osgog and the Dragon seems to be written with a certain angle, read: propaganda of [[Mons]]. [[The Cradle]], if a symbol of Noswaith, could have positive connotations, as a sign of honor and respect put out into the world by the sisterhood.
+Silas’ note: Osgog and the Dragon seems to be written with a certain angle, read: propaganda of [[Mons]]. [[The Cradle]], if a symbol of [[Doldhelan|Noswaith]], could have positive connotations, as a sign of honor and respect put out into the world by the sisterhood.
 
-The cradle: We talk about the girls at the tower playing teh game with Arthen (it was the not=[[Glasses Girl]] three. 
+[[The Cradle]]: We talk about the girls at the tower playing teh game with Arthen (it was the not=[[Glasses Girl]] three. 
 
 We play the game in front of the thre women. Black hari taps Balz on the shoulder and indicates he should be in the center with Arthen.
 
@@ -325,7 +325,7 @@ How do we find out what the road wants?
 
 Black hair: When something feels that you’re looking to get something from it rather than hearing what it itself is interested in, it tends not to listen to your request. Perhaps this is a place where listening harder to the things will create a greater friendship than making demands with them.
 
-Seren perhaps reached this understanding with the road to be able to travel along these pathways. 
+[[Seren]] perhaps reached this understanding with the road to be able to travel along these pathways. 
 
 We get the sense that the shadow of this tree is also cast by the pool tree.
 
@@ -740,7 +740,7 @@ Secret for a secret, she says.
 
 BZ: tells tale of [[The Abbot]].
 
-The arrival was the Abbot and our accompaniment.  
+The arrival was [[The Abbot]] and our accompaniment.  
 
 The body was claimed.  I went in when i heard the news, but he had departed.  
 
@@ -762,7 +762,7 @@ Shining prince?  Prince of the world.
 
 He returned and made a choice.  That made all the different.
 
-He didn't chose the crown, no one sits on the throne.  Which sits far away.  The sun king is trying to find th throne. 
+He didn't chose the crown, no one sits on the throne.  Which sits far away.  The [[Sun King]] is trying to find th throne. 
 
 The foundling is the Abbot
 

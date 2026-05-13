@@ -40,9 +40,9 @@ We loot them bodies. Strange armor is strange armor. No weapons. Armor is made f
 
 K takes the wizard’s flute. Br joins in with her [[Bone Flute]] and [[Silas]] joins with his pan flute, playing the low melodies. As we do this we hear voices on the wind coming out of the forest. The mood changes from somber to dangerous, we feel as though we’re about to die.
 
-We put our instruments away. The voices continue around us. It is noon currently. Branwen closes her eyes and opens her ears to listen to their voices (percep 18+0) These voices are strange to her, she does not feel a kinship with them. They seem menacing, she gets the sense that we have their attention. 
+We put our instruments away. The voices continue around us. It is noon currently. [[Branwen]] closes her eyes and opens her ears to listen to their voices (percep 18+0) These voices are strange to her, she does not feel a kinship with them. They seem menacing, she gets the sense that we have their attention. 
 
-Silas communes with nature. He feels the forest around him to be porous like a cheese grater, like swiss cheese, there are strange holes like things can travel from one place to another, not sure where the voices are coming from, but they seem to be filtering in from somewhere else like an overlap in the world. It’s freaky. The other places are dark to him. We don’t see any physical darkness, any more than would be in a dense forest under a canopy. 
+[[Silas]] communes with nature. He feels the forest around him to be porous like a cheese grater, like swiss cheese, there are strange holes like things can travel from one place to another, not sure where the voices are coming from, but they seem to be filtering in from somewhere else like an overlap in the world. It’s freaky. The other places are dark to him. We don’t see any physical darkness, any more than would be in a dense forest under a canopy. 
 
 We decide to leave the voices as they are in our current state.
 
@@ -69,7 +69,7 @@ Branwen casts Comprehend Languages (21, WIS) She is immediately overwhelmed with
 
 Silas casts CWN. He becomes immediately aware of the stones. Picture this based on our player knowledge: these stones would be almost fungel, the mycelium down into the ground and spreading in these connected pathways, infiltrating the ground and the sky and going to paces unknown. Int he tangle, Silas would also struggle to comprehend it. He would get lost in the tangle and not necessarily be able to navigate it and be able to see it. 
 
-Krambler draws flutes (and notes) K rolls percep (27) He notices the same symbol in the symbols, [[The Cradle]]. We rehash the connections we had made with the symbol. Silas reminds of the symbol being a part of his past.
+[[Krambler]] draws flutes (and notes) K rolls percep (27) He notices the same symbol in the symbols, [[The Cradle]]. We rehash the connections we had made with the symbol. Silas reminds of the symbol being a part of his past.
 
 We rehash how music and song and tones have played into our [[Nyth]] experiences, specifically how the Lake of Voices stones worked and how we played songs there that had varying effects.
 

@@ -17,7 +17,7 @@ So far there’s nothing to say. We arrive at the island, and tie up to an iron 
 
 [[Storr]], [[Silas]], Rambler, [[Branwen]] and Balz (in that order) ascend the steps, and see a path that leads up into the mountain. [[Storr]] trips on a rock and falls on her left knee, got a little bit of a limp as she makes it up to the call with the rest of the party. 
 
-Strong winds. We smell the ocean everywhere. So windy. We get to a fork in the path. We go west. It’s pretty steep, and somewhat treacherous. About halfway up we all basically need to sit down because we’re exhausted. [[Krambler]] slips and bangs up his right shin pretty badly, got a limp to match Storr. After a little break we continue on up to a flat spot, where we hear the wind whistling in the cracks. There’s a 3 foot wall around the edges, we notice a large stone in the center of the flat spot. 
+Strong winds. We smell the ocean everywhere. So windy. We get to a fork in the path. We go west. It’s pretty steep, and somewhat treacherous. About halfway up we all basically need to sit down because we’re exhausted. [[Krambler]] slips and bangs up his right shin pretty badly, got a limp to match [[Storr]]. After a little break we continue on up to a flat spot, where we hear the wind whistling in the cracks. There’s a 3 foot wall around the edges, we notice a large stone in the center of the flat spot. 
 
 The center flagstone has the same three lobed symbol that we saw at the Island of Voices. The space feels ceremonial.
 
@@ -26,7 +26,7 @@ The center flagstone has the same three lobed symbol that we saw at the Island o
 
    1. Storr’s Jaunt Westward
    1. Back at Camp
-In the late afternoon, Silas goes foraging for some pipable heath, and/or brush. There’s a lot of diverse plant life. He grabs some to burn, as well as some wintergreen and blueberries. 
+In the late afternoon, [[Silas]] goes foraging for some pipable heath, and/or brush. There’s a lot of diverse plant life. He grabs some to burn, as well as some wintergreen and blueberries. 
 
 Sunset. We have a magnificent view. Stars to the east appear even as the color ignites. 
 

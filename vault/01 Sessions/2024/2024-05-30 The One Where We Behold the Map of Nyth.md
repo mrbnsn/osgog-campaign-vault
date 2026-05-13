@@ -73,7 +73,7 @@ Use the bridge? Could go that way, harder cutting across land in the foothills. 
 
 Is there a shipwright in town? No. The river here is not too intense, too rocky and shallow. We need to go further downstream to put something like a canoe in.
 
-Are there other settlements down the river? There are villages. Larger town at the site of the river joining the Meander. That town is also called Meander.  Sort of a port.
+Are there other settlements down the river? There are villages. Larger town at the site of the river joining the [[Meander]]. That town is also called Meander.  Sort of a port.
 
    1. GATHERING RUMOURS
 Possibilities:

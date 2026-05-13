@@ -37,7 +37,7 @@ Description of Tapestry blanket with 9 panels:
 
 Discussing the story of [[Weyland]] - they talk about the Stone King who turned water, air, NIGHT into stone.  Party has fought elementals and stones.  When the fire elementals were destroyed they realized the obsidian they collected from the ashes could be the stone made from fire. 
 
-[[Cricket]]’s “perceives” that it says in the Weyland story the Stone King could make all these things into stone without humans but it took Weyland to freeze fire to turn fire into stone.  But it took man to make fire into stone.  It has to do with man - the volcanoes make obsidian.  The stone king would be banging away at the bottom.
+[[Cricket]]’s “perceives” that it says in the [[Weyland]] story the Stone King could make all these things into stone without humans but it took Weyland to freeze fire to turn fire into stone.  But it took man to make fire into stone.  It has to do with man - the volcanoes make obsidian.  The stone king would be banging away at the bottom.
 
 Rambler - what about the bronze from the forge? 
 
@@ -57,7 +57,7 @@ Balz - what is it about man that can make stone from fire?  Is it his nature?  V
 
 Balz would recognize a motif - to do an impossible task you’d have to sacrifice something.  We could run into a king of stone in the mountains… and never having seen it before we may not recognize what it is.  Say like a giant turtle.
 
-Krambler’s 
+[[Krambler]]’s 
 
       - Dream from [[Tawesek]]*:**
 
@@ -73,7 +73,7 @@ As [[Storr]] looks at Gale - the blade is steel, the red may be copper and NOT b
 
 Krambler recognize the flame patterns in Gale are similar to his tattoos.  In terms of style.  
 
-Storr thinks Krambler should carry Gale.  She passes the sword onto Krambler.
+[[Storr]] thinks Krambler should carry Gale.  She passes the sword onto Krambler.
 
 The party journey’s on…
 
@@ -83,11 +83,11 @@ The party journey’s on…
 
 The party considers the options… 
 
-The chess game continues between Cricket and Silas. Krambler tries to attune with the Goat Helm.  
+The chess game continues between [[Cricket]] and [[Silas]]. Krambler tries to attune with the Goat Helm.  
 
-[[Balthazar]]  BONDED WITH MANNIX’S ARMOR AND IT WAS ABSORBED INTO HIS SKIN AND HE WEARS IT AS A RING IT WAS A WHOLE THING.
+[[Balthazar]]  BONDED WITH [[Mannix]]’S ARMOR AND IT WAS ABSORBED INTO HIS SKIN AND HE WEARS IT AS A RING IT WAS A WHOLE THING.
 
-Balz recalls the story of the son of [[Mons]] named [[Osgog]]; the most famous betrayer.  He was building a monster and he remembers the monster was a dragon built from ancient things.  Balz is connecting and wondering if his torture he went through was trying to recreate/do something and recognizing that creation, what Osgog created, is kind of from the stories a very negative thing.  Balz wonders if this is why he looks the way he does, were they doing something that they should not have and was that thing how he came to be through the act of creation; trying to tap into ancient things that didn’t work well last time.
+Balz recalls the story of the son of [[Mons]] named [[Osgog]]; the most famous betrayer.  He was building a monster and he remembers the monster was a dragon built from ancient things.  Balz is connecting and wondering if his torture he went through was trying to recreate/do something and recognizing that creation, what [[Osgog]] created, is kind of from the stories a very negative thing.  Balz wonders if this is why he looks the way he does, were they doing something that they should not have and was that thing how he came to be through the act of creation; trying to tap into ancient things that didn’t work well last time.
 
 Awakens a treeish creature.  Balz tries to communicate with it and it tries to speak but it’s unclear what was said… it moves towards the party who are above it.  It may it moves as if it trying to figure out how to but as it does it progressively becomes more adept.  
 

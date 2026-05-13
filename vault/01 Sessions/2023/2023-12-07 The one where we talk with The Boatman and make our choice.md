@@ -36,7 +36,7 @@ No thank you, we say. Please don’t kill us.
 
 He ties up his boat and methodically buttons it up, walks back and looks at us, and enters his hut. [[Cricket]] sens Koweth off to scout the city and try and find the fallen boulder by the Mons’ temple.
 
-We settle in for the night. Cricket and [[Silas]] play chess. [[Storr]] and B spar. We let the badger be (we don’t see or know where he is.)
+We settle in for the night. [[Cricket]] and [[Silas]] play chess. [[Storr]] and B spar. We let the badger be (we don’t see or know where he is.)
 
 Cricket fucks around with [[Mannix]]'s flute, as he somberly reflects on his lost brother.  He rediscovers a melody.  Just a few notes, but the memory of it is flooding back.  Reminds me of my mother putting me to sleep.
 
@@ -47,7 +47,7 @@ We’re high up in the mountains, thrusting into the sky, and the night is sharp
    1. Chat with [[The Boatman]]
 In the morning, a cloud crawls over the ridge, imbued with pinks. We hear what sounds like a fiddle playing, perhaps the lark ascending. Imagine The OH cabin, but at Madison looking out.
 
-Storr goes up to the [[The Boatman|boatman]]’s hut. She knocks.
+[[Storr]] goes up to the [[The Boatman|boatman]]’s hut. She knocks.
 
 “Can I help you young one?”
 
@@ -137,12 +137,12 @@ There was a man who delved deep beneath the earth and thought long and hard and 
 
 Many lakes have springs.
 
-K looses his patience and tries to hit the boatman, but the rest of the party blocks, but we get the point
+K looses his patience and tries to hit [[The Boatman]], but the rest of the party blocks, but we get the point
 
 (We are welcome to sidebar with the Nathaniel as the boatman)
 
    1. Heading back to the city
-Koweth returns outside the cottage. He did not find a boulder. The city is still festivaling. Tehre was a temple, but nothing large with a boulder. To the north,m he saw a stone circle in the woods. A couple of castles, and forticfications on some of the smaller islands, and saw in the quiet quarter where the black water entered was quiet, there was reveling and a festival elsewhere but not in that space. 
+Koweth returns outside the cottage. He did not find a boulder. The city is still festivaling. Tehre was a temple, but nothing large with a boulder. To the north,m he saw a stone circle in the woods. A couple of castles, and forticfications on some of the smaller islands, and saw in the quiet quarter where [[The Black Water]] entered was quiet, there was reveling and a festival elsewhere but not in that space. 
 
 We go outside and tell the Boatman our choice: to continue on our path. It would seem that your path leads back to the city, to the stone circle that your friend described. And you my friend (to Cricket) have been shown the path and can divine the way.
 
@@ -150,7 +150,7 @@ Cricket goes in for a hug, and it is the burliest and most comforting hug. Raven
 
 [[Krambler]] goes for a fist bump and turkeys him at the last second.
 
-Silas Robert Redford nods at him as a sign of respect. He says, “Little Bear.”
+[[Silas]] Robert Redford nods at him as a sign of respect. He says, “Little Bear.”
 
 Storr says goodbye as well.
 

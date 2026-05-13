@@ -89,7 +89,7 @@ Can we lend a hand while striking up a conversation?
 
 We want to be earnest and ingratiate ourselves to these folk. Br rolls persuasion (12) She goes over and notices some women working at a table arranging things. Br offers to lend a hand. “We;d love to have your help! Can you help us move these pumpkins.” (Very high pitched, very monty python) They seem happy to participate and chat.
 
-[[Silas]] asks if he needs to take his helmet off. (He rolls a 9 persuasion) The folk say that, yes , he can if it makes him comfortable. We are comfortable with horns here, so yes. They seem to think that Silas is a little slow, like an idiot brother.
+[[Silas]] asks if he needs to take his helmet off. (He rolls a 9 persuasion) The folk say that, yes , he can if it makes him comfortable. We are comfortable with horns here, so yes. They seem to think that [[Silas]] is a little slow, like an idiot brother.
 
 Silas: I am smart. I just want to know
 

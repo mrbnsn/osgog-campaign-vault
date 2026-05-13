@@ -34,12 +34,12 @@ Note taker colors? *(We'll use colors in the google doc, but the wiki will just 
 
    - [[Storr]]**
 
-Everyone: Don’t forget your class features. For instance, Silas is part Monk (!) so is Krambler. Neat!
+Everyone: Don’t forget your class features. For instance, [[Silas]] is part Monk (!) so is [[Krambler]]. Neat!
 
    1. [[Balthazar]]'s Summary
 ![[Balthazar in his library.jpg]]
 
-We decide to head to the lake, and arrive at our destination by mid-afternoon. Before us: marshes that fade into still, transparent water. The small island at the center of the lake is our obvious destination. We skirt counterclockwise until dusk, reaching the eastern shore. After spending the night (N.B. We are not Home, nor are we still in [[Nyth]]), we make it a little further. Storr attempts a quick swim but is foiled by fog. We continue on and reach the northwestern shore. My primeval awareness makes me feel that “there are parts of the landscape out there that might become conscious”. Some sense of something somewhere between an elemental and a fey.
+We decide to head to the lake, and arrive at our destination by mid-afternoon. Before us: marshes that fade into still, transparent water. The small island at the center of the lake is our obvious destination. We skirt counterclockwise until dusk, reaching the eastern shore. After spending the night (N.B. We are not Home, nor are we still in [[Nyth]]), we make it a little further. [[Storr]] attempts a quick swim but is foiled by fog. We continue on and reach the northwestern shore. My primeval awareness makes me feel that “there are parts of the landscape out there that might become conscious”. Some sense of something somewhere between an elemental and a fey.
 
 We send a chickadee to scout first the perimeter and then the island. Nothing stands out as particularly interesting, save a notable flat stone at the center of an island wreathed in roses.
 

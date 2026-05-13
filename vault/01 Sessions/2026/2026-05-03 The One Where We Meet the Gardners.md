@@ -23,7 +23,7 @@ We long rest.  Meet Afon, ropey arms, sinewy.  Tends gardens.  Deilin, young wom
 
 During the rest, we each ask a question of the gardners.
 
-   1. [[Storr]] has some questions for Mag
+   1. [[Storr]] has some questions for [[Mag]]
 [[Storr]].  What happened after we left - what happened to his body, etc?
 
 Mag:	His mother came to claim him. 
@@ -32,7 +32,7 @@ S:	Who?
 
 Mag	She is **The Beloved.  [[Kerenja]].**
 
-Storr:   "she came for his body" physically?  Or?  She's a legend, a deity.
+[[Storr]]:   "she came for his body" physically?  Or?  She's a legend, a deity.
 
 Mag:    Yes, she came and took his body.  Royalty, not deity.
 
@@ -65,13 +65,13 @@ Mag: 	They tend the [[Derwen Trees]] to honor [[Mother Night]].
    1. Balthezar also has questions for Mag
 Balz:  More about the [[Derwen]].  Are they connected to THE tree?  Do you know what I'm talking about?
 
-Mag:  It's my belief that the [[Derwen Trees|Derwen]], or a forest of one, is beautiful, provides shelter, etc.  Mother of the forest.  When you've seen something like that ….THE Tree is the derwen tree.  Seeing them from sapling to hollowed out shelter is something .  A perfect symbol for one who gives and takes.
+Mag:  It's my belief that the [[Derwen Trees|Derwen]], or a forest of one, is beautiful, provides shelter, etc.  Mother of the forest.  When you've seen something like that ….THE Tree is the [[Derwen Trees|derwen]] tree.  Seeing them from sapling to hollowed out shelter is something .  A perfect symbol for one who gives and takes.
 
 B 	[[Mother Night]]. 
 
 Mag: 	Yes.
 
-B: 	Why honor mother night?
+B: 	Why honor [[Mother Night]]?
 
 Mag: 	TherHe bite is wisdom in all growing things.  Giving and taking is an embodiment of that.  Growing things remind me of her. Tterness of the taste of medicine, yet it brings healing.
 

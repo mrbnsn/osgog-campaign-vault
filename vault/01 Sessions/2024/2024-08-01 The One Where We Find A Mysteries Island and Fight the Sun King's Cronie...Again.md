@@ -30,7 +30,7 @@ Behind it, there’s a table, a chest and a bed.
 
 [[Storr]] rifles through the table. On the bedside table, there’s a book, an inkpot and a quill pen. The book has strange writing in it that neither of them recognize. On the desk, there’s a large pearl, an emerald, and a blue jasper gem.
 
-Storr tosses the bed. Storr unlocks the chest with a nearby key.
+[[Storr]] tosses the bed. Storr unlocks the chest with a nearby key.
 
 In the chest, is some clothes (not 5 sets worth), some sort of personal effects, tobacco pouch, and pouch with 500 gp in it. Oilskin.   
 
@@ -59,7 +59,7 @@ Whats in the middle of the lake?  What's going on with the voices?alking about t
 
 Copyn: He doesn’t know anything about Balz’s transformation. He keeps eyeing Balz. Very uncomfortable about it.
 
-Who is the sun king? Only knows him by that name. He is a man who will bring about the end of death.
+Who is the [[Sun King]]? Only knows him by that name. He is a man who will bring about the end of death.
 
 The mission? The SK is trying to conquer and bring [[Nyth]] to order theers various places he’s found.
 
@@ -119,7 +119,7 @@ Copyn: Many. (We get a sense that he’s hedging
 
 Copyn: (he looks) Yes, he is an ancient being that we do not understand. 
 
-Silas: Has the SK ever search for him
+[[Silas]]: Has the SK ever search for him
 
 C freezes up.
 
@@ -200,7 +200,7 @@ Keto drops sail, everyone takes in the sights.  Lots of color - kind of super-sa
 
 We row the dinghy up to the cove. A large flat stone juts into the water that we can hop up onto. A big stone walkway/staircase goes up towards the stone circle and the tree. Tree is about 15 to 20 feet across, towers into the sky. Stones are very large. Inner surfaces are flatten, outer ones are not. Vary in height and shape. There’s a weird groove at about shoulder height, vertical, look like they’ve been worn. We’re watching the tree as the seasons move around. Ot is an apple tree . Apples are growing, **bees** swarming around the flowers and move with them. A snow drift that moves across the island in a slow circle. It takes 25 or 20 minutes for the seasons to make a full circuit around the tree. Stone at the base of the tree is large and flat and has a symbol carved into it. A harmonius grouping of three lobes and cradle in the middle. The carving has colors, they’re not painted and static, but they’re there, there’s some moisture, some moss, some light getting caught. Two or three feet across. Tucked into a hollow between tree roots.
 
-We think on the coloraton of the symbol. Black and purple seem to speak to both Mon's follower's garb, but also the palette of Mabnoss and Branwen. The three lobes could represent the [[Branwen's Branches|children of Mog]]: [[Mons]] (black and purple), [[Ceridwen]] (green, nature) and [[Torval]] (red, fire (and blue, ice?)).
+We think on the coloraton of the symbol. Black and purple seem to speak to both Mon's follower's garb, but also the palette of Mabnoss and [[Branwen]]. The three lobes could represent the [[Branwen's Branches|children of Mog]]: [[Mons]] (black and purple), [[Ceridwen]] (green, nature) and [[Torval]] (red, fire (and blue, ice?)).
 
 Storr bites an apple. She feels youth flowing back into her. Silas also takes a bite, and returns to his previous age. 
 

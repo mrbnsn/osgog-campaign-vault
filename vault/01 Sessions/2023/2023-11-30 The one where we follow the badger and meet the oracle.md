@@ -26,7 +26,7 @@ We follow the badger up the shoreline.
 We see some markings on the city walls and flags flying, but nothing we’d recognize. We see smoke from chimney fires, but nothing out of the ordinary. There are sparse guards along the walls.
 
 Further up the shoreline, we see some folks preparing to head out to the city walls. [[Storr]] calls out to them and the badger bites [[Storr]] in the ear. The rest of the party slinks into the brush to hide. They group looks in our direction. The badger jumps off and starts nickering. The people call out, “Who goes there?”
-> STORR: “I go there. Who are you?”
+> [[Storr]]: “I go there. Who are you?”
 >
 > PEOPLE: We were on our way into the city. We don’t come across strangers.
 >
@@ -49,7 +49,7 @@ We come to a manmade inlet with stone piers. Across the inlet is a set of stone 
 
 RYAN YOU’RE DOING AN EXCELLENT JOB AND I WANT TO ACKNOWLEDGE YOU — thank you Tom. You’re a good friend.
 
-We take his advice and go to the boats. Mochyn is looking nervous, looking to us now for direction. There are rowing boats, sailing boats. 
+We take his advice and go to the boats. [[Mochyn]] is looking nervous, looking to us now for direction. There are rowing boats, sailing boats. 
 ![[Caerosgog.png]]
 
    1. Traversing the city
@@ -86,7 +86,7 @@ We agree to forego the festival and follow the badger for THREE DAYS. We climb i
 On the door of the hut is a crow. If you pull the tail, it knocks. [[Balthazar]] peeks in the window and sees an old man sitting at a table. He looks over his shoulder and he sees us.
 
 The man is dressed all in black. He is old and strong. Feathers in his hair.
-> CRICKET: Is this your badger?
+> [[Cricket]]: Is this your badger?
 >
 > - (The man reaches down and pets the badger.)* MAN: No this isn’t mine. I think he’s quite his own.
 >
@@ -110,9 +110,9 @@ The man is dressed all in black. He is old and strong. Feathers in his hair.
 >
 > P: What is her name?
 >
-> B: She no longer has a name aside from the oracle.
+> B: She no longer has a name aside from [[The Oracle]].
 >
-> P: What do you know of the black water?
+> P: What do you know of [[The Black Water]]?
 >
 > B: Only that it has been here for a long time and is part of an ancient evil and there are those of us that are tasked to watch it and protect from its reemergence.
 >
@@ -134,16 +134,16 @@ The man is dressed all in black. He is old and strong. Feathers in his hair.
 >
 > - ([[Balthazar]] recalls [[Runic Messages#Balthazar|a runic message mentioning a boatman]].)*
 >
-> P: Do the people that go to see the oracle come back?
+> P: Do the people that go to see the [[The Oracle|oracle]] come back?
 >
 > B: The people that go to see the oracle do come back, presumably changed.
 Cricket recalls a message about [[Runic Messages#Cricket|“The story of daughter and mother - one and the same”]] We don't know who TW’s mother is, who [[The Abbot|the Abbott]]..ahem…bedded. 
 
 We climb down to the boat. The badger nodes to [[The Boatman]] and retreats to the side of the cottage.
 
-The boatman remarks on Balthazars horn. "That is a mark I have not seen on one like you."
+[[The Boatman]] remarks on Balthazars horn. "That is a mark I have not seen on one like you."
 
-Balthazar asks if he has knowledge of his condition? Do I have opportunity to get rid of these horns?
+[[Balthazar]] asks if he has knowledge of his condition? Do I have opportunity to get rid of these horns?
 
 (I missed his answer)
 
@@ -170,7 +170,7 @@ Most folks remember the first horned beings that came up over the mountains and 
 >
 > C: Did [[Osgog]] summon his monster here?
 >
-> Bo: That’s a good question. Did Osgog summon a monster or did he find something ancient that was beyond the imagination of most people and therefore called it a monster because they were afraid.
+> Bo: That’s a good question. Did [[Osgog]] summon a monster or did he find something ancient that was beyond the imagination of most people and therefore called it a monster because they were afraid.
 
    1. The Oracle
 He pulls the boat up to a large flat stone. He braces the boat so we can all climb out. As we look, this island is twenty feet across. A pile of rocks with earth and grass growing over the top. There is a portal of stones with a hole that you walk through and past that is a staircase going down into the island.
@@ -179,7 +179,7 @@ We offer for him to join us. "No I stay in the boat."
 
 We approach the stairs. They’re single file, lit by candle light.
 
-Party order: Storr, Silas, [[Krambler]], Cricket, Balthazar
+Party order: Storr, [[Silas]], [[Krambler]], Cricket, Balthazar
 
 Arthen retreats back to the boat.
 

@@ -27,13 +27,13 @@ We attempt to find higher ground, but end up in the same spot as we started. Con
 
 [[Silas]] suggests maybe we ride some eagles, which everyone hates.
 
-Branwen plays [[Cricket]]'s Lullaby on the flute (dirty 20 perf roll), with the intention of "soothing the earth", convincing it that we are on board with the song.  The party finds itself entirely convinced that we should make camp RIGHT HERE in this forest.
+[[Branwen]] plays [[Cricket]]'s Lullaby on the flute (dirty 20 perf roll), with the intention of "soothing the earth", convincing it that we are on board with the song.  The party finds itself entirely convinced that we should make camp RIGHT HERE in this forest.
 
 We do.
 
 We wake and try to walk again with the idea that we’ve learned our lesson. And yet, we end up back in the same place.
 
-Silas communes with nature with the intention of located the bear. The bear and the mound is both very close and also inaccessible and locked away. The space around us is confusing as to how it’s laid out. It seems non-euclidean, we’re touching things that we shouldn’t in that way. We feel a web of personality that stretches around us, but can’t quite pinpoint what is is or means. In a way, this a forest that seems natural, but also seems like the dial’s up to 11.
+[[Silas]] communes with nature with the intention of located the bear. The bear and the mound is both very close and also inaccessible and locked away. The space around us is confusing as to how it’s laid out. It seems non-euclidean, we’re touching things that we shouldn’t in that way. We feel a web of personality that stretches around us, but can’t quite pinpoint what is is or means. In a way, this a forest that seems natural, but also seems like the dial’s up to 11.
 
 Bran pulls out the boneflute and plays the bird song on it. The scene changes, not transported, but it’s night. We hear a rustling, and a huge black bear with a tasteful autumnal cape appears.
 

@@ -43,7 +43,7 @@ Woman: She looks at B, taps her on the hand, goes out to the garden and collects
 
 [[Storr]] introduces herself. [[Angarad]] is her name.
 
-Storr engages in conversation with her.
+[[Storr]] engages in conversation with her.
 
 A: The mountains that you come to as you follow the river do thrust far up into the sky. Perhaps that’s what you’re looking for?
 
@@ -53,7 +53,7 @@ A: I’m aware, but not of his emissaries have come to bother a little old woman
 
 S: We hope it stays that way. We don’t mean to bring any unnecessary attention to you.
 
-Silas asks how safe she feels here.
+[[Silas]] asks how safe she feels here.
 
 The forest is my home, I feel as safe within it as one should feel anywhere. When you understand a place, there becomes less reason to fear.
 
@@ -117,7 +117,7 @@ The tree is a [[Derwen Trees|derwen]].
 
 Storr, Silas and [[Angarad]] have several coy exchanges over who she meant by "there's one".  She provides no clarity, and just laughs at the questions.
 
-Branwen touches the [[Derwen Trees|derwen]], hoping to listen to it and nature, and drown out the banter of the others.  The sound of the wind and the leaves comes into sharper focus, and she feels…better.
+[[Branwen]] touches the [[Derwen Trees|derwen]], hoping to listen to it and nature, and drown out the banter of the others.  The sound of the wind and the leaves comes into sharper focus, and she feels…better.
 
    1. We continue journeying
 ![[The complete journey to Twr-Seren.png]]
@@ -132,7 +132,7 @@ B rolls travel (19), succeeds. We’re climbing a path into the mountains. More 
 
 The Journey ends. 
 
-   1. The welcome at Twr-Seren
+   1. The welcome at Twr-[[Seren]]
 The tree is a ways off, a hard scramble to reach. We decide not to push our fatigue saving throw any more and just observe. From this distance, we can see its a pretty gnarled squat tree, beat up by the weather, autumn lives, twisted, strong, roots tangling down into the rock.
 
 We got go the door and knock. We hear footsteps. We;re being glared at by a girl of about 11 or 12, she's got long braided red heair that falls down her back. Jst standing there looking somewhat suspicious, and looks at us. 

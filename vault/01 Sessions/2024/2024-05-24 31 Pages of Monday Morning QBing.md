@@ -143,19 +143,19 @@ Mike Robinson:
 
     	And [[Rhiannon]] was a name inscribed on a sword or something?
 
-    	Yeah Kerenja, sorry
+    	Yeah [[Kerenja]], sorry
 
 Michael Hopps:
 
-    	The sword is "Rhiannon's Gale" I think
+    	The sword is "[[Rhiannon]]'s Gale" I think
 
 Mike Robinson:
 
-    	Ah okay, so Rhiannon and Bremphyr must be tight
+    	Ah okay, so Rhiannon and [[Bremphyr]] must be tight
 
     	And [[Storr]] would probably like her
 
-    	Interesting that Osgog is a healer, and is associated with the black lake
+    	Interesting that [[Osgog]] is a healer, and is associated with the black lake
 
 Ryan Petti:
 
@@ -203,7 +203,7 @@ Mike Robinson:
 
 Ryan Petti:
 
-    	Osgog didn't give Mons a gift though, he was missing.
+    	Osgog didn't give [[Mons]] a gift though, he was missing.
 
 Mike Robinson:
 
@@ -215,7 +215,7 @@ Michael Hopps:
 
     	Osgog (healer): a monster
 
-Bremphyr (smith):, Sword of Darkness Edged in Light
+Bremphyr (smith):, [[Sword of Darkness Edged in Light]]
 
 Rhiannon (horsewoman/sailor): [[Crown of Water]]
 
@@ -255,7 +255,7 @@ Ryan Petti:
 
 Mike Robinson:
 
-    	The God King is a retelling from a different perspective?
+    	[[The God King]] is a retelling from a different perspective?
 
 Ryan Petti:
 
@@ -419,7 +419,7 @@ Mike Robinson:
 
 Michael Hopps:
 
-    	The monster Osgog created had horns.  The sun king experiments and makes humans with horns.  [[The Black Lake of Osgog]]...sun king interested in source of black stream...
+    	The monster Osgog created had horns.  The [[Sun King]] experiments and makes humans with horns.  [[The Black Lake of Osgog]]...sun king interested in source of black stream...
 
 Ryan Petti:
 
@@ -439,7 +439,7 @@ Ryan Petti:
 
 Nathaniel Blauss:
 
-    	Balthazar would assume that he started as a "normal" human, and that anything different from that is a result of the "torture".
+    	[[Balthazar]] would assume that he started as a "normal" human, and that anything different from that is a result of the "torture".
 
 Mike Robinson:
 
@@ -457,7 +457,7 @@ Ryan Petti:
 
     	Re: our path forward, Silas' first two dreams may be of interest:
 
-    	http://osgog.mrobinson.us/index.php/Silas#Dreams
+    	http://osgog.mrobinson.us/index.php/[[Silas]]#Dreams
 
     	"The [[Elder Lands]]"
 
@@ -549,7 +549,7 @@ Mike Robinson:
 
 Michael Hopps:
 
-    	Weyland dreamed that he too had fire in his heart, and that he could create a fire that would not go out even greater than his mother’s, and that using it, the villagers would not need to defend themselves with sticks and stones anymore.  He dreamed that he could capture fire, and turn it into stone - hard and constant - and with that frozen fire, he could help his family and friends protect themselves. 
+    	[[Weyland]] dreamed that he too had fire in his heart, and that he could create a fire that would not go out even greater than his mother’s, and that using it, the villagers would not need to defend themselves with sticks and stones anymore.  He dreamed that he could capture fire, and turn it into stone - hard and constant - and with that frozen fire, he could help his family and friends protect themselves. 
 
 Mike Robinson:
 
@@ -693,7 +693,7 @@ Ryan Petti:
 
 Michael Hopps:
 
-    	Bardh didn't know [[Foamflower]].  Just saying.  That's interesting and bugging me.
+    	[[Bardh]] didn't know [[Foamflower]].  Just saying.  That's interesting and bugging me.
 
     	And I'm still unclear on "Mother and Daughter, one and the same." When I rolled that 20 on Gale.
 
@@ -817,7 +817,7 @@ Nathaniel Blauss:
 
 Mike Robinson:
 
-    	What color are Branwen's eyes? Purple, right?
+    	What color are [[Branwen]]'s eyes? Purple, right?
 
     	Obviously a very close connection with the eyes and the ravens
 
@@ -849,7 +849,7 @@ Mike Robinson:
 
     	Okay, hear me out
 
-    	The grove at Monsoth
+    	The grove at [[Monsoth]]
 
 Ryan Petti:
 
@@ -887,7 +887,7 @@ Mike Robinson:
 
     	Yes I believe you are right
 
-    	Mannix's girlfriend?
+    	[[Mannix]]'s girlfriend?
 
 Michael Hopps:
 
@@ -967,7 +967,7 @@ Mike Robinson:
 
 Michael Hopps:
 
-    	Kevnis, the weaver.
+    	[[Kevnis]], the weaver.
 
 Mike Robinson:
 
@@ -975,11 +975,11 @@ Mike Robinson:
 
 Bremphyr (smith):, Sword of Darkness Edged in Light
 
-Rhiannon (horsewoman/sailor): Crown of Water
+Rhiannon (horsewoman/sailor): [[Crown of Water]]
 
-Kevnis (weaver): Cloak of Wind
+Kevnis (weaver): [[Cloak of Wind]]
 
-Priweythva (potter): Scepter of Stone
+[[Priweythva]] (potter): [[Scepter of Stone]]
 
     	Priweythva is the other daughter?
 
@@ -1013,7 +1013,7 @@ Mike Robinson:
 
     	Wait, isn't Mons trapped under the black lake?
 
-    	Maybe Osgog believes the black water is a sign of the prison weakening, and is crossing the sea to try to reseal it?
+    	Maybe Osgog believes [[The Black Water]] is a sign of the prison weakening, and is crossing the sea to try to reseal it?
 
     	The black stream, that is; not the water itself
 
@@ -1045,7 +1045,7 @@ Ryan Petti:
 
     	Though I do like the idea of Mogg's memories and mental capacity being trapped.
 
-    	 ​😂​ to “ It does feel like the advent of the black lake coincides with the caging of Mog's balls ” 
+    	 ​😂​ to “ It does feel like the advent of the black lake coincides with the caging of [[Mog]]'s balls ” 
 
 Mike Robinson:
 
@@ -1169,7 +1169,7 @@ Ryan Petti:
 
 This smacks of the ending of The God King, where they lock away the 3 enchantresses. ” 
 
-    	Musk: Musk has always been “playing with fire”, Abbot always said that Musk was in touch with greater and deeper things, and we all have to suffer the consequences.
+    	[[Musk]]: Musk has always been “playing with fire”, Abbot always said that Musk was in touch with greater and deeper things, and we all have to suffer the consequences.
 
 Mike Robinson:
 
@@ -1187,7 +1187,7 @@ Mike Robinson:
 
     	I think we've guessed 5 including the sisters? But we could be completely wrong
 
-    	Part of me feels like the faces refer to something endemic to the world we're in; a reference to something. Perhaps star signs? Silas, you know of these. How many [[Constellations]] do your people observe as significant to the machinations of the universe? What are those constellations? What traits do people born under those various signs possess?
+    	Part of me feels like the faces refer to something endemic to the world we're in; a reference to something. Perhaps star signs? Silas, you know of these. How many [[Constellations]] do your people observe as significant to the machinations of the universe? What are those [[Constellations]]? What traits do people born under those various signs possess?
 
 DM could maybe chime in here re: the stars/asterisms/constellations?
 
@@ -1213,7 +1213,7 @@ Michael Hopps:
 
 Mike Robinson:
 
-    	What are the Elder Lands?
+    	What are the [[Elder Lands]]?
 
 Michael Hopps:
 
@@ -1277,13 +1277,13 @@ Ryan Petti:
 
 Nathaniel Blauss:
 
-    	I think Bardh might tell you that that Geshwa story is a strange one.  That it feels very old to him, and that Icebeard and Honeywoman are two characters who only ever exist on the edges of stories, and he's never been sure if their appearances are actually connected or not.
+    	I think Bardh might tell you that that [[Geshwa]] story is a strange one.  That it feels very old to him, and that Icebeard and Honeywoman are two characters who only ever exist on the edges of stories, and he's never been sure if their appearances are actually connected or not.
 
     	You'd have heard vaguely of Elder lands, sort of like a we'd think of the place where fairy tales take place.
 
 Michael Hopps:
 
-    	The last lines of the tower poem make me think the Abbot is a mons spawn. 
+    	The last lines of the tower poem make me think [[The Abbot]] is a mons spawn. 
 
     	Bottom of the branches page.
 
@@ -1335,7 +1335,7 @@ Mike Robinson:
 
 Michael Hopps:
 
-    	Possible.  They tried to turn Mabmnoss against him in the god king tale.
+    	Possible.  They tried to turn [[Mabmnoss]] against him in the god king tale.
 
 Mike Robinson:
 
@@ -1423,7 +1423,7 @@ Mike Robinson:
 
     	Let's not forget the wise old woman in the village near [[Tawesek]]
 
-    	She seemed to know the Abbott well
+    	She seemed to know [[The Abbott]] well
 
 Michael Hopps:
 

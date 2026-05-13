@@ -32,14 +32,14 @@ We decide to go to the festival after all. We head south east, cross another bri
 
 We get to the bottom of the stairs, the path branches left and right. Right path is wider. We take that one
 
-We come to the black water flowing into a hole. There’s a stone wall around it with people looking into the hole. They’re wearing black and purple robes. They’re not talking.
+We come to [[The Black Water]] flowing into a hole. There’s a stone wall around it with people looking into the hole. They’re wearing black and purple robes. They’re not talking.
 
 K tries to shape the black water but feels nothing. The black water forms a whirlpool. 
 
 We try to engage the people. They look at us and tell us to be quiet.
 
    1. The festival
-We continue on and start hearing a crowd. There’s a fountain in the middle of the square. We see the fireworks that create the shape of a tree in the smoke. We move into the square. As [[Silas]] steps in, people start noticing the bear and start crowding around [[Silas]] and Arthen. Silas starts feeding Arthyn snacks to show that he is not a threat. 
+We continue on and start hearing a crowd. There’s a fountain in the middle of the square. We see the fireworks that create the shape of a tree in the smoke. We move into the square. As [[Silas]] steps in, people start noticing the bear and start crowding around [[Silas]] and Arthen. [[Silas]] starts feeding Arthyn snacks to show that he is not a threat. 
 
 [[Storr]] moves toward the fountain. The central carving is in the shape of an [[Ancient Tree]] of various colors, black, brown, green. At teh base you see what might be the face of a bear peeking out from under the roots. Ravens are perched on branches. The water is flowing to fill out the form of the sculpture so the water becomes both branches and foliage. It almost looks as though a raven flies and jumps into the pool below. The fireworks are shooting out of tubes in the fountain (is that right?)
 
@@ -57,7 +57,7 @@ Silas: Of course I do. Do you??
 
 B is trying to hide his horns
 
-[[Cricket]] makes his way over to Storr. As Storr was standing by the fountain the water began to reach out around her and begin to form an ice wall around her. 
+[[Cricket]] makes his way over to [[Storr]]. As Storr was standing by the fountain the water began to reach out around her and begin to form an ice wall around her. 
 
 Crowd: We’re wary of travelers bearing tokens of power. (said with an edge of hostility)
 
@@ -71,7 +71,7 @@ Storr: (not sure what she said here)
 
 Man: You are not welcome here. Go back to where you came from.
 
-Cricket: We’d like to learn about your festival and about the twins.
+[[Cricket]]: We’d like to learn about your festival and about the twins.
 
 Man: Whoever you are you’re not here by our leave. Go. Go now.
 

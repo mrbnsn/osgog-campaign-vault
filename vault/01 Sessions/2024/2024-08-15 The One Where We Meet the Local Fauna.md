@@ -17,7 +17,7 @@ Balz wants to search around the stone circle for any evidence about what might h
 
 [[Storr]] requests that [[Krambler]] sits on the stone. (Perc, 19) K feels like he’s at the center of a nexus of voices and the tattoos on his body feel to him like they’re flowing a little, flowing in song, but right now he can’t hear it, but he feels like this is where the voices come from, or at least made to speak. So he would be pretty interested in doing something with that, in trying to see if he could speak to those voices. K, having stone sense, walks over to a stone and he investigates the groove and sees that it’s a were-mark(?) in the stone. He sees that the flat side has been dressed crudely. He takes his hand and puts it into the grooves and we hear a sound like the low notes of a mandocello being played with a bow.
 
-Storr talks to Balz, and says he wants K to take Kleghien and try to attune with it.
+[[Storr]] talks to Balz, and says he wants K to take Kleghien and try to attune with it.
 
 Balz doesn’t want Storr to give up so quickly on Kleghien. 
 
@@ -79,13 +79,13 @@ The goose has settled down with the reeds. The path through the reeds is about t
 
 [[Silas]] sits on the stone, attempting to connect to the feminine presences, He is able to .. he feels an inarticulate presence, as he sits, he leans back and feels like he’s being embraced by the tree. Like it’s a comforting, protective, feminine presence. Reminded of his mother, a mothering impulse, and as he does that, another shape comes out of the mist and lands flying in one of the branches of the trees in the summer section and the large red and orange plumed bird lands and squawks at the goose. The goose honks bank and seems somewhat reassured that this bird is here. They chatter back and forth in a bird language. A very large bird. Somewhat high up, perched in the tree.
 
-Branwen calls up to the bird and it sort of looks at her with a certain level of sternness, not angry, but something liek a regal presence. And twitters back to B that she doesn’t nec understand, and then goes back to looking out at the world. The birds seems like the bird is being very aware of protocol, B just didn’t understand the bird. 
+[[Branwen]] calls up to the bird and it sort of looks at her with a certain level of sternness, not angry, but something liek a regal presence. And twitters back to B that she doesn’t nec understand, and then goes back to looking out at the world. The birds seems like the bird is being very aware of protocol, B just didn’t understand the bird. 
 
 B asks the bird’s name but doesn’t understand
 
 Balz through nature and old lore recognizes this bird that goes through cycles of life and death.
 
-Silas casts speak with animals and asks its name.
+[[Silas]] casts speak with animals and asks its name.
 
 The bird responds, says something roughly translated as “south-wind”. S asks how long she has until her next rebirth. She is looking older and older as fall sweeps past her place on the branch. Says, “time draws near” 
 

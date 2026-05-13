@@ -26,7 +26,7 @@ We think one of them is the girl, and talk about how they were one and the next 
 
 Blondie stares [[Branwen]] down and says you’re correct it is one of us…
 
-Branwen, which one?  Blondie asks, which one?  Blondie says you come here with this as a party, which one of us do you think it is and what is it that you’re looking for in this child?
+[[Branwen]], which one?  Blondie asks, which one?  Blondie says you come here with this as a party, which one of us do you think it is and what is it that you’re looking for in this child?
 
 Branwen says I think it’s you (Blondie), and Blondie says it’s not…
 
@@ -68,7 +68,7 @@ Farm is in a cove, mountains rising on all sides, streams flow out somehow. Deep
 
 We come down, [[Storr]] shows us the way around. 
 
-[[Henavek (man) & Beryan (woman)|Beryan]] comes out “Hello\, Storr told me all about you, it’s nice to make your acquaintance. Branwen tries to intimidate, but it doesn’t work. Brenyan smiles and shakes her head.
+[[Henavek (man) & Beryan (woman)|Beryan]] comes out “Hello\, [[Storr]] told me all about you, it’s nice to make your acquaintance. Branwen tries to intimidate, but it doesn’t work. Brenyan smiles and shakes her head.
 
 We ask Beryan for guidance.  
 
@@ -88,7 +88,7 @@ S: Do you know how lives there?
 
 [[Silas]] looks into her face and detects a family resemblance.
 
-ITS SILAS SISTER!!!  [[Seren]]!!
+ITS [[Silas]] SISTER!!!  [[Seren]]!!
 
 S: Can I hug you?
 

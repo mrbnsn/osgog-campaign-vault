@@ -97,7 +97,7 @@ Balz looks through. He has to rest his elbows on himself to keep it still. He ca
 
 (Are we looking at bees swarming around a lantern?)
 
-We want to look at our corresponding constellations with the telescope and see if we see any of the more detail like dimmer stars with them.
+We want to look at our corresponding [[Constellations]] with the telescope and see if we see any of the more detail like dimmer stars with them.
 
 We ask if they’ve heard of [[Geshwa]]. S has, the girl has not. Balz takes out the book and opens it, the crusty, musty smell of literature envelopes her.
 
@@ -111,7 +111,7 @@ No, but Gwen keeps bees (the old woman we met here)
 
 (Hopps mentions one of [[Cricket]]’s dreams: “And again you are lifted yet higher, and you see that the stars look down upon the earth, and each star is a figure with black wings and black cloak holding lanterns of various colors.  And each peers down.  And you fall back to sleep.”)
 
-[[Branwen]] talks to Ser and tries to impart about the bees and the stars, and a vision that the stars are lanterns held by figures, watching down upon us.  Branwen asks if they have any thoughts as to what the stars ARE.
+[[Branwen]] talks to Ser and tries to impart about the bees and the stars, and a vision that the stars are lanterns held by figures, watching down upon us.  [[Branwen]] asks if they have any thoughts as to what the stars ARE.
 
 Ser: I don’t know what the stars are!
 
@@ -131,7 +131,7 @@ Balz: If you wouldn’t mind, we’d love to shelter here. You’re welcome to u
 
 S: You’ll have to talk to Gwenynen.
 
-Branwen tells [[Silas]] that the raven haired girl knows a song he might be interested in. It’s the song that Silas knows from his folk, the women going down to the river.
+Branwen tells [[Silas]] that the raven haired girl knows a song he might be interested in. It’s the song that [[Silas]] knows from his folk, the women going down to the river.
 
 https://drive.google.com/file/d/1TA6-RfCIyNMSOzrfmhdeQ0hB0Y-7G4qP/view?usp=sharing
 

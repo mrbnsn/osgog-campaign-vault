@@ -29,7 +29,7 @@ What was our impression of the visitors? We got the sense that we were the prior
 
 We loot those bodies.
 
-Armor and weapons are all bronze. Fairly heavily armored, scale or plate. [[Branwen]]’s looking for armor. (Balz has studded leather and gives it to Branwen)
+Armor and weapons are all bronze. Fairly heavily armored, scale or plate. [[Branwen]]’s looking for armor. (Balz has studded leather and gives it to [[Branwen]])
 
 Woman has a torc around her neck made of three metals twisted together (like the ring we have)
 
@@ -78,7 +78,7 @@ Island birds. The story of Bargos. Raven is a sibling of Bargos. All these birds
 
 B did hear the owl speaking back, not a human voice, but didn’t hear what it said. 
 
-Silas’s experience. The children’s circle game. Silas was older when he joined the druidic circle. This game coils represent a ritual of sorts like children’s games sometimes do. 
+[[Silas]]’s experience. The children’s circle game. Silas was older when he joined the druidic circle. This game coils represent a ritual of sorts like children’s games sometimes do. 
 
 Over the course of the month, no more emissaries from SK arrived. 
 
@@ -86,9 +86,9 @@ K isn’t sure why, but he sees the blonde girl especially doing some work aroun
 
 Balz would like to sketch K’s tattoos before he departs.  
 
-Balz is looking for leads about potential new locations that might be a good spot for celestial observation or landmarks that S might know about that are mysterious that might be worth chiecking out. Probably not more than the map of [[Nyth]] we already have. Stuff close by, his world doesn’t extend much beyond the tower. You can go up the tower, and down into the valley to Storr’s farm. 
+Balz is looking for leads about potential new locations that might be a good spot for celestial observation or landmarks that S might know about that are mysterious that might be worth chiecking out. Probably not more than the map of [[Nyth]] we already have. Stuff close by, his world doesn’t extend much beyond the tower. You can go up the tower, and down into the valley to [[Storr]]’s farm. 
 
-Has he heard of anyone in [[Nyth]] that might have a map of someplace outside of Nyth, a treasured possession that they might not understand?
+Has he heard of anyone in [[Nyth]] that might have a map of someplace outside of [[Nyth]], a treasured possession that they might not understand?
 
 We need to determine what our next step is, and then we can unlock more about Balz interfacing with S. 
 

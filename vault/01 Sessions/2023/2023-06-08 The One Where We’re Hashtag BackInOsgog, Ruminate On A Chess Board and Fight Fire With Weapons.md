@@ -87,7 +87,7 @@ B thinks that B is the ivory knight, two gold pawns attacking him are forces of 
 
 Red crimson knight is the red blade?
 
-Charcoal rook and pawn is Cricket and Kevan.
+Charcoal rook and pawn is [[Cricket]] and Kevan.
 
 We talk about [[Krambler]]’s  dream
 

@@ -15,7 +15,7 @@ contributors:
 
 1. Plumbing the [[Myrthn]] Depths
       1. [[Silas]] Goes Full "O Captain, my Captain"
-Goal of the bear: Silas’ people, the groups we’ve been calling the druids, they sort of see the bear as this wise force elder, in kind of a embodiment of nature hero, the path that [[Silas]] is taking with his character, that the bear was this super ancient, wise, almost unknowable manifestation of the nature world and influences. The druids would worship the bear, would be asking the bear for insight, asking the bear to be more obviously present in the world around them, so they could learn from his example and follow in hius fpotsteps. Even if whatever has gone on with the bear, the bear is sleep, there was some sort of hurt done to the bear, the bear is in this healing process, but Silas would want to be… there’s a way in which he’s thinking he’s the disciple, he;s has to bring back the memory of hium, Silas sense of the people in [[Monsoth]] is that he’s tapped into something much older. This older tradition is lost and has been lost in all of them, and its something we have to bring back, to be more responsive and cognizant of hearing the bear, WWTBD. And its not necessarily obvious what the bear would do, not a well defined philosophy, hard for people to know. There a sense that the bear is mysterious, because his concerns are not strictly human concerns. 
+Goal of the bear: Silas’ people, the groups we’ve been calling the druids, they sort of see the bear as this wise force elder, in kind of a embodiment of nature hero, the path that [[Silas]] is taking with his character, that the bear was this super ancient, wise, almost unknowable manifestation of the nature world and influences. The druids would worship the bear, would be asking the bear for insight, asking the bear to be more obviously present in the world around them, so they could learn from his example and follow in hius fpotsteps. Even if whatever has gone on with the bear, the bear is sleep, there was some sort of hurt done to the bear, the bear is in this healing process, but [[Silas]] would want to be… there’s a way in which he’s thinking he’s the disciple, he;s has to bring back the memory of hium, Silas sense of the people in [[Monsoth]] is that he’s tapped into something much older. This older tradition is lost and has been lost in all of them, and its something we have to bring back, to be more responsive and cognizant of hearing the bear, WWTBD. And its not necessarily obvious what the bear would do, not a well defined philosophy, hard for people to know. There a sense that the bear is mysterious, because his concerns are not strictly human concerns. 
 
 Myrthin: in much the same way in what he’s communicating, not a 1:1 translation with my experience. As for a group, his response to that wouldn’t make a ton of sense. He wouldn’t acknowledge factions. He would just be like “I followed the bear with the people around me.” Get the sense its a loooong time ago. He’s probably been lone for an incomprehensible scratch of time. He’s been hanging out …There would be some confusion, he was probably someone who went off in earch of the bear, and from our perspective found it. He would say that we’ve come to the bear and he’s here so he has too, he might have taken some different path a long time ago, but because he says the bear is everywhere, he would say
 
@@ -42,7 +42,7 @@ awel means wind, or breeze
 ![[The harmonius pattern of strangely colored lobes carved into a stone at the base of the tree.png]]
 
       1. Cradle Talk
-Bran absently draws [[The Cradle]] in the dirt with a stick and tries to get Myrthn to look at it. We would hear him pointing to the center triangular patch in the middle and with a contented calmness would sing the same song we heard the animals outside the cave ([[Cricket]]’s lullabye)
+Bran absently draws [[The Cradle]] in the dirt with a stick and tries to get [[Myrthn]] to look at it. We would hear him pointing to the center triangular patch in the middle and with a contented calmness would sing the same song we heard the animals outside the cave ([[Cricket]]’s lullabye)
 
 Bran points a the purple and black (indicating her eyes and hair, questioningly. He starts singing another song, which nathaniel plays on the piano. Bran rolls memory: 9. She doesn’t have any recollection of that tune showing up anywhere.
 
@@ -50,7 +50,7 @@ We indicate the green lobe counterclockwise to the purple one, he continues sing
 
 Balz remembers [[The Cradle]] as having bad connotations to it like a pentagram.
 
-We talk about the cradle, and the game with the same name. The [[2024-10-10 The Yule One#Silas' "Yule Experience"|tower girls played this]]. 
+We talk about [[The Cradle]], and the game with the same name. The [[2024-10-10 The Yule One#Silas' "Yule Experience"|tower girls played this]]. 
 
       1. [[Bremphyr]] Corner
 He has offered to find us a path to the singing animals, but when he starts talking about location, it starts becoming confusing.
@@ -77,13 +77,13 @@ Balz approaches Myrthn, indicates his horns and asks, do you know what this is? 
       1. [[Storr]]'s Turn
 [[Storr]] lays out the compass and the hammer and indicates them to M. (roll perception: 5) Asking him what these are.
 
-Storr would see M look at them, but would no be able to understand him. She would the piano tune again, construction, something reminding us of the blacksmith, snippets of all three M songs. He has some knowledge of what they are, they’re not mysteriewas, but doesn’t have any specific knowledge of any of these things. 
+[[Storr]] would see M look at them, but would no be able to understand him. She would the piano tune again, construction, something reminding us of the blacksmith, snippets of all three M songs. He has some knowledge of what they are, they’re not mysteriewas, but doesn’t have any specific knowledge of any of these things. 
 
 Storr: Does he know how to set it, and how to set it to find B?
 
 M has a lot of ideas, but the answer would be no. We’d get the sense that this is not the kind of thing he uses, a man made mechanical object, like Tom B and the ring. He’s not carrying human constructions.
 
-Storr: Can he guide us to Bremphyr?
+Storr: Can he guide us to [[Bremphyr]]?
 
 He might indicate that he could get you away from here, but he doesn’t have much interest in going further than that. 
 

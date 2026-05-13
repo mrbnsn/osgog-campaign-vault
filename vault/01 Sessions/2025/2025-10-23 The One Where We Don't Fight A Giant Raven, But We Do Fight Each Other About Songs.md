@@ -19,7 +19,7 @@ Balz weaved the wind. Bran played the flute (referencing songs at creation)
 
 Ives loves the texture of things. [[Silas]]: When did it start? He’s not even very conscious of it. He’s always just sort of touching things and running his fingers through things. Not sure, always been tactile. They would all talk about the task at hand “I weave baskets, I weave cloth.” It’s not so much a science, but an art. 
 
-[[Silas]] hangs with Ives.  Ives spends a lot of time with the goats.  So does silas. 
+[[Silas]] hangs with Ives.  Ives spends a lot of time with the goats.  So does [[Silas]]. 
 
 “If you have no problems, get a goat”
 
@@ -49,13 +49,13 @@ We make our way to [[Raven Island]] by boat. Sheer rock walls coming straight ou
 
 We depart in the morning. Weather is partly cloudy, wind but no whitecaps.
 
-Storr has a climber’s kit. 
+[[Storr]] has a climber’s kit. 
 
 Silas and Arthen hang back and keep the boat running. Not too keen on encroaching on the space of a giant bird.
 
 [[Branwen]] and Storr pack their weapons and leave everything else. In short: it’s lady’s night (morning)
 
-Storr is top rope, but peels off and falls back into the water and takes some damage. Storr makes it the second time. Branwen falls as well, but not as far and takes not as much damage.
+Storr is top rope, but peels off and falls back into the water and takes some damage. Storr makes it the second time. [[Branwen]] falls as well, but not as far and takes not as much damage.
 
 Storr makes it up the next pitch, and so does Branwen. 
 

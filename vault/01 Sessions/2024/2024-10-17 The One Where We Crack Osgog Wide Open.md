@@ -28,7 +28,7 @@ Was the call to watch after the [[God of Death]] was slain?
 
 Gwen would say she wasn’t there for that, it happened a long time agp and can’t really remember what the order of things were. She’s heard many conflicting versions of this over teh years. 
 
-Osgog was a leader of the watchers?
+[[Osgog]] was a leader of the watchers?
 
 He more than others would have listened to his mother who would have been a chieftainess for Gwen.
 
@@ -78,7 +78,7 @@ G: They’re different traditions and may have came down differently. She’s no
 
 (Ryan steps away)
 
-Branwen successfully, after help from Balz, heals a shadow point of [[Storr]]'s. 
+[[Branwen]] successfully, after help from Balz, heals a shadow point of [[Storr]]'s. 
 
 Balz recalls what happened during his vision at the island:
 > You stand by the stone that you are to “play” and you do so, feeling your hand move against the rough surface of the standing stone, feeling it vibrate below your palm, when suddenly you are alone on a hilltop lit only by the lit of a waning crescent moon, and the fickle stars.  You look on the ground, and see a dark shape on the ground.  You reach out to pick it up with the other hand still resting on the standing stone, and find a crude doll, made of strange black cloth, that moves with an unseen wind, or the flowing of slow cool water.  You recognize it from somewhere, but you’re not able to place it.  You think you hear a voice or perhaps the wind whisper *mollothek*… and turn to see if someone behind you spoke, but as you turn, your right hand leaves the stone, and you find yourself back on the island.
@@ -86,7 +86,7 @@ Balz recalls what happened during his vision at the island:
 
 [[Storr]] asks Gwen if she knows about the tree/spring at the farm.  [[Beryan]] thinks she may be the girl and would make that sacrifice.  Gwen says: "That doesn't surprise her.  [[Henavek (man) & Beryan (woman)|Beryan]] has seen much of the cosmos in her travels. B is not one of the sisters.
 
-Storr’s exchange with Beryan:
+[[Storr]]’s exchange with Beryan:
 > 1.  After her dream she would have stealthily walked around the farm to see if she could actually find the tree and the spring.
 >
 > Yes, it's really there.
@@ -156,7 +156,7 @@ Gwen does not.
 
 Our world contains the black lake.
 
-She’s heard of the black lake as something that was used maybe to trap this Moon King ([[Gorgomog]]).
+She’s heard of the black lake as something that was used maybe to trap this [[Moon King]] ([[Gorgomog]]).
 
 She would not have heard of [[The Boatman]], she's heard of the black lake. Ok, you’ve got to come from somewhere. 
 
@@ -198,7 +198,7 @@ When the world was split apart, she doesn’t know where he ended up. He was the
 
 Do you want [[Mons]] or the [[God of Death]] to return?
 
-She has doubts as to the accuracy of that story. In terms of the return of Mons, (aside form the idea of a high king), the SK sure seems to be … nothing I’ve seen would tell me he’s Mons but he’s certainly trying to give that air. Ons was referenced as a King. I just hope SK stays away from us to do our own things. As far as Mons, I have strongly mixed feelings. As far as God of Death, we’re trying to prevent that catastrophe from happening again, cause that was a mess. 
+She has doubts as to the accuracy of that story. In terms of the return of [[Mons]], (aside form the idea of a high king), the SK sure seems to be … nothing I’ve seen would tell me he’s Mons but he’s certainly trying to give that air. Ons was referenced as a King. I just hope SK stays away from us to do our own things. As far as Mons, I have strongly mixed feelings. As far as [[God of Death]], we’re trying to prevent that catastrophe from happening again, cause that was a mess. 
 
 What is her true version of [[Mons and the God of Death]]?
 
@@ -208,7 +208,7 @@ Mons’ siblings, [[Ceridwen]] and [[Torval]], we don’t hear about them much. 
 
 She would say that they were string er than Mons for sure. And as such they never felt it was particular important to gather followers, etc. Who knows where they are? She hears of [[Ceridwen]] or another sister that isn’t identified that’s going around singing to things and giving names to things.
 
-Ceridwen, [[Doldhelan]], [[Morianoth]], it’s all the same.
+[[Ceridwen]], [[Doldhelan]], [[Morianoth]], it’s all the same.
 
 Maybe.
 
@@ -254,7 +254,7 @@ I don’t remember them seeing it, but I remember seeing them frolic.
 
 We were told of [[Bryok]] being a foundling, but it seems he has parents? Bremphy and [[Kerenja]]?
 
-In the breakup of everything, he was cast adrift without his parents, There was an understanding that he would return, and that she heard that he had. Osgog brought back the poem, but there was always an understanding that Bryok would return as well.
+In the breakup of everything, he was cast adrift without his parents, There was an understanding that he would return, and that she heard that he had. Osgog brought back the poem, but there was always an understanding that [[Bryok]] would return as well.
 
 We saw Bryok jump off a fountain and died.
 
@@ -284,7 +284,7 @@ Did Bryok hav any siblings?
 
 Not that she’s aware of
 
-Did Kevnis have any children
+Did [[Kevnis]] have any children
 
 Probably. There were guilds of weavers.
 

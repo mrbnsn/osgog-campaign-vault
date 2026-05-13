@@ -33,4 +33,4 @@ Volume of river water is dropping, but [[The Black Water]] volume has been consi
 
 Wondering if the beasts might actually be human. Whomever might be marking these people and reinventing them as this material. But the process of writing on the body would have the ability to transport over a distance. K’s tattoos have opened the way for him to be able to do some of the monk elemental control. Never seen it done, but he’s watching these creatures open the way of the four elements. K is perceiving this as potentially available to you.
 
-Cricket takes some charcoal out of the fire. But what should we do with it?  Let's eat it.
+[[Cricket]] takes some charcoal out of the fire. But what should we do with it?  Let's eat it.

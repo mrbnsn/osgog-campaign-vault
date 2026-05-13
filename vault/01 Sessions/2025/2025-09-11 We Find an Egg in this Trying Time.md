@@ -52,7 +52,7 @@ We journey back to the boat. We make slow progress. [[Silas]] finds a dry camp s
 
 We start out again in the morning, following the river. Its pouring rain. We come to the top of a waterfall from the north. We hear the falls and see the mist rising over the edge. WE walk up to the stable rocks at the top. 
 
-Balz goes to the bottom and sees that there are many boulders at the bottom, so Silas and Bran jumping over is probably not a great idea. We examine the pool, The boulders seems to have broken off the edge. The pool is clear but turbulent. Behind the waterfall is a natural amphiteater curve. Doens’t look like there’s a csve, there’s room to fit, but no hidden space. 
+Balz goes to the bottom and sees that there are many boulders at the bottom, so [[Silas]] and Bran jumping over is probably not a great idea. We examine the pool, The boulders seems to have broken off the edge. The pool is clear but turbulent. Behind the waterfall is a natural amphiteater curve. Doens’t look like there’s a csve, there’s room to fit, but no hidden space. 
 
 We make radiohead puns for like, a while.
 

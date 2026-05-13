@@ -18,9 +18,9 @@ contributors:
 
 [[Storr]] remembers “the dead losing their grip” in relation to circular landforms/stone circles/henges that we’ve seen in the past. In and around [[Monsoth]], these henges were typically met with a small amount of fright and misgivings.
 
-[[Branwen]]'s theory: Sometime ago, [[The God King|(See The God King)]] [[Mabmnoss|Morianoth]] transitioned from an Artemis, Goddess of the hunt, sort of figure to the Night Queen. Branwen thinks that [[Morianoth]] did *something* to combat an evil, and locked that evil away deep in the earth, where the dead are *somehow* employed in keeping this evil locked away.  In the process, Morianoth had to tap into the power of the dead, and *somehow* became the Night Queen, queen of death.  Lots of *somethings* and *somehows* in there, but us mere mortals can't really fathom this shit, right?  
+[[Branwen]]'s theory: Sometime ago, [[The God King|(See The God King)]] [[Mabmnoss|Morianoth]] transitioned from an Artemis, Goddess of the hunt, sort of figure to the Night Queen. [[Branwen]] thinks that [[Morianoth]] did *something* to combat an evil, and locked that evil away deep in the earth, where the dead are *somehow* employed in keeping this evil locked away.  In the process, [[Morianoth]] had to tap into the power of the dead, and *somehow* became the Night Queen, queen of death.  Lots of *somethings* and *somehows* in there, but us mere mortals can't really fathom this shit, right?  
 
-More thinking on this.  We know [[Gorgomog]] is the [[Moon King]], god of the dead, and we've heard that he's trapped beneath the lake.  The Bear isn't the [[Moon King]].  Perhaps the Moon King put a spell on the Bear to subdue the threats of the wild to mankind?
+More thinking on this.  We know [[Gorgomog]] is the [[Moon King]], god of the dead, and we've heard that he's trapped beneath the lake.  The Bear isn't the [[Moon King]].  Perhaps the [[Moon King]] put a spell on the Bear to subdue the threats of the wild to mankind?
 
    1. We Meet the Mysterious Druidic Stranger
 We wake. 
@@ -32,13 +32,13 @@ Can Koweth help? Not sure
 
 [[Storr]] can speak with animals to try and comprehend what he’s saying. She would be hearing him speak not nonsense. Her general idea is that he’s greeting the morning, talking about strangers, and a whole host of other things that she can’t grasp – he’s talking about a lot.
 
-Storr wants to approach and say good morning. He puts out a hand toward her to shush gently, and keeps going. Storr’s 5 perception roll equates to her feeling like he’s being condescending and she’s a little annoyed. She squeezes the hilt of her sword in place in frustration.
+[[Storr]] wants to approach and say good morning. He puts out a hand toward her to shush gently, and keeps going. Storr’s 5 perception roll equates to her feeling like he’s being condescending and she’s a little annoyed. She squeezes the hilt of her sword in place in frustration.
 
 K plays a note. He keeps going with what he’s doing, but looks over and says “good job” with his face.
 
 Arthen goes over after chatting with [[Silas]]. He gives A big eyes, and does a come here kind of thing. He continues talking while scratching Arthen and Arthen gets the dog foot thing going on. Sometimes it seems like he’s talking to Arthen in a baby voice. A is very quickly at ease. He may have slight of handed something in Arthen’s mouth that he was pleased to devour. 
 
-Silas approaches the stranger. The stranger motions for Silas to be quiet. The sun is now fully awake, and the stranger raises his face in rapture to the rays.
+[[Silas]] approaches the stranger. The stranger motions for Silas to be quiet. The sun is now fully awake, and the stranger raises his face in rapture to the rays.
 
 Silas asks if the sunrise is surprising.
 
@@ -75,7 +75,7 @@ We roll perception as a follow up to this question.
 
 - Storr’s background has a lot of animal worship. A bear would be a great warrior. The idea of a warrior spirit of the bear coming our as the MK, she wouldn’t see the death and destruction as evil. Could see the evil bear we fought as an MKish figure. What we’re talking about has plausibility in her interpretation.
 - Balz likes the idea, would be skeptical. He thinks back and says theres been this notion that this bear has been sleeping int he wilderness and been dangerous, can imagine people tlaking about both entities.
-- Silas is hopelessly confused and puts his hat on, until he rolls again with a fellowship point! Silas sees in the images he’s talking about and in this discussion: he suspects that a lot fo this is borrowed, but he is focused specifically on saying, I suspect that its the crescent moon that they’re both borrowing. And that yes, people could assign the crescent moon, this dangerous thing they’ve taken and put on the MK, but I think the crescent moon is stronger than man. They put the moon on the MK themselves. Silas suspects the bear is a powerful entity and more powerful than MK coming from man. The moon isn’t inherently bad, nor is the bear, but someone took both and tried to make this evil creation. When he hears “seaperate mind” and “pestulence” they’re trying to take the bear and turn it into something that it isn’t. The badness here is a persons imaginations. It’s the stories that people tell. Silas remembers somebody saying something about stories are powerful. The bear does not appear in the Mons cosmology. They don’t favor nature doing its thing, that’s “bear country”
+- Silas is hopelessly confused and puts his hat on, until he rolls again with a fellowship point! Silas sees in the images he’s talking about and in this discussion: he suspects that a lot fo this is borrowed, but he is focused specifically on saying, I suspect that its the crescent moon that they’re both borrowing. And that yes, people could assign the crescent moon, this dangerous thing they’ve taken and put on the MK, but I think the crescent moon is stronger than man. They put the moon on the MK themselves. Silas suspects the bear is a powerful entity and more powerful than MK coming from man. The moon isn’t inherently bad, nor is the bear, but someone took both and tried to make this evil creation. When he hears “seaperate mind” and “pestulence” they’re trying to take the bear and turn it into something that it isn’t. The badness here is a persons imaginations. It’s the stories that people tell. Silas remembers somebody saying something about stories are powerful. The bear does not appear in the [[Mons]] cosmology. They don’t favor nature doing its thing, that’s “bear country”
 - Branwen is just not sure. Thinking more about [[Mother Night]] and how she would come into this, and has a little bit of a hard time giving up power to these two male presences.
 
    1. The Stranger Engages

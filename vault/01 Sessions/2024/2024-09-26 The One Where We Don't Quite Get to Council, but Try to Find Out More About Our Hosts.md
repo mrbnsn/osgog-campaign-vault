@@ -104,7 +104,7 @@ Br: Did you build this tower or find it?
 
 G: I didn’t build it. You would have to ask Serethor. (she saw an ad in the paper for a caretaker.)
 
-Storr: When you brought the child home, did you write anything down?
+[[Storr]]: When you brought the child home, did you write anything down?
 
 G: Gotta talk to him.
 
@@ -142,14 +142,14 @@ RHG: shrugs, hums the song and walks away.
 
 B: You guys like [[Mons]] up in here?
 
-Gwen rolls her eyes.  Girl with glasses gets big eyes, looks around.  Blonde girl sighs impatiently.  The red-head looks annoyed and frustrated.  The RHG looks at Branwen squint eyed and returns to humming.
+Gwen rolls her eyes.  Girl with glasses gets big eyes, looks around.  Blonde girl sighs impatiently.  The red-head looks annoyed and frustrated.  The RHG looks at [[Branwen]] squint eyed and returns to humming.
 
 The girls tire of Branwen's 'god questions'.  We've entered the awkward family politics talk-zone.
 
    1. We play music and games with the girls
 [[Silas]] takes out his pan flute.  He's never realized he has a pan flute, but it turns out he's proficient in playing one, so he probably has one.
 
-Silas plays the song from his youth, that has been hummed by the raven haired girl.  
+[[Silas]] plays the song from his youth, that has been hummed by the raven haired girl.  
 
 The RavenHG stares at Silas, the Blonde and Red head turn to him.  The [[Glasses Girl]] comments on the weather in the valley.
 
@@ -235,4 +235,4 @@ DM:
    1. We would suspect as characters that we were sent to find a kid. We feel confident that we’ve made it to the place where the kid is.
    1. There are four kids in front of us. **We feel confident that one of them is the kid we’re looking for**. She only got one of them. 
    1. Gwen got the kid we were looking for and brought the kid here. We don’t know where the other three came from. We have a strong intuition that the four girls are “split from one”. All four of them are very different. Not four aspects of the same kid. One of them is the one we’re looking for. (that's an assumption that he would have that we would have…)
-   1. As a party, having a sense as characters, I think you’re all aligned, Silas and Br have different belief systems, but our underlying morality isn’t different. Bal and Storr are harder pin down. As a group, way back, the dynamics were a little different. Now though, we’ll probably want to move in the same direction. Who do we agree with? Who do we not? What do we need to know about where we’re heading next. (Fuck the sun king?)
+   1. As a party, having a sense as characters, I think you’re all aligned, Silas and Br have different belief systems, but our underlying morality isn’t different. Bal and Storr are harder pin down. As a group, way back, the dynamics were a little different. Now though, we’ll probably want to move in the same direction. Who do we agree with? Who do we not? What do we need to know about where we’re heading next. (Fuck the [[Sun King]]?)

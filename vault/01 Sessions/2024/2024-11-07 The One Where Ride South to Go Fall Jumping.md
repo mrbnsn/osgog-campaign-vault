@@ -22,7 +22,7 @@ Beryan: I’m convinced he’s a mortal man, but like me he has found his way in
 
 These are the [[Elder Lands]]?
 
-Yes, this is the elder lands
+Yes, this is the [[Elder Lands]]
 
 All paths lead here?
 
@@ -61,7 +61,7 @@ She says the forest in that area that is known for singing with sinister voices.
 
 Bal fails first check by 6. Event happens at the first hex. Hunter is target. 22.
 
-Storr gets lost. She comes upon some tracks of some deer and chases them too far up into the mountains, they are very fleet of foot. She gets a little lost but comes upon this beautiful spread of fall mushrooms. She’s able to bring back both the deer and the mushrooms, and we all eat a bountious feast and fatigue DC does not increase.
+[[Storr]] gets lost. She comes upon some tracks of some deer and chases them too far up into the mountains, they are very fleet of foot. She gets a little lost but comes upon this beautiful spread of fall mushrooms. She’s able to bring back both the deer and the mushrooms, and we all eat a bountious feast and fatigue DC does not increase.
 
 Bal rolls 8, we burn a fellowship point (6), and get a 18. Next event is three hexes away. We’re traveling up in a valley. K rolls a 22 percep. The voices K is hearing on the wind are starting to grate on the party, getting anxious. Any small sound raises frustration and anxiety. Fatigue saving throw increases by 1.
 
@@ -74,7 +74,7 @@ Koweth sees the man throw a FIREBOLT at K which hits and K goes down, hard. Like
    1. We fight
 WE FIGHT.
 
-- Silas takes too long, and realizes his AC is much lower now that he's wearing the helmet (monk's unarmored bonus and all that)
+- [[Silas]] takes too long, and realizes his AC is much lower now that he's wearing the helmet (monk's unarmored bonus and all that)
 - Kramb does some fire and wind shit which is impressive
 - Bald guy can seemingly teleport. He does a bunch of wizard shit.
 - Kramb goes down and starts making saves

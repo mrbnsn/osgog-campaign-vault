@@ -13,7 +13,7 @@ contributors:
   - "unknown"
 ---
 
-[[Storr]] approaches a female centaur to ask about Kleghein.  She directs [[Storr]] to Tal, their leader.  Storr gets on her knee and presents the sword to Tal.  
+[[Storr]] approaches a female centaur to ask about Kleghein.  She directs [[Storr]] to Tal, their leader.  [[Storr]] gets on her knee and presents the sword to Tal.  
 
 He holds it up, runs his hand over it several times (ice blade), turns to water, turns to wind, turns to fire.  Spins it around and hands it back.  "What is it you are looking to do?"  
 
@@ -69,7 +69,7 @@ Guide check passes, first event is three days out. Target: Storr. ›Storr is hu
 
    - Event 2**
 
-Another event 1 day out. Target: [[Silas]]. Silas and Arthen are trying to find ways to get down to the main stream over a pass and we get lodged in some pretty sig snow and get suck out that night, and the party comes out looking for them and cant find them. A storm comes in, they retreat into a hollow. In the morning, S & A come rolling into to camp covered in snow did manage snuggle in a lee side of a cave? +2 fatigue saving throw, no shadow points
+Another event 1 day out. Target: [[Silas]]. [[Silas]] and Arthen are trying to find ways to get down to the main stream over a pass and we get lodged in some pretty sig snow and get suck out that night, and the party comes out looking for them and cant find them. A storm comes in, they retreat into a hollow. In the morning, S & A come rolling into to camp covered in snow did manage snuggle in a lee side of a cave? +2 fatigue saving throw, no shadow points
 
 Bal gets us to our destination. We make it to the lake shore and find a decent camping spot. 
 
@@ -77,13 +77,13 @@ Silas takes 2 levels of exhaustion (speed halved)
 
 We’re at the shore of the Lake of Voices, Swirling mass of mist and fog starts a couple 100 yards offshore. We have no boat.
 
-Before we left, Musk gave us a small sketch book that belonged to his brother. He wasn’t sure why, but at the time he felt it was important. He wants us to give it to his niece, because he feels it was a mistake to take it. It’s a bunch of sketchwork of his planned woodcarvings. some  images are of a shell (in texts)
+Before we left, [[Musk]] gave us a small sketch book that belonged to his brother. He wasn’t sure why, but at the time he felt it was important. He wants us to give it to his niece, because he feels it was a mistake to take it. It’s a bunch of sketchwork of his planned woodcarvings. some  images are of a shell (in texts)
 
 We short rest. We discuss our next steps. While we do, a small sailing ship comes out of the mist on the lake and pulls up to the edge of the lake off to the stream to the north (south). They start offloading goods. We notice now that there’s a sort of portage trail on the other side of the river. We also notice that there is a barge waiting further up river.
 
 Storr looks through the spyglass. There’s merchant vessel, a bunch of goods. They seem to keep glancing uncomfortably at someone who’s up on the quarterdeck in the back.
 
-Branwen hails them (rather successfully) There’s communication. We want to get a ride. They send a row boat over to talk to us on the shore. Storr can identify nthat the one they were looking to does come over in the boat.
+[[Branwen]] hails them (rather successfully) There’s communication. We want to get a ride. They send a row boat over to talk to us on the shore. Storr can identify nthat the one they were looking to does come over in the boat.
 
 Branwen continues the convo witht he person. It becomes clear (and storr could indicate) that this guy is leading the discussion and he seems by very persuaded by B and says “Yeah, absolutely.”
 

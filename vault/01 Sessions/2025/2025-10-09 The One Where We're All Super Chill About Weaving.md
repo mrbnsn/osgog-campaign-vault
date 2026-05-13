@@ -23,7 +23,7 @@ Balz asks Canstal if we can hang out a bit.  He says it's cool.
 
 [[Branwen]] sits and reaches for spare rushes, and tentatively asks if she could help out.
 
-A man and a woman offer to show her some pointers.  Branwen starts weaving, rolls a 5, and gets some condescending "youll get there honey" comments, but Branwen fiercely perseveres.
+A man and a woman offer to show her some pointers.  [[Branwen]] starts weaving, rolls a 5, and gets some condescending "youll get there honey" comments, but Branwen fiercely perseveres.
 
 [[Storr]] walks over to some huts.  She is looking for a reverence for bees, like the bear village.  Is the a "Bee village"?  They seem like bees in hives, nothing extraordinary.
 
@@ -37,7 +37,7 @@ Balz stands apart from the group and wants to hum to the wind.  (rolls old lore 
 
 [some discussion about [[The Cradle]] - the 3 lobed symbol we keep seeing.  [[Silas]] recalls "playing cradle". A bit of a manuever of a game.  The girls also played this at the tower.
 
-Bran asks what the cradle symbol means to her.  She doesn't know the full meaning but it brings her peace.  THat spot is more meditative than other, feel connected to the ground air and ocean.  Connected to the natural world.  To get away from people.
+Bran asks what [[The Cradle]] symbol means to her.  She doesn't know the full meaning but it brings her peace.  THat spot is more meditative than other, feel connected to the ground air and ocean.  Connected to the natural world.  To get away from people.
 
 Balz posits this place is connected to the sea, given the manta ray constellation.
 
@@ -47,7 +47,7 @@ S: Do you have any children here?  Response, there are younger folks here.  No b
 
 Balz: is there a name for the manta ray constellation.  Reply: yes, hold on….The Great Ray. Moredhen.  More-Evan. 
 
-Storr asks about the story of [[Gwedhen]].  Response, not really.  Sounds like a familiar fairy tale. 
+[[Storr]] asks about the story of [[Gwedhen]].  Response, not really.  Sounds like a familiar fairy tale. 
 
 Brawn asks the name of the port city, no one knows this city - unfamiliar.
 
@@ -63,7 +63,7 @@ Bran likes this line of thought - the voices, capturing the wind.  ANotes that h
 
 Kanstal says "we should talk at elevensies."
 
-[[Silas]] finds the most awkward member of the weaving circle.  A dark haired boy, humming to himself.  Darting eyes.  Big eyed stare when Silas and Bear sit down. 
+[[Silas]] finds the most awkward member of the weaving circle.  A dark haired boy, humming to himself.  Darting eyes.  Big eyed stare when [[Silas]] and Bear sit down. 
 
 S: "It's rough out there, huh?" (Persuasion 2)
 

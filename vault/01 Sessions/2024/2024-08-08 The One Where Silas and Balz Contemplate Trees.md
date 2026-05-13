@@ -22,7 +22,7 @@ The island itself may be turning, so the tree may be the source powering the sea
 
 [[Branwen]] asks if the the stone at the base of the tree was an "altar stone", a sacrificial altar, but doesn't get that sense. It's more of a place to sit and think. We don't hear anything in terms of voices ("sounds on the wind.") The voices are silent now that we're here.
 
-Branwen sits on the stone. As she does, there's a slight breeze. We hear the bees. She sees the flat inner sides of the stones facing her.
+[[Branwen]] sits on the stone. As she does, there's a slight breeze. We hear the bees. She sees the flat inner sides of the stones facing her.
 
 [[Silas]] looks at the tree bark, looking for marks like in the stones. The tree bark is rough; there are no man made marks. Nothing that aligns with the stone grooves. 
 
@@ -38,7 +38,7 @@ The cluster of stones on the water's edge is there naturally, not hewn.
 > As large as the tree is, I can feel the roots delving very deep. Get the sense that this tree is the tip of a larger tree that goes deep beyond knowing. Almost hear a gnawing, can sense a lot of activity that I'm not aware or privy to. Can feel the presence of a female energy as being positive and supportive and nurturing. No bearish indications at this time. The gnawing seems natural (squirrels, etc) and not nefarious. Tree is alive and not static. Feel myself quickly pulled into the larger scope. The bees close at hand, the apples, the seasonal movement.
 Other trees we've seen: 1. the grove in [[Monsoth]] (all different species) 2. Stone turtle grove (all beech) 3. The tree at the monastery ([[Derwen Trees|derwen]], which we planted) 4. The dream tree (which we never recognized the species of)
 
-Are apples trees sacred? [[Mannix]] confirms that the apple tree was one of the 12 in Monsoth.
+Are apples trees sacred? [[Mannix]] confirms that the apple tree was one of the 12 in [[Monsoth]].
 
 Are there powerful versions like this one of each of the twelve species out there? The beech was a grove, not a single tree. Balz theory: each tree may represent a deity or god.
 
@@ -46,7 +46,7 @@ A review of the [[Derwen Trees|derwen]]:
 
 - We were given a sapling that we planted at the temple
 - [[Dama]] identified it for us
-- At the north end of [[Raven Island]] (where we met Mogg) there was a derwen grove
+- At the north end of [[Raven Island]] (where we met Mogg) there was a [[Derwen Trees|derwen]] grove
 - At the center of that grove was the pool that [[Mannix]] almost drowned in
 - Lavender flowers were blooming around the pool
 - This pool was more of a spring, a curated pool. There was water there already, someone adjusted it to make it more accessible
@@ -71,9 +71,9 @@ Things we recall:
 
 - Balz recalls now (memory, 24) that the temple where [[The Abbot]] was laid in [[Trenewydh]] was circular and had 12 columns. The floor was blue marble and resembled a well.
 
-- Mannix's grave had 12 stones, not flattened, but deliberately placed.
+- [[Mannix]]'s grave had 12 stones, not flattened, but deliberately placed.
 
-- Silas's folk's henges also had 12 stones, a ditch on the inside, a wall of earth on the outside.
+- [[Silas]]'s folk's henges also had 12 stones, a ditch on the inside, a wall of earth on the outside.
 
 Theory: Is there a god to tree mapping? Is there a tree in the land of the dead? The [[Sun King]] wants to destroy death. Would that mean taking down death's tree?
 

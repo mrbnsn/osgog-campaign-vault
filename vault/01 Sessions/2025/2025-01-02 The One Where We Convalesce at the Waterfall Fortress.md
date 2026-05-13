@@ -82,7 +82,7 @@ They’re waiting for us to tell them our story.
 
 We decide to keep it simple, and say we are travelers and not from [[Nyth]] and are trying to get back home.
 
-Not from Nyth? How did you get here? (Professional pushback, because we got in and they’re watching the river.)
+Not from [[Nyth]]? How did you get here? (Professional pushback, because we got in and they’re watching the river.)
 
 We tell a tale, a hybrid of our story and [[Musk]]'s story.  They see that we are banged up, take some pity on us.   Ya'll look like you could use some rest.  We'd like to help you out.  Come on into the guard house, get cleaned up, have something to eat, we'll get you some bunks.  
 
@@ -101,7 +101,7 @@ We decide to go see the lord and lady.
 
 The guard master says it’s been a longtime since we’ve hosted anyone outside of Nyth. She says, “We’ve heard that there are forces around. After a long time of not having incursions, we have to be on guard more so than in the past. How did you get here? Do you know how the SK arrived?”
 
-Storr: We come from Norglass, which is unfamiliar to anyone here, just as we are unfamiliar with Nyth. We’re trying to avoid the SK minions.
+[[Storr]]: We come from Norglass, which is unfamiliar to anyone here, just as we are unfamiliar with Nyth. We’re trying to avoid the SK minions.
 
 How do you get from there to here?
 
@@ -133,10 +133,10 @@ K is in good shape.
 
 You can stay for a few days, but on condition that we will go and sit down and speak with them. Is anyone willing to take on a task? K is willing, and has experience hammering and making shit. She sends K over to some artisan shops.
 
-   1. Krambler Helps the Fortress Artisans
+   1. [[Krambler]] Helps the Fortress Artisans
 Someone is building wooden boxes with strings with bridges. Someone else is building trumpet looking things with animal heads at the end. Ask if he’s willing to help. K rolls 2 d20s (26). This is his insight into what they were working on. He spends the day, they’re building instruments it would seem. These folks are masterful in terms of their craft. They are humming quietly to themselves, what they’re doing is imbuing the instruments with some sort of power.
 
-Our first full day in Taymar is complete.
+Our first full day in [[Taymar]] is complete.
 
 What do we do for the next couple of days? Others lay around for a couple days shedding exhaustion while krambler continues his shopping.
 
@@ -185,7 +185,7 @@ Sidebar: we don’t know why these connections exist. They seem to have more inf
 
 We mention Gorg and Gwen, and [[Mother Night]]. They perk up at this. They ask if our travels have anything to do with those figures. K notices then that as they talk about the three of them, they’;re looking a little more intently at [[Branwen]] (Balz is being ignored for now.) They’re trying to see if we have any alignment with the names we just mentioned. And if our travel is connected.
 
-Branwen expresses her unapologetic patronage to MN. The rest of us distance ourselves from this idea, with Silas saying that he holds no opposition to Branwen's alignment, but for himself he feels he may be more in tune with the ideals of Gwenethen.
+[[Branwen]] expresses her unapologetic patronage to MN. The rest of us distance ourselves from this idea, with [[Silas]] saying that he holds no opposition to Branwen's alignment, but for himself he feels he may be more in tune with the ideals of Gwenethen.
 
 Black Willum leans forward, smirking (see above), and asks “Do you fear the dead?”
 

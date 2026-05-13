@@ -37,11 +37,11 @@ Our typical journey roles:
 
 Guide: Balz (Travel) - in charge
 
-Lookout: Krambler (Perception) - keeping watch
+Lookout: [[Krambler]] (Perception) - keeping watch
 
-Scout: Silas (Exploration) - finding new trails and camping spots
+Scout: [[Silas]] (Exploration) - finding new trails and camping spots
 
-Hunter: Storr (Hunting) - finding food
+Hunter: [[Storr]] (Hunting) - finding food
 
 Supervisor: [[Branwen]] (Riddle) - avoiding responsibility
 
@@ -83,7 +83,7 @@ We sail back to the shore and try to bring the boat back to our longship. Probab
    1. We're Off Again
 We get back to the boat. Night falls. Silas shows up with his staff, and [[Branwen]] gets in later.
 
-We journey back to the boat. Branwen takes a few falls.  
+We journey back to the boat. [[Branwen]] takes a few falls.  
 
 We journey away from the island.
 

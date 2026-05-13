@@ -39,7 +39,7 @@ Using his new-found ability, [[Cricket]] decodes the letters written around the 
 > *...casting a silver-laced pattern of light and dark over the planes of my body...*
 After some discussion we try to swirl the water with [[Party Items|Gale]] (light and dark, sun and moon, bronze and iron, which Gale is made of)
 
-We see [[Party Items|a feather]] in the water. Cricket picks it up. It appears to made out of metal - silver and gold. It’s a quill pen. Koweth identifies the feather as one made to look like a bird.
+We see [[Party Items|a feather]] in the water. [[Cricket]] picks it up. It appears to made out of metal - silver and gold. It’s a quill pen. Koweth identifies the feather as one made to look like a bird.
 
 B writes something down. Nothing happens. 
 
@@ -57,7 +57,7 @@ In the morning, [[Storr]] asks Carrantock about bear riding (he doesn't get much
 
 We decide to head up river on the eastern shore. Some of us fall in the river while others pull us up through the water. 
 
-We go up the river and come to a “[[Mysterious Places (and Some Less Mysterious)|stone]] trilithon”. There’s a paw sticking out around the stone. It’s a badger; it approaches us. Storr throws dried moose meat. He loves it. He sits on his haunches and snacks, looking at us. 
+We go up the river and come to a “[[Mysterious Places (and Some Less Mysterious)|stone]] trilithon”. There’s a paw sticking out around the stone. It’s a badger; it approaches us. [[Storr]] throws dried moose meat. He loves it. He sits on his haunches and snacks, looking at us. 
 
 [[Silas]] speaks with the badger, and the badger speaks:
 
@@ -68,4 +68,4 @@ He doesn’t offer much else information, but looks impatient and wants us to fo
 
 We come to an overlook and see a [[Mysterious Places (and Some Less Mysterious)#The Waterfall City|city sitting at the crest of a waterfall]]. [[The Black Water]] seems to be emanating from one of the structures. There are bridges connecting various structures together. It’s not deserted; we see activity: movement, boats, etc. There’s a small culvert in the western side of the main structure. On the eastern side of this structure by the bridge is a quay where boats can disembark. There’s a small tower on the eastern side with a dock. Above the city is an island connected by a bridge.
 
-We decide to keep following [[Mochyn]] (Silas can no longer speak with him.) He brings us down to the eastern bank of the river across from the tower dock. We can see activity further up the shore.
+We decide to keep following [[Mochyn]] ([[Silas]] can no longer speak with him.) He brings us down to the eastern bank of the river across from the tower dock. We can see activity further up the shore.

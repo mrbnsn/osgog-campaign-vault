@@ -20,7 +20,7 @@ It seemed to [[Silas]] that he had gone underground in his bear vision, but ther
 
 Balz posits that the moon could represent both the dark and the light.
 
-[[Storr]], perhaps there’s a connection between the moon king and the bear in that they depend on eachother, a yin and yang. 
+[[Storr]], perhaps there’s a connection between the [[Moon King]] and the bear in that they depend on eachother, a yin and yang. 
 
 Balz: Could be a poetic device to link the two.
 
@@ -42,7 +42,7 @@ Was [[Glasses Girl]] supposed to be the next sacrifice?
 
 We rehash more lore for forlorn Thor on the fourth floor. Nathaniel says that this isn’t necessarily a waste of our time mentioning these connections, since we have new information.
 
-On the subject of [[Bremphyr]]. Bran reviews the lineage of Brem. [[Storr]] mentions that Brem created gale and infused the wind. Did Bremphyr teach the weavers how to do the same? Kevnys may have, but we never asked them.
+On the subject of [[Bremphyr]]. Bran reviews the lineage of Brem. [[Storr]] mentions that Brem created gale and infused the wind. Did [[Bremphyr]] teach the weavers how to do the same? Kevnys may have, but we never asked them.
 
 If we have [[Seren]]-fast-travel, perhaps we can go back to the bee hive/basket islands. 
 
@@ -50,14 +50,14 @@ Next steps:
 
 - Play the new song for the bear?
 
-Bran: Maybe we need to find Brem and tell him the black water is trouble, people are stealing its power, help us close it up. Black water is an evil leaking from Moon King’s prison. Someone from outside could have cracked the prison open. The Black water could be his power leaking from the prison. The entire lake is black water, but notably [[The Boatman]]’s boat did not get annihilated. 
+Bran: Maybe we need to find Brem and tell him [[The Black Water]] is trouble, people are stealing its power, help us close it up. Black water is an evil leaking from Moon King’s prison. Someone from outside could have cracked the prison open. The Black water could be his power leaking from the prison. The entire lake is black water, but notably [[The Boatman]]’s boat did not get annihilated. 
 
    1. What are YOU Doing Here?
 ![[What are YOU doing here.jpg]]
 
 Could each of us describe what the party’s overall purpose is at this point in light of this conversation?
 
-Storr: We are searching for the cause of the black water leaking into the world and a solution as to how to stop it from destroying that which it comes into contact with.
+[[Storr]]: We are searching for the cause of the black water leaking into the world and a solution as to how to stop it from destroying that which it comes into contact with.
 
 Bran: Your task is no more than to bring the tangled garden to bloom. ~[[Mother Night]] to [[Branwen]]
 
@@ -65,7 +65,7 @@ All things are circles, and balance is paramount. The banishing of death, the su
 
 Balz: By means of three smaller quests proffered by [[The Oracle]], our party’s larger goal is to find and stem the source of the Black Water in order to right Ancient Wrongs against the Balance of the World (i.e. [[Mons]], et al, corrupting Man’s relationship with Nature by ceasing to work in accordance with Nature and choosing instead to wrest Nature to the Will of Man). More personally, Balz hopes to learn of his own true nature and destiny, if any, and where best he might apply himself to aid in the grander pursuit.
 
-Silas: The party has been drawn into goingson that speak to the history and mythology of men. The black water seems to be a real element of this mythology, and is causing corruption across this and potentially other realms. Having found its source, we're now to determine why it's leaking into the world and discover a way to keep it from doing more damage, including by those who may seek to use its power.  
+[[Silas]]: The party has been drawn into goingson that speak to the history and mythology of men. The black water seems to be a real element of this mythology, and is causing corruption across this and potentially other realms. Having found its source, we're now to determine why it's leaking into the world and discover a way to keep it from doing more damage, including by those who may seek to use its power.  
 
    1. ???
 sWe roll for our questions.
@@ -83,7 +83,7 @@ Storr (7/5)
 Balz (15/27):
 
 - Q: (missed it)
-- A: The [[Sun King]] is probably not worldly enough to know much about the black water. The Sun King and his operation feels powerful, but of the present time; not organized or powerful enough to be responsible for the Bear’s slumber. B suspects that the Bear is asleep at the behest of the Singers we encountered. B believes the Moon King could be responsible, and thinks it would be more likely than the Sun King to due his mythological figure. The messages seem to have been coming from either Seren or the Tree, not the Bear. Due to B’s perspective on life in general, he is likely to believe that the Moon King is not responsible for the Bear’s predicament, because B is defiant of the Moon King and death in general.
+- A: The [[Sun King]] is probably not worldly enough to know much about the black water. The [[Sun King]] and his operation feels powerful, but of the present time; not organized or powerful enough to be responsible for the Bear’s slumber. B suspects that the Bear is asleep at the behest of the Singers we encountered. B believes the Moon King could be responsible, and thinks it would be more likely than the Sun King to due his mythological figure. The messages seem to have been coming from either [[Seren]] or the Tree, not the Bear. Due to B’s perspective on life in general, he is likely to believe that the Moon King is not responsible for the Bear’s predicament, because B is defiant of the Moon King and death in general.
 
 Silas (8/21): 
 
@@ -91,13 +91,13 @@ Silas (8/21):
 - A: Silas would figure if he thinks that he’s not meant to wake the bear, that would have been his first inclination. Saying I think i’m not going to do that, he would see that Seren has been opening ways, pathways through some metaphysical forest that we’ve been traversing and perhaps that she’s gotten the bear to rollover with a scent on the wind and Silas would suspect that if the bear is under that mound with these creatures singing to it, while the bear may be staying there that doesn't mean knowledge of him should remain trapped, and especially looking around at others in the party that haven’t considered this being to exist at all, that no, this is an important aspect of this balance. You all won’t restore it without being. The wisdom and the goal of the bear needs to be out in the world.
 
    1. Discussion with Merlin... [[Myrthn]]. [[Myrthn]].
-Storr asks Myrthn his question. “Great [[Merthyn]]!” She asks “How do we restore the bear?”
+Storr asks [[Myrthn]] his question. “Great [[Merthyn]]!” She asks “How do we restore the bear?”
 
 We catch in his spill of words in human and animal languages, we hear him talk about a fiery fierceness, about an endless slumber, about individual responsibility, and about individuals coming together as a whole to complete a task. 
 
 Silas notes that "restoring" the bear may not mean awakening it, just that the wisdom and power of the bear be restored to the world. Silas calls the bear a “he” which from what we’ve heard is accurate.
 
-Is the Moon King a female? No, they are the other half of the [[Mother Night]] dichotomy: they are a hetero couple. [[Mabmnoss|Morianoth]] and gorgomogg are Mother Night and the Moon King. In the town where Balz was crowned for the harvest, their interpretation was… mhopps@gmail.com
+Is the Moon King a female? No, they are the other half of the [[Mother Night]] dichotomy: they are a hetero couple. [[Mabmnoss|Morianoth]] and gorgomogg are [[Mother Night]] and the Moon King. In the town where Balz was crowned for the harvest, their interpretation was… mhopps@gmail.com
 
 Balz at this point doesn’t assign good or evil to a god based on appearance or rumor. Anything’s game.
 
@@ -111,7 +111,7 @@ Balz: The moon only has two faces because of the sun. Greek mythology corner: Ma
 
 Bran: [[Morianoth]] wasn’t seeking power, but only attained it from encountering the sisters (the titans) 
 
-“All women are Morianoth” discussion. Parts of [[Geshwa]] and [[Weyland]] are read in relation to M being left in the snow. Morigan from Celtic mythology, a three faced entity, a triple goddess. 
+“All women are [[Morianoth]]” discussion. Parts of [[Geshwa]] and [[Weyland]] are read in relation to M being left in the snow. Morigan from Celtic mythology, a three faced entity, a triple goddess. 
 
 To M: Why are we small.
 
@@ -139,6 +139,6 @@ M: The same sort of sounds. (Bran perception roll: 24) Pretty sure he was saying
 
 Bran: The bear is under a nefarious influence, but the singers are trying to heal him with a song and trying to keep the bear going despite the dark influence. The bear is in trouble and the singers are on the side of the bear trying to keep it alive. “Ax” brings up the image of a tree. Someone attacking the tree speaks to [[Gwedhen]]. The old battle of trying to take out nature. “Death” and “pestilence” speak to the moon king’s involvement. (more spitballing: maybe the wife and husband are different sides of death: pestilence, plague, etc.)
 
-Next time: Merthyn is in front of us. Further questions, conversations? If we want to get out of here, he has the potential to get us out of here. What do we want next week to look like. Anything we want to discuss before leaving.
+Next time: [[Merthyn]] is in front of us. Further questions, conversations? If we want to get out of here, he has the potential to get us out of here. What do we want next week to look like. Anything we want to discuss before leaving.
 
 Nathaniel: Use the text chain as a vetting mechanism for discussion. If something requires a roll, we can pull that out and start with those questions next week.

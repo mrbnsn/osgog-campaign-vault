@@ -40,7 +40,7 @@ Does water connect the different places?
 
 Water connects many things.
 
-Storr: How long have we been gone?
+[[Storr]]: How long have we been gone?
 
 Not long as far as I’m concerned. (He’s very old, so really 🎵 time has no meaning🎵)
 
@@ -92,7 +92,7 @@ There are many stories.
 
 Which one do you give credence to?
 
-The boatman talks about stories and how they influence people’s opinions and beliefs, but also how the stories influence those in the stories themselves. “And so I wonder whatever is beneath that lake, perhaps some call it GG enough so that what it is. Others call it a nameless evil. I’m not sure the name of it affects its nature, but the way it’s spoken about does.”
+[[The Boatman]] talks about stories and how they influence people’s opinions and beliefs, but also how the stories influence those in the stories themselves. “And so I wonder whatever is beneath that lake, perhaps some call it GG enough so that what it is. Others call it a nameless evil. I’m not sure the name of it affects its nature, but the way it’s spoken about does.”
 
 We share [[Osgog]] and the dragon.
 
@@ -116,7 +116,7 @@ It’s a long term lend.
 
 Balz: Did the people name the dragon after the constellation or vice versa?
 
-I’ve always understood the constellation to be an image of osgog’s creation.
+I’ve always understood the constellation to be an image of [[Osgog]]’s creation.
 
 Balz: Watcher in the tower. Was that simply a watchtower or did it serve another function?
 
@@ -146,7 +146,7 @@ Balz: You had mentioned that Osgog had looked took closely at the darkness at th
 
 It would be at that tower.
 
-Silas: You’ve told us the bear is one of the twins. I’ve come to understand that I am entwined with the great bear in more ways than i understand. If there was some particular action for me to take to awaken this bear, what might that be in your estimation?
+[[Silas]]: You’ve told us the bear is one of the twins. I’ve come to understand that I am entwined with the great bear in more ways than i understand. If there was some particular action for me to take to awaken this bear, what might that be in your estimation?
 
 - I think you would have to find him, first. 
 

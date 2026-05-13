@@ -47,19 +47,19 @@ Every note has exactly one `type:` field. The matching tag is always present.
 | `osgog-dragon` | The [[Osgog]] myth: Mons' son the Betrayer, the dragon he created, the Black Lake as origin point | [[Osgog and the Dragon]], [[Osgog]], [[Religions]], [[The Black Lake of Osgog]] |
 | `gorg-gwen` | [[Gorgomog]] and [[Gwanethen]] — the original divine couple; the harvest-village tradition; their children and mythology | [[The God King]], [[Gorgomog]], [[Religions]], [[Ceridwen]] |
 | `mother-night` | [[Mabmnoss]] / [[Morianoth]] / The Raven Queen / [[Mother Night]] — all confirmed names for the same entity; the night/death divine principle; exiled mother | [[Mabmnoss]], [[Mother Night]], [[Religions]] |
-| `harvest-king` | The harvest king mythology and ritual — Gorgomog as original harvest king; the living ceremony including Balz's crowning | [[The God King]], [[The One Where Balz Gets Crowned the Harvest King]], [[Religions]] |
+| `harvest-king` | The harvest king mythology and ritual — [[Gorgomog]] as original harvest king; the living ceremony including Balz's crowning | [[The God King]], [[The One Where Balz Gets Crowned the Harvest King]], [[Religions]] |
 
 ### Key Figures & Forces
 
 | Tag | Meaning | Key notes |
 |---|---|---|
 | `boatman` | [[The Boatman]] and liminal guidance — crossing between places and choices | [[The Boatman]], [[The Mornaswydh]], [[Overview]] |
-| `mornaswydh` | The wayfinder device given by the Boatman; the Phase 3 island journeys | [[The Mornaswydh]], [[Party Items]] |
+| `mornaswydh` | The wayfinder device given by [[The Boatman]]; the Phase 3 island journeys | [[The Mornaswydh]], [[Party Items]] |
 | `three-women` | The Crone/Stone, Woman/Sea, Child/Storm triad — the cosmic women who appeared at the spring, seen differently by each character; also covers their island appearances as the enchantresses | [[Crone, Woman, Child Stone, Sea, and Storm]], [[Circles, Sacred Groves, and Wells]], [[Branwen's Branches]] |
 | `sisterhood` | **Distinct from `three-women`.** [[Kelynnen]], Gwen (at [[Twrseren]]), and [[Seren]] — a specific group of earthly women listed as their own faction in the Traditions table; their connection is an ongoing mystery | [[Twrseren]], [[Kelynnen]], [[Seren]], [[Traditions we know about and how they might interpret various stories, poems, etc..|Traditions]] |
 | `raven` | Ravens as [[Mabmnoss]]'s symbol; the Raven Queen's presence; [[Branwen]]'s warlock connection to her; raven imagery | [[Mabmnoss]], [[Mother Night]], [[Branwen]], [[Raven Island]] |
 | `bear-born` | The bear-born tradition broadly — the bear villages, the Great Bear mythology, [[Silas]]'s identity as Arthyden | [[Bears]], [[Silas]], [[Tawesek]], [[The Story So Far (Boyz Bop 2022 to The Abbott's Hut)]] |
-| `arthyden` | Specifically Silas's bear wild-shape form and the name the village elders gave him; his bear-self as a distinct entity | [[Silas]], [[Bears]], [[Silas' Conspiracy Corner]] |
+| `arthyden` | Specifically [[Silas]]'s bear wild-shape form and the name the village elders gave him; his bear-self as a distinct entity | [[Silas]], [[Bears]], [[Silas' Conspiracy Corner]] |
 | `horned` | [[Balthazar]]'s horns (result of experimentation); horned entities and imagery | [[Balthazar]] |
 
 ### Sacred Landscape & Symbols
