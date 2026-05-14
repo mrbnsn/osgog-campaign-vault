@@ -6,41 +6,17 @@ tags:
   - "npc"
 aliases:
   - "Prydyh"
-last_edited: 2026-05-11
-wiki_rev: "2026-05-11T17:29:39Z"
+last_edited: 2026-05-13
+wiki_rev: "2026-05-13T19:16:29Z"
 contributors:
-  - "Hoppsy"
+  - "Nblauss"
 ---
 
-Prydyh is the name of the man in the statue at Poet's Rest. 
+Prydyh is the name of the man in the statue at [[The Poet's Rest]]. 
 
-He wrote this poem on his statue.> *Perhaps at the beginning*
->
-> - time and the visible,*
->
-> - Twin makers of distance*
->
-> - Arrived together*
->
-> - drunk*
->
-> - Battering on the door*
->
-> - just before dawn.*
->
-> - The first light sobered them,*
->
-> - And examining the day,*
->
-> - They spoke*
->
-> - of the far, the past, the invisible.*
->
-> - They spoke of the horizons*
->
-> - surrounding everything*
->
-> - Which had not yet disappeared.*He’s a famous poet and he left on a mission long ago to go keep watch over some thing he was called too, I’m not sure.
+He wrote [[Prydydh Poem|this poem]] on his statue.
+
+He’s a famous poet and he left on a mission long ago to go keep watch over some thing he was called too, I’m not sure.
 
 (Poet's Rest) Balz remembers suddenly, a passage from the tower:> *Deeper still into geologic gold*
 >

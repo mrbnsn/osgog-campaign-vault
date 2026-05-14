@@ -5,10 +5,10 @@ tags:
   - "lore"
 aliases:
   - "NPCs"
-last_edited: 2026-05-11
-wiki_rev: "2026-05-11T21:09:56Z"
+last_edited: 2026-05-13
+wiki_rev: "2026-05-13T19:15:37Z"
 contributors:
-  - "unknown"
+  - "Nblauss"
 ---
 
 1. "People"?
@@ -29,7 +29,7 @@ contributors:
 
 [[Glasses Girl]]
 
-[[Prydyh]] - The poet watcher in the shadow tower
+[[Prydyh|Prydydh]] - The poet watcher in the shadow tower
 
    1. People Who are Maybe Less Important as Individuals because we've only met them once (so far).
 - [[Broggy]]: A ruffian we [[Battles#Ruffians on the Road to Tawesek|fight on the road]] to [[Tawesek]].

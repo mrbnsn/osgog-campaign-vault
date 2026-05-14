@@ -5,8 +5,8 @@ tags:
   - "writing"
 aliases:
   - "Various Writings"
-last_edited: 2026-05-10
-wiki_rev: "2026-05-10T16:40:34Z"
+last_edited: 2026-05-13
+wiki_rev: "2026-05-13T19:09:44Z"
 contributors:
   - "Nblauss"
 ---
@@ -62,6 +62,9 @@ You find pieces of writing in the various journals found on the upper floors of 
    1. Random Poems
       1. Riddle from [[The Haunted Tower]]:
 We found [[Riddle from the Haunted Tower|this written]] on the wall, and answered "The Foundling".
+
+      1. Poem on [[Prydyh|Prydydh]]'s Statue
+In [[The Poet's Rest|Sibrwd]] - outside the Poet's Rest - there was a statue to the local poet [[Prydyh|Prydydh]], with [[Prydydh Poem|a poem composed]] by him.
 
       1. Poem from [[The Abbot]]’s hut given to Balthazar
 Long ago some one carved me in the semblance of a god.

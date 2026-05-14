@@ -5,10 +5,10 @@ tags:
   - "lore"
 aliases:
   - "Characters"
-last_edited: 2026-05-10
-wiki_rev: "2026-05-10T16:45:26Z"
+last_edited: 2026-05-13
+wiki_rev: "2026-05-13T15:51:44Z"
 contributors:
-  - "Nblauss"
+  - "Hoppsy"
 ---
 
 - [[Balthazar]]
@@ -16,18 +16,20 @@ contributors:
    - [[Balthazar's Thoughts]]
 - [[Cricket]]
    - An orphaned pick-pocket turned Ranger, looking for a new family who was stabbed through the skull by the personification of Winter's Winds.
+   - He gave himself over to [[Mother Night]], was killed in battle, and Branwen came to be.
    - [[Cricket's Conspiracy Corner]]
 - [[Branwen]]
    - [[Branwen's Branches]]
-   - A mysterious women who appeared out of the smoke of Cricket's funeral pyre.
+   - Paladin 2 / Warlock 5 - "[Raven Queen Patron](https://dnd5e.wikidot.com/warlock:raven-queen-ua)", but her patron is really Mother Night.
+   - A mysterious women who appeared out of the smoke of Cricket's funeral pyre, always accompanied by the raven, [[Koweth]], who once accompanied Cricket.
    - So far, the biggest thing my character has accomplished is: 
-      - Stepping out from Cricket's funeral pyre, having existed elsewhere for an indeterminant amount of time.
+      - Bonding with [[Rhiannon]]'s Gale, now a sentient weapon.
    - At the moment, the biggest thing my character wants to do is:
-      - Puzzle out the beliefs, motivations and values of her patron and Queen, [[Mabmnoss]].  
+      - Preserve the ways those who give and take, preserve the circle of life and death.
    - The biggest thing my character is wondering about is:
-      - [How did I get here?](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgetyarn.io%2Fyarn-clip%2F45f08305-e122-4933-95d7-47a434ac1ddd%2Fgif&psig=AOvVaw1LOr37_yGX8U_Mkmf0afrn&ust=1717093221783000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCjye68s4YDFQAAAAAdAAAAABAE)  Who are these people and what do they have to do with her?
+      - What evil is escaping and did Mother Night seal that evil away?
    - I think the most important thing about the world we're in is:
-      - The shifting powers and balances.  All things are circles...until they aren't.  
+      - All things are circles...until they aren't. But they should be.
 - [[Krambler]]
    - A former blacksmith and sailor from the valley below [[Tawesek]].
    - So far, the biggest thing my character has accomplished is: climbing a friggin volcano and carrying a rock back to the old lady who tattooed my back with the way of the four elements and such…

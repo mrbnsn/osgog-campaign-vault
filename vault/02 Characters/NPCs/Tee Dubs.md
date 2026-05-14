@@ -6,10 +6,10 @@ tags:
   - "npc"
 aliases:
   - "Tee Dubs"
-last_edited: 2023-12-29
-wiki_rev: "2023-12-29T12:47:56Z"
+last_edited: 2026-05-14
+wiki_rev: "2026-05-14T00:19:38Z"
 contributors:
-  - "SilasWoodhenge18"
+  - "Hoppsy"
 ---
 
 Abbott [[Bryok]]'s daughter. [[Krambler]] had [[Krambler#Early life and connection to the Abbott and his daughter|a crush on her in his youth]].
