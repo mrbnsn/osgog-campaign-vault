@@ -5,12 +5,13 @@ tags:
   - "lore"
 aliases:
   - "Adapted LOTR Features"
-last_edited: 2026-02-27
-wiki_rev: "2026-02-27T00:55:10Z"
+last_edited: 2026-05-15
+wiki_rev: "2026-05-15T02:30:04Z"
 contributors:
-  - "Nblauss"
+  - "unknown"
 ---
 
+PDF of LOTR 5e book: https://anyflip.com/jzhjh/rnnt/basic
 - [[New Skills]]
 - [[Fellowship Rating]]
 - [[Patrons]]

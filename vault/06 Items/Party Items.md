@@ -5,8 +5,8 @@ tags:
   - "item"
 aliases:
   - "Party Items"
-last_edited: 2026-05-10
-wiki_rev: "2026-05-10T16:05:29Z"
+last_edited: 2026-05-15
+wiki_rev: "2026-05-15T00:26:20Z"
 contributors:
   - "Nblauss"
 ---
@@ -42,6 +42,9 @@ A goat skull from the side of ***[[Men Myghtern]]*** - formerly Agiocochook - tu
    - # They run from the lions, who devour their kill.
    - # Running, they find a man in the woods, sitting by a fire.
    - # They chase the lions off the mammoth with flaming brands
+
+   1. The Centaur's Blade
+Given by centaurs to Balthazar on one of the [[The Mornaswydh|Islands]].
 
    1. Things offered to us by the folk at **[[Tawesek]]**:
 - I[[Illuminated Manuscript|lluminated book]] - **[[Balthazar]]**

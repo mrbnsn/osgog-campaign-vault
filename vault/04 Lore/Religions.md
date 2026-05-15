@@ -5,10 +5,10 @@ tags:
   - "lore"
 aliases:
   - "Religions"
-last_edited: 2026-05-11
-wiki_rev: "2026-05-11T15:48:14Z"
+last_edited: 2026-05-14
+wiki_rev: "2026-05-14T21:11:23Z"
 contributors:
-  - "Hoppsy"
+  - "Nblauss"
 ---
 
 1. The Religion of Mons and [[Monsoth]]: This is where you (except [[Silas]] and [[Storr]]) started.
@@ -75,7 +75,7 @@ Described by the Abbot as a "Fire Bringer".
 Possibly Mons' wife.
 
    1. The "Children of Mons" and ... ?
-Hypothesized to the [five statues](https://docs.google.com/document/d/1emqYTYZ_gYKiFgIxbaCIxuVGSm_zFuDcBj0vMHBGMj8/edit?tab=t.0#bookmark=id.kf8a53vvy9n) on the Dark Tower's first floor.  See: [[Osgog and the Dragon]] for further characterization.
+Hypothesized to be the [five statues](https://docs.google.com/document/d/1emqYTYZ_gYKiFgIxbaCIxuVGSm_zFuDcBj0vMHBGMj8/edit?tab=t.0#bookmark=id.kf8a53vvy9n) on the Dark Tower's first floor.  See: [[Osgog and the Dragon]] for further characterization.
 
       1. [[Osgog]]
 A healer or betrayer who created a dragon.
