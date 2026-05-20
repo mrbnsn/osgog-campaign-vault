@@ -6,10 +6,10 @@ tags:
   - "combat"
 aliases:
   - "Mons and the God of Death"
-last_edited: 2023-12-15
-wiki_rev: "2023-12-15T01:28:29Z"
+last_edited: 2026-05-19
+wiki_rev: "2026-05-19T16:20:40Z"
 contributors:
-  - "Nblauss"
+  - "Hoppsy"
 ---
 
 From [[Balthazar]]'s [[Illuminated Manuscript]]:
@@ -33,3 +33,6 @@ And he said “build you also a great temple to me in the City’s Center, even 
 And so they did as he asked, and he departed on the small boat on  a cot of simple wood, and in simple clothing for his children feared if their symbols of power would leave the realm what would happen to it.  And they built the tower, and placed the Scepter and Sword, Crown and Cloak at the four corners of the realm so that nothing - not even Death - could enter into it once Mons their protector had left.
 
 And so we the people have searched for the City and the Hidden Realm ever since, but have never found it, because the Children of Mons were cunning, and hid it well.  And we, the priests of Mons search ever for our departed King, knowing that when we find him, he will turn all the world to deathless bliss, and we who find him, will live forever.
+
+   1. Theory Crafting
+"the crops failed" is kind of a weird thing to throw in here.  Highly reminiscent of [[Mons and Bargos]]

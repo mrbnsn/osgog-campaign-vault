@@ -6,17 +6,17 @@ tags:
   - "npc"
 aliases:
   - "The God King"
-last_edited: 2026-01-23
-wiki_rev: "2026-01-23T03:59:26Z"
+last_edited: 2026-05-19
+wiki_rev: "2026-05-19T16:16:00Z"
 contributors:
-  - "Nblauss"
+  - "Hoppsy"
 ---
 
 - The God King***
 
 In the beginning, the world was full of sound and fury.  Chaos reigned and the family of man lived in fear for their lives.  They were beset by the fury of the sky, and lashings of the oceans, and the tumult of the ground.  Wild beasts hunted them, and the souls of the trees held dark secrets that they did not understand.  
 
-But from amongst them, rose a chieftain and his wife named [[Gorgomog]] and [[Morianoth]], and they understood the chaos, and taught the people the secrets of the fury of the wilderness.  He showed the people how to farm, and tame the land.  How to make the soil bountiful and to grow wheat.  She made beasts from the raw materials of the world that submitted to the will of men so that the people could eat, and the land became plentiful.  And the people made him High King, and her High Priestess.
+But from amongst them, rose a chieftain and his wife named Gorgomog and Morianoth, and they understood the chaos, and taught the people the secrets of the fury of the wilderness.  He showed the people how to farm, and tame the land.  How to make the soil bountiful and to grow wheat.  She made beasts from the raw materials of the world that submitted to the will of men so that the people could eat, and the land became plentiful.  And the people made him High King, and her High Priestess.
 
 And over the years, the people prospered under their leadership, and built a great city.  And in the city’s center, they built a great Temple surrounded by a park.  The Temple rose up to the sky, terrace upon terrace  - a staircase built to the clouds - and on the peak of the temple, there was carved a great chair of stone, and Gorgomog sat in his throne with his shoulders amongst the clouds, and his head above them, and looked out upon the world, and befriended the Sun, and saw all that was.  
 
@@ -29,3 +29,92 @@ And after many years of wandering, Morianoth returned, but she was changed.  It
 And for the last time, Gorgormog stood up from his throne, and he waded across the lands, and the sea as a giant with his feet in the deeps of the earth, and his head crowned with clouds and lightning, and Power stood upon his brow.  From his lips, he blew a cleansing wind, and Morianoth was cured of her bewitchment, and she pursued the enchantresses on the wings of the wind, and he spoke the names of the enchantresses, and the earth shook, and the sky wept, and the seas raged as they battled across the earth.  Morianoth and Gorgomog sang secret names, and bound the enchantresses in a prison deep beneath the earth.  And Morianoth and Gorgomog cast down the throne from the heights of the Temple where it shattered utterly on the ground.  And they joined hands and spoke to the stones of the temple, and asked for passage into its interior and descended out of the world abandoning the people, so that no being could be possessed of their power until the temple is broken.
 
 And so the world passed into the hands of their children, who lacked their wisdom and strength, and so there is still sickness, for the names of ancient evil have been lost, and none now know them.  But it is said that some day their youngest child will arise, and with the child’s help Gorgormog and Morianoth will be found, and that the people will live in the bliss of the world’s bounty forever.
+
+   1. Theory Crafting
+Hopps: > We heard that Karenja is just a person, royalty, but a person.   So let's run with her whole family being people, not God's, per se.  
+>
+> Thus, **[[Gorgomog]]** **and [[Morianoth]] were people**.  Became rulers, leaders of sorts. Perhaps learned wisdom that by listening to the wind, working with the world.  Giving and taking.  Maybe even one or both were given gifts of knowledge or power by the 3 Enchantresses ([[Crone, Woman, Child / Stone, Sea, and Storm]]) for their efforts.
+>
+> [[Mons]], their son, decides he needs to be "better" than his parents, in his hubris.
+>
+> He goes to the 3 and asks for power.  He's found not worthy.  He comes up with some way to TAKE their power, or something, and takes their names. 
+>
+> Mons sealed away the 3, not G and M, but he and his followers want to blame them.  
+>
+> But, maybe he broke shit a bit more, and released some monster of death, since he disrupted the balance.
+>
+> And Gorgomog and Morianoth had to intervene and seal it away, sacrificing themselves somehow.  And Mons took the credit for defeating the "[[God of Death]]".  Idiot.
+>
+> Just saying.  Turn that story inside out, assume M and G are humans who worked WITH the land.  Mons comes along and fucks up a good thing.Nathaniel:> OK.  You know something about the weapons Mons used as symbols of his kingship, and that helped demonstrate his power.Hopps:> [[Scepter of Stone]], the [[Crown of Water]], the [[Cloak of Wind]], and the Sword of DarknessNathaniel:> What are the materials they’re made of?Hopps:> Stone Sea Storm NightBlauss:
+
+    Fascinating.   Who made them?
+
+    Yes, who made them?  Do you remember?
+
+Hopps:
+
+    Mons kids
+
+Nathaniel:
+
+    The objects of Mons’ kingship.
+
+    Yup.
+
+Hopps:
+
+    Not [[Osgog]].
+
+Nathaniel:
+
+    What did he make?
+
+Hopps:
+
+    A dragon.
+
+Nathaniel:
+
+    What did he make that from?
+
+Hopps:
+
+    Old things of the earth.  I think.  I can check.
+
+    His brothers and sisters helped him.
+
+Nathaniel:
+
+    Here’s a quote from Osgog and the Dragon, based on your 17:
+
+Hopps:
+
+    Mons broke the dragon and took the items of power!
+
+Nathaniel:
+
+    “if you wish to free me, I will give you great power, but only with the strength of Nameless things, can this ring be broken”
+
+    You know anything looking for a name?
+
+Hopps:
+
+    3 ladies 
+
+Nathaniel:
+
+    Hmm…..
+
+Nathaniel:
+
+    One last tidbit.  This is from [[Mons and the God of Death]]:
+
+    “And they brought many things from the world, and found knowledge, and created relics of great power” - the word “relic”, and the fact that it connotes something already old, is significant.
+
+Hopps:
+
+    And osgog knows the names of the 3.
+
+Nathaniel:
+
+    And [[Balthazar]] has something to say about the making of a dragon.
