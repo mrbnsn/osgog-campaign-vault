@@ -6,13 +6,13 @@ tags:
   - "npc"
 aliases:
   - "Gwedhen"
-last_edited: 2024-05-28
-wiki_rev: "2024-05-28T18:07:40Z"
+last_edited: 2026-05-21
+wiki_rev: "2026-05-21T23:00:32Z"
 contributors:
   - "Nblauss"
 ---
 
-Long ago there was a meadow high in the mountains.  And in the center of the meadow was an [[Ancient Tree]], gnarled by the years, and the wind, and the rain.  And the People would gather there in the Summer when the Sun was high in the sky, and the bees flocked to the trees flowers.  And in the winter, when the tree’s branches were full of dark birds, the wise would travel there, and watch in silence, to decipher the language of its branches written on the sky.   Each year the people would gather beneath the tree where it drank from a spring that flowed into the brook that ran through the meadow.  The People would bring food, and gifts, and they would stay in the meadow for a week to listen to the tree, because it was called the Tree of Whispers, because the wind spoke in it’s branches, and the People believed that if they listened closely enough, they could understand the tree’s words.
+Long ago there was a meadow high in the mountains.  And in the center of the meadow was an [[Ancient Tree]], gnarled by the years, and the wind, and the rain.  And the People would gather there in the Summer when the Sun was high in the sky, and the bees flocked to the tree's flowers.  And in the winter, when the tree’s branches were full of dark birds, the wise would travel there, and watch in silence, to decipher the language of its branches written on the sky.   Each year the people would gather beneath the tree where it drank from a spring that flowed into the brook that ran through the meadow.  The People would bring food, and gifts, and they would stay in the meadow for a week to listen to the tree, because it was called the Tree of Whispers, because the wind spoke in it’s branches, and the People believed that if they listened closely enough, they could understand the tree’s words.
 
 But during the festival there was great celebration, and much dancing and music, and one of the People - a young girl named Gwedhen - would become overwhelmed by all the noise, and retreat into the forest that surrounded the mead and think “I can hear the voice of the Tree of Whispers, but not when the great celebration is drowning out her voice.”  So she would walk into the woods, and up the slopes of the hills that surrounded the meadow, and creep beneath the boulders strewn about the feet of the trees, and often, she would find a mossy patch below an overhanging rock, and fall asleep, and dream.
 
