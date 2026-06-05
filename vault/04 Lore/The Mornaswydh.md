@@ -5,13 +5,13 @@ tags:
   - "lore"
 aliases:
   - "The Mornaswydh"
-last_edited: 2026-04-30
-wiki_rev: "2026-04-30T14:32:30Z"
+last_edited: 2026-06-05
+wiki_rev: "2026-06-05T02:56:33Z"
 contributors:
-  - "Hoppsy"
+  - "Nblauss"
 ---
 
-- /Mor-nas-noizth/*> > [!note] Image: `The purple elements aligned.png`
+- /Mor-nas-oizth/*> > [!note] Image: `The purple elements aligned.png`
 > - This is a wayfinder of sorts. Perhaps you can use this to guide yourselves across the waters in the boat to find what you're looking for.*
 >
 > - -- [[The Boatman]]*The device is either an [alethiometer](https://hisdarkmaterials.fandom.com/wiki/Alethiometer), or an anti-kythera mechanism.
@@ -26,7 +26,7 @@ https://docs.google.com/spreadsheets/d/1VsowGpz8LbJVUlZ6f4rQ29vtvpXWsLvFzmeZ7AMl
 | Brown | 2 Bear Island |  |  |  |
 | Grey | 5 Stonehenge Island |  |  |  |
 | Green | 4  Enchantresses + Centaurs |  |  |  |
-| Blue | 3 Weaver's Island |  | Trenoweth + Crater Island (Orm) |  |
+| Blue | 3 Weaver's Island |  | 7. Emporium / Trenoweth + Crater Island (Orm) |  |
 
    1. Web version
 https://editor.p5js.org/mhopps/full/QmE9APJFb
