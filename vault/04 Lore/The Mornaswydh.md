@@ -5,10 +5,10 @@ tags:
   - "lore"
 aliases:
   - "The Mornaswydh"
-last_edited: 2026-06-05
-wiki_rev: "2026-06-05T02:56:33Z"
+last_edited: 2026-06-06
+wiki_rev: "2026-06-06T12:52:32Z"
 contributors:
-  - "Nblauss"
+  - "unknown"
 ---
 
 - /Mor-nas-oizth/*> > [!note] Image: `The purple elements aligned.png`
@@ -26,7 +26,7 @@ https://docs.google.com/spreadsheets/d/1VsowGpz8LbJVUlZ6f4rQ29vtvpXWsLvFzmeZ7AMl
 | Brown | 2 Bear Island |  |  |  |
 | Grey | 5 Stonehenge Island |  |  |  |
 | Green | 4  Enchantresses + Centaurs |  |  |  |
-| Blue | 3 Weaver's Island |  | 7. Emporium / Trenoweth + Crater Island (Orm) |  |
+| Blue | 3 Weaver's Island | 8.   TBD! | 7. Emporium / Trenoweth + Crater Island (Orm) |  |
 
    1. Web version
 https://editor.p5js.org/mhopps/full/QmE9APJFb
