@@ -5,14 +5,14 @@ tags:
   - "writing"
 aliases:
   - "Various Writings"
-last_edited: 2026-05-13
-wiki_rev: "2026-05-13T19:09:44Z"
+last_edited: 2026-06-11
+wiki_rev: "2026-06-11T23:40:50Z"
 contributors:
   - "Nblauss"
 ---
 
 1. [[Traditions we know about and how they might interpret various stories, poems, etc..]]
-   1. The Illuminated Manuscript given to [[Balthazar]] at [[Tawesek]]
+   1. The Illuminated Manuscript given to Balthazar at [[Tawesek]]
 - [[How Old Brother Found Fire]]
    - Everyone has heard a version of this except [[Storr]].  Not as much detail, and probably just the part about someone named [[Torval]] getting fire from a mountain top.
 - [[Weyland]]
@@ -45,7 +45,7 @@ Known by Balthazar, Crickett, Mannix, and Krambler / Told by Bardh
 - [[Osgog and the Dragon]]
 
    1. Runic Messages from .... an Unknown Source
-Characters seem to have been sent [[Runic Messages|individual messages]] from an unknown source during the early fights with "Elementals".
+Characters seem to have been sent [[Runic Messages|individual messages]] from an unknown source during the early fights with "[[Elementals]]".
 
    1. Strange Runic Writings That Krambler thought resembled tattoos.
 Later "Elementals" were found with other words written in runes. Perhaps we missed earlier ones.
@@ -66,77 +66,5 @@ We found [[Riddle from the Haunted Tower|this written]] on the wall, and answere
       1. Poem on [[Prydyh|Prydydh]]'s Statue
 In [[The Poet's Rest|Sibrwd]] - outside the Poet's Rest - there was a statue to the local poet [[Prydyh|Prydydh]], with [[Prydydh Poem|a poem composed]] by him.
 
-      1. Poem from [[The Abbot]]’s hut given to Balthazar
-Long ago some one carved me in the semblance of a god.
-
-I have forgot now what god I was meant to represent.
-
-I have no consciousness now but of stone, sunlight, and rain;   //
-
-The sun baking my skin of stone, the wind lifting my hair;
-
-The sun’s light is hot upon me,
-
-The moon’s light is cool,
-
-      - Casting a silver-laced pattern of light and dark.                              <= this was found written on a carved stone "bowl" at the Bear Village's Sacred site.***
-
-      - Over the planes of my body:***
-
-My thoughts now are the thoughts of a stone,
-
-My substance now is the substance of life itself;
-
-I have sunk deep into life as one sinks into sleep;
-
-Life is above me, below me, around me, 
-
-Moving through my pores of stone—
-
-It does not matter how small the space you pack life in,
-
-That space is as big as the universe—
-
-Space, volume, and the overtone of volume
-
-Move through me like chords of music,
-
-Like the taste of happiness in the throat,
-
-Which you fear to lose, though it may choke you—
-
-(In the cities this is not known,
-
-For space there is emptiness,
-
-And time is torment) . . . . .
-
-Since I became a stone
-
-I have no need to remember anything—
-
-Everything is remembered for me;
-
-I live and I think and I dream as a stone,
-
-In the warm sunlight, in the grey rain;
-
-All my surfaces are touched to softness
-
-By the light fingers of the wind,
-
-The slow dripping of rain:
-
-My body retains only faintly the image
-
-It was meant to represent,
-
-I am more beautiful and less rigid,
-
-I am a part of space,
-
-Time has entered into me,
-
-Life has passed through me—
-
-What matter the name of the god I was meant to represent?
+      1. [[Poem from the Abbot’s hut given to Balthazar]]
+[[Balthazar]] found this crumpled up next to him when he woke up in [[The Abbot]]'s hut.
