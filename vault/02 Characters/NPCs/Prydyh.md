@@ -6,13 +6,13 @@ tags:
   - "npc"
 aliases:
   - "Prydyh"
-last_edited: 2026-05-13
-wiki_rev: "2026-05-13T19:16:29Z"
+last_edited: 2026-06-19
+wiki_rev: "2026-06-19T00:56:26Z"
 contributors:
   - "Nblauss"
 ---
 
-Prydyh is the name of the man in the statue at [[The Poet's Rest]]. 
+[[Prydydh]] is the name of the man in the statue at [[The Poet's Rest]]. 
 
 He wrote [[Prydydh Poem|this poem]] on his statue.
 
